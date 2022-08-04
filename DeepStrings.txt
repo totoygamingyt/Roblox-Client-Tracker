@@ -7434,6 +7434,7 @@ BrushStyle
 BrutalLegendTest
 BruteForceAllRaycastFix2
 BruteForceAllSlow
+BServerGitHash
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -7534,7 +7535,6 @@ BundleType
 BundleTypes
 BuoyancyAccumulator
 BuoyancyInSensorData2
-BUSGSOPGferp
 BusyStatesShifted
 Buttermilk
 Button1Down
@@ -8071,6 +8071,7 @@ CertSequence
 CF44BCFD011E7A825A924D6937B0F
 CF44CCFD011E7A825A924D6937B0F
 CF583B11E29A3DBD856014A660
+CFastClusterFixTBN2
 CFB42AF5B120681192B0FA7C02778D61
 CFF056DD11E2898E9FB8E4A9E79B
 CFF156DD11E2898E9FB8E4A9E79B
@@ -8080,6 +8081,7 @@ CFrame.new
 CFrameOnly
 CFramePose
 CFrameValue
+Cgum2qkgtZehoe8UhO2xE3PSWt34SEhSR380UIwFQ0e7tYH93
 ChainCAFile
 ChainCAPath
 Chalkboard
@@ -8313,7 +8315,6 @@ ChooseModelThenImportCB
 ChoosePixelFormat
 ChoosePixelFormatARB
 ChoosePixelFormatEXT
-CHorizontalCylinderUpdate
 ChorusSoundEffect
 CHRer_CHRdl_NWdr_NW
 Chromecast
@@ -10951,7 +10952,6 @@ CustomSoundEffect
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolTip
-CV7A748bFfU0zup
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
@@ -11258,7 +11258,6 @@ DB33D3AAF011E38B9D871882A8E559
 DB33D6AAF011E38B9D871882A8E559
 DB33D7AAF011E38B9D871882A8E559
 DBD856014A660
-DBotjplVorAOoEmRD14W76tA
 DD11E2898E9FB8E4A9E79B
 DD4669DB402E11E3A29DA4266180AE0C
 DD4669DC402E11E3A29DA4266180AE0C
@@ -12420,7 +12419,6 @@ DH_meth_new
 DH_meth_set1_name
 DH_new_by_nid
 DH_new_method
-Dh7rHDYcsdW
 DHBasedMac
 DHParameters
 DHparams_print_fp
@@ -12508,7 +12506,7 @@ Dimensionar
 Dimensione
 Dimensions
 DimmedText
-DIpaDIncDImcDItaDIlpDIegDIfsDIkaTRAannvthsvtnevtnsvtsevtkitspagptscpdruplrupdigemnoslaosraosaaosocosnsos
+DIpaDIncDImcDItaDIlpDIegDIfsDIkaTRAannvthsvtnevtnsvtsevtkitspagptscpdruplrupdigemnoslaosraosaaosocosnsosp
 DiqLimitMax
 DiqLimitMilliseconds
 DiqLimitPermyriad
@@ -13039,7 +13037,9 @@ Durbanville1
 Durchsuchen
 DVCSRequestData
 DVCSResponseData
+DvhNXqDqQiE6aeUUCYYqlnAFFhrJYxNSbEfGPtp84YEDXdDnTELyUquqjJuQSRI
 DVPAES_ASM
+Dwe8PX4EqhTA2Tb52CVQZiH7wpO
 DwmSetWindowAttribute
 DX25519_ASM
 DXCloseDeviceNV
@@ -13151,6 +13151,7 @@ EagerTrackingMissingMRDParents2
 EagerTrackingMissingMRDParentsLimiter
 EagerTrackingReportMissingMRDPerMyriad
 EagerTrackingReportMissingReset
+EAgLgJA1epQeRyMoCJlHOqOFnWwWuNUzKW9dBFmRzzbImTq7Q46mbjCnJMfsEABa
 EarAccessory
 EARLY_EXPORTER_SECRET
 EarlyExitIfHang
@@ -13426,7 +13427,6 @@ EEEEEEEEEEEEEE
 EEEEEEEEEEEEEEEEEEEEEEE
 EEEEEEEEEEEEEEEEEEEEEEEEEE
 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
-EExportCompressedTextures
 EF351327957B
 EF65B11E38470F846885BB6FB
 EFAAAF011E38B9D871882A8E559
@@ -13791,7 +13791,6 @@ ENGINE_set_id
 ENGINE_set_name
 ENGINE_up_ref
 EnhanceInfoSecHttpLog
-EnITGJQj0zWEBFep7GHr1vaaUJts
 EnqueueTimeIterator
 Enregistre
 Enregistrement
@@ -13884,7 +13883,6 @@ EquippedEmotesAddId
 EquippedEmotesAddIdClientData
 EquippedEmotesChanged
 EquippedEmotesDataInternal
-ERenderTextureCompositor
 ERR_LIB_SSL
 ErrDontRetry
 Error_AlreadyConnected
@@ -14214,6 +14212,7 @@ ExponentialProbing
 Exportando
 Exportation
 ExportClicked
+ExportCompressedTextures
 EXPORTER_SECRET
 ExporterSaveType
 ExportForUploadAction
@@ -14458,7 +14457,6 @@ FastCluster[
 FastClusterCompletenessCheck
 FastClusterCompletennesCheckTimeoutSeconds
 FastClusterFetchResourcesEarlyForSkel2
-FastClusterFixTBN2
 FastClusters
 FastClusterUpdatePriorityBlendFactor
 FastClusterUpdateWaitingBudgetMs
@@ -14640,6 +14638,7 @@ FFlagStudioQtSVGIcons
 FFlagStudioToastNotificationsInLua
 FFoRLVHHHHoTJVF
 FHFRF\FfFpFzF
+FI9i64ECQlKjErev1gPr
 FieldChanged
 FieldMessageLabel
 FieldOfView
@@ -15057,6 +15056,7 @@ FlushMappedBufferRange
 FlushMappedMemoryRanges
 FlushModifiedScriptsRetry
 FlushRtcpMessages_n
+FLvLIaIO7klA6pyhq3
 FlyweightService
 FMOD_CREATECOMPRESSEDSAMPLE
 FMOD_OPENMEMORY_POINT
@@ -15243,7 +15243,6 @@ FourByFour
 FpFramebuffer
 FpsDuringJoin
 FpsVariance
-FqIKZnjekpsaFFFSY09
 Fractional
 FRAGMENT_SCRIPT
 Fragmentos
@@ -15445,6 +15444,7 @@ FrustumLodOptional
 FrustumOrdered
 FrustumQuery
 FrustumRenderQueue
+FStudioReportQmlCrashThrottleHundredthsPercent
 FtHpJpLpNpPbR
 FullABTracker
 FullBandHpfKillSwitch
@@ -15485,6 +15485,7 @@ FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FXHcFLH9FX
+FyMAXPSdNoPYFyYVfzKsHjcAECAwEAAQ
 GainControl
 GainController2
 GainMakeup
@@ -16604,6 +16605,7 @@ GF2m_simple_point_set_affine_coordinates
 GF2m_simple_point2oct
 GF2m_simple_points_mul
 GF2m_simple_set_compressed_coordinates
+GFKd1yCqQSYSTGoJ3VxHohRO6nouL
 GFp_mont_field_decode
 GFp_mont_field_encode
 GFp_mont_field_inv
@@ -16719,7 +16721,6 @@ GlobalWindRendering
 GLSL.std.450
 GlyphProvider
 GlyphRenderer
-GNILZJ3m9aAkdeaJotXRiCDjCXBmfixwG
 GO.qw7xU^^
 GoDaddy.com
 GoodbyeChoiceActive
@@ -17157,7 +17158,6 @@ HbaoCompositOldFadeFS
 HBAODepthDownFS
 HbaoRenderCompute
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
-HBL.PXRrPfH
 Hcircumflex
 HdAvailables
 HDCacheLock
@@ -17221,7 +17221,6 @@ Herramienta
 Herramientas
 Herunterfahren
 HeuristicMask
-HgsdAjBNY0HhBfA7310nvJWn1H6PUko1s9Bnuh
 HHAEBVQModelIndex
 HHHHHAEBVQString
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
@@ -17344,6 +17343,7 @@ HopperPanel.png
 Horizontal
 HorizontalAlignment
 HorizontalBarRect
+HorizontalCylinderUpdate
 HorizontalCylinderUpdateIC
 HorizontalHeader
 HorizontalHeaderLabels
@@ -17793,10 +17793,10 @@ HW4PacketPriority
 HW4TransformationMode
 HwngSmldAskhBcraMaweNegsOgnaTDebugShowTextBounds
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
+HwQ2e0TYyzI51nw2OT1bakA
 HWYGOTH.ttf
 HybridEvent
 HyIyPyVy]y^yey
-HZ2zzK4N39hABD4DQ7euQuIz7Ez
 HzJTLTNTPTRTTTVXX2\
 Iacutesmall
 IAMCameraControl
@@ -18974,7 +18974,6 @@ IUniverseController
 IUpdateUIManager
 IUserContextFetcher
 IUserDataStoreServiceBase
-IUzFjAgCsYR3LmiEKepEMzhTUoscsrDKVXf9q3CjD9OglFL0onTlGQKW
 IViewportState
 IVRApplications_007
 IVRChaperone_004
@@ -19048,6 +19047,7 @@ JitterBufferDelayProxyWithInternal
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
+JMTjw3gFT0H8lPR2z36UVauAgJzm
 JobTimerDuringInitialExperience
 Jogabilidade
 JoinAttemptId
@@ -19514,7 +19514,6 @@ LevelOfDetail
 LevelOfDetailSetting
 LevelQuality
 LfA9r0uEfA9r
-LgsfcvmEZg0W
 LhF`F`F`F`F`
 Liberation
 LibjingleSession
@@ -20325,6 +20324,7 @@ LuobuStudioWebViewTracingHundredthsPercent
 LuobuWhitelisted
 LuobuWhitelistedAllow
 LuobuWhitelistedField
+LuOQYoijnXfG7710u17YC5UbGQPrRfkbQzMT7jftl7AHX
 LvNZJjLvNZJjLvNZJjLvNZJ
 LvNZJjLvNZJjLvNZJjLvNZJ4H
 LVvuOx39]O
@@ -21168,7 +21168,6 @@ MethodFunctor
 MethodImpl
 MethodQuery
 MetricsSets
-MEW8jVVep22MypIkgoaTYrjF5aG9Kky
 MFCreateAlignedMemoryBuffer
 MFCreateMediaType
 MFCreateMemoryBuffer
@@ -21203,7 +21202,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAzevDCPVL8d1ZZfiDTFGSv
+MIICCgKCAgEA0CvVFtIpWMoTTm7uhorYlQ16s3oUyozEikb
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21270,7 +21269,6 @@ Mitwirkender
 MixLevelsOutput
 MkvStreamWriter
 MLineIndex
-MM1kOxiNxjc
 MMDeviceEnumerator
 MMMMMMMMMMMMMMMM^^^^^^^^^^^^^^^^^^^^
 MMW4IkDragCollisionsMode
@@ -21601,6 +21599,7 @@ MsecBetweenTextureMemoryUsageArrayRefresh
 MSecsSinceEpoch
 MsgWaitForMultipleObjectsEx
 MSRemoveOnDescendantFunction
+MSTjPbJkFL
 MsToScreen
 MSVCP140.dll
 MTU_Country_
@@ -21784,7 +21783,6 @@ NavigationWaypointSpacing
 Navigazione
 NavMeshTiles
 Nb5Z3kLJHN6
-NB7XaSnePPwgc9r6DdH
 NBNDNFNHNJNLNNNPNRNTNV
 NBNDNFNHNJNLNNNPNRNTNVNXNZN\N^N`NbNdNfNhNjNlNnNpNrNtNvNxNzP
 NCONF_dump_bio
@@ -22447,7 +22445,6 @@ OCSP_SINGLERESP
 OCSPResponse
 OCSPSigning
 OCTETSTRING
-OD2YhgI0d4s0plVeaKLKcUOyme0yu9MkINzUzSMVmp0P
 Odieresissmall
 OfA9HPuHfA9H`uAfA9Hpu
 OfAdmissions
@@ -23400,7 +23397,6 @@ PCStudioAppCJV
 PdL0F0RLTi
 PE_D_SRCH_LENGTH
 PE_MAX_NB_SUBFR
-PE0D25yDWl4iShNv
 PEAD1AEAPEAD
 PEADDVfixed_buffer_traits
 PeakRxQueueSize
@@ -26188,7 +26184,6 @@ QRegularExpressionMatch
 QRegularExpressionMatchIterator
 QResizeEvent
 QRubberBand
-Qs6S7726u6c
 QScrollArea
 QScrollBar
 QSemaphore
@@ -27417,6 +27412,7 @@ RenderTerrainFrontToBackOrder
 RenderTerrainNewShaders2
 RenderTextureAsset
 RenderTextureComposit
+RenderTextureCompositor
 RenderTextureCompositor]
 RenderTextureCompositorBudget
 RenderTextureLocal
@@ -28171,7 +28167,6 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
-RL8CAwEAAQ
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -29195,7 +29190,6 @@ SearchTextChanged
 SearchTimeBegin
 SeatAttach
 SeatWeldH9
-SEAVdjvBA9GHZeA0PkH
 SEC_E_CERT_EXPIRED
 SEC_E_INCOMPLETE_MESSAGE
 SEC_E_INSUFFICIENT_MEMORY
@@ -29518,7 +29512,6 @@ ServerFrameTimeCppPart
 ServerFrameTimeScriptGcPart
 ServerFrameTimeScriptPart
 ServerFrameTimeScriptTotal
-ServerGitHash
 ServerHttpResultOut
 SERVERINFO
 ServerInfoFile
@@ -31176,7 +31169,6 @@ StereoPlayoutIsAvailable
 StereoRecording
 StereoRecordingIsAvailable
 StickyWheels
-StlctlAoY2X
 StoneCorridor
 StopAecDump
 StopAllSounds
@@ -35627,7 +35619,6 @@ StudioReportLuauWarningDetailsInfluxHundredthsPercentage
 StudioReportLuauWarningDetailsInfluxPriorityHundredthsPercentage
 StudioReportMaterialServiceData
 StudioReportOpenPlaceTimeFilter
-StudioReportQmlCrashThrottleHundredthsPercent
 StudioReportStartupInfoInfluxHundredthsPercentage
 StudioReportStreamingEnabledChange
 StudioReportStreamingEnabledChangeHundredths
@@ -36212,7 +36203,6 @@ TcBuildingInvalidation
 TcBuildingPrepare
 TcBuildingStart
 TCConnectionAborted
-TcFeDRLIOEnFWm5L
 Tcommaaccent
 TCP_NODELAY
 TCPConnection
@@ -36878,6 +36868,7 @@ ThumbnaiRenderImportantPerformUpdatesOnly
 Thumbstick
 Thumbstick1
 Thumbstick2
+THzWwVfGWaIbZQUIutX68fg7NxmCZkE3b
 TI.pid.toString
 TI.tid.toString
 TickCountPreciseOverride
@@ -38081,7 +38072,6 @@ UGeometryBatch
 UGlobalState
 Ugravesmall
 UGroupRolesResult
-UgSlNVplN0xpmZUMDGlyORU4BILd5balvjL9e69OYgpzUlPvc
 UGuiClusterRT
 UGuiUpdateStruct
 UHoverRequest
@@ -41828,6 +41818,7 @@ WorldToViewportPoint
 Worttreffer
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
+WPGooUSuVC565pwa0IEcaGyDzKgxtG3jbRWaXh7i5ERaSUiwGykSyynWyoJSjxMM
 WrapDefomer
 WrapDeformer
 WrapDeformerContext
@@ -41875,7 +41866,6 @@ WSAWaitForMultipleEvents
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
-WXJD2r6GTcznafFdDKk0hcDuba16WhbUWkX9qrezK
 X[]_^A\A]A^A_
 X_JW4AssetType
 X_NW4StudioGameStateType
@@ -42190,9 +42180,9 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YnMYgLh9jd9jyrmMoVODz1dYayB9JOlaWh
 YResolution
 YwBBvY55YvBBwY5
+YwP6tVP19R5h61YbhATb4oRj8jgmOKID
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
 Z_KPEBDPEBDH
@@ -42206,6 +42196,7 @@ Zeichenfolgefarbe
 Zeilennummer
 ZeroTargetSpeedStartTimeCountToTotalCount
 ZgnhKhWhci
+ZhLfDcB2gtcZrdlzDQew0rH7UNKiGZVFnQ9tkJojH7tXji
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
 ZLcJhLcGhM
