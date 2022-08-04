@@ -9,7 +9,6 @@ return function(plugin, pluginLoaderContext)
 	local Util = Plugin.Core.Util
 	local FFlagDebugToolboxEnableRoactChecks = game:GetFastFlag("DebugToolboxEnableRoactChecks")
 	local FFlagDebugToolboxGetRolesRequest = game:GetFastFlag("DebugToolboxGetRolesRequest")
-	local FFlagMoveAssetInsertionCallbacksToPlugin = game:GetFastFlag("MoveAssetInsertionCallbacksToPlugin")
 
 	local isCli = require(Util.isCli)
 	if isCli() then
@@ -392,7 +391,7 @@ return function(plugin, pluginLoaderContext)
 			end
 		end)
 		InsertAsset.registerLocalization(devFrameworkLocalization)
-		InsertAsset.registerProcessDragHandler(if FFlagMoveAssetInsertionCallbacksToPlugin then plugin else nil)
+		InsertAsset.registerProcessDragHandler(plugin)
 	end
 
 	main()
