@@ -749,6 +749,7 @@ AimdRateControl
 AinDisableReportErrorTelemetry
 AinPointsThrottleValue
 AirController
+AjtQ0NiektltRJG2cfwqVEwF4bnx4nU
 Aktivieren
 Aktivierung
 Aktivierungs
@@ -7174,6 +7175,7 @@ BjDjFjHjJjLjNjPjRjTjVjXjZj\j^j`jbjdRf
 BjDjFjHVJ6
 Bkg_round.png
 Bkg_square.png
+BKnpIWDqQwva4
 BL17qL9koPpyChCHbWVgSXbfxynzBupojeOEiuqDuGX0BFl
 Blackboard
 BlackBoard
@@ -12487,6 +12489,7 @@ DF3F709311E28987EB530EBA4742
 DF40709311E28987EB530EBA4742
 DF41709311E28987EB530EBA4742
 DF42709311E28987EB530EBA4742
+Df7hb3SdL5
 DFbxAMatrix
 DFbxMatrix
 DFIntGameNetLocalSpaceMaxSendIndex
@@ -12506,6 +12509,7 @@ DH_new_method
 DHBasedMac
 DHParameters
 DHparams_print_fp
+DHQcOuYEY3MJfyhOKya
 DhufyEeFO7U33Tv7vk
 Diagnoseinformationen
 Diagnoseleiste
@@ -13536,6 +13540,7 @@ EffectiveRetryCount
 EffectorRotationConstraint
 EffectorTranslationConstraint
 EFrontVector
+EGby2xAjJ3CfJFPV51sBeq5oaa6mPn
 Egravesmall
 EHERE\EfEpEzE
 Eigenschaften
@@ -14750,6 +14755,7 @@ FFlagStudioQtSVGIcons
 FFlagStudioRemoveShareWithRobloxFriends
 FFlagStudioToastNotificationsInLua
 FFoRLVHHHHoTJVF
+FfyOvjreXeGs42Ba46PWy
 FHFRF\FfFpFzF
 FieldChanged
 FieldMessageLabel
@@ -15594,6 +15600,7 @@ FutureIsBrightPhase2GL3
 FutureIsBrightPhase2GLES3
 FutureIsBrightPhase3Vulkan
 FuzzyWeightModel
+FwO8bMxvyYc
 FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
@@ -17511,6 +17518,7 @@ HPEAVQWidget
 HPEAVVideoStream
 HPEAXHPEANNH
 HPEBVQMimeData
+HPsVAtglkn
 HQEAPEAVQGraphicsItem
 HSRAssetId
 HSRClusterImprovement
@@ -19364,6 +19372,7 @@ Klebeoberfl
 Kleinschreibung
 KnownPrefixIndex
 KnownPublishRequest
+KOA2hSpCDa6JsCAwEAAQ
 KodchiangUPC
 Kollisionen
 Kollisionsgruppen
@@ -22479,6 +22488,7 @@ NvttAllowedCorePercentage
 NW4ActionType
 NW4PenStyle
 NW4UserInputType
+NXY8lViVA9O1Ll
 NzR\TNVzZp^Pb2d
 Oacutesmall
 OAEPEncryptionSET
@@ -22628,6 +22638,7 @@ OffTeamCreateHttp
 OffTeamCreateMainThread
 OfInstances
 OfInterest
+OflKu1yXINdJSOHO
 OfNestedPackages
 OfOperation
 OfPacketsSent
@@ -28594,6 +28605,7 @@ RowsToContents
 RowsToRemove
 RowStretch
 RowVisibilityChanged
+ROXd8tSH3CATyjixzk8wCpRWNzkv
 RPC_E_CHANGED_MODE
 RPCServers
 RRakRecvToAppPop
@@ -28847,6 +28859,7 @@ SandboxLocalCache
 SandboxLocalCacheInitialized
 SandstoneName
 SANW4EMode
+Sao1VXhVgW7czm2
 SAP_delta_time
 SAPEAUNode
 SAPEAVQClipboard
@@ -35768,6 +35781,7 @@ StudioMigrateCloudEditConnectionLostDialogToShow
 StudioMigrateToSessionizedEventIngestRound2
 StudioMode
 StudioModeChanged
+StudioMoreInfoOnAuthControllerInitFailure
 StudioMoveExportFlagToQml
 StudioNativeCaptchaDisplayTimeoutMillis
 StudioNetwork
@@ -36027,6 +36041,7 @@ StudioUnifiedLogin.Start.Web
 StudioUnknownPlaceOperation
 StudioUnlockMouseWhenEmulating
 StudioUpdateAvailityPollIntervalMs
+StudioUpdateFetchChannelApi
 StudioUpdateGetFirstTabbedLayoutPanel
 StudioUpdateTeamCreateDisconnectDialog
 StudioUpdateViewportOnEmulatedDeviceChange
@@ -37988,6 +38003,7 @@ TreeWidgetItem
 TreeWidgetUpdate
 TremoloSoundEffect
 TrendlineEstimatorSettings
+TrerarrKliO3vAt2lfwVqPjWlxgMHqhNDJfxMH
 TriangleCount
 TriangleMesh
 TriangleMeshPart
@@ -40748,6 +40764,7 @@ VNumberRange
 VNumberSequence
 VNumberSequenceKeypoint
 VNumHandler
+VOaB2GkPnqDKBMXo9doa1LNevuiG8IpsF
 VObjectValue
 VOcclusionHandler
 VogpHgQ70F57MdFiBApyJwNSBk
@@ -42458,6 +42475,7 @@ XZP8GuiObject
 XZP8PartOperation
 XZP8PlayerGui
 XZP8ScrollingFrame
+XZvorCAdczmsFPj3zKw9CUZC
 XZZyexQCL071UIVBQhYMgNB2TrXKT9o9bq8IpYJ
 YA_NAEBVQString
 YA_NHPEBE00
@@ -42505,6 +42523,8 @@ YieldEvent
 YieldFuncDesc
 YieldFunction
 YResolution
+YsgLe7uh89fAgrXI6Xf7N7KpDxCx
+YW9bCkcw3WPxrprV2bRNoXvATGtuacU
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
@@ -42519,9 +42539,11 @@ Zdotaccent
 Zeichenfolgefarbe
 Zeilennummer
 ZeroTargetSpeedStartTimeCountToTotalCount
+ZGI0T2ETvWBsif8HkWC9Sko9
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
+ZK1iU8jLqicpTakbrbZ9SztztmcfTtpV
 ZLcJhLcGhM
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
