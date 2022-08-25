@@ -1963,9 +1963,9 @@ RobloxStudioBeta.exe
 RobloxStudioRibbon.xml
 eecef6341e9a312ba5413c6e28340a8d
 d3dcompiler_47.dll
-c4974c924b605bd322c4872d72de90d1
+9b1148a147fc307a501e8c540048991c
 d3dcsx_47.dll
-a7bfc4e4c804bfbc6c5acbd430db2d54
+bafceb44cd211bd5358788e61ec59bf9
 libfbxsdk.dll
 51d82c0e8ad65126413ed39246b5cf46
 sgCore.dll
