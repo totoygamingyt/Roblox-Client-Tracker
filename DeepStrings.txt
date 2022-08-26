@@ -481,6 +481,7 @@ AdvSkyLinearFS
 AdvSkyThread
 AdvStarsFS
 AdvStarsVS
+ADwEBP1ODz2HKDMglKGU1cFeLwgWjd
 AE_FBXRigImporter
 AE7572C6734CE1119F2FDB7CBEC74584
 AEA_JAEA_J
@@ -741,6 +742,7 @@ Agravesmall
 Agreements
 Aguardando
 Aguarde...
+AhH4BcXC5F5otsfIjaVXaVUxrnXXAdzZSv8JjxH53Vz0AEkaO
 AHHVWeakObjectRef
 AHVWeakObjectRef
 AHW4DataStoreRequestType
@@ -1222,7 +1224,6 @@ Anweisungen
 Anzeigedauer
 Anzeigemodus
 AoBlurUpsampleCS
-AOtPFH2OWkBlRiB0a
 AP4_AtomFactory
 AP4_Dec3Atom
 AP4_HvccAtom
@@ -7055,7 +7056,6 @@ Befehlsliste
 BeforeConnected
 BeforeLoadFinished
 BeforeNarrowphase
-BEgG0qxnlvUS1pQeD6f2ov6ZZWCPINm
 BEGIKLNPRUWY[\^`begiklnpruwy
 Begin.toFixed
 BeginCommandBuffer
@@ -7526,7 +7526,6 @@ BrushStyle
 BrutalLegendTest
 BruteForceAllRaycastFix2
 BruteForceAllSlow
-BslLjeN94d
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -13102,7 +13101,6 @@ DSATTRIB_SAMPLE_LIVE_STREAM_TIME
 DSATTRIB_TRANSPORT_PROPERTIES
 DSATTRIB_UDCRTag
 DsEVxozVjY
-DSfVF8oF9J9GCA2itMCAwEAAQ
 DSHA256_ASM
 DSHA512_ASM
 DSO_bind_func
@@ -13225,6 +13223,7 @@ DynamicRotate
 DynamicThumbstick
 DynIpBlacklisBackoffTickSeconds
 DynIpBlacklistBackoffEnabled
+DzY0QuNQpiEfFuqirERK3LajCIsEu9jDEudUj9dN
 E\HTH\HfHrH
 E_disc_bottom_link.png
 E_modified.png
@@ -14026,6 +14025,7 @@ EnvMapUpdate
 EnvTexture
 EnvTextureInProgress
 EoOoZoaozo
+Eovq8k4r9Pw2GUyEjc54n74VZXiEUabngfrV
 EphemeralCounter
 EphemeralCounterInfluxReportingEnabled
 EphemeralCounterInfluxReportingPriorityHundredthsPercent
@@ -14470,7 +14470,6 @@ EyesLookDown
 EyesLookLeft
 EyesLookRight
 EyesLookUp
-EzXsh7ojoAjKZxqKI07mZ7mlu381z8RGxy5SXC1
 F_ObjectHasComponents
 F`F`F`F`F`F`F`F
 F`F`F`F`F`F`F`F`F
@@ -14719,7 +14718,6 @@ FbxSystemUnit
 FbxVector2
 FbxVector4
 FbxVectorTemplate3
-FbYzDlulVfkI6Skt1DjV8n97VVmmR0dCvQjEM7
 FC7F11740720681192B0FA7C02778D61
 FC822localPart
 FCA877B34569
@@ -15190,6 +15188,7 @@ FixVehicleSeat
 FixWriteCombinedMemoryReadWrite2
 FixYieldingThreadExpirationTime
 FJFTF^FhFrF
+FJZFYd3Jg8oLoapdKgVNr9Wlm1AW6Ydh6GGPO
 FKKKKKKKKKKKKKKKKKKKK
 FlagCaptured
 FlagCreated
@@ -17997,7 +17996,6 @@ HW4TransformationMode
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
-HxsFbRlHbi18606O0D4uuhgm8QKmc6s7MUOA3StSIWx
 HybridEvent
 HyIyPyVy]y^yey
 HzJTLTNTPTRTTTVXX2\
@@ -18111,6 +18109,7 @@ IfLineOfSightClear
 IfPurchased
 IGameIconsStore
 IGeneralProcessor
+IGlocJ5nSaM4llnhaKrBWDBzE9OxDH
 IgnoreCustomEventReceiverSource
 IgnoreCustomEventReceiverSourceReportPermyriad
 IgnoreGuiInset
@@ -18963,6 +18962,7 @@ IPAddressFamily
 IPAddressOrRange
 IPAddressRange
 IPHLPAPI.DLL
+IPiDtZ6tD2g9msF40JtIS9Ch9XhO1eaWXIwt7eQKtKOWfBL2qUrW6qJFGMi
 IPlaceSessionModel
 IPluginElementHost
 IPluginLoader
@@ -19262,6 +19262,7 @@ JdiV2Processed
 JdiV2ProcessedPerFrame
 Jdiv2RecvDuringJoin
 JDJNJXJbJlJvJ
+JGEnPgVFVdc4wCrJN
 JHJRJ\JfJpJxJ
 JHW4MembershipType
 JIIIIIIIKI
@@ -19269,7 +19270,6 @@ JitterBufferDelayInterface
 JitterBufferDelayProxyWithInternal
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
-JjTvKSPUqYZxh826vuWBXK9
 JKLMNOPQRSTU
 JobTimerDuringInitialExperience
 Jogabilidade
@@ -19378,7 +19378,7 @@ JumpToIndex
 JUPluginAssetDetails
 JUPluginVersionDetails
 JustEndedBusy
-JW3PSFVPV4MowFn7i
+JV8CAwEAAQ
 JW4AppInstallType
 JW4AvatarItemType
 JW4FriendService_FriendStatus
@@ -19514,6 +19514,7 @@ LabelLayout
 LabelledData
 LadderRaycast
 Ladereihenfolge
+LamJMLf1x8QpzxfZIt
 LandedBalanceD
 LandedBalanceP
 LandscapeLeft
@@ -19886,7 +19887,6 @@ LLLLLLLLLLLL
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
 LLLLLLLLLLLLLLLLLLLLLL
 LLRlVtZl^tblftjlntrpvxzt
-LmjgoZeUAJiNmetp52OM0LaWP
 LmsClient]
 LmsClientAppReportPeriodSeconds
 LmsClientMaxTargets
@@ -20568,7 +20568,6 @@ LuobuWhitelistedField
 LvNZJjLvNZJjLvNZJjLvNZJ
 LvNZJjLvNZJjLvNZJjLvNZJ4H
 LVvuOx39]O
-LzybgX5wbb640CGUzB6tUMQO9qLD8Biik65sWkpL055pntlRJ
 M_NVWeakObjectRef
 MacGamepadUseGCController
 MachineAddress
@@ -20859,7 +20858,6 @@ McF4IcV0IcN
 McN4IcV0IcN
 MdiControls
 MDIManagerHost
-Mdmkoj8LVJCsuDuHkOjP2H5kP8SsywIukY
 MEAA_JPEAD_J
 MEAA_JPEBD_J
 MEAA_NAEBVQByteArray
@@ -21173,7 +21171,6 @@ MegaReplicatorNumParallelTasks
 MegaReplicatorSharedQueueCleanUpTimeLimitMs
 MegaReplicatorUseMarkDeadHelper
 MegaReplicatorWorldExtentsRefreshTime
-MEKeM21Khm9mwP2u1BcoIUi9fdFf93o4dBl7UOAgMZkY0hAvziut8nd2PCxGaYUb
 MeleeWeapons
 MEM_LF_TBL
 MemAllocExceptionSize
@@ -21449,7 +21446,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAqVRhqdiXzxe0YOJ7l7237noWBvIEkL0pcWyJRPS693TgFtHioBvO
+MIICCgKCAgEAylL6CwS1SeprSUYaJ
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -22349,7 +22346,6 @@ NfAddReport
 NFDN2644ExplicitlyConstructCrashReporterInStartup
 NfPfRpPtL.T6VJZ
 NfXf`fhfzf
-NHDeygNbi0
 NHVVariant
 NinjaMask.mesh
 NLSF_mu_Q20
@@ -23074,7 +23070,6 @@ OPUS_BANDWIDTH_WIDEBAND
 OpusCustomMode
 OpusPlcUsePrevDecodedSamples
 OpusSoftwareCodec
-OqNSqzNoHvc
 OrCharacter
 Ordenamento
 OrderArray
@@ -23138,7 +23133,6 @@ OSSL_STORE_SEARCH_by_issuer_serial
 OSSL_STORE_SEARCH_by_key_fingerprint
 OSSL_STORE_SEARCH_by_name
 Oswald.json
-OsXZARryahwIQKqueTtbs8mQx74a
 OtherBlues
 OtherDisconnect
 OtherError
@@ -23148,6 +23142,7 @@ OtherTextChanged
 OtherTopLabelOverride
 Otildesmall
 Ottimizzazione
+OU1qyKre7hX
 Out_old.png
 OutActionV2
 OutboundTotal
@@ -25944,8 +25939,10 @@ PushResampler
 PVAdornment
 PVInstance
 PVK_header
+PXIcFjZInMnmn2Kbofls8M
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
+PzcdAlfah6rrMUk97L
 QAbstractAnimation
 QAbstractButton
 QAbstractItemDelegate
@@ -26732,7 +26729,6 @@ QWidgetPluginGui
 QWidgetWindow
 QWindowsEGLContext
 QWindowsEGLStaticContext
-QylBn6OxKn0
 RaceConditionInExplorer
 RaceDetected
 RadialBlurFS
@@ -28966,6 +28962,7 @@ RVMEDIA_TYPE_AUDIO
 RVMEDIA_TYPE_UNKNOWN
 RVMEDIA_TYPE_VIDEO
 RvMp4Format
+RVQjt268VP1e1RE9
 RvScaleFixResize
 RvWebmFormat
 RxIgnoredBytes
@@ -30790,6 +30787,7 @@ SimRodLimits
 SimRopeWinch
 SimScopeTime
 SimSlidingVelocitySleepThreshold
+SimSolverAlignOrientationStopReplicatingAxes
 SimSolverBatchBufferMaxAge
 SimSolverBufferPurgeEnabled
 SimSolverCacheForces2
@@ -30799,6 +30797,7 @@ SimSolverFixLVTargetVelocityTransformation
 SimSolverLargeWorkloadReporting
 SimSolverLargeWorkloadThreshold
 SimSolverOptimizedIslandizerIKBugFix
+SimSolverRaiseCFrameChanged
 SimSolverResponsiveness
 SimSortContactsBeforeKernel
 SimTimestepArbiterAccModel
@@ -36476,6 +36475,7 @@ SUWATAVAWH
 SUWAUAVAWH
 SVATAUAVAWH
 SVGLuaIcons
+SvUrWyEQr3eeF5
 SVWATAUAVAW
 SVWATAUAVAWH
 SVWATAUAVH
@@ -36510,6 +36510,7 @@ SwitchToThread
 SwitchWindow
 Sword128.png
 SwordTexture.png
+SwP0Vp7GOHNHYtqIi0jvD2OoByuLBRbqbkUWan4QN
 SXNET_add_id_asc
 SXNET_add_id_INTEGER
 SXNET_add_id_ulong
@@ -36712,7 +36713,6 @@ TCPConnection
 TCSavedPlaceHashHttpError
 TCSavedPlaceHashMatch
 TCSavedPlaceHashMismatch
-TcssUSkQCFAqJf5HvLXBCASgICXKC6pvQzdaLvUJCdtDJAzk5eMJSMTA3gZAzr
 TcStallingDuration
 Td8fThPj6lTnVp
 TeachingCallouts
@@ -40466,6 +40466,7 @@ VHandleAdornment
 VHandlesBase
 VHapticService
 VHCReadOnlyDocument_
+VhE0ckuUJtgB17b9ib5qmBYU
 VHeartbeatTask
 VHeightfieldBuilder
 VHeightmapImporter
@@ -42438,7 +42439,6 @@ WSAstartup
 WSAStartup
 WSAWaitForMultipleEvents
 WsClientIdleSleepMs
-WsXHY7f7fsodiJBrvn
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
@@ -42769,6 +42769,7 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
+YqBTd71yjaAZarVD1MUiK0K6Z
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
@@ -42785,12 +42786,14 @@ Zeichenfolgefarbe
 Zeilennummer
 Zekton.json
 ZeroTargetSpeedStartTimeCountToTotalCount
+ZfG7PaaiU9TXguWFMy0qVqE2
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
 ZLcJhLcGhM
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
+ZOJxgsRSv4ryeXXbxxnirbQzICyQC11vQ4PiHu3MNI2kzbMDNHOfAd7qcNCo
 ZoomActive
 ZoomOutDistance
 ZoomToExtents

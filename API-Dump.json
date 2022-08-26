@@ -12533,9 +12533,6 @@
                         "CanLoad": false,
                         "CanSave": false
                     },
-                    "Tags": [
-                        "NotReplicated"
-                    ],
                     "ThreadSafety": "ReadSafe",
                     "ValueType": {
                         "Category": "DataType",
@@ -12626,9 +12623,6 @@
                         "CanLoad": false,
                         "CanSave": false
                     },
-                    "Tags": [
-                        "NotReplicated"
-                    ],
                     "ThreadSafety": "ReadSafe",
                     "ValueType": {
                         "Category": "DataType",

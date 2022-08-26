@@ -653,8 +653,8 @@ Class AlignOrientation : Constraint
 	Property float AlignOrientation.MaxTorque
 	Property float AlignOrientation.Responsiveness
 	Property CFrame AlignOrientation.CFrame
-	Property Vector3 AlignOrientation.PrimaryAxis [NotReplicated]
-	Property Vector3 AlignOrientation.SecondaryAxis [NotReplicated]
+	Property Vector3 AlignOrientation.PrimaryAxis
+	Property Vector3 AlignOrientation.SecondaryAxis
 Class AlignPosition : Constraint
 	Property Enum.PositionAlignmentMode AlignPosition.Mode
 	Property bool AlignPosition.ApplyAtCenterOfMass
