@@ -55,7 +55,6 @@ A_NW4UserInputType
 AA61B3A2068118C14FDE5E01E7934
 AAAAAAAAAAAAAAAAAAAAAAAA
 AAACertificateServices.crl0
-AAACertificateServices.crl04
 AAACertificateServices.crl06
 AAAEB11E38B9D871882A8E559
 AAAEC11E38B9D871882A8E559
@@ -153,6 +152,7 @@ AC01E30AF65B11E3AFC2CE47415C029D
 AC01E30BF65B11E3AFC2CE47415C029D
 AC01E30CF65B11E3AFC2CE47415C029D
 AC01E30DF65B11E3AFC2CE47415C029D
+AC8tfpIdn397kzmj9GwgzfdgOlsetC4u
 AccanthisADFStd
 AccanthisADFStd.json
 Accelerated
@@ -1374,6 +1374,7 @@ AreAwakePartsHighlighted
 AreBodyTypesShown
 AreContactIslandsShown
 AreContactPointsShown
+ARefactorLoadingAnimation
 AreFileApisANSI
 AreHingesDetected
 AreJointCoordinatesShown
@@ -1391,6 +1392,7 @@ Argumentos
 Arial.json
 Aringsmall
 Arithmetic
+ArjX4U5Fy1OwqWAeit9hKXHmVy8rDp6pZK6ld5
 ArmColorId
 Arrastadores
 Array.length
@@ -2194,7 +2196,6 @@ AUTHORITY_INFO_ACCESS
 AUTHORITY_KEYID
 Authority0
 Authority0v0
-Authority1
 AuthorityId
 AuthorityText
 AuthorityUrl
@@ -7407,6 +7408,7 @@ BPEAUIUnknown
 BPQVYB6_F3P
 BPu_fD9B`uXfD9BpuQ
 BQByteArray
+BQjuIQfXe4oP4gbcIudl
 BQPersistentModelIndex
 BQTextFormat
 BreakAccoutrementCycles
@@ -7526,6 +7528,7 @@ BrushStyle
 BrutalLegendTest
 BruteForceAllRaycastFix2
 BruteForceAllSlow
+BSufGYx7betG392PsPD
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -10264,8 +10267,8 @@ Corporation
 Corporation.
 Corporation\Roblox
 Corporation\Roblox\FilteredExceptionCrash
-CORPORATION0
-CORPORATION1
+Corporation0
+Corporation1
 Corporation1402
 CorrectCreationOfConnections
 Correction
@@ -12532,6 +12535,7 @@ DFbxAMatrix
 DFbxMatrix
 DFIntGameNetLocalSpaceMaxSendIndex
 DfNfXfbftf
+Dg7JdnbimmUdqqKKvpa5jIgsEGvaG1dJxve4Cnh
 DGHASH_ASM
 DgNg`ghgpgxg
 DgNgXgbglgvg
@@ -12626,6 +12630,15 @@ DiffuseFilePath
 DigestAlgorithm_find_ctx
 DigestAlgorithm_init_bio
 DigestedData_do_final
+DigiCertAssuredIDRootCA.crl0
+DigiCertAssuredIDRootCA.crt0E
+DigiCertEVCodeSigningCA
+DigiCertHighAssuranceEVRootCA.crl0
+DigiCertHighAssuranceEVRootCA.crt0
+DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crl0
+DigiCertTrustedG4RSA4096SHA256TimeStampingCA.crt0
+DigiCertTrustedRootG4.crl0
+DigiCertTrustedRootG4.crt0C
 DigitalSignature
 DilateTemporalFS
 DilleniaUPC
@@ -12983,6 +12996,7 @@ DPERF_BeginEvent
 DPERF_EndEvent
 DPERF_GetStatus
 DPOLY1305_ASM
+DqKbbB22g0hGAxJT1mmBU5lHDgel0QMxxHC
 Dqlqlqlqlql
 DraftAdded
 DraftCommitted
@@ -13166,6 +13180,7 @@ DurationMs_
 DurationNameLookup
 DurationOneRoundTrip
 DurationReceiveResponse
+DurationSec
 DurationSeconds
 DurationSSLHandshake
 DurationTooLong
@@ -13588,6 +13603,7 @@ EffectiveRetryCount
 EffectorRotationConstraint
 EffectorTranslationConstraint
 Effettuare
+EFixLayeredCLothingExporter
 EFrontVector
 Egravesmall
 EHERE\EfEpEzE
@@ -14140,6 +14156,7 @@ EvAudioVideoInput
 EvAV2CFaceIsOccluded
 EvAV2CFaceNotFound
 EvAV2CHasTrackingError
+EVCodeSigningSHA2
 Event.button
 Event.clientX
 Event.clientY
@@ -14737,6 +14754,7 @@ FCDAAED11E38B9D871882A8E559
 FCEntityTransformMerge2
 FCIgnoreClumps
 FcStallingDuration
+FcxxNRj161adD8kkicfao9Uxnafp
 FD_ACCEPT_BIT
 FD_CLOSE_BIT
 FD_CONNECT_BIT
@@ -15137,7 +15155,6 @@ FixInstanceQuotaTruncation
 FixInterpolationMovementCallbacks
 FixJointHierarchyCrash
 FixLadderSearchDepth
-FixLayeredCLothingExporter
 FixLCCompressOnDifferentClothesOrder2
 FixLCRagdoll
 FixLoadTimeReporting
@@ -16876,6 +16893,7 @@ GImpactCompoundShape
 Giocabilit
 GivenByTargetSpeedKBps
 GizmoRaycast
+Gj4IlKbpUfJEFaDMF1E4q5IQuuCmJ1RdxS30JpzFdNPouHc1
 GL_ARB_copy_image
 GL_ARB_half_float_vertex
 GL_ARB_pixel_buffer_object
@@ -19882,6 +19900,7 @@ ListWidgetScrollingPastBottom
 LiveCoding
 Livellamento
 LivingRoom
+Lj9e5dQhL35jTqdENEzTzaz3
 LLEo6Soxvx2
 LLLLLLLLLLLL
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
@@ -21416,6 +21435,7 @@ MFCreateMediaType
 MFCreateMemoryBuffer
 MFCreateSample
 MFPlat.DLL
+MghjkRtE1uLKnNgkT8WtFi
 MHapV7R8MxA953
 Michroma.json
 MICROPHONE_ACCESS
@@ -21855,6 +21875,7 @@ MsgWaitForMultipleObjectsEx
 MSRemoveOnDescendantFunction
 MsToScreen
 MSVCP140.dll
+MSXdLDggrtKckS7JV93gCKgQwHWOZdMTEn8chNGX7OjF5HZo9aexUVppJpzXS1jS
 MTU_Country_
 MTU_Platform_
 Mtx_current_owns
@@ -21931,6 +21952,7 @@ MVTerrainHeightMapBlendMin
 MVTerrainHeightMapBlendScale
 MVTerrainRotationParam
 MW4MaterialType
+MYCGWBJGSuwK9G7FajICWuEyYK
 MyModelsAction
 MyUniverses
 MyWatchTreeWidget
@@ -22606,6 +22628,7 @@ NW4ActionType
 NW4HintingPreference
 NW4PenStyle
 NW4UserInputType
+NY4Pwi0GI8n6A9mRUx2Y
 NzR\TNVzZp^Pb2d
 Oacutesmall
 OAEPEncryptionSET
@@ -22777,8 +22800,10 @@ OGRE_VIEW_UPDATE
 OgreWidget
 OgreWidgetForGameState
 OgreWidgetShowEvent
+OHeVLxI9ueBrV7jnblVaY3VPHzYsxDPjab0Aae6CUpaLhQxb98s8aBLvHxGZ
 Ohungarumlaut
 OiCCPPhotoshop
+OjO39UcCJ4oXsXCMm3GD5Vb75i
 OldActiveElement
 OldBinaryStringLength
 OldDOFDownSampleAndComputeFarCoCHorizontal4xFS
@@ -23083,6 +23108,7 @@ OrFetchPlugin
 OrFirstTier
 Organizaci
 Organization
+Organization1
 OrganizationDomain
 OrganizationName
 Organizations
@@ -25269,6 +25295,7 @@ PluginWithInstancesAsChildren
 PluginWriteTemp
 PlusButtonPressed
 PlusInfinity.
+PMutrRnhYCa3JUreXrbWLqjPGE
 PodcastCategory
 PodcastGuid
 PodcastUrl
@@ -29636,10 +29663,6 @@ SecondaryFilterValue
 SecondaryTangentAxis
 SecondsBetweenDynamicVariableReloading
 SecondsPerBatchAwardPointsCall
-SectigoPublicCodeSigningCAR36.crl0y
-SectigoPublicCodeSigningCAR36.crt0
-SectigoPublicCodeSigningRootR46.crl0
-SectigoPublicCodeSigningRootR46.p7c0
 SectionClicked
 SectionResizeMode
 SectionsClickable
@@ -37532,6 +37555,7 @@ TimeSpentRemoving
 TimesReplicatedNeverReplicate
 TimesReplicatedNeverReplicatedPerInterval
 Timestamping
+TimeStamping
 TimestampStart
 TimestepArbiterAccelerationModelFactorThou
 TimestepArbiterAngAccelerationThresholdThou
@@ -38088,6 +38112,7 @@ ToVideoStream
 TownAndCity
 ToWorldSpace
 TPoseAdjusterDefaultVersion
+TPsECAwEAAQ
 Tracciamento
 TraceMessage
 TracerService
@@ -38452,6 +38477,7 @@ UCouldNotReadRoughnessError
 UCouldNotReadTextureError
 UCSG3Cache
 UCueTrackPositions
+Ud7aQaL2Oy1YV
 UDAPClientFrameInfo
 UDAPClientScope
 UDAPClientVariable
