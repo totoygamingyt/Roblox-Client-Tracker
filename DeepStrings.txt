@@ -13134,6 +13134,7 @@ DtmfSenderProxyWithInternal
 DualStreamVertexData5
 DUARAndOpenSurvey
 DueToMaxBytesInFlightCountToTotalCount
+DueToTargetSpeedCountToTotalCount
 DumpAction
 DumpFileCount
 DumpUtcCaptureTime
@@ -22167,6 +22168,7 @@ NetworkOwnershipRule
 NetworkOwnershipUnitAdded
 NetworkOwnershipUnitRemoving
 NetworkOwnerV3
+NetworkPacketSplitCountOver
 NetworkPacketSplitCountOverThreshold
 NetworkPacketsReceive
 NetworkPacketsReceive]
