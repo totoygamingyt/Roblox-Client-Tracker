@@ -27,7 +27,6 @@ local GetFFlagFaceControlsEditorUI = require(Plugin.LuaFlags.GetFFlagFaceControl
 local GetFFlagFixRigInfoForFacs = require(Plugin.LuaFlags.GetFFlagFixRigInfoForFacs)
 local GetFFlagFixFocusOnFaceForDifferentRigSetup = require(Plugin.LuaFlags.GetFFlagFixFocusOnFaceForDifferentRigSetup)
 
-local FFlagCheckIsRunning = game:DefineFastFlag("ACECheckIsRunning", false)
 local FFlagRetireGetBoneMap = game:DefineFastFlag("ACERetireGetBoneMap", false)
 
 local RigUtils = {}
@@ -1766,7 +1765,7 @@ function RigUtils.stepRigAnimation(rig, instance, tck)
 		end
 	end
 
-	if animator and (not FFlagCheckIsRunning or not RunService:IsRunning()) then
+	if animator and not RunService:IsRunning() then
 		animator:StepAnimations(0)
 	end
 end
@@ -1780,7 +1779,7 @@ function RigUtils.clearPose(rig)
 		joint.Transform = CFrame.new()
 	end
 
-	if animator and (not FFlagCheckIsRunning or not RunService:IsRunning()) then
+	if animator and not RunService:IsRunning() then
 		animator:StepAnimations(0)
 	end
 end
