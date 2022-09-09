@@ -407,6 +407,7 @@ AddTransportOffer
 AddUIToggleToRibbon
 AddUserAsync
 ADebugSSAOForce
+Adgtroay2JHLBwgo2WoAk7SGYz4ofIEi2NhKBR7bq53fmD47RP95GPbCjJV7W
 AdGuiEnabled
 AdGuiImageMaxHeightInStudTenths
 AdGuiImageMaxWidthInStudTenths
@@ -748,7 +749,6 @@ AggregateInfo.EmptyFrames[nHoverFrame]
 AggregateInfo.Frames
 AggregateInfo.TotalFrames
 AggrFrames
-AGKEiNYNk4shhAID
 Agravesmall
 Agreements
 Aguardando
@@ -7321,7 +7321,6 @@ BlurAxisXYZScratch
 BlurEffect
 BlurRadius
 BMaterialServiceImprovedSignal2
-Bmc5g0Sym38gT
 BN_BLINDING_convert_ex
 BN_BLINDING_create_param
 BN_BLINDING_invert_ex
@@ -7722,6 +7721,7 @@ BwUsedForAllTransmissionKBps
 BwUsedForAllTransmissionsKBps
 BwUsedForNewTransmissionsKBps
 BwUsedForReTransmissionKBps
+BY7EGiELNztWa1f72gE41inYYl1iZEfuxF
 ByCongestionControl
 ByContacts
 ByDatacenter_
@@ -11129,7 +11129,6 @@ Cylindrical
 CylindricalConstraint
 CylindricalConstraintAction
 Cylindrique
-CZEL42U9nupH2OBgjanxJXRivUr8C5tEnoilL3d1t8nZSwCfgOPWOXTcWW5z
 D_Key_dn.png
 D`v\F^r\D`
 DA88D6583A11E29A3DBD856014A660
@@ -12171,7 +12170,6 @@ DeltaTimes[j]
 DeltaTimes[SplitIndex]
 Demasiadas
 Demasiados
-DemuxInitializeExtraData
 DenkOne.json
 DenseHashMap
 DenseHashSet
@@ -13226,6 +13224,7 @@ DurationTooLong
 DurationWidth
 Durbanville1
 Durchsuchen
+Dv8yqspiTnKm3Q3ZH4Ai4PSFip6bBK2B1WAz
 DVCSRequestData
 DVCSResponseData
 DVFVHVJ2LQ
@@ -14892,6 +14891,7 @@ FFlagStudioQtSVGIcons
 FFlagStudioRemoveShareWithRobloxFriends
 FFlagStudioToastNotificationsInLua
 FFoRLVHHHHoTJVF
+FhFBxBliUhFw4KSahcxDZm
 FHFRF\FfFpFzF
 FieldChanged
 FieldMessageLabel
@@ -15282,7 +15282,6 @@ FlatTool_dn.png
 FlexfecConfig
 FlexfecReceiveStream
 FlexfecReceiveStreamImpl
-FLHPRFXHR0qq
 FlightStick
 FlipbookFramerate
 FlipbookH9
@@ -15383,6 +15382,7 @@ FocusWidget
 FogCoorddv
 FogCoordfv
 FogCoordPointer
+FOl1sgAKv77gYaAxQQ
 FoldingIndicatorsComponent
 Folioscopios
 FollowUserId
@@ -17033,7 +17033,6 @@ GoogleAnalyticsThreadPoolMaxScheduleSize
 GoogleAnalyticsTracking
 GoogleAnalyticsTracking]
 GoogleAnalyticsUseEventIngest
-Gos6uDDXMjzyyzTNTV6M1zzlafNXytSYs31DaxEobhhon0wM
 GOST_KX_MESSAGE
 GothamBlack
 GothamBold
@@ -17050,6 +17049,7 @@ GoToScriptLocation
 GoToSourceCodeTB
 GotoTargetsRequest
 GoToVersionFailed
+Gp4TlZlMj7B7MwLK
 GpuVariance
 GrabCursor.png
 GrabRotateCursor
@@ -17623,6 +17623,7 @@ HLNlRtVlZt^lbtfljtnprxvtzx
 HlsAdaptionLogic
 HlsIgnoreDeprecatedRbxTags
 HMACGostR3411
+HmHYemoMxfTEHiJ9QYlqkr
 HoldDuration
 Holzbretter
 HomeDataModel
@@ -17685,7 +17686,6 @@ HPEAVQWidget
 HPEAVVideoStream
 HPEAXHPEANNH
 HPEBVQMimeData
-HPzYOXXE8MNU0sHFzFTvi
 HQEAPEAVQGraphicsItem
 HSRAssetId
 HSRClusterImprovement
@@ -18193,6 +18193,7 @@ IEBAXPEAVQStyleOptionComboBox
 IEBAXPEAVQStyleOptionSlider
 IEBAXPEAVQStyleOptionTab
 Ierusalimschy
+IF9Ism8iHs
 IfE9Z0uBfE9Z
 IFindListener
 IfLastDocInLastAppInstance
@@ -19335,7 +19336,6 @@ IXPTestBrowserTrackerLayerName
 IXPTestSignupLandingLayerName
 IXPTestUserLayerName
 IYUVI420YU12I420YU16I422YU24I444YUYVYUY2yuvsYUY2HDYCUYVY2vuyUYVYJPEGMJPGdmb1MJPGBA81BGGRRGB3raw
-IZcTtp9PBIeIRN9QMvX4rzm6W2u7PekBtIBhL6JBDHYiQmHpTuKNoonNxxGW2
 J_Key_dn.png
 J_NW4CurrencyType
 JacketAccessory
@@ -19588,6 +19588,7 @@ Kopplungsbeschr
 Korrodiertes
 KPEAVICHull
 KPEBDPEBDH
+Kqiv06cBHQlqWOW9leiE
 Kugelverbindung
 Kundendienst.
 Kundensupport.
@@ -20415,6 +20416,7 @@ LSPService
 LSPWarning
 LSRegExErrorHundredthsPercentage
 LTAnalyticsDontMoveName
+LTJf3CsanV12UjRPWCZsR1
 LUA_ERRRUN
 LUA_ERRSYNTAX
 LUA_UNAUTHORIZED_LOG_OUT
@@ -21493,7 +21495,6 @@ MFCreateMediaType
 MFCreateMemoryBuffer
 MFCreateSample
 MFPlat.DLL
-MfT74qQRoTfv
 MHapV7R8MxA953
 Michroma.json
 MICROPHONE_ACCESS
@@ -21523,7 +21524,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA6IJqfvcpgPcHDIY
+MIICCgKCAgEAuedN5Kex3NzC1XrF6i6hOtMdBIRDGxNYhjp
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21597,6 +21598,7 @@ MMMMMMMMMMMMMMMM^^^^^^^^^^^^^^^^^^^^
 MMW4IkDragCollisionsMode
 MMW4MaterialType
 MMW4UserInputState
+Mn3jK6tggZndT
 MobileHapticsToggle
 MobileWebsite
 Mobiltelefone
@@ -22007,9 +22009,11 @@ MVTerrainHeightMapBlendMin
 MVTerrainHeightMapBlendScale
 MVTerrainRotationParam
 MW4MaterialType
+Mxm7wEicuJdltHmk
 MyModelsAction
 MyUniverses
 MyWatchTreeWidget
+MYyNdsv8FSBIQeCCqueT0KiLTWcRZCFyuvUypi5dM9UCAwEAAQ
 Nachrichten
 Nachrichtenfenster
 NackListSizeLimitLocal
@@ -22432,6 +22436,7 @@ NMMMMW4Priority
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
+NnWu0ajuaOzreQsK2kG4t0dD7e5NGPkAOTHW7yg
 NO_SERVICE
 NoAccessPermission
 NoAttributesLabelItem
@@ -22799,6 +22804,7 @@ OCSPResponse
 OCSPSigning
 OCTETSTRING
 Odieresissmall
+OeKH63OeZ0ngigPTey31vLVdIi7nr4J5
 OfA9HPuHfA9H`uAfA9Hpu
 OfAdmissions
 OfApproval
@@ -26023,6 +26029,7 @@ PushResampler
 PVAdornment
 PVInstance
 PVK_header
+Px2bwlplI1Gy6Pp1kQ1oJ4j8cdv45Epj9SAgArw11Wde1TMCgvUuoBTMfeebV
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
@@ -26586,7 +26593,6 @@ QPropertyAnimation
 QProxyStyle
 QPushButton
 QPushButton[default
-QpV8GyBg55dqZl1kgSgOhEcGOMYr9viQbou
 QQmlContext
 QQmlEngine
 QQmlImageProviderBase
@@ -27843,7 +27849,6 @@ RenderTC2_6
 RenderTC2_Disable
 RenderTC2_DiscardGeometryData2
 RenderTC2_FixImageLoadCount
-RenderTC2_FixSpecularAlpha2
 RenderTC2_FixViewportFrame
 RenderTC2_LayeredClothingEnable
 RenderTC2_MaxTextureSize
@@ -27854,7 +27859,6 @@ RenderTC2AtlasScaleUpTimeoutMs
 RenderTC2BakeQueueSize
 RenderTC2BakeSyncThreshold
 RenderTC2DebugAtlasVisualize
-RenderTC2FixBlockCopy
 RenderTC2LOD2
 RenderTC2LogGroupAsync
 RenderTC2LogGroupAsync]
@@ -28649,7 +28653,6 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
-RlTvap9LFuMl19as76tTD
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -36069,6 +36072,7 @@ StudioLuobuSetSecurityCookieInHttpLayer
 StudioMarketplace
 StudioMassUpdate
 StudioMassUpdateTime
+StudioMaximizeDocOnTitleBarClick
 StudioMaximumPasswordLength
 StudioMemoryInfo
 StudioMemoryInfoHundrethsPercent
@@ -36346,6 +36350,7 @@ StudioUnknownPlaceOperation
 StudioUnlockMouseWhenEmulating
 StudioUpdateAvailityPollIntervalMs
 StudioUpdateFetchChannelApi
+StudioUpdateLayoutOnPluginActionAdd
 StudioUpdateTeamCreateDisconnectDialog
 StudioUpdateViewportOnEmulatedDeviceChange
 StudioUpdateWebView2Telemetry2
@@ -36814,7 +36819,6 @@ TCSavedPlaceHashMatch
 TCSavedPlaceHashMismatch
 TcStallingDuration
 Td8fThPj6lTnVp
-TdAPr7JAEoJ1qfUOnaDNxGbpycyKmZ1n278sJ6XpviniEt9N0CAwEAAQ
 TeachingCallouts
 TeamChatWindowAction
 TeamChildOrderExposedTelemetry
@@ -37281,7 +37285,6 @@ TextureDepth
 TextureDownloadResource
 TextureDXT
 TextureDXTUnaligned
-TextureDXTUnaligned2
 TextureETC1
 TextureETC2
 TextureFetchDuration
@@ -40179,7 +40182,6 @@ VDataStoreVersionPages
 VDateHandler
 VDateParser
 VDatetimeHandler
-VDEAVIISe5AR6RoQD2jxt184RefUxxy7hym
 VDebrisService
 VDebuggablePluginWatcher
 VDebuggerBreakpoint
@@ -40682,7 +40684,6 @@ VideoCaptureNames
 VideoCaptureNoPermissionErrors
 VideoCaptureNoServiceErrors
 VideoCaptureOrientationDeg
-VideoCaptureOrientationFix2
 VideoCaptureOrientationLockFix
 VideoCaptureResolutionX
 VideoCaptureResolutionY
@@ -40691,7 +40692,6 @@ VideoCaptureServiceEnabled
 VideoCaptureServiceEnableLuaEvents2
 VideoCaptureServiceHandleSuspend
 VideoCaptureStreamNotFoundErrors
-VideoCaptureTrackActiveClient
 VideoChannel
 VideoDecodedVideoQueueSize
 VideoDecoder
@@ -42541,6 +42541,7 @@ WorldToViewportPoint
 Worttreffer
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
+WqEexsoYJtXiZq
 WrapDefomer
 WrapDeformer
 WrapDeformerContext
@@ -42584,6 +42585,7 @@ WSAstartup
 WSAStartup
 WSAWaitForMultipleEvents
 WsClientIdleSleepMs
+WT5zR8zAF52h
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
@@ -42808,7 +42810,6 @@ XQColorDialog
 Xregex_error
 XResolution
 Xtime_get_ticks
-XUjKCd4q7ddBpHdFmIxICU
 XUPlaySoloConfiguration
 XUPublishDiagnosticsNotification
 XUScriptUpdateInfo
@@ -42921,9 +42922,9 @@ YAXW4RegistrationType
 Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
-Yf0xEzpx0FmLJyTRQO2zMv8VAZmySJsjKp4
 YffYZefYDNNDCOO
 YHcN4HcF0H
+YhxIFxL1esqh9tctgL1LCx
 YieldEvent
 YieldFuncDesc
 YieldFunction
@@ -42946,7 +42947,6 @@ ZeroTargetSpeedStartTimeCountToTotalCount
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
-ZnbFfAHY0nkq4upbZCZe8x0Ijyv38KlWj8
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
