@@ -1627,7 +1627,7 @@ Class SurfaceGuiBase : LayerCollector [NotCreatable]
 	Property bool SurfaceGuiBase.Active
 	Property Instance SurfaceGuiBase.Adornee
 	Property Enum.NormalId SurfaceGuiBase.Face
-Class AdGui : SurfaceGuiBase [NotCreatable] [NotBrowsable]
+Class AdGui : SurfaceGuiBase [NotBrowsable]
 	Property Enum.AdShape AdGui.AdShape
 Class SurfaceGui : SurfaceGuiBase
 	Property float SurfaceGui.ZOffset

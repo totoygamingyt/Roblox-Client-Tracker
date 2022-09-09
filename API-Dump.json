@@ -30631,7 +30631,6 @@
             "Name": "AdGui",
             "Superclass": "SurfaceGuiBase",
             "Tags": [
-                "NotCreatable",
                 "NotBrowsable"
             ]
         },
