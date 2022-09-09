@@ -939,6 +939,7 @@ Amimjmwmxm
 AMMW4TweenEasingStyle
 AmountPlayers
 AMPROPSETID_Pin
+Amu5XKAX3MV7aUoKPUE1og5Bugm8PBXRtri0H
 AMVVector3
 AMW4DeveloperTag
 Analysis...
@@ -7177,7 +7178,6 @@ BgUpdateRedirectsRejectInfluxHundredthsPercentage
 BHBpBJXcdFg
 BHHHHHHHHHHHHHHHHHHHHHHHHHH
 BhHlLjJTiIfdnczsxX
-Bi5AXu5Sn2NM1bVwXKtGIN9FgxBpX3FI9tEYGTdNRt7xRTMCAwEAAQ
 Bibliotheksausweises
 Bidirectional
 BIIIIIIIIIIIIIIIIIIIIIIIIII
@@ -7357,6 +7357,7 @@ BN_rand_range
 BN_RECP_CTX_new
 BN_STACK_push
 BN_to_felem
+Bnb98dBKirCqRztp3TP04ZAXWmrWzsii5QBErA5paAEVrfywn09ZWQCul5W
 BodyAngularVelocity
 BodyBack_Att
 BodyBackAttachment
@@ -7563,7 +7564,6 @@ BrowserTrackerLayerVariablesResponse
 BrowserWindow
 BrowserWindowClosed
 BrowserWindowWillNavigate
-BrsQtP3L0AeuGiOPT
 BrushOrigin
 BrushStyle
 BrutalLegendTest
@@ -7710,7 +7710,6 @@ BVTextureId
 BW4HighlightDepthMode
 BW4ModelLevelOfDetail
 BW4TexturePackAlphaMode
-BW7TYVEG6ZP0vymGVjcUfZV
 BweAimdRateControlConfig
 BweBackOffFactor
 BweCappedProbing
@@ -8207,7 +8206,6 @@ CF44CCFD011E7A825A924D6937B0F
 CF583B11E29A3DBD856014A660
 CFB42AF5B120681192B0FA7C02778D61
 CFF056DD11E2898E9FB8E4A9E79B
-CFF156DD11E2
 CFF156DD11E2898E9FB8E4A9E79B
 CFF456DD11E2898E9FB8E4A9E79B
 CFF556DD11E2898E9FB8E4A9E79B
@@ -9988,7 +9986,6 @@ ConnectionAccepted
 ConnectionClosed
 ConnectionEnded
 ConnectionError
-ConnectionFactory
 ConnectionFailed
 ConnectionFailure
 ConnectionHealth
@@ -11099,6 +11096,7 @@ CustomSoundEffect
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolTip
+CvWwgp6n4N9sXkW
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
@@ -11133,7 +11131,6 @@ Cylindrical
 CylindricalConstraint
 CylindricalConstraintAction
 Cylindrique
-CZnE1Gif8y9M3K245JOge2Fso0
 D_Key_dn.png
 D`v\F^r\D`
 DA88D6583A11E29A3DBD856014A660
@@ -13234,7 +13231,6 @@ DVCSRequestData
 DVCSResponseData
 DVFVHVJ2LQ
 DVPAES_ASM
-DWMA7PBOae2psWFYCNxiBzcy
 DwmSetWindowAttribute
 DX25519_ASM
 DXCloseDeviceNV
@@ -15243,6 +15239,7 @@ FixSetGuiEffectCrash
 FixSetParentErrMsg
 FixSFXOutlivingSoundService
 FixShiftScrolling
+FixSignalDefinitions
 FixSmallSurfaceGuiMouseInput
 FixSmoothingGroupVertexMerging
 FixSoundNetworkOwnership
@@ -15390,6 +15387,7 @@ FoldingIndicatorsComponent
 Folioscopios
 FollowUserId
 FollowUserIdReplicated
+Fomfd7LWf29ycg1Dn3ZoXcgFDqc
 Fonctionnalit
 Fonctionne
 Fondamento
@@ -17524,7 +17522,6 @@ HHUQPrivateSignal
 HHW4AspectRatioMode
 HHW4Format
 HHW4Policy
-HibOyVL9NOBq5mwy
 HidD_FreePreparsedData
 HidD_GetAttributes
 HidD_GetFeature
@@ -19344,7 +19341,6 @@ JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
 Jcircumflex
-JDaTubtU853XlkN6ki6AL2DGUZJOxjO9QI5t1
 JdiDeserializerConfigPerDC
 JdiDeserializerConfigUserIdPer100
 JdiProcessTimeMsDuringJoin
@@ -19362,7 +19358,6 @@ JitterBufferDelayInterface
 JitterBufferDelayProxyWithInternal
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
-JKc8drbIbj1itjQaH5bTYCSRuMbF
 JKLMNOPQRSTU
 JobTimerDuringInitialExperience
 Jogabilidade
@@ -19456,6 +19451,7 @@ JsonFormat
 JSONObject
 JSONOverflowAbort
 JSONOverflowDepth
+Jsr0wA647W
 JUAssetData
 Jugabilidad
 JUGroupRolesRequestRecord
@@ -19479,6 +19475,7 @@ JW4InfoType
 JW4TextChatMessageStatus
 JW4TextFilterContext
 JW4ThumbnailType
+JYM48CU7kY5Miow15PqpX7H3UjQjz6Tjs59wJBGr8Oggvcj99S
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -20405,6 +20402,7 @@ LowQMaterialDetiledNewFS_
 LowQMaterialFS_
 LowQMaterialWangFallbackFS
 LowQMaterialWangFS
+LqLMmQP7tob1GbWbUcMHiNTB0dTtdVdwueDnQtzU
 LRakRecvToAppPop
 LSCReplacer
 LSCReplacerLog
@@ -21265,7 +21263,6 @@ MemberType
 MemEnforcedLRUCache
 MemoryAbove
 MEMORYALLOCATIONFAILED
-MemoryAvailable
 MemoryCaching
 MemoryCategories
 MemoryCategory
@@ -21291,7 +21288,6 @@ MemoryStoreService]
 MemoryStoreServiceFailureInfluxHundrethsPercentage
 MemoryStoreServiceHttpError
 MemoryStoreSortedMap
-MemoryTotal
 MemoryWatchdogJob
 MemStorage
 MemStorageConnection
@@ -21526,7 +21522,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAq8taS9Rw3en6RNiaDB4DAIIhQa2lvfeL8TLplA88L7GjS2h
+MIICCgKCAgEAxYY418jbbGs2y4DD7zB3Ykae
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21597,6 +21593,7 @@ MkvStreamWriter
 MLineIndex
 MMDeviceEnumerator
 MMMMMMMMMMMMMMMM^^^^^^^^^^^^^^^^^^^^
+MMr1BHXkZyXwAZxk58X0hg3
 MMW4IkDragCollisionsMode
 MMW4MaterialType
 MMW4UserInputState
@@ -21921,7 +21918,6 @@ MQStandardItem
 MQTableWidgetItem
 MQTreeWidgetItem
 MrdInCachePendingList
-MrjZLJfTNgVXl3
 MRSMessageSize
 MRSTopicNameLength
 MRULocalFileStore
@@ -22430,7 +22426,7 @@ NfXf`fhfzf
 NH_NHHVStringView
 NHVVariant
 NinjaMask.mesh
-Nk0a9EWDzD9daY1SksyZ3I494oQHC0ig3dMEe4X7ozHm09dh246jPMTePYiGt7sW
+NjWfx3fjyk1J8JKDxk2V99x
 NLSF_mu_Q20
 NLSFInterpCoef_Q2
 NMMMMW4Priority
@@ -22881,6 +22877,7 @@ OLEAUT32.dll
 OleInitialize
 OleLockRunning
 OleUninitialize
+OmdvwHC0LgYl0QNjCZNdZgn
 OMeshContentProviderForceCacheSize
 OnAddTrack
 OnAllocateError
@@ -23348,6 +23345,7 @@ Overwriting
 Overwriting.
 OwnPermission
 OwnProperty
+OwwLE1WaOLyjs7WSxPMOBlx2C1yuuVOFe
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^[]
 PA^A]A\_^][
@@ -23493,10 +23491,6 @@ PageChanged
 PageClicked
 PageController
 PageCursor
-PageFileAvailable
-PageFilePeakUsage
-PageFileTotal
-PageFileUsage
 PageLoaded
 PageLostFocus
 PageModelChanged
@@ -23784,6 +23778,7 @@ PcFactoryDefaultBitrates
 PCStudioApp
 PCStudioAppCJV
 PdL0F0RLTi
+PdnAz8hjNSqvwGz6JXRi6PQmQsi
 PE_D_SRCH_LENGTH
 PE_MAX_NB_SUBFR
 PEAD1AEAPEAD
@@ -25438,6 +25433,7 @@ PolygonCount
 PolygonMode
 PolygonOffset
 Polynomial
+PONHXtIJRu
 PoolAllocator
 PopDcLatencyRtt
 PopDebugGroup
@@ -26071,6 +26067,7 @@ QDataStream
 QDebuggerClient
 QDesktopServices
 QDesktopWidget
+QdfNZafG99iR7tlcU4
 QDialogButtonBox
 QDirIterator
 QDockWidget
@@ -27024,6 +27021,7 @@ RangeValid
 RAppPopToDeserialize
 RasterizationTiming
 Rastermaterial
+RAT3hisWbqR4reVvorC2fyesefymfevUR6kpsFnSFM
 RateLimited
 RateLimiterGlobalDefaultAmount
 RateLimiterGlobalDefaultRetryTime
@@ -28882,7 +28880,6 @@ RowsToContents
 RowsToRemove
 RowStretch
 RowVisibilityChanged
-ROyVbHcR3RrWmTDCrvEiPkUsnFX7CRmQ
 RPC_E_CHANGED_MODE
 RPCServers
 RRakRecvToAppPop
@@ -35927,7 +35924,6 @@ StudioDeviceEmulatorService
 StudioDisableMipMapsOnMac
 StudioDisableSpinBoxKeyboardTracking
 StudioDisableTerminateMessageBox
-StudioDisableTerminateMessageBoxOnLowMemory
 StudioDocConsolidateDataModelChecks
 StudioDockingAnalytics
 StudioDockingAnalytics]
@@ -36218,7 +36214,6 @@ StudioReportLuauTimeoutInfluxPriorityHundredthsPercentage
 StudioReportLuauWarningDetails
 StudioReportLuauWarningDetailsInfluxHundredthsPercentage
 StudioReportLuauWarningDetailsInfluxPriorityHundredthsPercentage
-StudioReportMemoryInBytes
 StudioReportOpenPlaceTimeFilter
 StudioReportPlaceInfoWithRibbonAnalytics
 StudioReportQmlCrashThrottleHundredthsPercent
@@ -38441,6 +38436,7 @@ TxQueueSize
 TxtArray.length
 TxtArray[j]
 TXtComment
+Ty7bOeRCIL7JtqV
 TYPE_VOICED
 TypeArray.length
 TypeArray.push
@@ -40649,7 +40645,6 @@ VHumanoidController
 VHumanoidDescription
 VHumanoidState
 VI420Buffer
-Vi4qUGQsRFHPUgbONyjFoarjtiFXR93thfdoBP1R3bPio0rCmqDxqCRWmN6Lfs
 ViableConnectionsLeft
 VIAdornableCollector
 VIAudioDevice
@@ -40898,7 +40893,6 @@ VirtualInputManagerEnableRecording
 VirtualInputManagerEnableStudioPlayback
 VirtualInputManagerFixInputObjectPosition
 VirtualInputMode
-VirtualMemoryAvailable
 VirtualProtect
 VirtualQuery
 VirtualSoundVolumeThresholdDenominator
@@ -42503,8 +42497,6 @@ WorkerCount
 WorkersNeeded
 WorkerThread
 WorkerThreadJob
-WorkingSetPeakSize
-WorkingSetSize
 Workspace.
 Workspace.AnimationRuntimeOptimization
 Workspace.HumanoidOnlySetCollisionsOnStateChange
@@ -42572,7 +42564,6 @@ WrappingInternal
 WrapTarget
 WrapTargetDebugMode
 WrapTargets
-WRBnV5uRfXAzhtP34Wd
 Write_Marshalled
 WriteArray
 WriteConsoleW
@@ -42818,7 +42809,6 @@ XPEBDPEBDV
 XPEBVGImage
 XPEBVInstance
 XPEBVIStatus
-XQbaZCeVfOYJWWcbfrBfr5VYus54Umc3KIINU
 XQColorDialog
 Xregex_error
 XResolution
@@ -42932,6 +42922,7 @@ YAXPEBVQObject
 YAXVexception_ptr
 YAXW4error_type
 YAXW4RegistrationType
+YcEUapiDshxfdVqvMSUBpmrF6y9uq2MzxPdNGyle9TJrHtyb1WDvIUCAwEAAQ
 Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
@@ -42956,11 +42947,9 @@ Zeichenfolgefarbe
 Zeilennummer
 Zekton.json
 ZeroTargetSpeedStartTimeCountToTotalCount
-ZFB7q3Nq3Crmzwp
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
-ZiP9B3SifS2iwqE1Ds2bFvRHq
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
@@ -42972,7 +42961,6 @@ ZP6AX1PEAX
 ZPEAVPluginMouse
 ZPu4fE9Z`u
 ZRZZZbZt[.[
-ZUACYQ6G7Csj6nKSa4iVmw5tl5v2q6nbmg6CqwLKY73
 Zusammenfassung
 ZVLocalTouchedSignal
 ZVspecial_equipped_signal
