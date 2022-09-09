@@ -75,7 +75,6 @@ AAEE11E38B9D871882A8E559
 AAF011E38B9D871882A8E559
 AAF111E38B9D871882A8E559
 AAF511E38B9D871882A8E559
-AAudioDeviceErrorTelemetry
 AB0BF11E395B6E5DB6211F344
 AB0DC85B11
 ABAllUsers
@@ -407,7 +406,7 @@ AddTransportOffer
 AddUIToggleToRibbon
 AddUserAsync
 ADebugSSAOForce
-Adgtroay2JHLBwgo2WoAk7SGYz4ofIEi2NhKBR7bq53fmD47RP95GPbCjJV7W
+ADeferredVoxelUpdates
 AdGuiEnabled
 AdGuiImageMaxHeightInStudTenths
 AdGuiImageMaxWidthInStudTenths
@@ -1615,7 +1614,7 @@ AstExprVarargs
 AstStatFor
 AstStatFunction
 AstTypePack
-AStudio.App.RBXMainWindow.InsertObjectsWidgetMenu
+AStudioReportStartupInfoInfluxHundredthsPercentage
 AsusROG71OSD.dll
 AsusStrixOSD.dll
 AsusU7MKIIOSD.dll
@@ -1841,6 +1840,7 @@ AudioDevice
 AudioDeviceBuffer
 AudioDeviceBufferTimer
 AudioDeviceError
+AudioDeviceErrorTelemetry
 AudioDeviceGeneric
 AudioDeviceModule
 AudioDeviceModuleImpl
@@ -7095,6 +7095,7 @@ BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
+BCurrentDataModelType
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
@@ -7356,6 +7357,7 @@ BN_rand_range
 BN_RECP_CTX_new
 BN_STACK_push
 BN_to_felem
+BoCiFy3DFXgTj5D6BpkqG0zyLgMUnSeMI9R0fDamIs4aSctWR9
 BodyAngularVelocity
 BodyBack_Att
 BodyBackAttachment
@@ -7504,7 +7506,6 @@ BreakReason
 BreakUpPerfAggregate
 BRenderGrassHeightScaler
 BRenderReportOutOfMemory
-BReportAbuse
 Brevesmall
 BrickColor
 BrickColor.
@@ -7566,6 +7567,7 @@ BrushOrigin
 BrushStyle
 BrutalLegendTest
 BruteForceAllSlow
+BthumbnailSize
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -7669,6 +7671,7 @@ BundleType
 BundleTypes
 BuoyancyAccumulator
 BuoyancyInSensorData2
+BUSGSOPGferp
 BusyStatesShifted
 Buttermilk
 Button1Down
@@ -7721,7 +7724,7 @@ BwUsedForAllTransmissionKBps
 BwUsedForAllTransmissionsKBps
 BwUsedForNewTransmissionsKBps
 BwUsedForReTransmissionKBps
-BY7EGiELNztWa1f72gE41inYYl1iZEfuxF
+BxfiOqpjTyDWI
 ByCongestionControl
 ByContacts
 ByDatacenter_
@@ -10887,6 +10890,7 @@ CSwitchTime
 CSwitchTime.length
 CSwitchTime[i]
 CT_POLICY_EVAL_CTX_new
+CT63vHJus9IpDTcWg6BTh3dfxQQQBXMWMLV4CpUSS
 CtctStageCtcts
 CTLOG_new_from_base64
 CTLOG_STORE_load_file
@@ -10981,7 +10985,6 @@ CurrentCharFormat
 CurrentChatSession
 CurrentColor
 CurrentCursorResultLocation
-CurrentDataModelType
 CurrentDataModelTypeAboutToChange
 CurrentDataModelTypeChanged
 CurrentDate
@@ -12084,7 +12087,6 @@ DeferredNewRegions
 DeferredReporter
 DeferredTerrainChanges
 DeferredUpdates
-DeferredVoxelUpdates
 DefineCallout
 DefineFastFlag
 DefineFastInt
@@ -12155,7 +12157,6 @@ DeleteSync
 DeleteTextures
 DELETETOSTARTOFLINE
 DeleteVertexArrays
-DelistPpr2
 DeliverLowMemoryWarningsViaPolling
 DeliverRtcp
 DeliverRtp
@@ -13180,6 +13181,7 @@ DtmfSenderProxyWithInternal
 DualStreamVertexData5
 DUARAndOpenSurvey
 DueToMaxBytesInFlightCountToTotalCount
+DujkqnBpBDnqxtT7IAlEJQYQehmbNKuVXhOcVlZTD56NqIzAJDgcMa2R86IQ
 DummyStudioCounterToCheckForEventDropDuringShutdown
 DummyStudioCounterToCheckForEventDropDuringStartup
 DummyStudioEventToCheckForEventDropDuringShutdown
@@ -13224,7 +13226,6 @@ DurationTooLong
 DurationWidth
 Durbanville1
 Durchsuchen
-Dv8yqspiTnKm3Q3ZH4Ai4PSFip6bBK2B1WAz
 DVCSRequestData
 DVCSResponseData
 DVFVHVJ2LQ
@@ -14891,7 +14892,6 @@ FFlagStudioQtSVGIcons
 FFlagStudioRemoveShareWithRobloxFriends
 FFlagStudioToastNotificationsInLua
 FFoRLVHHHHoTJVF
-FhFBxBliUhFw4KSahcxDZm
 FHFRF\FfFpFzF
 FieldChanged
 FieldMessageLabel
@@ -15382,7 +15382,6 @@ FocusWidget
 FogCoorddv
 FogCoordfv
 FogCoordPointer
-FOl1sgAKv77gYaAxQQ
 FoldingIndicatorsComponent
 Folioscopios
 FollowUserId
@@ -15511,6 +15510,7 @@ FourByFour
 FpFramebuffer
 FpsDuringJoin
 FpsVariance
+FqCDelistPpr2
 Fractional
 FRAGMENT_SCRIPT
 Fragmentos
@@ -15967,6 +15967,7 @@ Gcircumflex
 GCMinimumDeletionRateForNonZeroClientInstanceQuota
 GCReducesQuotaCriticalPercent
 GCReducesQuotaPercent
+GctV3WL2syOmn9vLW
 Gdotaccent
 GearAction
 GearGenreSetting
@@ -17049,7 +17050,6 @@ GoToScriptLocation
 GoToSourceCodeTB
 GotoTargetsRequest
 GoToVersionFailed
-Gp4TlZlMj7B7MwLK
 GpuVariance
 GrabCursor.png
 GrabRotateCursor
@@ -17445,6 +17445,7 @@ HbaoCompositFS
 HBAODepthDownFS
 HbaoRenderCompute
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
+HBL.PXRrPfH
 Hcircumflex
 HdAvailables
 HDCacheLock
@@ -17623,7 +17624,6 @@ HLNlRtVlZt^lbtfljtnprxvtzx
 HlsAdaptionLogic
 HlsIgnoreDeprecatedRbxTags
 HMACGostR3411
-HmHYemoMxfTEHiJ9QYlqkr
 HoldDuration
 Holzbretter
 HomeDataModel
@@ -18084,6 +18084,7 @@ HW4MatchType
 HW4Orientation
 HW4PacketPriority
 HW4TransformationMode
+HwiRW7Bp5DG
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
@@ -18193,7 +18194,6 @@ IEBAXPEAVQStyleOptionComboBox
 IEBAXPEAVQStyleOptionSlider
 IEBAXPEAVQStyleOptionTab
 Ierusalimschy
-IF9Ism8iHs
 IfE9Z0uBfE9Z
 IFindListener
 IfLastDocInLastAppInstance
@@ -19588,7 +19588,6 @@ Kopplungsbeschr
 Korrodiertes
 KPEAVICHull
 KPEBDPEBDH
-Kqiv06cBHQlqWOW9leiE
 Kugelverbindung
 Kundendienst.
 Kundensupport.
@@ -19976,6 +19975,7 @@ ListWidgetScrollingPastBottom
 LiveCoding
 Livellamento
 LivingRoom
+LjniX9vPr5FHVLTn0TPyYnWLyJu
 LLEo6Soxvx2
 LLLLLLLLLLLL
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
@@ -20416,7 +20416,6 @@ LSPService
 LSPWarning
 LSRegExErrorHundredthsPercentage
 LTAnalyticsDontMoveName
-LTJf3CsanV12UjRPWCZsR1
 LUA_ERRRUN
 LUA_ERRSYNTAX
 LUA_UNAUTHORIZED_LOG_OUT
@@ -21524,7 +21523,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAuedN5Kex3NzC1XrF6i6hOtMdBIRDGxNYhjp
+MIICCgKCAgEAtyjtyx6lJC4mupuf6d7jiTxQdCNngAvTJAreNJys6jFwCmh1Ekiu
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21598,7 +21597,6 @@ MMMMMMMMMMMMMMMM^^^^^^^^^^^^^^^^^^^^
 MMW4IkDragCollisionsMode
 MMW4MaterialType
 MMW4UserInputState
-Mn3jK6tggZndT
 MobileHapticsToggle
 MobileWebsite
 Mobiltelefone
@@ -22009,11 +22007,9 @@ MVTerrainHeightMapBlendMin
 MVTerrainHeightMapBlendScale
 MVTerrainRotationParam
 MW4MaterialType
-Mxm7wEicuJdltHmk
 MyModelsAction
 MyUniverses
 MyWatchTreeWidget
-MYyNdsv8FSBIQeCCqueT0KiLTWcRZCFyuvUypi5dM9UCAwEAAQ
 Nachrichten
 Nachrichtenfenster
 NackListSizeLimitLocal
@@ -22126,6 +22122,7 @@ NCONF_load
 NCONF_load_bio
 NCONF_load_fp
 NdnuScpeLkclOiiaVruaSilaKgnjRicyLiraCidyLmahCanaLtvaTtsvApygErmaSusiLumaBavaJietMimrAbraSitrPilhPhkrOihtKktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTzzzZssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
+NdXkCAwEAAQ
 NE9F0uHE9F4uBE9F8u
 NearIntensity
 NearPlaneZ
@@ -22436,7 +22433,6 @@ NMMMMW4Priority
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
-NnWu0ajuaOzreQsK2kG4t0dD7e5NGPkAOTHW7yg
 NO_SERVICE
 NoAccessPermission
 NoAttributesLabelItem
@@ -22804,7 +22800,6 @@ OCSPResponse
 OCSPSigning
 OCTETSTRING
 Odieresissmall
-OeKH63OeZ0ngigPTey31vLVdIi7nr4J5
 OfA9HPuHfA9H`uAfA9Hpu
 OfAdmissions
 OfApproval
@@ -23322,6 +23317,7 @@ OutThresholdMax
 OutThresholdMax.
 OutTouches
 OutUnprepareHeader
+Ov8XrOMxImZh3tj8q
 OverAction
 OverActionV2
 OverallHitRate
@@ -23367,6 +23363,7 @@ PA_A^A]A\_^
 PA_A^A]A\_^[
 PA_A^A]A\_^]
 PA_A^A]A\_^]H
+Pa554kFPyU5
 PacakageCopiesHaveAutoUpdate
 PacakgeServiceReportFailedRequestsRate
 PacedSender
@@ -26029,7 +26026,6 @@ PushResampler
 PVAdornment
 PVInstance
 PVK_header
-Px2bwlplI1Gy6Pp1kQ1oJ4j8cdv45Epj9SAgArw11Wde1TMCgvUuoBTMfeebV
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
@@ -27202,6 +27198,7 @@ RCCUpdateBroadphaseDtAverage
 RCCUpdateBroadphaseDtAverage_Datacenter_
 RCCWorldStepMsecDtPerNOU
 RcpReferenceTime
+Rcs7DM2vMtLn3NYykcwnmUcBlEU7k
 RDeserializeToPBQ
 ReachedTarget
 ReactionForceEnabled
@@ -28035,6 +28032,7 @@ Replicazione
 Replikationen
 ReplyFinished
 REPORT_ABUSE
+ReportAbuse
 ReportAbuseDeadCodeHit
 ReportAbuseV2
 ReportAbuseV3
@@ -28919,6 +28917,7 @@ RSA_verify_ASN1_OCTET_STRING
 RSA_verify_PKCS1_PSS_mgf1
 RSAPrivateKey
 RSAPublicKey
+RsxtnAzNAFjoAWeu5SzMh9TDWrPkVRPjflPyMsO
 RTCCertificate_
 RTCCertificateGenerationTask
 RTCCertificateGenerator
@@ -31039,6 +31038,7 @@ SlidingBallConstraint
 SlidingWindowMinFilter
 Slingshot.png
 SlingshotTexture.png
+SlmkWKbwKTp1IZlFmEnYfTgygcYT9JG2V7F2miXEaGctWHoauvdX3
 SlotQuickAccess
 SlotsByName
 SlowDnsCdnRequestThresholdMs
@@ -36215,7 +36215,6 @@ StudioReportLuauWarningDetailsInfluxPriorityHundredthsPercentage
 StudioReportOpenPlaceTimeFilter
 StudioReportPlaceInfoWithRibbonAnalytics
 StudioReportQmlCrashThrottleHundredthsPercent
-StudioReportStartupInfoInfluxHundredthsPercentage
 StudioReportStreamingEnabledChange
 StudioReportStreamingEnabledChangeHundredths
 StudioReportStudioOpenPlaceHundredthsPercentage
@@ -36314,7 +36313,6 @@ StudioSupportRunContextInAutocomplete
 StudioSupportUploadGroupAnimations
 StudioTCConnectionDialogUpdateAttemptsIntervalMs
 StudioTeamCreateDisconnectHandlingMaximumRetries
-StudioTeamCreateGameJoinPercentageRollout
 StudioTeamCreateHeartbeat
 StudioTeamTest
 StudioTelemetryFromWebLoginHundredths
@@ -37997,6 +37995,7 @@ ToolRateLimitCapacity
 ToolRateLimitDuration
 ToolTipSize
 ToolTipStr
+ToolTipView
 TooltipWithKey
 TooManyDumpFiles
 TooManyRedirects
@@ -38035,6 +38034,7 @@ ToPreviousScriptLocation
 ToPropertyChange
 TopSurface
 TopSurfaceInput
+TOQ6U0hdGnkuYkSYk0r2dPTspsM4hRPfGNT4nKuGH
 ToReservedServer
 ToRobloxAction
 ToRobloxAsAction
@@ -38191,6 +38191,7 @@ ToVideoStream
 TownAndCity
 ToWorldSpace
 TPoseAdjusterDefaultVersion
+TR89dUVbR7d9vKl2k2vuts9K
 Tracciamento
 TraceMessage
 TracerService
@@ -42373,6 +42374,7 @@ Wiederherstellungsdateien
 Wiederholen
 Wiederholungslimit
 Wiederverbindung
+WIKBpYeEjmznBlOxFnWsL
 WilError_03
 Win64.545.10848
 WinChannelCrashCounter
@@ -42541,7 +42543,6 @@ WorldToViewportPoint
 Worttreffer
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
-WqEexsoYJtXiZq
 WrapDefomer
 WrapDeformer
 WrapDeformerContext
@@ -42585,7 +42586,6 @@ WSAstartup
 WSAStartup
 WSAWaitForMultipleEvents
 WsClientIdleSleepMs
-WT5zR8zAF52h
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
@@ -42924,12 +42924,13 @@ Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
 YHcN4HcF0H
-YhxIFxL1esqh9tctgL1LCx
 YieldEvent
 YieldFuncDesc
 YieldFunction
+YoBagzgFgqX
 YResolution
 YwBBvY55YvBBwY5
+YxKjKc5XrNVsMjvRYxI0Uw
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
 Z_KPEBDPEBDH
@@ -42948,6 +42949,7 @@ ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
 ZNjlXiODrHUcaGRYt
+ZNMGcnufm5f2X3MdFeLhdX
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
 ZoomOutDistance
