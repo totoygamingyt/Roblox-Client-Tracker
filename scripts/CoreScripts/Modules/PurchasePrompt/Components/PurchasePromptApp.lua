@@ -27,6 +27,7 @@ local provideRobloxLocale = require(script.Parent.Connection.provideRobloxLocale
 local PurchasePromptPolicy = require(Root.Components.Connection.PurchasePromptPolicy)
 
 local ProductPurchaseContainer = require(script.Parent.ProductPurchase.ProductPurchaseContainer)
+local RobuxUpsellContainer = require(script.Parent.RobuxUpsell.RobuxUpsellContainer)
 
 local DarkTheme = require(CorePackages.AppTempCommon.LuaApp.Style.Themes.DarkTheme)
 local Gotham = require(CorePackages.AppTempCommon.LuaApp.Style.Fonts.Gotham)
@@ -78,10 +79,11 @@ function PurchasePromptApp:render()
 							IgnoreGuiInset = true,
 						}, {
 							PremiumPromptUI = Roact.createElement(PremiumPrompt),
-							ProductPurchase = Roact.createElement(LocaleProvider, {
+							LocaleProvider = Roact.createElement(LocaleProvider, {
 								locale = LocalizationService.RobloxLocaleId
 							}, {
-								ProductPurchaseContainer = Roact.createElement(ProductPurchaseContainer)
+								ProductPurchaseContainer = Roact.createElement(ProductPurchaseContainer),
+								RobuxUpsellContainer = Roact.createElement(RobuxUpsellContainer),
 							}),
 							EventConnections = Roact.createElement(EventConnections),
 						})
