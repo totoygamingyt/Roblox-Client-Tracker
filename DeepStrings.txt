@@ -75,6 +75,7 @@ AAEE11E38B9D871882A8E559
 AAF011E38B9D871882A8E559
 AAF111E38B9D871882A8E559
 AAF511E38B9D871882A8E559
+AAudioDeviceErrorTelemetry
 AB0BF11E395B6E5DB6211F344
 AB0DC85B11
 ABAllUsers
@@ -407,7 +408,6 @@ AddTransportOffer
 AddUIToggleToRibbon
 AddUserAsync
 ADebugSSAOForce
-ADeferredVoxelUpdates
 AdGuiEnabled
 AdGuiImageMaxHeightInStudTenths
 AdGuiImageMaxWidthInStudTenths
@@ -763,7 +763,6 @@ AimdRateControl
 AinDisableReportErrorTelemetry
 AinPointsThrottleValue
 AirController
-AKnTqdK3arkwP362vK0Wcmh
 Aktivieren
 Aktivierung
 Aktivierungs
@@ -1617,7 +1616,7 @@ AstExprVarargs
 AstStatFor
 AstStatFunction
 AstTypePack
-AStudioReportStartupInfoInfluxHundredthsPercentage
+AStudio.App.RBXMainWindow.InsertObjectsWidgetMenu
 AsusROG71OSD.dll
 AsusStrixOSD.dll
 AsusU7MKIIOSD.dll
@@ -1843,7 +1842,6 @@ AudioDevice
 AudioDeviceBuffer
 AudioDeviceBufferTimer
 AudioDeviceError
-AudioDeviceErrorTelemetry
 AudioDeviceGeneric
 AudioDeviceModule
 AudioDeviceModuleImpl
@@ -6898,6 +6896,7 @@ AXW4UserCFrame
 AXW4UserInputType
 AXW4VoiceChatState
 AXW4VRTouchpad
+AYyDGQ4qOF4bDXKklBv6hmgHVDPgNq8h3s2Gd9Xd
 B^F.HR4nL.4U
 BA447F42A91111E2B410EF351327957B
 BA886F11E18561866242201959
@@ -7093,7 +7092,6 @@ BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
-BCurrentDataModelType
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
@@ -7502,6 +7500,7 @@ BreakReason
 BreakUpPerfAggregate
 BRenderGrassHeightScaler
 BRenderReportOutOfMemory
+BReportAbuse
 Brevesmall
 BrickColor
 BrickColor.
@@ -7563,7 +7562,6 @@ BrushOrigin
 BrushStyle
 BrutalLegendTest
 BruteForceAllSlow
-BthumbnailSize
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -7667,7 +7665,6 @@ BundleType
 BundleTypes
 BuoyancyAccumulator
 BuoyancyInSensorData2
-BUSGSOPGferp
 BusyStatesShifted
 Buttermilk
 Button1Down
@@ -8461,6 +8458,7 @@ CircleCutoutLargeNoBorder.png
 CircularList
 Circumflexsmall
 CityBackground.png
+Cjfqj0CQRkTXsCs8CcaUwRkS0EV07wS0uuTV39
 ClampColor
 ClampTargetIndentLevel
 ClassCategory
@@ -10979,6 +10977,7 @@ CurrentCharFormat
 CurrentChatSession
 CurrentColor
 CurrentCursorResultLocation
+CurrentDataModelType
 CurrentDataModelTypeAboutToChange
 CurrentDataModelTypeChanged
 CurrentDate
@@ -11126,6 +11125,7 @@ Cylindrical
 CylindricalConstraint
 CylindricalConstraintAction
 Cylindrique
+CYvCfQhvPin
 D_Key_dn.png
 D`v\F^r\D`
 DA88D6583A11E29A3DBD856014A660
@@ -12081,6 +12081,7 @@ DeferredNewRegions
 DeferredReporter
 DeferredTerrainChanges
 DeferredUpdates
+DeferredVoxelUpdates
 DefineCallout
 DefineFastFlag
 DefineFastInt
@@ -12151,6 +12152,7 @@ DeleteSync
 DeleteTextures
 DELETETOSTARTOFLINE
 DeleteVertexArrays
+DelistPpr2
 DeliverLowMemoryWarningsViaPolling
 DeliverRtcp
 DeliverRtp
@@ -13440,7 +13442,6 @@ EBAPEAVTrackerStreamAnimation
 EBAPEAVWorkspace
 EbDgxvvfGb
 EBELEVE`EjEtE
-Ebpth2UWevzjtx3NUNtcWfGDAHTSN4p4m
 EC_GROUP_check
 EC_GROUP_check_discriminant
 EC_GROUP_copy
@@ -14154,7 +14155,6 @@ ESGamePerfMonitorHundredthsPercentage
 ESGamePerfMonitorReportDetails
 ESGamePerfMonitorReportTimerInSeconds
 ESGamePerfMonitorUseRandomSelection
-EsLe6xzquYL
 Especifica
 Especificamente
 Esperienza
@@ -15501,7 +15501,6 @@ FourByFour
 FpFramebuffer
 FpsDuringJoin
 FpsVariance
-FqCDelistPpr2
 Fractional
 FRAGMENT_SCRIPT
 Fragmentos
@@ -15710,6 +15709,7 @@ FrustumOrdered
 FrustumQuery
 FrustumRenderQueue
 FtHpJpLpNpPbR
+FtleE4uN1OUjRZZX
 Fulfillment
 Fulfillments
 FullABTracker
@@ -15753,7 +15753,6 @@ FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FXHcFLH9FX
-FxN4k3RB88vfY7TbqhkncccG0UnDCgnFV
 GainControl
 GainController2
 GainMakeup
@@ -16185,7 +16184,6 @@ GetCookies
 GetCoreGuiEnabled
 GetCorescriptLocalizations
 GetCoreScriptVersion
-GetCountryRegionFo
 GetCountryRegionForPlayerAsync
 GetCountryRegionForPlayerAsync_Failed
 GetCountryRegionForPlayerAsync_Succeeded
@@ -17505,7 +17503,6 @@ Herramientas
 Herunterfahren
 HeuristicMask
 Hexadecimal
-HfBVPi4NAbQzlnPSamWn
 HHAEBVQModelIndex
 HHHHHAEBVQString
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
@@ -17515,7 +17512,6 @@ HHUQPrivateSignal
 HHW4AspectRatioMode
 HHW4Format
 HHW4Policy
-HiaGeBT9bq6Fqc
 HidD_FreePreparsedData
 HidD_GetAttributes
 HidD_GetFeature
@@ -18076,7 +18072,6 @@ HW4MatchType
 HW4Orientation
 HW4PacketPriority
 HW4TransformationMode
-Hw9FcaE9HrHE32jnq693Di5zI
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
@@ -18170,7 +18165,6 @@ Idotaccent
 Idotaccent.a
 IDraftsServiceHost
 IdsOrRanges
-IdvICKEo53CqA0flPwuuTGEaIrP8z97yD8eFzmqtsnGsaAMYHNsOK1rXik9Gq6qC
 IEAA_NPEBXAEBW4EFbxType
 IEAA_NW4Format
 IEAAPEADXZ
@@ -19335,6 +19329,7 @@ JasmineUPC
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
+JCd5zlQmCSGsldZa6u
 Jcircumflex
 JdiDeserializerConfigPerDC
 JdiDeserializerConfigUserIdPer100
@@ -19433,7 +19428,6 @@ JPEAUICoreWebView2Controller
 JPEAUICoreWebView2CookieList
 JPEAUICoreWebView2Environment
 JPEBUSG_INDEX_TRIANGLE
-JQe9lx8j2RnW4FgyKQ4M6eK48FJ1KrxvBZHbZyJZU38UkCAwEAAQ
 JSElementNotFound
 JsepTransport
 JsepTransportController
@@ -19549,7 +19543,6 @@ KFKPKXK`KhK
 KickByDatacenter_
 KickClientOnCoreGuiRenderOverflow
 KiDszBCYB0gyp03Pc
-KIhZo00bKL16bvGe4GM
 KillPtClicked
 Kinematics
 KKKKKKKKKK
@@ -19598,6 +19591,7 @@ LabelLayout
 LabelledData
 LadderRaycast
 Ladereihenfolge
+LALqG9W3MHdCnzxDYFfDnKUHZQJlOPoH5ottxIEW
 LandedBalanceD
 LandedBalanceP
 LandscapeLeft
@@ -19824,6 +19818,7 @@ LegColorId
 Leistungsdiagnose
 LengthToWrite
 LengthWhenFlushed
+LEqleaU21T2MLIdq5PLYAwldKo2ainh
 LessThan10
 LetterOrNumber
 LevelChanged
@@ -21323,6 +21318,7 @@ MenuSelectedText
 MenuTitleChanged
 MenuToMenuInternal
 MenuTrigger
+MER573mZZMeWPhtGfwsCAwEAAQ
 MERCHANTABILITY
 MergeDisable
 MergeLineNumberTextEdit
@@ -21523,7 +21519,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAvLyflt0G7vC0D48Pltqoy89MYGhR
+MIICCgKCAgEA3Qp6W3xPDxZ45hnO1WD6CgewyEiSYYWta1PJg47XUiWyTbhMkba3
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -23149,6 +23145,7 @@ OPUS_BANDWIDTH_WIDEBAND
 OpusCustomMode
 OpusPlcUsePrevDecodedSamples
 OpusSoftwareCodec
+Or4i7hBb0sH6JgpYH6RByBBndki
 OrCharacter
 Ordenamento
 OrderArray
@@ -26028,6 +26025,7 @@ PushResampler
 PVAdornment
 PVInstance
 PVK_header
+PWcy8iNVuw61A8bLwPDUn3tlDqWn8vuulC2aSWk5kLSA1VGHk
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
@@ -28036,7 +28034,6 @@ Replicazione
 Replikationen
 ReplyFinished
 REPORT_ABUSE
-ReportAbuse
 ReportAbuseDeadCodeHit
 ReportAbuseV2
 ReportAbuseV3
@@ -28513,7 +28510,6 @@ Revolution
 RFormatTrace]
 RGBA_Buffers
 RGBOL565RGBP5551RGBO
-RgPdD9IbogjyoC
 RhodiumHelpers
 RibbonBarGallery
 RibbonBarGalleryBetaFeature
@@ -28656,7 +28652,6 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
-RJsbNZOGH2KhGEM6wUgsnS
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -35444,6 +35439,7 @@ Studio.App.TemplatesPage.AllTemplates
 Studio.App.Theme.InvalidGetThemeApi
 Studio.App.ToastNotificationService.NotAvailable
 Studio.App.Tooltip.GoToSource
+Studio.App.Tooltip.Variadic
 Studio.App.TwoStepVerificationPage.Enter6DigitCode
 Studio.App.TwoStepVerificationPage.NeedHelpContact
 Studio.App.TwoStepVerificationPage.RobloxSupport
@@ -36221,6 +36217,7 @@ StudioReportMemoryInBytes
 StudioReportOpenPlaceTimeFilter
 StudioReportPlaceInfoWithRibbonAnalytics
 StudioReportQmlCrashThrottleHundredthsPercent
+StudioReportStartupInfoInfluxHundredthsPercentage
 StudioReportStreamingEnabledChange
 StudioReportStreamingEnabledChangeHundredths
 StudioReportStudioOpenPlaceHundredthsPercentage
@@ -37342,7 +37339,6 @@ TextWrapped
 TextXAlignment
 TextXmlParser
 TextYAlignment
-TfTdMtxlYw0QMl
 TGenericSlotWrapper
 TGenericSlotWrapper.
 ThatCausedFocusLoss
@@ -37469,6 +37465,7 @@ ThumbnaiRenderImportantPerformUpdatesOnly
 Thumbstick
 Thumbstick1
 Thumbstick2
+THZLUq5xMx8fjCVODU1aotp8oLa0mjBuAFyj
 TI.pid.toString
 TI.tid.toString
 TickCountPreciseOverride
@@ -38523,6 +38520,7 @@ UBreakpointData
 UBulkAudioLoader
 UBulkImporterJob
 Ubuntu.json
+Uc0jHUFeUFIbZ04SoGA0B4bGfr3Jw
 UCachedBitstream
 UCachedLuaWebServiceInfo
 UCachedRawLuaWebServiceInfo
@@ -39767,7 +39765,6 @@ UWorkspaceApplyEditRequest
 UWorkspaceApplyEditResponse
 UWorkspaceDidChangeConfigurationNotification
 UXImprovementAddSearchBar
-UZuYdwCp1ULegpEOvB2VneiPtusfmmnOyGbGZ32upn
 VAccessory
 VAccountInfoRequest
 VAccoutrement
@@ -42811,10 +42808,10 @@ XPEBDPEBDV
 XPEBVGImage
 XPEBVInstance
 XPEBVIStatus
+XpElrUHNMT192ImdCOkA8wqEA3brPnwzREe6MVqxkR1KZgH1pXSSFz04vIsm
 XQColorDialog
 Xregex_error
 XResolution
-XT8Z7YOHQZ
 Xtime_get_ticks
 XUPlaySoloConfiguration
 XUPublishDiagnosticsNotification
@@ -42824,7 +42821,6 @@ XUSnippetPackState
 XUSnippetState
 XUTextPosition
 XUUserPluginReference
-XUwibSvi8BEIOiRtrJL
 XvAAuY44YuAAvX4
 XVAddImageDialog
 XVCacheableContentProvider
@@ -42884,7 +42880,6 @@ XW4WebSocketEventType
 XwhvcEikuIaqb7nHhEJ
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
 XXXXXXXXXXXXXXXXXXXXXXXXX
-XZ5Qf9lGcpjMFO8vm4tyMyhLKUsuMIfsKQkHyvuGbTkcIh
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
 XZP8GuiObject
@@ -42927,7 +42922,6 @@ YAXPEBVQObject
 YAXVexception_ptr
 YAXW4error_type
 YAXW4RegistrationType
-YC1pykGSMWXsu4s7Dt4Zi08QxuQw8
 Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
@@ -42936,8 +42930,9 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
+YL5XnJO9AcyK0BKzjDcuisdG0G8WdJkU7nZ148Tjq462s08s2
+YOVpYdBYTKod8Y6XjpxaoULcv4FtcMaIsAPMjQupRtaeJPxFWuvhA0K2pn
 YResolution
-YStudio.App.Tooltip.Variadic
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
@@ -42969,7 +42964,6 @@ ZPu4fE9Z`u
 ZRZZZbZt[.[
 Zusammenfassung
 ZVLocalTouchedSignal
-ZvLs658NRuO3vObnoKnZJTRxrq4yfJS5p7i1HWLGdHKvyzM
 ZVspecial_equipped_signal
 ZVTouchedSignal
 Zwischenablage
