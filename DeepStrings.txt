@@ -75,6 +75,7 @@ AAEE11E38B9D871882A8E559
 AAF011E38B9D871882A8E559
 AAF111E38B9D871882A8E559
 AAF511E38B9D871882A8E559
+AAudioDeviceErrorTelemetry
 AB0BF11E395B6E5DB6211F344
 AB0DC85B11
 ABAllUsers
@@ -406,7 +407,6 @@ AddTransportOffer
 AddUIToggleToRibbon
 AddUserAsync
 ADebugSSAOForce
-ADeferredVoxelUpdates
 AdGuiEnabled
 AdGuiImageMaxHeightInStudTenths
 AdGuiImageMaxWidthInStudTenths
@@ -748,6 +748,7 @@ AggregateInfo.EmptyFrames[nHoverFrame]
 AggregateInfo.Frames
 AggregateInfo.TotalFrames
 AggrFrames
+AGKEiNYNk4shhAID
 Agravesmall
 Agreements
 Aguardando
@@ -1614,7 +1615,7 @@ AstExprVarargs
 AstStatFor
 AstStatFunction
 AstTypePack
-AStudioReportStartupInfoInfluxHundredthsPercentage
+AStudio.App.RBXMainWindow.InsertObjectsWidgetMenu
 AsusROG71OSD.dll
 AsusStrixOSD.dll
 AsusU7MKIIOSD.dll
@@ -1840,7 +1841,6 @@ AudioDevice
 AudioDeviceBuffer
 AudioDeviceBufferTimer
 AudioDeviceError
-AudioDeviceErrorTelemetry
 AudioDeviceGeneric
 AudioDeviceModule
 AudioDeviceModuleImpl
@@ -7095,9 +7095,7 @@ BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
-BCurrentDataModelType
 BD67FE0E20681192B0EC12CE5A0D3C
-BdDl6bu3Dif20VJ2Y8so45mNc
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
 BEA91211E2B410EF351327957B
@@ -7323,6 +7321,7 @@ BlurAxisXYZScratch
 BlurEffect
 BlurRadius
 BMaterialServiceImprovedSignal2
+Bmc5g0Sym38gT
 BN_BLINDING_convert_ex
 BN_BLINDING_create_param
 BN_BLINDING_invert_ex
@@ -7506,6 +7505,7 @@ BreakReason
 BreakUpPerfAggregate
 BRenderGrassHeightScaler
 BRenderReportOutOfMemory
+BReportAbuse
 Brevesmall
 BrickColor
 BrickColor.
@@ -7567,7 +7567,6 @@ BrushOrigin
 BrushStyle
 BrutalLegendTest
 BruteForceAllSlow
-BthumbnailSize
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -7671,7 +7670,6 @@ BundleType
 BundleTypes
 BuoyancyAccumulator
 BuoyancyInSensorData2
-BUSGSOPGferp
 BusyStatesShifted
 Buttermilk
 Button1Down
@@ -9530,7 +9528,6 @@ Cnd_signal
 Cnd_timedwait
 Cnd_unregister_at_thread_exit
 CngMaxOutsizeOrder
-CO0rFQNdrUIgLyl
 CoAddRefServerProcess
 Coalescing
 CobblestM9
@@ -10984,6 +10981,7 @@ CurrentCharFormat
 CurrentChatSession
 CurrentColor
 CurrentCursorResultLocation
+CurrentDataModelType
 CurrentDataModelTypeAboutToChange
 CurrentDataModelTypeChanged
 CurrentDate
@@ -11131,6 +11129,7 @@ Cylindrical
 CylindricalConstraint
 CylindricalConstraintAction
 Cylindrique
+CZEL42U9nupH2OBgjanxJXRivUr8C5tEnoilL3d1t8nZSwCfgOPWOXTcWW5z
 D_Key_dn.png
 D`v\F^r\D`
 DA88D6583A11E29A3DBD856014A660
@@ -11399,7 +11398,6 @@ DB33D3AAF011E38B9D871882A8E559
 DB33D6AAF011E38B9D871882A8E559
 DB33D7AAF011E38B9D871882A8E559
 DBD856014A660
-DcO6DgPElCCBMR1BztCngwcr1GWdpmnyr3DGEKnwQLRz47JAgPn
 DD11E2898E9FB8E4A9E79B
 DD4669DB402E11E3A29DA4266180AE0C
 DD4669DC402E11E3A29DA4266180AE0C
@@ -12087,6 +12085,7 @@ DeferredNewRegions
 DeferredReporter
 DeferredTerrainChanges
 DeferredUpdates
+DeferredVoxelUpdates
 DefineCallout
 DefineFastFlag
 DefineFastInt
@@ -12157,6 +12156,7 @@ DeleteSync
 DeleteTextures
 DELETETOSTARTOFLINE
 DeleteVertexArrays
+DelistPpr2
 DeliverLowMemoryWarningsViaPolling
 DeliverRtcp
 DeliverRtp
@@ -12581,7 +12581,6 @@ DFbxAMatrix
 DFbxMatrix
 DFIntGameNetLocalSpaceMaxSendIndex
 DfNfXfbftf
-DFpdLzSv9MckKKNWP7qcNC3CGme5J6Fom03srLt8vHsHFJf98a
 DGHASH_ASM
 DgNg`ghgpgxg
 DgNgXgbglgvg
@@ -12897,7 +12896,6 @@ DMinMaxDistance
 DmJobTotal
 DnsResolve
 DNSResponseMS
-DO1TUCpBmQiLaXA6IJyvtZekpy0NGxE7A7Q9V5gFnzZtEs46hPJPNrRLiCf2
 DoAllocate
 DocActivation
 DocActivationHistoryController
@@ -13285,7 +13283,6 @@ E_disc_bottom_link.png
 E_modified.png
 E`u3fE9Epu
 EA2AAEB11E38B9D871882A8E559
-Ea6QXgq8oipKDDmaq
 EAAEB11E38B9D871882A8E559
 EAAF011E38B9D871882A8E559
 EAAF886F11E18561866242201959
@@ -13658,7 +13655,6 @@ Einstellungs
 Einstellungsdatei
 Einzelspiel
 Einzelspielermodus
-EJ0e5J9GhZEpgJ
 EJJJJJJJJJJJJJJJJJJJJ
 EJTU\^bcfguw
 Elaborazione...
@@ -15286,6 +15282,7 @@ FlatTool_dn.png
 FlexfecConfig
 FlexfecReceiveStream
 FlexfecReceiveStreamImpl
+FLHPRFXHR0qq
 FlightStick
 FlipbookFramerate
 FlipbookH9
@@ -15514,7 +15511,6 @@ FourByFour
 FpFramebuffer
 FpsDuringJoin
 FpsVariance
-FqCDelistPpr2
 Fractional
 FRAGMENT_SCRIPT
 Fragmentos
@@ -15766,7 +15762,6 @@ FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FXHcFLH9FX
-Fzkm11eNaGVqAHAvOu
 GainControl
 GainController2
 GainMakeup
@@ -17038,6 +17033,7 @@ GoogleAnalyticsThreadPoolMaxScheduleSize
 GoogleAnalyticsTracking
 GoogleAnalyticsTracking]
 GoogleAnalyticsUseEventIngest
+Gos6uDDXMjzyyzTNTV6M1zzlafNXytSYs31DaxEobhhon0wM
 GOST_KX_MESSAGE
 GothamBlack
 GothamBold
@@ -17449,7 +17445,6 @@ HbaoCompositFS
 HBAODepthDownFS
 HbaoRenderCompute
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
-HBL.PXRrPfH
 Hcircumflex
 HdAvailables
 HDCacheLock
@@ -17690,6 +17685,7 @@ HPEAVQWidget
 HPEAVVideoStream
 HPEAXHPEANNH
 HPEBVQMimeData
+HPzYOXXE8MNU0sHFzFTvi
 HQEAPEAVQGraphicsItem
 HSRAssetId
 HSRClusterImprovement
@@ -18201,7 +18197,6 @@ IfE9Z0uBfE9Z
 IFindListener
 IfLastDocInLastAppInstance
 IfLineOfSightClear
-IfM18Ssds98VPixwkiEtJeSspLjxidutcPnc8XuIbRfr1
 IfPurchased
 IGameIconsStore
 IGeneralProcessor
@@ -19340,6 +19335,7 @@ IXPTestBrowserTrackerLayerName
 IXPTestSignupLandingLayerName
 IXPTestUserLayerName
 IYUVI420YU12I420YU16I422YU24I444YUYVYUY2yuvsYUY2HDYCUYVY2vuyUYVYJPEGMJPGdmb1MJPGBA81BGGRRGB3raw
+IZcTtp9PBIeIRN9QMvX4rzm6W2u7PekBtIBhL6JBDHYiQmHpTuKNoonNxxGW2
 J_Key_dn.png
 J_NW4CurrencyType
 JacketAccessory
@@ -19347,7 +19343,6 @@ JasmineUPC
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
-JChmLzXobU7rAWhA1VbRyECAwEAAQ
 Jcircumflex
 JdiDeserializerConfigPerDC
 JdiDeserializerConfigUserIdPer100
@@ -19367,7 +19362,6 @@ JitterBufferDelayProxyWithInternal
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
-JobMaxReportsPerTick
 JobTimerDuringInitialExperience
 Jogabilidade
 JoinAttemptId
@@ -19490,7 +19484,6 @@ Kalam.json
 Kameraempfindlichkeit
 Kamerageschwindigkeit
 Kamerazoom
-KBobvBvanfzS1fohEICOewF2foAgp
 KBytesPerSec
 KeepAliveTimeout
 KeepPositionOnInsert
@@ -21500,6 +21493,7 @@ MFCreateMediaType
 MFCreateMemoryBuffer
 MFCreateSample
 MFPlat.DLL
+MfT74qQRoTfv
 MHapV7R8MxA953
 Michroma.json
 MICROPHONE_ACCESS
@@ -21529,7 +21523,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA0JE6WCUQTNbgB7NJxMLMS8bKmey0WaCl
+MIICCgKCAgEA6IJqfvcpgPcHDIY
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -23781,7 +23775,6 @@ PcFactoryDefaultBitrates
 PCStudioApp
 PCStudioAppCJV
 PdL0F0RLTi
-PDStudio.App.Tooltip.Variadic
 PE_D_SRCH_LENGTH
 PE_MAX_NB_SUBFR
 PEAD1AEAPEAD
@@ -24553,7 +24546,6 @@ PeerConnectionFactory.
 PeerConnectionFactoryInterface
 PeerConnectionFactoryProxyWithInternal
 PeerConnectionInterface
-PeerConnectionManagerForSub
 PeerConnectionObserver
 PeerConnectionProxyWithInternal
 PeerConnectionState
@@ -26048,7 +26040,6 @@ QAbstractTextDocumentLayout
 QActionEvent
 QActionGroup
 QActionTriggered
-QaGrUJcVkckij6O8NQIPE0wyeh6J3utuEKNROhju5
 QAnimationGroup
 QApplication
 QArrayData
@@ -26595,6 +26586,7 @@ QPropertyAnimation
 QProxyStyle
 QPushButton
 QPushButton[default
+QpV8GyBg55dqZl1kgSgOhEcGOMYr9viQbou
 QQmlContext
 QQmlEngine
 QQmlImageProviderBase
@@ -28039,7 +28031,6 @@ Replicazione
 Replikationen
 ReplyFinished
 REPORT_ABUSE
-ReportAbuse
 ReportAbuseDeadCodeHit
 ReportAbuseV2
 ReportAbuseV3
@@ -28658,6 +28649,7 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
+RlTvap9LFuMl19as76tTD
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -35444,6 +35436,7 @@ Studio.App.TemplatesPage.AllTemplates
 Studio.App.Theme.InvalidGetThemeApi
 Studio.App.ToastNotificationService.NotAvailable
 Studio.App.Tooltip.GoToSource
+Studio.App.Tooltip.Variadic
 Studio.App.TwoStepVerificationPage.Enter6DigitCode
 Studio.App.TwoStepVerificationPage.NeedHelpContact
 Studio.App.TwoStepVerificationPage.RobloxSupport
@@ -36218,6 +36211,7 @@ StudioReportLuauWarningDetailsInfluxPriorityHundredthsPercentage
 StudioReportOpenPlaceTimeFilter
 StudioReportPlaceInfoWithRibbonAnalytics
 StudioReportQmlCrashThrottleHundredthsPercent
+StudioReportStartupInfoInfluxHundredthsPercentage
 StudioReportStreamingEnabledChange
 StudioReportStreamingEnabledChangeHundredths
 StudioReportStudioOpenPlaceHundredthsPercentage
@@ -36819,8 +36813,8 @@ TCSavedPlaceHashHttpError
 TCSavedPlaceHashMatch
 TCSavedPlaceHashMismatch
 TcStallingDuration
-TCWpvBBRQDJL3HfYJ4eWHtHF6lGDqyP6clw2
 Td8fThPj6lTnVp
+TdAPr7JAEoJ1qfUOnaDNxGbpycyKmZ1n278sJ6XpviniEt9N0CAwEAAQ
 TeachingCallouts
 TeamChatWindowAction
 TeamChildOrderExposedTelemetry
@@ -37671,7 +37665,6 @@ TitleBarProgress
 TitlebarText
 TitleBarVisible
 TJNLerU][Wr
-Tkp1STSYYMoKvF3ojJE0Bzl
 TLS_AES_128_CCM_8_SHA256
 TLS_AES_128_CCM_SHA256
 TLS_AES_128_GCM_SHA256
@@ -39504,7 +39497,6 @@ UserExitFreecamBreaksWithShiftlock
 UserFacingWebsite
 UserFixBubbleChatText
 UserFixCameraSelectModuleWarning
-UserFixChatWindowHove
 UserFixChatWindowHoverOver
 UserFixLoadAnimationError
 UserFixModalEnabled
@@ -40187,6 +40179,7 @@ VDataStoreVersionPages
 VDateHandler
 VDateParser
 VDatetimeHandler
+VDEAVIISe5AR6RoQD2jxt184RefUxxy7hym
 VDebrisService
 VDebuggablePluginWatcher
 VDebuggerBreakpoint
@@ -42491,7 +42484,6 @@ WmfAudioEncoder
 WmfVideoDecoder
 WmfVideoEncoder
 Wmvcore.dll
-WO3xoDbQeya5on7QGGMA66683mbPA2
 WoodPlanks
 WoodPlanksName
 WoodPlanM9
@@ -42705,7 +42697,6 @@ XInputGetCapabilities
 XInputGetState
 XInputSetState
 Xinvalid_argument
-XJkj7fICCdLVstn3r80UmXG6
 Xlength_error
 Xout_of_range
 XP6AXAEBVQString
@@ -42817,6 +42808,7 @@ XQColorDialog
 Xregex_error
 XResolution
 Xtime_get_ticks
+XUjKCd4q7ddBpHdFmIxICU
 XUPlaySoloConfiguration
 XUPublishDiagnosticsNotification
 XUScriptUpdateInfo
@@ -42927,16 +42919,15 @@ YAXVexception_ptr
 YAXW4error_type
 YAXW4RegistrationType
 Ycircumflex
-YD59iO6AbRXG7Nsp
 Ydieresissmall
 YDYHYQYTYbYsY
+Yf0xEzpx0FmLJyTRQO2zMv8VAZmySJsjKp4
 YffYZefYDNNDCOO
 YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
 YResolution
-YVkS6PcxQuzq439G
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
@@ -42955,6 +42946,7 @@ ZeroTargetSpeedStartTimeCountToTotalCount
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
+ZnbFfAHY0nkq4upbZCZe8x0Ijyv38KlWj8
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
