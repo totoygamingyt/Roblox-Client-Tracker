@@ -75,7 +75,6 @@ AAEE11E38B9D871882A8E559
 AAF011E38B9D871882A8E559
 AAF111E38B9D871882A8E559
 AAF511E38B9D871882A8E559
-AAudioDeviceErrorTelemetry
 AB0BF11E395B6E5DB6211F344
 AB0DC85B11
 ABAllUsers
@@ -289,7 +288,6 @@ ActionType
 ActionVisible
 ActionVisiblity
 ActionWidgetVisibility
-ActivateEditorWhenFoucs
 ActivateEventDontChangeInputStateUntilTriggered
 ActivateWindow
 Activating
@@ -408,6 +406,7 @@ AddTransportOffer
 AddUIToggleToRibbon
 AddUserAsync
 ADebugSSAOForce
+ADeferredVoxelUpdates
 AdGuiEnabled
 AdGuiImageMaxHeightInStudTenths
 AdGuiImageMaxWidthInStudTenths
@@ -856,6 +855,7 @@ AllowMultipleHangReports
 AllowNoDHEKEX
 AllowPopups
 AllowReordering
+AllowRepeatedMiddleKeys
 AllowSleep
 AllowTeamChangeOnTouch
 AllowTextBoxesInSurfaceGuis
@@ -1615,7 +1615,7 @@ AstExprVarargs
 AstStatFor
 AstStatFunction
 AstTypePack
-AStudio.App.RBXMainWindow.InsertObjectsWidgetMenu
+AStudioReportStartupInfoInfluxHundredthsPercentage
 AsusROG71OSD.dll
 AsusStrixOSD.dll
 AsusU7MKIIOSD.dll
@@ -1841,6 +1841,7 @@ AudioDevice
 AudioDeviceBuffer
 AudioDeviceBufferTimer
 AudioDeviceError
+AudioDeviceErrorTelemetry
 AudioDeviceGeneric
 AudioDeviceModule
 AudioDeviceModuleImpl
@@ -6900,6 +6901,7 @@ AXW4UserCFrame
 AXW4UserInputType
 AXW4VoiceChatState
 AXW4VRTouchpad
+AYSIHjUld8QnHbT6cLAzkC9Ib
 B^F.HR4nL.4U
 BA447F42A91111E2B410EF351327957B
 BA886F11E18561866242201959
@@ -7071,9 +7073,9 @@ BBA91211E2B410EF351327957B
 BBBA91111E2B410EF351327957B
 BBBBBBBBBBBBBBBBBBBBBBBBBBBB
 BBCA91111E2B410EF351327957B
+BbCDTiGutXW
 BbEcJYG[I[NYVP\B]
 BBFA91111E2B410EF351327957B
-BBV4o6alTHOE8EoIMu6
 BBxZ55ZxBBx[5D
 BC0A91111E2B410EF351327957B
 BC0DAEAAF011E38B9D871882A8E559
@@ -7096,6 +7098,7 @@ BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
+BCurrentDataModelType
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
@@ -7178,7 +7181,6 @@ BgUpdateRedirectsRejectInfluxHundredthsPercentage
 BHBpBJXcdFg
 BHHHHHHHHHHHHHHHHHHHHHHHHHH
 BhHlLjJTiIfdnczsxX
-BHKQNc9Ylm
 Bibliotheksausweises
 Bidirectional
 BIIIIIIIIIIIIIIIIIIIIIIIIII
@@ -7506,7 +7508,6 @@ BreakReason
 BreakUpPerfAggregate
 BRenderGrassHeightScaler
 BRenderReportOutOfMemory
-BReportAbuse
 Brevesmall
 BrickColor
 BrickColor.
@@ -7568,6 +7569,7 @@ BrushOrigin
 BrushStyle
 BrutalLegendTest
 BruteForceAllSlow
+BthumbnailSize
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -7671,6 +7673,7 @@ BundleType
 BundleTypes
 BuoyancyAccumulator
 BuoyancyInSensorData2
+BUSGSOPGferp
 BusyStatesShifted
 Buttermilk
 Button1Down
@@ -7707,7 +7710,6 @@ BVQJsonValue
 BVRegion3int16
 BVSystemAddress
 BVTextureId
-BVwmGGgdrtzPmuWgmsc8KUCAwEAAQ
 BW4HighlightDepthMode
 BW4ModelLevelOfDetail
 BW4TexturePackAlphaMode
@@ -8112,6 +8114,7 @@ CBVRTCStatsReport
 CBVvalue_semantic
 CBW4AppConfigurationType
 CC11E498F68EF2339C0665
+CC4FrSp3VZsDktleuQTkYrGwcVT5cJPFNV8NgEBw51Rce6IaF9IB
 CC583B11E29A3DBD856014A660
 CCCCCCCCCCCCCCC
 CCCCCCCCCCCCCCCCC
@@ -10906,6 +10909,7 @@ CullFactorPixelThresholdShadowMapLowQuality
 Cumulative
 CumulativeDeserializeWithJdiOverThrottleMs
 CumulativeProcessDuringJoinOverThrottleMs
+CupQhnApLmUbO1lKQ5sJMoArb8blAWUjN
 CURL_SSL_BACKEND
 CURL_SSLVERSION
 CURL_SSLVERSION_MAX
@@ -10983,7 +10987,6 @@ CurrentCharFormat
 CurrentChatSession
 CurrentColor
 CurrentCursorResultLocation
-CurrentDataModelType
 CurrentDataModelTypeAboutToChange
 CurrentDataModelTypeChanged
 CurrentDate
@@ -12086,7 +12089,6 @@ DeferredNewRegions
 DeferredReporter
 DeferredTerrainChanges
 DeferredUpdates
-DeferredVoxelUpdates
 DefineCallout
 DefineFastFlag
 DefineFastInt
@@ -12157,7 +12159,6 @@ DeleteSync
 DeleteTextures
 DELETETOSTARTOFLINE
 DeleteVertexArrays
-DelistPpr2
 DeliverLowMemoryWarningsViaPolling
 DeliverRtcp
 DeliverRtp
@@ -13035,7 +13036,6 @@ DPERF_BeginEvent
 DPERF_EndEvent
 DPERF_GetStatus
 DPOLY1305_ASM
-DPrRDnSXSp00ju
 Dqlqlqlqlql
 DraftAdded
 DraftCommitted
@@ -13109,6 +13109,7 @@ DrawRangeElements
 DrawTextBox
 DrawTimerRow
 DrawToolTip
+DRB73IHuvEDQO18DVtoRY
 Drehmoment
 Drehwerkzeuge
 DressSkirt
@@ -14541,7 +14542,6 @@ FA9E4BAAEC11E38B9D871882A8E559
 FAAEB11E38B9D871882A8E559
 FAAED11E38B9D871882A8E559
 FAAF011E38B9D871882A8E559
-FAb8VnsWlrE
 FabricName
 FaceAccessory
 FaceAnimationEditorFocusFaceWithF
@@ -14851,7 +14851,6 @@ Fehlersuche
 FEHLERSUCHE
 Fehlgeschlagen
 Fenstermodus
-FEOz9aPiaq
 Ferramenta
 Ferramentas
 FetchAndLoadSettingsFromCdn
@@ -15513,6 +15512,7 @@ FourByFour
 FpFramebuffer
 FpsDuringJoin
 FpsVariance
+FqCDelistPpr2
 Fractional
 FRAGMENT_SCRIPT
 Fragmentos
@@ -17263,6 +17263,7 @@ GroupUnderModel
 Grundeinstellungen
 Gruppenteile
 Gruppierung
+GsOKHHGX5Wd4qdcXcNVnauU8EIVMeMGmO7TCsDAqhDMIn2fPtB8CAwEAAQ
 GSSolverActive
 GTFiEnDdCJB
 GTInfluxDB
@@ -17624,7 +17625,6 @@ HLNlRtVlZt^lbtfljtnprxvtzx
 HlsAdaptionLogic
 HlsIgnoreDeprecatedRbxTags
 HMACGostR3411
-HnBi0LWOaMiSCYUYhtHllLWfgSrNrxvBjpN
 HoldDuration
 Holzbretter
 HomeDataModel
@@ -19071,7 +19071,6 @@ IPTypeAndDataCenter
 IPublishedGamesStore
 IPV6_V6ONLY
 IPv6Default
-IqruYMIlVtsWZVIPH1uy770DHLNwtJCity
 IRestartController
 IRobloxDoc
 IRobloxDocManager
@@ -19344,7 +19343,6 @@ JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
 Jcircumflex
-JClscCCOrRk
 JdiDeserializerConfigPerDC
 JdiDeserializerConfigUserIdPer100
 JdiProcessTimeMsDuringJoin
@@ -19355,7 +19353,6 @@ JdiV2Processed
 JdiV2ProcessedPerFrame
 Jdiv2RecvDuringJoin
 JDJNJXJbJlJvJ
-JgEgbHSQBnbQp6SxB5XlC8sRE2l0e2y6SI8IndOuN59AbudeYeBs
 JHJRJ\JfJpJxJ
 JHW4MembershipType
 JIIIIIIIKI
@@ -19456,7 +19453,6 @@ JsonFormat
 JSONObject
 JSONOverflowAbort
 JSONOverflowDepth
-JTvDtL7HX8T5Je8ww7
 JUAssetData
 Jugabilidad
 JUGroupRolesRequestRecord
@@ -19569,6 +19565,8 @@ Kleinschreibung
 KnownPrefixIndex
 KnownPublishRequest
 KodchiangUPC
+KOdqSPAbJuM
+KOeb95IvM7WW1ZQO0ooNCQecic1UgpcaQ
 Kollisionen
 Kollisionsgruppen
 Kollisionspr
@@ -19591,7 +19589,6 @@ Kopplungsbeschr
 Korrodiertes
 KPEAVICHull
 KPEBDPEBDH
-KQpuSvuVrGIm566adVJ4TtE
 Kugelverbindung
 Kundendienst.
 Kundensupport.
@@ -20937,6 +20934,7 @@ MbXMVSIi\H
 McF4IcV0IcF
 McF4IcV0IcN
 McN4IcV0IcN
+Md7aAN77RMApy3GvEAWfnT2wtTN801ZmyMtPw1qrbwjhlJ42UNymE
 MdiControls
 MDIManagerHost
 MEAA_JPEAD_J
@@ -21528,7 +21526,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA4L
+MIICCgKCAgEAvpPo4CTsuDaom4OiKq3
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21595,6 +21593,7 @@ Mitglieder
 Mitteilungen
 Mitwirkender
 MixLevelsOutput
+MkAJ4Sme7aLvvV6SsWsEB2pg1CB8zTs5
 MkvStreamWriter
 MLineIndex
 MMDeviceEnumerator
@@ -21929,7 +21928,6 @@ MRULocalFileStore
 MRULocalFileStoreBase
 MRURobloxApiGameStore
 MRURobloxApiGameStoreBase
-MS1YYTQxG0vBAzew7GlGT8nZeZtxkzjvcq9IUC0Uyutlh
 MSACM32.dll
 MsecBetweenTextureMemoryUsageArrayRefresh
 MSecsSinceEpoch
@@ -22119,6 +22117,7 @@ NavMeshTiles
 Nb5Z3kLJHN6
 NBNDNFNHNJNLNNNPNRNTNV
 NBNDNFNHNJNLNNNPNRNTNVNXNZN\N^N`NbNdNfNhNjNlNnNpNrNtNvNxNzP
+NcLqZjndcOxPo1zxmzE
 NCONF_dump_bio
 NCONF_dump_fp
 NCONF_get_number_e
@@ -22858,6 +22857,7 @@ OGRE_VIEW_UPDATE
 OgreWidget
 OgreWidgetForGameState
 OgreWidgetShowEvent
+OhBDgWVfGEOdLReOAcQa3rhkUFtIusQo9
 Ohungarumlaut
 OiCCPPhotoshop
 OldActiveElement
@@ -24890,6 +24890,7 @@ PixelStorei
 PixelXDimension
 PixelYDimension
 PixmapRect
+Pj6XSH1VbINWyj5D1nt9TLVjE3m8ZYocR5amoArdJl
 PKCS12_AUTHSAFES
 PKCS12_BAGS
 PKCS12_create
@@ -24978,6 +24979,7 @@ PKCS8PrivateKey_bio
 PKCS8PrivateKey_fp
 PKEY_CRYPTO
 PKEY_USAGE_PERIOD
+Pkh15FfIXvRGyTTzWwjiIG
 PKIMessage
 PKIResponse
 PktDropReportFor
@@ -26034,6 +26036,7 @@ PushResampler
 PVAdornment
 PVInstance
 PVK_header
+PwVgdK4cSowPqze6uL
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
@@ -28041,6 +28044,7 @@ Replicazione
 Replikationen
 ReplyFinished
 REPORT_ABUSE
+ReportAbuse
 ReportAbuseDeadCodeHit
 ReportAbuseV2
 ReportAbuseV3
@@ -29086,6 +29090,7 @@ RxIgnoredBytes
 RxIgnoredPackets
 RxQueueSize
 RxRlReport
+RyMmppPMNAvcifBUoUfU2N4jq7L5hUVFOQDaOkt
 S_Key_dn.png
 SA_KPEAPEBVfacet
 SA_NAEBVConnection
@@ -29410,7 +29415,6 @@ ScriptHashBase
 ScriptHashHead
 ScriptHighlightFormats
 ScriptHistoryAction
-ScriptInExplorer
 ScriptInExplorerAction
 ScriptingAnalysisProxyModel
 ScriptingAnalysisTreeView
@@ -30511,7 +30515,6 @@ SetWindowPos
 SetWindowsHookExA
 SetWindowsHookExW
 SetWindowTextW
-Sfksttne0ZZDMHLd1KoYK5Y2uKZYCSoKZZ
 Sfoglia...
 ShaderLoad
 ShaderLoad_TotalTime
@@ -31908,7 +31911,6 @@ StringView
 StrLib.cpp
 StrokeWidth
 Studentenausweises
-Studio.App
 Studio.App.
 Studio.App.AboutStudioDialog.AmongRegisteredTrademarks
 Studio.App.AboutStudioDialog.ContactUs
@@ -35447,6 +35449,7 @@ Studio.App.TemplatesPage.AllTemplates
 Studio.App.Theme.InvalidGetThemeApi
 Studio.App.ToastNotificationService.NotAvailable
 Studio.App.Tooltip.GoToSource
+Studio.App.Tooltip.Variadic
 Studio.App.TwoStepVerificationPage.Enter6DigitCode
 Studio.App.TwoStepVerificationPage.NeedHelpContact
 Studio.App.TwoStepVerificationPage.RobloxSupport
@@ -35978,7 +35981,6 @@ StudioFixExportVertexLimit
 StudioFixGalleryLayoutUpdate
 StudioFixMacPlayModeMouseLag
 StudioFixPlayerNameInClientAndServerMode
-StudioFixScriptRecoveryContextMenu
 StudioFixShortEvents
 StudioFixTCCancelCrash2
 StudioFixTCConnectStringArg
@@ -36224,7 +36226,6 @@ StudioReportMemoryInBytes
 StudioReportOpenPlaceTimeFilter
 StudioReportPlaceInfoWithRibbonAnalytics
 StudioReportQmlCrashThrottleHundredthsPercent
-StudioReportStartupInfoInfluxHundredthsPercentage
 StudioReportStreamingEnabledChange
 StudioReportStreamingEnabledChangeHundredths
 StudioReportStudioOpenPlaceHundredthsPercentage
@@ -36688,7 +36689,6 @@ TA_BasicObjects.png
 TA_ObjectBrowser.png
 TabBarTabLabel
 TabBarTabShape
-TabChangesFocus
 TabCloseButton
 TabCloseRequested
 TabDoubleClicked
@@ -36828,7 +36828,6 @@ TCSavedPlaceHashMatch
 TCSavedPlaceHashMismatch
 TcStallingDuration
 Td8fThPj6lTnVp
-TDfaDEVBNJ9NiR
 TeachingCallouts
 TeamChatWindowAction
 TeamChildOrderExposedTelemetry
@@ -39775,7 +39774,6 @@ UWorkspaceApplyEditRequest
 UWorkspaceApplyEditResponse
 UWorkspaceDidChangeConfigurationNotification
 UXImprovementAddSearchBar
-UZ0xPLdplinby8Fm8NX7f4qdmW
 VAccessory
 VAccountInfoRequest
 VAccoutrement
@@ -40275,7 +40273,6 @@ VDummyArbiter
 VDuplicateRowData
 VDurationLogger
 VDynamicRotate
-VeBStudio.App.Tooltip.Variadic
 VEchoSoundEffect
 Vector2.new
 Vector2int16
@@ -41813,6 +41810,7 @@ VTimeHandler
 VTimerService
 VTimerTickerJob
 VTimeSliceParser
+VTmiF1xlkA3ZFW2
 VTMMTriangle
 VTMMVertex
 VToastNotificationService
@@ -42068,7 +42066,6 @@ WaypointIdx
 WaypointSpacing
 WCharArray
 Wcircumflex
-WD58em7qiz1T37M7ygKP7E4pxt10GsYE7N0iIlws9eTouhjUWakimsnjBLrcCMd
 WDU_Mbstatet
 WeakFunctionRef
 WeakObjectRef
@@ -42391,7 +42388,7 @@ Wiederholen
 Wiederholungslimit
 Wiederverbindung
 WilError_03
-Win64.544.1087
+Win64.545.10848
 WinChannelCrashCounter
 WinchEnabled
 WinchForce
@@ -42827,7 +42824,6 @@ XQColorDialog
 Xregex_error
 XResolution
 Xtime_get_ticks
-XuKNzqMsUIiVYOgqzEdtCqVwzuzsyyFhAienEUDlAA4
 XUPlaySoloConfiguration
 XUPublishDiagnosticsNotification
 XUScriptUpdateInfo
@@ -42836,6 +42832,7 @@ XUSnippetPackState
 XUSnippetState
 XUTextPosition
 XUUserPluginReference
+Xv5IQuB7Xjqzgnv4j
 XvAAuY44YuAAvX4
 XVAddImageDialog
 XVCacheableContentProvider
@@ -42945,7 +42942,6 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YiOkeQaYxLzuZ4em8piYm0PZPX3BbCSF6ru1jPKBK1hwYEXhtlDnwHZG4hiPcm
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
@@ -42956,6 +42952,7 @@ ZAEAPEBV34
 ZAEBQEAV34
 Zahlenfarbe
 Zb\b^Lbbp6tPxb
+ZbklAwCi8qeALyREz55HX
 Zcaronsmall
 Zdotaccent
 Zeichenfolgefarbe
@@ -42977,7 +42974,6 @@ ZPEAVPluginMouse
 ZPu4fE9Z`u
 ZRZZZbZt[.[
 Zusammenfassung
-ZvCK1M8gcwB1LFyIlzLq
 ZVLocalTouchedSignal
 ZVspecial_equipped_signal
 ZVTouchedSignal
