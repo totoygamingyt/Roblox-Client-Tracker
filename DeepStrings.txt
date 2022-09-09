@@ -75,6 +75,7 @@ AAEE11E38B9D871882A8E559
 AAF011E38B9D871882A8E559
 AAF111E38B9D871882A8E559
 AAF511E38B9D871882A8E559
+AAudioDeviceErrorTelemetry
 AB0BF11E395B6E5DB6211F344
 AB0DC85B11
 ABAllUsers
@@ -406,7 +407,6 @@ AddTransportOffer
 AddUIToggleToRibbon
 AddUserAsync
 ADebugSSAOForce
-ADeferredVoxelUpdates
 AdGuiEnabled
 AdGuiImageMaxHeightInStudTenths
 AdGuiImageMaxWidthInStudTenths
@@ -726,6 +726,7 @@ AfterWorldsteps
 AgainstLatestPackageAction
 AgcClippingLevelExperiment
 AgcMinMicLevelExperstate_
+AgDpAyULKpVosS5P1ho
 Age13OrOver
 AgeBracket
 Agencement
@@ -1614,7 +1615,7 @@ AstExprVarargs
 AstStatFor
 AstStatFunction
 AstTypePack
-AStudioReportStartupInfoInfluxHundredthsPercentage
+AStudio.App.RBXMainWindow.InsertObjectsWidgetMenu
 AsusROG71OSD.dll
 AsusStrixOSD.dll
 AsusU7MKIIOSD.dll
@@ -1840,7 +1841,6 @@ AudioDevice
 AudioDeviceBuffer
 AudioDeviceBufferTimer
 AudioDeviceError
-AudioDeviceErrorTelemetry
 AudioDeviceGeneric
 AudioDeviceModule
 AudioDeviceModuleImpl
@@ -7095,7 +7095,6 @@ BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
-BCurrentDataModelType
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
@@ -7357,7 +7356,6 @@ BN_rand_range
 BN_RECP_CTX_new
 BN_STACK_push
 BN_to_felem
-BoCiFy3DFXgTj5D6BpkqG0zyLgMUnSeMI9R0fDamIs4aSctWR9
 BodyAngularVelocity
 BodyBack_Att
 BodyBackAttachment
@@ -7506,7 +7504,9 @@ BreakReason
 BreakUpPerfAggregate
 BRenderGrassHeightScaler
 BRenderReportOutOfMemory
+BReportAbuse
 Brevesmall
+BrGzUIaxt5VyvLLIkreRMF42iFinZ2FBI0rVz
 BrickColor
 BrickColor.
 BrickColorChanged
@@ -7567,7 +7567,6 @@ BrushOrigin
 BrushStyle
 BrutalLegendTest
 BruteForceAllSlow
-BthumbnailSize
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -7671,7 +7670,6 @@ BundleType
 BundleTypes
 BuoyancyAccumulator
 BuoyancyInSensorData2
-BUSGSOPGferp
 BusyStatesShifted
 Buttermilk
 Button1Down
@@ -7724,7 +7722,6 @@ BwUsedForAllTransmissionKBps
 BwUsedForAllTransmissionsKBps
 BwUsedForNewTransmissionsKBps
 BwUsedForReTransmissionKBps
-BxfiOqpjTyDWI
 ByCongestionControl
 ByContacts
 ByDatacenter_
@@ -10403,6 +10400,7 @@ CPULogicalCore
 CpuTimeSpentOnDecodingAudio
 CpuTimeSpentOnDecodingVideo
 CpuUserTime
+Cq3c8ZJ1FIz4TfuK
 CrackedLava
 CrackedLavaName
 CrashDumpFileName
@@ -10890,7 +10888,6 @@ CSwitchTime
 CSwitchTime.length
 CSwitchTime[i]
 CT_POLICY_EVAL_CTX_new
-CT63vHJus9IpDTcWg6BTh3dfxQQQBXMWMLV4CpUSS
 CtctStageCtcts
 CTLOG_new_from_base64
 CTLOG_STORE_load_file
@@ -10985,6 +10982,7 @@ CurrentCharFormat
 CurrentChatSession
 CurrentColor
 CurrentCursorResultLocation
+CurrentDataModelType
 CurrentDataModelTypeAboutToChange
 CurrentDataModelTypeChanged
 CurrentDate
@@ -12087,6 +12085,7 @@ DeferredNewRegions
 DeferredReporter
 DeferredTerrainChanges
 DeferredUpdates
+DeferredVoxelUpdates
 DefineCallout
 DefineFastFlag
 DefineFastInt
@@ -12157,6 +12156,7 @@ DeleteSync
 DeleteTextures
 DELETETOSTARTOFLINE
 DeleteVertexArrays
+DelistPpr2
 DeliverLowMemoryWarningsViaPolling
 DeliverRtcp
 DeliverRtp
@@ -13181,7 +13181,6 @@ DtmfSenderProxyWithInternal
 DualStreamVertexData5
 DUARAndOpenSurvey
 DueToMaxBytesInFlightCountToTotalCount
-DujkqnBpBDnqxtT7IAlEJQYQehmbNKuVXhOcVlZTD56NqIzAJDgcMa2R86IQ
 DummyStudioCounterToCheckForEventDropDuringShutdown
 DummyStudioCounterToCheckForEventDropDuringStartup
 DummyStudioEventToCheckForEventDropDuringShutdown
@@ -15510,7 +15509,6 @@ FourByFour
 FpFramebuffer
 FpsDuringJoin
 FpsVariance
-FqCDelistPpr2
 Fractional
 FRAGMENT_SCRIPT
 Fragmentos
@@ -15757,6 +15755,7 @@ FutureIsBrightPhase2GL3
 FutureIsBrightPhase2GLES3
 FutureIsBrightPhase3Vulkan
 FuzzyWeightModel
+FwSDFx7qdFbey0oANwFuJkuUcMluaBd9RhHpDeR3FHnB5674s8rne
 FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
@@ -15967,7 +15966,6 @@ Gcircumflex
 GCMinimumDeletionRateForNonZeroClientInstanceQuota
 GCReducesQuotaCriticalPercent
 GCReducesQuotaPercent
-GctV3WL2syOmn9vLW
 Gdotaccent
 GearAction
 GearGenreSetting
@@ -17445,7 +17443,6 @@ HbaoCompositFS
 HBAODepthDownFS
 HbaoRenderCompute
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
-HBL.PXRrPfH
 Hcircumflex
 HdAvailables
 HDCacheLock
@@ -17605,6 +17602,7 @@ HistoryViewMouseY
 HitConditionalBreakpoints
 HitLocationPartFilterDescendents
 HitTestFilter
+HjlDYEegZMCAwEAAQ
 HKEY_CLASSES_ROOT
 HKEY_CURRENT_CONFIG
 HKEY_CURRENT_USER
@@ -18084,7 +18082,6 @@ HW4MatchType
 HW4Orientation
 HW4PacketPriority
 HW4TransformationMode
-HwiRW7Bp5DG
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
@@ -19477,6 +19474,7 @@ JW4InfoType
 JW4TextChatMessageStatus
 JW4TextFilterContext
 JW4ThumbnailType
+JYwisAg5KrjeJ8Ephpv6FSZX5v0YMym
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -19975,7 +19973,6 @@ ListWidgetScrollingPastBottom
 LiveCoding
 Livellamento
 LivingRoom
-LjniX9vPr5FHVLTn0TPyYnWLyJu
 LLEo6Soxvx2
 LLLLLLLLLLLL
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
@@ -20644,9 +20641,11 @@ LuobuStudioWebViewTracingHundredthsPercent
 LuobuWhitelisted
 LuobuWhitelistedAllow
 LuobuWhitelistedField
+Lvf3RmZ3ya6rLR3S2miIyg9SnIwF97yhxnBS9U8hQ999YBStFB3cOKokcjaUE
 LvNZJjLvNZJjLvNZJjLvNZJ
 LvNZJjLvNZJjLvNZJjLvNZJ4H
 LVvuOx39]O
+Lw4veyBHWHNmodTWeLW944OnvqA2fngpyQBpgEkHX2D4JD
 M_NVWeakObjectRef
 MacGamepadUseGCController
 MachineAddress
@@ -21523,7 +21522,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAtyjtyx6lJC4mupuf6d7jiTxQdCNngAvTJAreNJys6jFwCmh1Ekiu
+MIICCgKCAgEAysgG8SSTOLvljhOkYzaUyauYTL7tML5TTekutglwJmaclJ0QRN9y
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21899,6 +21898,7 @@ MovingNoPhysicsBase
 MovingPrimitives
 MovingPrimitivesCount
 MP8BasePart
+Mp99kSLyHdU3WJS5a
 MpCehiHzreSzNTczkc9d
 MPEAUCachedContent
 MPEAVAdorn
@@ -22008,6 +22008,7 @@ MVTerrainHeightMapBlendScale
 MVTerrainRotationParam
 MW4MaterialType
 MyModelsAction
+MyTmvZHo87J5c1O2McNHjQKVcE9QOFfIYHjsJG4PlyU3PGsJED26ToZcMRCXCUiT
 MyUniverses
 MyWatchTreeWidget
 Nachrichten
@@ -22122,7 +22123,6 @@ NCONF_load
 NCONF_load_bio
 NCONF_load_fp
 NdnuScpeLkclOiiaVruaSilaKgnjRicyLiraCidyLmahCanaLtvaTtsvApygErmaSusiLumaBavaJietMimrAbraSitrPilhPhkrOihtKktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTzzzZssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
-NdXkCAwEAAQ
 NE9F0uHE9F4uBE9F8u
 NearIntensity
 NearPlaneZ
@@ -22855,6 +22855,7 @@ OgreWidgetForGameState
 OgreWidgetShowEvent
 Ohungarumlaut
 OiCCPPhotoshop
+OJZ0t1am7FS7T9MEvTQPzFd2Vpt8d7vwAujQw
 OldActiveElement
 OldBinaryStringLength
 OldDOFDownSampleAndComputeFarCoCHorizontal4xFS
@@ -23317,7 +23318,6 @@ OutThresholdMax
 OutThresholdMax.
 OutTouches
 OutUnprepareHeader
-Ov8XrOMxImZh3tj8q
 OverAction
 OverActionV2
 OverallHitRate
@@ -23363,7 +23363,7 @@ PA_A^A]A\_^
 PA_A^A]A\_^[
 PA_A^A]A\_^]
 PA_A^A]A\_^]H
-Pa554kFPyU5
+PaASYfH8C41
 PacakageCopiesHaveAutoUpdate
 PacakgeServiceReportFailedRequestsRate
 PacedSender
@@ -23687,6 +23687,7 @@ Pass3dAdorn
 PassDataModelDPIScale
 Passphrase
 PassThrough
+PassThroughArrayFS
 PassThroughFS
 PassThroughNoOpVS
 PassThroughPosVS
@@ -26516,6 +26517,7 @@ QFutureInterface
 QFutureInterfaceBase
 QFutureWatcher
 QFutureWatcherBase
+Qgk1txXNBlRaS8sasEL4
 QGraphicsDropShadowEffect
 QGraphicsEffect
 QGraphicsItem
@@ -27198,7 +27200,6 @@ RCCUpdateBroadphaseDtAverage
 RCCUpdateBroadphaseDtAverage_Datacenter_
 RCCWorldStepMsecDtPerNOU
 RcpReferenceTime
-Rcs7DM2vMtLn3NYykcwnmUcBlEU7k
 RDeserializeToPBQ
 ReachedTarget
 ReactionForceEnabled
@@ -28032,7 +28033,6 @@ Replicazione
 Replikationen
 ReplyFinished
 REPORT_ABUSE
-ReportAbuse
 ReportAbuseDeadCodeHit
 ReportAbuseV2
 ReportAbuseV3
@@ -28882,6 +28882,7 @@ RRReceiptFail
 RRReceiptTotal
 RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 RRRRRRRRzzzzzzzzzzzzzzzzzz
+RRzkye91jyzxzmsZsz2doV4Twau07016cpL5WFnun
 RSA_check_key
 RSA_check_key_ex
 RSA_meth_dup
@@ -28917,7 +28918,6 @@ RSA_verify_ASN1_OCTET_STRING
 RSA_verify_PKCS1_PSS_mgf1
 RSAPrivateKey
 RSAPublicKey
-RsxtnAzNAFjoAWeu5SzMh9TDWrPkVRPjflPyMsO
 RTCCertificate_
 RTCCertificateGenerationTask
 RTCCertificateGenerator
@@ -31038,7 +31038,6 @@ SlidingBallConstraint
 SlidingWindowMinFilter
 Slingshot.png
 SlingshotTexture.png
-SlmkWKbwKTp1IZlFmEnYfTgygcYT9JG2V7F2miXEaGctWHoauvdX3
 SlotQuickAccess
 SlotsByName
 SlowDnsCdnRequestThresholdMs
@@ -36215,6 +36214,7 @@ StudioReportLuauWarningDetailsInfluxPriorityHundredthsPercentage
 StudioReportOpenPlaceTimeFilter
 StudioReportPlaceInfoWithRibbonAnalytics
 StudioReportQmlCrashThrottleHundredthsPercent
+StudioReportStartupInfoInfluxHundredthsPercentage
 StudioReportStreamingEnabledChange
 StudioReportStreamingEnabledChangeHundredths
 StudioReportStudioOpenPlaceHundredthsPercentage
@@ -36817,6 +36817,7 @@ TCSavedPlaceHashMatch
 TCSavedPlaceHashMismatch
 TcStallingDuration
 Td8fThPj6lTnVp
+TDltcqckWM
 TeachingCallouts
 TeamChatWindowAction
 TeamChildOrderExposedTelemetry
@@ -37995,7 +37996,6 @@ ToolRateLimitCapacity
 ToolRateLimitDuration
 ToolTipSize
 ToolTipStr
-ToolTipView
 TooltipWithKey
 TooManyDumpFiles
 TooManyRedirects
@@ -38034,7 +38034,6 @@ ToPreviousScriptLocation
 ToPropertyChange
 TopSurface
 TopSurfaceInput
-TOQ6U0hdGnkuYkSYk0r2dPTspsM4hRPfGNT4nKuGH
 ToReservedServer
 ToRobloxAction
 ToRobloxAsAction
@@ -38191,7 +38190,6 @@ ToVideoStream
 TownAndCity
 ToWorldSpace
 TPoseAdjusterDefaultVersion
-TR89dUVbR7d9vKl2k2vuts9K
 Tracciamento
 TraceMessage
 TracerService
@@ -42053,6 +42051,7 @@ WaypointIdx
 WaypointSpacing
 WCharArray
 Wcircumflex
+WDRXvQPCGoZOiIfT
 WDU_Mbstatet
 WeakFunctionRef
 WeakObjectRef
@@ -42324,6 +42323,7 @@ WheelForward
 WheelLines
 WhenLoaded
 WhenScrollable
+WhFCPP3qyuB
 WhisperChat
 WhiteCircle.png
 WhiteGlow.png
@@ -42374,7 +42374,6 @@ Wiederherstellungsdateien
 Wiederholen
 Wiederholungslimit
 Wiederverbindung
-WIKBpYeEjmznBlOxFnWsL
 WilError_03
 Win64.545.10848
 WinChannelCrashCounter
@@ -42589,6 +42588,7 @@ WsClientIdleSleepMs
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
+WzDlDLErncmMP9VNQ70moX8SgYROf9t1WqMbjs3iao
 X[]_^A\A]A^A_
 X_JW4AssetType
 X_NW4StudioGameStateType
@@ -42927,10 +42927,8 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YoBagzgFgqX
 YResolution
 YwBBvY55YvBBwY5
-YxKjKc5XrNVsMjvRYxI0Uw
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
 Z_KPEBDPEBDH
@@ -42949,7 +42947,6 @@ ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
 ZNjlXiODrHUcaGRYt
-ZNMGcnufm5f2X3MdFeLhdX
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
 ZoomOutDistance
