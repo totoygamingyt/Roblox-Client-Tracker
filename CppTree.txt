@@ -3484,6 +3484,7 @@ RBX::Described<class RBX::TemporaryCageMeshProvider,class RBX::ServiceInstance>
 RBX::Described<class RBX::TextFilterResultInstance,class RBX::Instance>
 RBX::Described<class RBX::TextService,class RBX::ServiceInstance>
 RBX::Described<class RBX::TouchInputService,class RBX::ServiceInstance>
+RBX::Described<class RBX::TrackerLodController,class RBX::Instance>
 RBX::Described<class RBX::TranslatorInstance,class RBX::Instance>
 RBX::Described<class RBX::TriangleMeshPart,class RBX::BasePart>
 RBX::Described<class RBX::TweenBase,class RBX::Instance>
@@ -4006,6 +4007,7 @@ RBX::Fire
 RBX::FixedHandler
 RBX::Flag
 RBX::FlagStand
+RBX::FlagStandProp
 RBX::FlagStandService
 RBX::FloatCurve
 RBX::FloorWire
@@ -4979,6 +4981,7 @@ RBX::Reflection::BoundFuncDesc<class RBX::EulerRotationCurve,class std::shared_p
 RBX::Reflection::BoundFuncDesc<class RBX::EulerRotationCurve,class std::shared_ptr<class std::vector<class RBX::Reflection::Variant,class std::allocator<class RBX::Reflection::Variant> > const > __cdecl(float)const __ptr64,1>
 RBX::Reflection::BoundFuncDesc<class RBX::EventIngestService,void __cdecl(class std::string const & __ptr64,class std::string const & __ptr64,class std::string const & __ptr64,class std::shared_ptr<class std::unordered_map<class std::string,class RBX::Reflection::Variant,struct std::hash<class std::string >,struct std::equal_to<class std::string >,class std::allocator<struct std::pair<class std::string const ,class RBX::Reflection::Variant> > > const >),4>
 RBX::Reflection::BoundFuncDesc<class RBX::FaceAnimatorService,bool __cdecl(void)const __ptr64,0>
+RBX::Reflection::BoundFuncDesc<class RBX::FaceAnimatorService,class std::shared_ptr<class RBX::TrackerLodController> __cdecl(void),0>
 RBX::Reflection::BoundFuncDesc<class RBX::FaceAnimatorService,void __cdecl(void),0>
 RBX::Reflection::BoundFuncDesc<class RBX::File,class RBX::ContentId __cdecl(void),0>
 RBX::Reflection::BoundFuncDesc<class RBX::File,class std::string __cdecl(void),0>
@@ -5543,6 +5546,8 @@ RBX::Reflection::BoundFuncDesc<class RBX::ThirdPartyUserService,void __cdecl(voi
 RBX::Reflection::BoundFuncDesc<class RBX::Tool,void __cdecl(void),0>
 RBX::Reflection::BoundFuncDesc<class RBX::TracerService,class std::string __cdecl(class std::string,class std::string),2>
 RBX::Reflection::BoundFuncDesc<class RBX::TracerService,void __cdecl(class std::string),1>
+RBX::Reflection::BoundFuncDesc<class RBX::TrackerLodController,bool __cdecl(void)const __ptr64,0>
+RBX::Reflection::BoundFuncDesc<class RBX::TrackerLodController,int __cdecl(void)const __ptr64,0>
 RBX::Reflection::BoundFuncDesc<class RBX::Trail,void __cdecl(void),0>
 RBX::Reflection::BoundFuncDesc<class RBX::TranslatorInstance,class std::string __cdecl(class std::shared_ptr<class RBX::Instance> const & __ptr64,class std::string const & __ptr64),2>
 RBX::Reflection::BoundFuncDesc<class RBX::TranslatorInstance,class std::string __cdecl(class std::string const & __ptr64,class RBX::Reflection::Variant const & __ptr64),2>
@@ -6246,6 +6251,8 @@ RBX::Reflection::EnumDesc<enum RBX::TexturePackAlphaMode>
 RBX::Reflection::EnumDesc<enum RBX::ThrottlingPriority>
 RBX::Reflection::EnumDesc<enum RBX::Time::SampleMethod>
 RBX::Reflection::EnumDesc<enum RBX::TrackerError>
+RBX::Reflection::EnumDesc<enum RBX::TrackerLodFlagMode>
+RBX::Reflection::EnumDesc<enum RBX::TrackerLodValueMode>
 RBX::Reflection::EnumDesc<enum RBX::TrackerMode>
 RBX::Reflection::EnumDesc<enum RBX::TriStateBoolean>
 RBX::Reflection::EnumDesc<enum RBX::TweenInfo::TweenEasingDirection>
@@ -6485,6 +6492,8 @@ RBX::Reflection::EnumPropDescriptor<class RBX::TextLabel,enum RBX::TextService::
 RBX::Reflection::EnumPropDescriptor<class RBX::TextLabel,enum RBX::TextService::TextTruncate>
 RBX::Reflection::EnumPropDescriptor<class RBX::TextLabel,enum RBX::TextService::XAlignment>
 RBX::Reflection::EnumPropDescriptor<class RBX::TextLabel,enum RBX::TextService::YAlignment>
+RBX::Reflection::EnumPropDescriptor<class RBX::TrackerLodController,enum RBX::TrackerLodFlagMode>
+RBX::Reflection::EnumPropDescriptor<class RBX::TrackerLodController,enum RBX::TrackerLodValueMode>
 RBX::Reflection::EnumPropDescriptor<class RBX::Trail,enum RBX::TextureMode>
 RBX::Reflection::EnumPropDescriptor<class RBX::TriangleMeshPart,enum RBX::CollisionFidelity>
 RBX::Reflection::EnumPropDescriptor<class RBX::TweenBase,enum RBX::PlaybackState>
@@ -6840,6 +6849,7 @@ RBX::Reflection::EventDesc<class RBX::ThirdPartyUserService,void __cdecl(void),c
 RBX::Reflection::EventDesc<class RBX::Tool,void __cdecl(class std::shared_ptr<class RBX::Mouse>),class RBX::Tool::special_equipped_signal,class RBX::Tool::special_equipped_signal RBX::Tool::* __ptr64>
 RBX::Reflection::EventDesc<class RBX::Tool,void __cdecl(void),class rbx::remote_signal<void __cdecl(void)>,class rbx::remote_signal<void __cdecl(void)> RBX::Tool::* __ptr64>
 RBX::Reflection::EventDesc<class RBX::Tool,void __cdecl(void),class rbx::signal<void __cdecl(void)>,class rbx::signal<void __cdecl(void)> RBX::Tool::* __ptr64>
+RBX::Reflection::EventDesc<class RBX::TrackerLodController,void __cdecl(void),class rbx::signal<void __cdecl(void)>,class rbx::signal<void __cdecl(void)> RBX::TrackerLodController::* __ptr64>
 RBX::Reflection::EventDesc<class RBX::Trail,void __cdecl(void),class rbx::remote_signal<void __cdecl(void)>,class rbx::remote_signal<void __cdecl(void)> RBX::Trail::* __ptr64>
 RBX::Reflection::EventDesc<class RBX::TweenBase,void __cdecl(enum RBX::PlaybackState),class rbx::signal<void __cdecl(enum RBX::PlaybackState)>,class rbx::signal<void __cdecl(enum RBX::PlaybackState)> RBX::TweenBase::* __ptr64>
 RBX::Reflection::EventDesc<class RBX::UIPageLayout,void __cdecl(class std::shared_ptr<class RBX::Instance>),class rbx::signal<void __cdecl(class std::shared_ptr<class RBX::Instance>)>,class rbx::signal<void __cdecl(class std::shared_ptr<class RBX::Instance>)> RBX::UIPageLayout::* __ptr64>
@@ -7207,6 +7217,7 @@ RBX::Reflection::EventDescBase<class RBX::ThirdPartyUserService,void __cdecl(voi
 RBX::Reflection::EventDescBase<class RBX::Tool,void __cdecl(class std::shared_ptr<class RBX::Mouse>),class RBX::Tool::special_equipped_signal,class RBX::Tool::special_equipped_signal RBX::Tool::* __ptr64>
 RBX::Reflection::EventDescBase<class RBX::Tool,void __cdecl(void),class rbx::remote_signal<void __cdecl(void)>,class rbx::remote_signal<void __cdecl(void)> RBX::Tool::* __ptr64>
 RBX::Reflection::EventDescBase<class RBX::Tool,void __cdecl(void),class rbx::signal<void __cdecl(void)>,class rbx::signal<void __cdecl(void)> RBX::Tool::* __ptr64>
+RBX::Reflection::EventDescBase<class RBX::TrackerLodController,void __cdecl(void),class rbx::signal<void __cdecl(void)>,class rbx::signal<void __cdecl(void)> RBX::TrackerLodController::* __ptr64>
 RBX::Reflection::EventDescBase<class RBX::Trail,void __cdecl(void),class rbx::remote_signal<void __cdecl(void)>,class rbx::remote_signal<void __cdecl(void)> RBX::Trail::* __ptr64>
 RBX::Reflection::EventDescBase<class RBX::TweenBase,void __cdecl(enum RBX::PlaybackState),class rbx::signal<void __cdecl(enum RBX::PlaybackState)>,class rbx::signal<void __cdecl(enum RBX::PlaybackState)> RBX::TweenBase::* __ptr64>
 RBX::Reflection::EventDescBase<class RBX::UIPageLayout,void __cdecl(class std::shared_ptr<class RBX::Instance>),class rbx::signal<void __cdecl(class std::shared_ptr<class RBX::Instance>)>,class rbx::signal<void __cdecl(class std::shared_ptr<class RBX::Instance>)> RBX::UIPageLayout::* __ptr64>
@@ -7454,6 +7465,7 @@ RBX::Reflection::FuncDesc<class RBX::TextService>
 RBX::Reflection::FuncDesc<class RBX::ThirdPartyUserService>
 RBX::Reflection::FuncDesc<class RBX::Tool>
 RBX::Reflection::FuncDesc<class RBX::TracerService>
+RBX::Reflection::FuncDesc<class RBX::TrackerLodController>
 RBX::Reflection::FuncDesc<class RBX::Trail>
 RBX::Reflection::FuncDesc<class RBX::TranslatorInstance>
 RBX::Reflection::FuncDesc<class RBX::TweenBase>
@@ -8062,7 +8074,7 @@ RBX::Reflection::PropDescriptor<class RBX::Fire,float>::GetSetImpl<float (__cdec
 RBX::Reflection::PropDescriptor<class RBX::Flag,class RBX::BrickColor>
 RBX::Reflection::PropDescriptor<class RBX::Flag,class RBX::BrickColor>::GetSetImpl<class RBX::BrickColor (__cdecl RBX::Flag::*)(void)const __ptr64,void (__cdecl RBX::Flag::*)(class RBX::BrickColor) __ptr64>
 RBX::Reflection::PropDescriptor<class RBX::FlagStand,class RBX::BrickColor>
-RBX::Reflection::PropDescriptor<class RBX::FlagStand,class RBX::BrickColor>::GetSetImpl<class RBX::BrickColor (__cdecl RBX::FlagStand::*)(void)const __ptr64,void (__cdecl RBX::FlagStand::*)(class RBX::BrickColor) __ptr64>
+RBX::Reflection::PropDescriptor<class RBX::FlagStand,class RBX::BrickColor>::GetSetImpl<class RBX::BrickColor (__cdecl RBX::FlagStandProp::*)(void)const __ptr64,void (__cdecl RBX::FlagStandProp::*)(class RBX::BrickColor) __ptr64>
 RBX::Reflection::PropDescriptor<class RBX::FloatCurve,class RBX::BinaryString>
 RBX::Reflection::PropDescriptor<class RBX::FloatCurve,class RBX::BinaryString>::GetSetImpl<class RBX::BinaryString (__cdecl RBX::FloatCurve::*)(void)const __ptr64,void (__cdecl RBX::FloatCurve::*)(class RBX::BinaryString const & __ptr64) __ptr64>
 RBX::Reflection::PropDescriptor<class RBX::FloatCurve,int>
@@ -9083,6 +9095,8 @@ RBX::Reflection::PropDescriptor<class RBX::Tool,class RBX::Vector3>
 RBX::Reflection::PropDescriptor<class RBX::Tool,class RBX::Vector3>::GetSetImpl<class RBX::Vector3 const (__cdecl RBX::Tool::*)(void)const __ptr64,void (__cdecl RBX::Tool::*)(class RBX::Vector3 const & __ptr64) __ptr64>
 RBX::Reflection::PropDescriptor<class RBX::Tool,class std::string >
 RBX::Reflection::PropDescriptor<class RBX::Tool,class std::string >::GetSetImpl<class std::string (__cdecl RBX::Tool::*)(void)const __ptr64,void (__cdecl RBX::Tool::*)(class std::string) __ptr64>
+RBX::Reflection::PropDescriptor<class RBX::TrackerLodController,enum RBX::TrackerLodFlagMode>::GetSetImpl<enum RBX::TrackerLodFlagMode (__cdecl RBX::TrackerLodController::*)(void)const __ptr64,void (__cdecl RBX::TrackerLodController::*)(enum RBX::TrackerLodFlagMode) __ptr64>
+RBX::Reflection::PropDescriptor<class RBX::TrackerLodController,enum RBX::TrackerLodValueMode>::GetSetImpl<enum RBX::TrackerLodValueMode (__cdecl RBX::TrackerLodController::*)(void)const __ptr64,void (__cdecl RBX::TrackerLodController::*)(enum RBX::TrackerLodValueMode) __ptr64>
 RBX::Reflection::PropDescriptor<class RBX::Trail,bool>
 RBX::Reflection::PropDescriptor<class RBX::Trail,bool>::GetSetImpl<bool (__cdecl RBX::Trail::*)(void)const __ptr64,void (__cdecl RBX::Trail::*)(bool) __ptr64>
 RBX::Reflection::PropDescriptor<class RBX::Trail,class RBX::Attachment * __ptr64>::GetSetImpl<class RBX::Attachment * __ptr64 (__cdecl RBX::Trail::*)(void)const __ptr64,void (__cdecl RBX::Trail::*)(class RBX::Attachment * __ptr64) __ptr64>
@@ -9867,6 +9881,8 @@ RBX::Reflection::TypedPropertyDescriptor<enum RBX::TextService::YAlignment>::Get
 RBX::Reflection::TypedPropertyDescriptor<enum RBX::TextureMode>::GetSet
 RBX::Reflection::TypedPropertyDescriptor<enum RBX::TexturePackAlphaMode>::GetSet
 RBX::Reflection::TypedPropertyDescriptor<enum RBX::Time::SampleMethod>::GetSet
+RBX::Reflection::TypedPropertyDescriptor<enum RBX::TrackerLodFlagMode>::GetSet
+RBX::Reflection::TypedPropertyDescriptor<enum RBX::TrackerLodValueMode>::GetSet
 RBX::Reflection::TypedPropertyDescriptor<enum RBX::TrackerMode>::GetSet
 RBX::Reflection::TypedPropertyDescriptor<enum RBX::TriStateBoolean>::GetSet
 RBX::Reflection::TypedPropertyDescriptor<enum RBX::TweenInfo::TweenEasingDirection>::GetSet
@@ -10671,6 +10687,7 @@ RBX::Tracing::LightstepReporter
 RBX::Tracing::Reporter
 RBX::Tracing::TracingTransport
 RBX::TrackerAnimationStreamSource
+RBX::TrackerLodController
 RBX::TrackerStreamAnimation
 RBX::Trail
 RBX::TranslatorInstance
@@ -10979,8 +10996,8 @@ rtc::RefCountedObject<class webrtc::`anonymous namespace'::CreateSessionDescript
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::IdWithDirection>
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::TypedId>
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::TypedIntId>
-rtc::RefCountedObject<class webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0x1a78b4d3::NotAdvertised<struct webrtc::AudioDecoderL16> > >
-rtc::RefCountedObject<class webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x304d47e5::NotAdvertised<struct webrtc::AudioEncoderL16> > >
+rtc::RefCountedObject<class webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0xb3db3097::NotAdvertised<struct webrtc::AudioDecoderL16> > >
+rtc::RefCountedObject<class webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x99eec3a1::NotAdvertised<struct webrtc::AudioEncoderL16> > >
 rtc::RefCountedObject<class webrtc::AudioDeviceModuleImpl>
 rtc::RefCountedObject<class webrtc::AudioMixerImpl>
 rtc::RefCountedObject<class webrtc::AudioProcessingImpl>
@@ -12748,6 +12765,7 @@ std::_Ref_count_obj2<class RBX::Tracing::HttpTracingHelper>
 std::_Ref_count_obj2<class RBX::Tracing::LightstepReporter>
 std::_Ref_count_obj2<class RBX::Tracing::Span>
 std::_Ref_count_obj2<class RBX::TrackerAnimationStreamSource>
+std::_Ref_count_obj2<class RBX::TrackerLodController>
 std::_Ref_count_obj2<class RBX::Typesetter>
 std::_Ref_count_obj2<class RBX::UnsecuredStudioGame>
 std::_Ref_count_obj2<class RBX::UserCertManager>
@@ -14352,8 +14370,8 @@ webrtc::AcknowledgedBitrateEstimatorInterface
 webrtc::AdaptiveModeLevelEstimatorAgc
 webrtc::Agc
 webrtc::AsyncResolverFactory
-webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0x1a78b4d3::NotAdvertised<struct webrtc::AudioDecoderL16> >
-webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x304d47e5::NotAdvertised<struct webrtc::AudioEncoderL16> >
+webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0xb3db3097::NotAdvertised<struct webrtc::AudioDecoderL16> >
+webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x99eec3a1::NotAdvertised<struct webrtc::AudioEncoderL16> >
 webrtc::AudioBuffer
 webrtc::AudioCodingModule
 webrtc::AudioConverter

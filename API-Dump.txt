@@ -1162,6 +1162,7 @@ Class FaceAnimatorService : Instance [NotCreatable] [Service] [NotReplicated]
 	Property bool FaceAnimatorService.FlipHeadOrientation {RobloxScriptSecurity} [Hidden] [NotReplicated]
 	Property bool FaceAnimatorService.VideoAnimationEnabled {RobloxScriptSecurity} [Hidden] [NotReplicated]
 	Property Enum.TrackerMode FaceAnimatorService.TrackerMode {RobloxScriptSecurity} [Hidden] [ReadOnly]
+	Function TrackerLodController FaceAnimatorService:GetTrackerLodController() {RobloxScriptSecurity}
 	Function bool FaceAnimatorService:IsStarted() {RobloxScriptSecurity}
 	Function void FaceAnimatorService:Start() {RobloxScriptSecurity}
 	Function void FaceAnimatorService:Stop() {RobloxScriptSecurity}
@@ -4297,6 +4298,14 @@ Class TouchTransmitter : Instance [NotCreatable] [NotBrowsable]
 Class TracerService : Instance [NotCreatable] [Service] [NotReplicated]
 	Function void TracerService:FinishSpan(string spanId) {RobloxScriptSecurity}
 	Function string TracerService:StartSpan(string name, string parentId) {RobloxScriptSecurity}
+Class TrackerLodController : Instance [NotCreatable] [NotReplicated]
+	Property Enum.TrackerLodFlagMode TrackerLodController.AudioMode
+	Property Enum.TrackerLodValueMode TrackerLodController.VideoLodMode
+	Property Enum.TrackerLodFlagMode TrackerLodController.VideoMode
+	Function int TrackerLodController:getVideoLod() {RobloxScriptSecurity}
+	Function bool TrackerLodController:isAudioEnabled() {RobloxScriptSecurity}
+	Function bool TrackerLodController:isVideoEnabled() {RobloxScriptSecurity}
+	Event TrackerLodController.UpdateState() {RobloxScriptSecurity}
 Class TrackerStreamAnimation : Instance [NotReplicated]
 Class Trail : Instance
 	Property float Trail.Brightness
@@ -6867,6 +6876,14 @@ Enum TrackerError
 	EnumItem TrackerError.NoAudio : 6
 	EnumItem TrackerError.AudioError : 7
 	EnumItem TrackerError.AudioNoPermission : 8
+Enum TrackerLodFlagMode
+	EnumItem TrackerLodFlagMode.ForceFalse : 0
+	EnumItem TrackerLodFlagMode.ForceTrue : 1
+	EnumItem TrackerLodFlagMode.Auto : 2
+Enum TrackerLodValueMode
+	EnumItem TrackerLodValueMode.Force0 : 0
+	EnumItem TrackerLodValueMode.Force1 : 1
+	EnumItem TrackerLodValueMode.Auto : 2
 Enum TrackerMode
 	EnumItem TrackerMode.None : 0
 	EnumItem TrackerMode.Audio : 1

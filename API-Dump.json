@@ -22003,6 +22003,18 @@
                 },
                 {
                     "MemberType": "Function",
+                    "Name": "GetTrackerLodController",
+                    "Parameters": [
+                    ],
+                    "ReturnType": {
+                        "Category": "Class",
+                        "Name": "TrackerLodController"
+                    },
+                    "Security": "RobloxScriptSecurity",
+                    "ThreadSafety": "Unsafe"
+                },
+                {
+                    "MemberType": "Function",
                     "Name": "IsStarted",
                     "Parameters": [
                     ],
@@ -81591,6 +81603,115 @@
         },
         {
             "Members": [
+                {
+                    "Category": "Control",
+                    "MemberType": "Property",
+                    "Name": "AudioMode",
+                    "Security": {
+                        "Read": "None",
+                        "Write": "None"
+                    },
+                    "Serialization": {
+                        "CanLoad": true,
+                        "CanSave": true
+                    },
+                    "ThreadSafety": "ReadSafe",
+                    "ValueType": {
+                        "Category": "Enum",
+                        "Name": "TrackerLodFlagMode"
+                    }
+                },
+                {
+                    "Category": "Control",
+                    "MemberType": "Property",
+                    "Name": "VideoLodMode",
+                    "Security": {
+                        "Read": "None",
+                        "Write": "None"
+                    },
+                    "Serialization": {
+                        "CanLoad": true,
+                        "CanSave": true
+                    },
+                    "ThreadSafety": "ReadSafe",
+                    "ValueType": {
+                        "Category": "Enum",
+                        "Name": "TrackerLodValueMode"
+                    }
+                },
+                {
+                    "Category": "Control",
+                    "MemberType": "Property",
+                    "Name": "VideoMode",
+                    "Security": {
+                        "Read": "None",
+                        "Write": "None"
+                    },
+                    "Serialization": {
+                        "CanLoad": true,
+                        "CanSave": true
+                    },
+                    "ThreadSafety": "ReadSafe",
+                    "ValueType": {
+                        "Category": "Enum",
+                        "Name": "TrackerLodFlagMode"
+                    }
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "getVideoLod",
+                    "Parameters": [
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "int"
+                    },
+                    "Security": "RobloxScriptSecurity",
+                    "ThreadSafety": "Unsafe"
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "isAudioEnabled",
+                    "Parameters": [
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "bool"
+                    },
+                    "Security": "RobloxScriptSecurity",
+                    "ThreadSafety": "Unsafe"
+                },
+                {
+                    "MemberType": "Function",
+                    "Name": "isVideoEnabled",
+                    "Parameters": [
+                    ],
+                    "ReturnType": {
+                        "Category": "Primitive",
+                        "Name": "bool"
+                    },
+                    "Security": "RobloxScriptSecurity",
+                    "ThreadSafety": "Unsafe"
+                },
+                {
+                    "MemberType": "Event",
+                    "Name": "UpdateState",
+                    "Parameters": [
+                    ],
+                    "Security": "RobloxScriptSecurity",
+                    "ThreadSafety": "Unsafe"
+                }
+            ],
+            "MemoryCategory": "Instances",
+            "Name": "TrackerLodController",
+            "Superclass": "Instance",
+            "Tags": [
+                "NotCreatable",
+                "NotReplicated"
+            ]
+        },
+        {
+            "Members": [
             ],
             "MemoryCategory": "Animation",
             "Name": "TrackerStreamAnimation",
@@ -98821,6 +98942,40 @@
                 }
             ],
             "Name": "TrackerError"
+        },
+        {
+            "Items": [
+                {
+                    "Name": "Auto",
+                    "Value": 2
+                },
+                {
+                    "Name": "ForceFalse",
+                    "Value": 0
+                },
+                {
+                    "Name": "ForceTrue",
+                    "Value": 1
+                }
+            ],
+            "Name": "TrackerLodFlagMode"
+        },
+        {
+            "Items": [
+                {
+                    "Name": "Auto",
+                    "Value": 2
+                },
+                {
+                    "Name": "Force0",
+                    "Value": 0
+                },
+                {
+                    "Name": "Force1",
+                    "Value": 1
+                }
+            ],
+            "Name": "TrackerLodValueMode"
         },
         {
             "Items": [
