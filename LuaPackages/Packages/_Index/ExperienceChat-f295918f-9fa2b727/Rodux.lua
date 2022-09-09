@@ -3,6 +3,6 @@
 ]]
 local PackageIndex = script.Parent.Parent.Parent._Index
 
-local Package = require(PackageIndex["RoduxShareLinks"]["RoduxShareLinks"])
+local Package = require(PackageIndex["roblox_rodux"]["rodux"])
 
 return Package
