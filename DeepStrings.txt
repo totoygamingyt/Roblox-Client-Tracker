@@ -726,7 +726,6 @@ AfterWorldsteps
 AgainstLatestPackageAction
 AgcClippingLevelExperiment
 AgcMinMicLevelExperstate_
-AgDpAyULKpVosS5P1ho
 Age13OrOver
 AgeBracket
 Agencement
@@ -1121,6 +1120,7 @@ AnimationFrame
 AnimationFromVideoCreatorService
 AnimationFromVideoCreatorServiceHandlePostError
 AnimationFromVideoCreatorServiceInAnimationEditor
+AnimationFromVideoCreatorServiceUseV2API
 AnimationFromVideoCreatorStudioService
 AnimationFromVideoCreatorStudioServiceEnabled
 AnimationFromVideoCreatorStudioServiceSecondsPerRequest
@@ -7174,6 +7174,7 @@ BgRefreshes
 BgUpdateRedirectsDisable
 BgUpdateRedirectsHttpErrInfluxHundredthsPercentage
 BgUpdateRedirectsRejectInfluxHundredthsPercentage
+BgZUmevpD3hrO8eV1ItWrO6WmkXEp2g59PNSYZuHYvxCp
 BHBpBJXcdFg
 BHHHHHHHHHHHHHHHHHHHHHHHHHH
 BhHlLjJTiIfdnczsxX
@@ -7445,6 +7446,7 @@ BoxSelectCommand
 BPEAUIUnknown
 BPQVYB6_F3P
 BPu_fD9B`uXfD9BpuQ
+BQ4dV7hJtozG97GqgH3zspf
 BQByteArray
 BQPersistentModelIndex
 BQTextFormat
@@ -7506,7 +7508,6 @@ BRenderGrassHeightScaler
 BRenderReportOutOfMemory
 BReportAbuse
 Brevesmall
-BrGzUIaxt5VyvLLIkreRMF42iFinZ2FBI0rVz
 BrickColor
 BrickColor.
 BrickColorChanged
@@ -10400,7 +10401,6 @@ CPULogicalCore
 CpuTimeSpentOnDecodingAudio
 CpuTimeSpentOnDecodingVideo
 CpuUserTime
-Cq3c8ZJ1FIz4TfuK
 CrackedLava
 CrackedLavaName
 CrashDumpFileName
@@ -12895,6 +12895,7 @@ DMinMaxDistance
 DmJobTotal
 DnsResolve
 DNSResponseMS
+DoaDCIeyJJRXcv9GbWbkKoKbAMHBL9CHBDBBCJPTBihB8DniLi0pJ4mshb
 DoAllocate
 DocActivation
 DocActivationHistoryController
@@ -14181,6 +14182,7 @@ EulerAnglesXYZ
 EulerAnglesYXZ
 EulerRotation
 EulerRotationCurve
+EV9SxKevaC
 EvaluatedKey
 EvaluateForHovers
 EvaluateGlobalTransform
@@ -15755,7 +15757,6 @@ FutureIsBrightPhase2GL3
 FutureIsBrightPhase2GLES3
 FutureIsBrightPhase3Vulkan
 FuzzyWeightModel
-FwSDFx7qdFbey0oANwFuJkuUcMluaBd9RhHpDeR3FHnB5674s8rne
 FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
@@ -17602,7 +17603,6 @@ HistoryViewMouseY
 HitConditionalBreakpoints
 HitLocationPartFilterDescendents
 HitTestFilter
-HjlDYEegZMCAwEAAQ
 HKEY_CLASSES_ROOT
 HKEY_CURRENT_CONFIG
 HKEY_CURRENT_USER
@@ -18065,6 +18065,7 @@ HumanoidWithPGSConstraintsUsePhysicsState
 Hungarumlautsmall
 HungScript
 HungScriptPermyriad
+HuY73d3WBcqBUCtilDlGWUdSHcK67sdUtqWlg
 HVQByteArray
 HVQRegularExpression
 HVQVariant
@@ -19332,6 +19333,7 @@ IXPService]
 IXPTestBrowserTrackerLayerName
 IXPTestSignupLandingLayerName
 IXPTestUserLayerName
+IXxJifwpOJpgOOn8falRyutSMdrqph
 IYUVI420YU12I420YU16I422YU24I444YUYVYUY2yuvsYUY2HDYCUYVY2vuyUYVYJPEGMJPGdmb1MJPGBA81BGGRRGB3raw
 J_Key_dn.png
 J_NW4CurrencyType
@@ -19356,6 +19358,7 @@ JHW4MembershipType
 JIIIIIIIKI
 JitterBufferDelayInterface
 JitterBufferDelayProxyWithInternal
+JJgy2TWbXDE9FYOcdr5d1hbhTWLDKIUJYMpKQoYxCUqPjWG
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
@@ -19474,7 +19477,6 @@ JW4InfoType
 JW4TextChatMessageStatus
 JW4TextFilterContext
 JW4ThumbnailType
-JYwisAg5KrjeJ8Ephpv6FSZX5v0YMym
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -20641,11 +20643,9 @@ LuobuStudioWebViewTracingHundredthsPercent
 LuobuWhitelisted
 LuobuWhitelistedAllow
 LuobuWhitelistedField
-Lvf3RmZ3ya6rLR3S2miIyg9SnIwF97yhxnBS9U8hQ999YBStFB3cOKokcjaUE
 LvNZJjLvNZJjLvNZJjLvNZJ
 LvNZJjLvNZJjLvNZJjLvNZJ4H
 LVvuOx39]O
-Lw4veyBHWHNmodTWeLW944OnvqA2fngpyQBpgEkHX2D4JD
 M_NVWeakObjectRef
 MacGamepadUseGCController
 MachineAddress
@@ -21522,7 +21522,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAysgG8SSTOLvljhOkYzaUyauYTL7tML5TTekutglwJmaclJ0QRN9y
+MIICCgKCAgEArPPWIHd2Sghb8J4nM4TKscGPEhRrRZussDEPW
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21897,8 +21897,8 @@ MovingHumanoid
 MovingNoPhysicsBase
 MovingPrimitives
 MovingPrimitivesCount
+Mp0WX8e9uZYzbm8exfMzNoT1oi1J2Vey3kGafr4699nH5xupLdFgZwY72uN1
 MP8BasePart
-Mp99kSLyHdU3WJS5a
 MpCehiHzreSzNTczkc9d
 MPEAUCachedContent
 MPEAVAdorn
@@ -21939,6 +21939,7 @@ Mtx_init_in_situ
 Mtx_trylock
 Mtx_unlock
 Mu\tbs_rSq
+MUA1cWmHfHF
 MULE_BASELINE_OFFSET
 MULE_RELATIVE_COMPOSE
 MultiByteToWideChar
@@ -22008,7 +22009,6 @@ MVTerrainHeightMapBlendScale
 MVTerrainRotationParam
 MW4MaterialType
 MyModelsAction
-MyTmvZHo87J5c1O2McNHjQKVcE9QOFfIYHjsJG4PlyU3PGsJED26ToZcMRCXCUiT
 MyUniverses
 MyWatchTreeWidget
 Nachrichten
@@ -22427,6 +22427,7 @@ NfXf`fhfzf
 NH_NHHVStringView
 NHVVariant
 NinjaMask.mesh
+NIPAP1xm31ZrS3VMfUpTWPeQr
 NLSF_mu_Q20
 NLSFInterpCoef_Q2
 NMMMMW4Priority
@@ -22855,7 +22856,6 @@ OgreWidgetForGameState
 OgreWidgetShowEvent
 Ohungarumlaut
 OiCCPPhotoshop
-OJZ0t1am7FS7T9MEvTQPzFd2Vpt8d7vwAujQw
 OldActiveElement
 OldBinaryStringLength
 OldDOFDownSampleAndComputeFarCoCHorizontal4xFS
@@ -23363,7 +23363,6 @@ PA_A^A]A\_^
 PA_A^A]A\_^[
 PA_A^A]A\_^]
 PA_A^A]A\_^]H
-PaASYfH8C41
 PacakageCopiesHaveAutoUpdate
 PacakgeServiceReportFailedRequestsRate
 PacedSender
@@ -26517,7 +26516,6 @@ QFutureInterface
 QFutureInterfaceBase
 QFutureWatcher
 QFutureWatcherBase
-Qgk1txXNBlRaS8sasEL4
 QGraphicsDropShadowEffect
 QGraphicsEffect
 QGraphicsItem
@@ -26612,6 +26610,7 @@ QQuickImageResponse
 QQuickTextureFactory
 QQuickView
 QQuickWindow
+QQYHqdjHow6
 QRadialGradient
 QRadioButton
 QRegularExpression
@@ -26810,6 +26809,7 @@ QValidator
 QVariantAnimation
 QVBoxLayout
 QVersionNumber
+QWBoh5ZcT78jC4HuSjeFgm4dINA1NuNesE
 QWheelEvent
 QWidgetAction
 QWidgetPluginGui
@@ -28878,11 +28878,11 @@ RowVisibilityChanged
 RPC_E_CHANGED_MODE
 RPCServers
 RRakRecvToAppPop
+RRos3NOIorSuxSYJki4wxSPEgzdJa8PvWN
 RRReceiptFail
 RRReceiptTotal
 RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 RRRRRRRRzzzzzzzzzzzzzzzzzz
-RRzkye91jyzxzmsZsz2doV4Twau07016cpL5WFnun
 RSA_check_key
 RSA_check_key_ex
 RSA_meth_dup
@@ -34719,6 +34719,7 @@ Studio.App.RobloxRibbonMainWindow.ConnectionIsLost
 Studio.App.RobloxRibbonMainWindow.ConnectionIsStable
 Studio.App.RobloxRibbonMainWindow.ConnectionIsUnstable
 Studio.App.RobloxRibbonMainWindow.ConstraintDetails
+Studio.App.RobloxRibbonMainWindow.ConstraintGizmoScale
 Studio.App.RobloxRibbonMainWindow.Constraints
 Studio.App.RobloxRibbonMainWindow.ConstraintWidgetScale
 Studio.App.RobloxRibbonMainWindow.ContainerLayoutTooltip
@@ -36817,7 +36818,6 @@ TCSavedPlaceHashMatch
 TCSavedPlaceHashMismatch
 TcStallingDuration
 Td8fThPj6lTnVp
-TDltcqckWM
 TeachingCallouts
 TeamChatWindowAction
 TeamChildOrderExposedTelemetry
@@ -37849,6 +37849,7 @@ TlsGetValue
 TlsSetValue
 TlsVerificationFail
 TLSVersion
+TLV4Ou8ZkQDt2K5owDZv
 Tmap_traits
 TMxQPxAA13
 TMYj0j2Lt[
@@ -42051,7 +42052,6 @@ WaypointIdx
 WaypointSpacing
 WCharArray
 Wcircumflex
-WDRXvQPCGoZOiIfT
 WDU_Mbstatet
 WeakFunctionRef
 WeakObjectRef
@@ -42323,7 +42323,6 @@ WheelForward
 WheelLines
 WhenLoaded
 WhenScrollable
-WhFCPP3qyuB
 WhisperChat
 WhiteCircle.png
 WhiteGlow.png
@@ -42588,7 +42587,6 @@ WsClientIdleSleepMs
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
-WzDlDLErncmMP9VNQ70moX8SgYROf9t1WqMbjs3iao
 X[]_^A\A]A^A_
 X_JW4AssetType
 X_NW4StudioGameStateType
@@ -42693,6 +42691,7 @@ XboxSaleAvatarPackageIds
 XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
+XGjqwu0pzsyA5374wrFTzPxckt
 XHW4Status_e
 XInputGetBatteryInformation
 XInputGetCapabilities
@@ -42905,6 +42904,7 @@ YAPEAVsgCGroup
 YAPEAVsgCObject
 YAPEBVFbxImplementation
 YAPEBXPEBVsgCObject
+YapHE5e1P3p68HGy0ObAoBU1nKeuYMWrAVh80jRGaCreR3Ryt
 YAXAEBVCallbackDescriptor
 YAXAEBVerror_code
 YAXP6APEAX_K
@@ -42927,6 +42927,7 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
+YPFrgNDdhsP4DQwVMCAwEAAQ
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY

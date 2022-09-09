@@ -192,6 +192,7 @@ Studio.AnimationClipEditor.Toast.AnimationImportUseSelected,Selected, ,Selected,
 Studio.AnimationClipEditor.Title.MaxPBS,Maximum playback speed is 10x, ,Maximum playback speed is 10x,La velocidad máxima de reproducción es 10x,"La vitesse de lecture maximale est de 0,1x",Velocità di riproduzione massima: 10x,最大プレイバック速度は 10x,최대 재생 속도는 10배속입니다,A velocidade máxima de execução é 10x, ,最高播放速度为 10 倍,最高播放速度为 10 倍,最快播放速讀為 10x
 Studio.AnimationClipEditor.Settings.SnapDisabled,Disabled, ,Disabled,Desactivado,Désactivé,Disabilitato,無効化済み,비활성화됨,Desativado, ,已禁用,已禁用,已停用
 Studio.AnimationClipEditor.Settings.025x,.25x, ,.25x,.25x,.25x,"0,25x",.25x,.25x,.25x,.25x,.25x,.25x,.25x
+Studio.AnimationClipEditor.ReduceKeyframes.Keyframes,Keyframes:, ,Keyframes:, , , , , , , , , , 
 Studio.AnimationClipEditor.Settings.05x,.5x, ,.5x,.5x,.5x,"0,5x",.5x,.5x,.5x,.5x,.5x,.5x,.5x
 Studio.AnimationClipEditor.Settings.1x,1x, ,1x,1x,1x,1x,1x,1x,1x,1x,1x,1x,1x
 Studio.AnimationClipEditor.Settings.2x,2x, ,2x,2x,2x,2x,2x,2x,2x,2x,2x,2x,2x
@@ -271,3 +272,5 @@ Studio.AnimationClipEditor.FaceCapture.LearnMoreLabel,Learn more, ,Learn more,Ap
 Studio.AnimationClipEditor.FaceCapture.DefaultFaceRecordingName,Recorded facial animation, ,Recorded facial animation,Animación facial grabada,Animation faciale enregistrée,Animazione facciale registrata,フェイスアニメーションを録画しました,기록된 얼굴 애니메이션,Animação facial gravada, , , ,錄製的臉部動作
 Studio.AnimationClipEditor.FaceCapture.OverwritingPreviousFacsTracksBody,Existing face animation will be overwritten. The action is undoable (Cmd+Z / Ctrl+Z)., ,Existing face animation will be overwritten. The action is undoable (Cmd+Z / Ctrl+Z).,Se sobrescribirá la animación facial existente. Esta acción se puede deshacer (Cmd+Z / Ctrl+Z).,L'animation de visage existante sera remplacée. L'action est annulable (Cmd+Z / Ctrl+Z).,L'animazione del viso esistente verrà sovrascritta. L'azione è annullabile (Cmd+Z / Ctrl+Z).,既存のフェイスアニメーションが上書きされます。この動作は取り消せません (Cmd+Z か Ctrl+Z)。,기존 얼굴 애니메이션을 덮어씁니다. 이 작업은 취소할 수 있습니다(Cmd+Z 또는 Ctrl+Z).,A animação de rosto existente será substituída. A ação é reversível (Cmd+Z / Ctrl+Z)., , , ,目前的臉部動畫將被覆寫。此動作可復原（Cmd + Z 或 Ctrl + Z）。
 Studio.AnimationClipEditor.Tooltip.Record,Record facial animation, ,Record facial animation,Graba la animación facial,Enregistrer l'animation faciale,Registra l'animazione facciale,フェイスアニメーションを録画,얼굴 애니메이션 기록,Gravar animação facial, , , ,錄製臉部動作
+Studio.AnimationClipEditor.Menu.ReduceKeyframes,Reduce Keyframes, ,Reduce Keyframes, , , , , , , , , , 
+Studio.AnimationClipEditor.Title.ReduceKeyframes,Reduce Keyframes, ,Reduce Keyframes, , , , , , , , , , 

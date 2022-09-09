@@ -56,6 +56,8 @@ RoactGamepad = "github.com/roblox/roact-gamepad@0.5.6"
 [dev_dependencies]
 JestGlobals = "github.com/roblox/jest-roblox@2.4.1"
 Rhodium = "github.com/roblox/rhodium@0.2.8"
+TagUtils = "github.com/Roblox/luau-tag-utils@0.1.0"
+RecordPlayback = "https://github.com/Roblox/http-service-utils@0.1.0"
 
 # Dependencies for the Roact17 inspector
 ReactDevtoolsExtensions = "github.com/Roblox/roact-alignment@17.0.1-rc.15"
