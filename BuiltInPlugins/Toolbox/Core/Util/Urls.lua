@@ -21,7 +21,6 @@ local getPlaceId = require(Plugin.Core.Util.getPlaceId)
 local FFlagToolboxEnableAssetConfigPhoneVerification = game:GetFastFlag("ToolboxEnableAssetConfigPhoneVerification")
 local FIntCanManageLuaRolloutPercentage = game:DefineFastInt("CanManageLuaRolloutPercentage", 0)
 local FFlagInfiniteScrollerForVersions2 = game:getFastFlag("InfiniteScrollerForVersions2")
-local FFlagToolboxIncludedPlaceIdInConfigRequest = game:GetFastFlag("ToolboxIncludedPlaceIdInConfigRequest")
 local FFlagToolboxUseQueryForCategories2 = game:GetFastFlag("ToolboxUseQueryForCategories2")
 local FFlagToolboxUseGetVote = game:GetFastFlag("ToolboxUseGetVote")
 local FFlagStudioPluginsUseBedev2Endpoint = game:GetFastFlag("StudioPluginsUseBedev2Endpoint")
@@ -149,32 +148,30 @@ function Urls.usesMarketplaceRoute(category: string): boolean
 	return MIGRATED_ASSET_TYPES:has(category)
 end
 
-function Urls.constructGetToolboxItemsUrl(
-	args: {
-		categoryName: string,
-		sectionName: string?,
-		sortType: string?,
-		keyword: string?,
-		queryParams: HomeTypes.SubcategoryQueryParams?,
-		cursor: string?,
-		limit: number?,
-		ownerId: number?,
-		creatorType: string?,
-		creatorTargetId: number?,
-		minDuration: number?,
-		maxDuration: number?,
-		includeOnlyVerifiedCreators: boolean?,
-		useCreatorWhitelist: boolean?,
-		tags: { string }?,
-	}
-)
+function Urls.constructGetToolboxItemsUrl(args: {
+	categoryName: string,
+	sectionName: string?,
+	sortType: string?,
+	keyword: string?,
+	queryParams: HomeTypes.SubcategoryQueryParams?,
+	cursor: string?,
+	limit: number?,
+	ownerId: number?,
+	creatorType: string?,
+	creatorTargetId: number?,
+	minDuration: number?,
+	maxDuration: number?,
+	includeOnlyVerifiedCreators: boolean?,
+	useCreatorWhitelist: boolean?,
+	tags: { string }?,
+})
 	local categoryName = args.categoryName
 	local ownerId = args.ownerId
 	local query = Object.assign(
 		{},
 		Dash.omit(args, { "categoryName", "sectionName", "ownerId", "tags" }),
 		{ tags = if args.tags then Array.join(args.tags, ",") else nil },
-		{ placeId = if FFlagToolboxIncludedPlaceIdInConfigRequest and args.sectionName then getPlaceId() else nil }
+		{ placeId = if args.sectionName then getPlaceId() else nil }
 	)
 
 	local categoryData = Category.getCategoryByName(categoryName)
@@ -214,7 +211,7 @@ function Urls.constructGetToolboxItemsUrl(
 	-- Add values in queryParams to the query, and override the ones in the query if necessary, since queryParams will be the source of truth going forward
 	if FFlagToolboxUseQueryForCategories2 and query.queryParams ~= nil then
 		for key, val in pairs(query.queryParams) do
-				query[key] = val
+			query[key] = val
 		end
 	end
 	local urlQueryParams = if FFlagToolboxUseQueryForCategories2
@@ -617,7 +614,7 @@ function Urls.constructGetHomeConfigurationUrl(assetType: Enum.AssetType, locale
 	return string.format("%s/home/%s/configuration?", TOOLBOX_SERVICE_URL, assetType.Name)
 		.. Url.makeQueryString({
 			locale = locale,
-			placeId = if FFlagToolboxIncludedPlaceIdInConfigRequest then getPlaceId() else nil,
+			placeId = getPlaceId(),
 		})
 end
 
