@@ -761,6 +761,7 @@ AimdRateControl
 AinDisableReportErrorTelemetry
 AinPointsThrottleValue
 AirController
+Aj6P7yBjiXNuOxpyjZaZhEgDybgV2wGzU9Cj
 Aktivieren
 Aktivierung
 Aktivierungs
@@ -1357,6 +1358,7 @@ AppUpdate]
 AppUpdateService
 AppUpdateStatus
 AppVersion
+ApsFYSBDwrCeBT
 APSToggleClientServerFTUE
 AQ_MODE_COUNT
 AQJsonArray
@@ -7174,7 +7176,6 @@ BgRefreshes
 BgUpdateRedirectsDisable
 BgUpdateRedirectsHttpErrInfluxHundredthsPercentage
 BgUpdateRedirectsRejectInfluxHundredthsPercentage
-BgZUmevpD3hrO8eV1ItWrO6WmkXEp2g59PNSYZuHYvxCp
 BHBpBJXcdFg
 BHHHHHHHHHHHHHHHHHHHHHHHHHH
 BhHlLjJTiIfdnczsxX
@@ -7401,6 +7402,7 @@ BootcampCLI58696
 Bootstrapper
 BootstrapperLauncher
 BootstrapperUpdate
+BoptionalMessage
 BorderColor
 BorderColor3
 BorderMode
@@ -7446,7 +7448,6 @@ BoxSelectCommand
 BPEAUIUnknown
 BPQVYB6_F3P
 BPu_fD9B`uXfD9BpuQ
-BQ4dV7hJtozG97GqgH3zspf
 BQByteArray
 BQPersistentModelIndex
 BQTextFormat
@@ -7506,7 +7507,6 @@ BreakReason
 BreakUpPerfAggregate
 BRenderGrassHeightScaler
 BRenderReportOutOfMemory
-BReportAbuse
 Brevesmall
 BrickColor
 BrickColor.
@@ -12499,7 +12499,6 @@ DevFrameworkFixSortArrowHeight
 DevFrameworkGrid
 DevFrameworkList
 DevFrameworkMigrateDialog
-DevFrameworkMigrateSearchBar
 DevFrameworkMigrateStyledDialog
 DevFrameworkMigrateTextLabels
 DevFrameworkMigrateTooltip
@@ -12580,6 +12579,7 @@ DFbxAMatrix
 DFbxMatrix
 DFIntGameNetLocalSpaceMaxSendIndex
 DfNfXfbftf
+DGCmkIYiRSH14gH23yblFuRkma
 DGHASH_ASM
 DgNg`ghgpgxg
 DgNgXgbglgvg
@@ -12895,7 +12895,6 @@ DMinMaxDistance
 DmJobTotal
 DnsResolve
 DNSResponseMS
-DoaDCIeyJJRXcv9GbWbkKoKbAMHBL9CHBDBBCJPTBihB8DniLi0pJ4mshb
 DoAllocate
 DocActivation
 DocActivationHistoryController
@@ -13111,6 +13110,7 @@ Drehmoment
 Drehwerkzeuge
 DressSkirt
 DressSkirtAccessory
+DrHNxouwyRvU6LFnFTQ
 DriverInfo
 DropAction
 DropActions
@@ -13181,6 +13181,7 @@ DtmfSenderInterface
 DtmfSenderProxyWithInternal
 DualStreamVertexData5
 DUARAndOpenSurvey
+DuCvskyA412uzyUJ2corKzXrOzJ1W03sdnnKQ5rQR3Wb
 DueToMaxBytesInFlightCountToTotalCount
 DummyStudioCounterToCheckForEventDropDuringShutdown
 DummyStudioCounterToCheckForEventDropDuringStartup
@@ -13239,6 +13240,7 @@ DXObjectAccessNV
 DXOpenDeviceNV
 DXRegisterObjectNV
 DXSetResourceShareHandleNV
+DXU0Ziv6IN2lmR23qNcHSyTHGZqdOUvIIfXDWXMHuV13BX1S92wC
 DXUnlockObjectsNV
 DXUnregisterObjectNV
 DXVideoMemory
@@ -13446,6 +13448,7 @@ EBAPEAVTrackerStreamAnimation
 EBAPEAVWorkspace
 EbDgxvvfGb
 EBELEVE`EjEtE
+EBYFfnmo9cK
 EC_GROUP_check
 EC_GROUP_check_discriminant
 EC_GROUP_copy
@@ -14078,6 +14081,7 @@ EnvMapUpdate
 EnvTexture
 EnvTextureInProgress
 EoOoZoaozo
+EP1kluta5IcJ9
 EphemeralCounter
 EphemeralCounterInfluxReportingEnabled
 EphemeralCounterInfluxReportingPriorityHundredthsPercent
@@ -14182,7 +14186,6 @@ EulerAnglesXYZ
 EulerAnglesYXZ
 EulerRotation
 EulerRotationCurve
-EV9SxKevaC
 EvaluatedKey
 EvaluateForHovers
 EvaluateGlobalTransform
@@ -16938,6 +16941,7 @@ GfxClusters]
 GfxClustersFull
 GfxClustersFull]
 GfxPartInvalidationBudgetMs
+Gg0fZhco0mVpVbuQzPVb8
 GGGGGGGGGG
 GGGGGGGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGG
@@ -17262,6 +17266,7 @@ Grundeinstellungen
 Gruppenteile
 Gruppierung
 GSSolverActive
+GStudio.App.Tooltip.Variadic
 GTFiEnDdCJB
 GTInfluxDB
 GuestFriendCheckFailImmediate
@@ -18065,7 +18070,6 @@ HumanoidWithPGSConstraintsUsePhysicsState
 Hungarumlautsmall
 HungScript
 HungScriptPermyriad
-HuY73d3WBcqBUCtilDlGWUdSHcK67sdUtqWlg
 HVQByteArray
 HVQRegularExpression
 HVQVariant
@@ -18211,6 +18215,7 @@ IgnoreVertexColors
 IgnoreWater
 Ignorieren
 Igravesmall
+IhbMHu2OfpsOgJE0
 IID_IAMDirectSound
 IID_IAMLine21Decoder
 IID_IAMStreamConfig
@@ -19333,7 +19338,6 @@ IXPService]
 IXPTestBrowserTrackerLayerName
 IXPTestSignupLandingLayerName
 IXPTestUserLayerName
-IXxJifwpOJpgOOn8falRyutSMdrqph
 IYUVI420YU12I420YU16I422YU24I444YUYVYUY2yuvsYUY2HDYCUYVY2vuyUYVYJPEGMJPGdmb1MJPGBA81BGGRRGB3raw
 J_Key_dn.png
 J_NW4CurrencyType
@@ -19358,7 +19362,6 @@ JHW4MembershipType
 JIIIIIIIKI
 JitterBufferDelayInterface
 JitterBufferDelayProxyWithInternal
-JJgy2TWbXDE9FYOcdr5d1hbhTWLDKIUJYMpKQoYxCUqPjWG
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
@@ -19435,6 +19438,7 @@ JointsService
 JointStepParallelBatchSize
 JointToolHelpDialogVerb
 JointWakeAssemblies
+JOQXEgjV4d43eJcSDnLq
 JosefinSans
 JosefinSans.json
 JPEAUICoreWebView2Controller
@@ -19485,6 +19489,7 @@ Kameraempfindlichkeit
 Kamerageschwindigkeit
 Kamerazoom
 KBytesPerSec
+KDwWaRBOnT19RdgIAOiCMrsOWpwgDy
 KeepAliveTimeout
 KeepPositionOnInsert
 KERNEL32.dll
@@ -19990,6 +19995,7 @@ LmsPingExpBackoffMaxElapsedTimeSeconds
 LmsPingExponentialBackoff
 LmsRecipeEndpoint
 LmsReportEndpoint
+LNB7vXpFVZZMqXToSuMcgLCBp5NVLk4a2lG0JozeoL6ANr
 LOAD_CERT_CTRL
 Load_Package
 LoadAnimation
@@ -21522,7 +21528,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEArPPWIHd2Sghb8J4nM4TKscGPEhRrRZussDEPW
+MIICCgKCAgEA2
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21897,7 +21903,6 @@ MovingHumanoid
 MovingNoPhysicsBase
 MovingPrimitives
 MovingPrimitivesCount
-Mp0WX8e9uZYzbm8exfMzNoT1oi1J2Vey3kGafr4699nH5xupLdFgZwY72uN1
 MP8BasePart
 MpCehiHzreSzNTczkc9d
 MPEAUCachedContent
@@ -21925,6 +21930,7 @@ MRULocalFileStoreBase
 MRURobloxApiGameStore
 MRURobloxApiGameStoreBase
 MSACM32.dll
+MsdHUiX81PdslCckA
 MsecBetweenTextureMemoryUsageArrayRefresh
 MSecsSinceEpoch
 MsgWaitForMultipleObjectsEx
@@ -21939,7 +21945,6 @@ Mtx_init_in_situ
 Mtx_trylock
 Mtx_unlock
 Mu\tbs_rSq
-MUA1cWmHfHF
 MULE_BASELINE_OFFSET
 MULE_RELATIVE_COMPOSE
 MultiByteToWideChar
@@ -22427,7 +22432,6 @@ NfXf`fhfzf
 NH_NHHVStringView
 NHVVariant
 NinjaMask.mesh
-NIPAP1xm31ZrS3VMfUpTWPeQr
 NLSF_mu_Q20
 NLSFInterpCoef_Q2
 NMMMMW4Priority
@@ -23363,6 +23367,7 @@ PA_A^A]A\_^
 PA_A^A]A\_^[
 PA_A^A]A\_^]
 PA_A^A]A\_^]H
+PA936BuZHflGZv
 PacakageCopiesHaveAutoUpdate
 PacakgeServiceReportFailedRequestsRate
 PacedSender
@@ -23778,6 +23783,7 @@ PcFactoryDefaultBitrates
 PCStudioApp
 PCStudioAppCJV
 PdL0F0RLTi
+PdlvwFW2bn
 PE_D_SRCH_LENGTH
 PE_MAX_NB_SUBFR
 PEAD1AEAPEAD
@@ -25351,6 +25357,7 @@ PluginWithInstancesAsChildren
 PluginWriteTemp
 PlusButtonPressed
 PlusInfinity.
+PnUeZW7cD9oGsBxzekL7sKXSjSkEVzs7N
 PodcastCategory
 PodcastGuid
 PodcastUrl
@@ -26610,7 +26617,6 @@ QQuickImageResponse
 QQuickTextureFactory
 QQuickView
 QQuickWindow
-QQYHqdjHow6
 QRadialGradient
 QRadioButton
 QRegularExpression
@@ -26809,7 +26815,6 @@ QValidator
 QVariantAnimation
 QVBoxLayout
 QVersionNumber
-QWBoh5ZcT78jC4HuSjeFgm4dINA1NuNesE
 QWheelEvent
 QWidgetAction
 QWidgetPluginGui
@@ -28033,6 +28038,7 @@ Replicazione
 Replikationen
 ReplyFinished
 REPORT_ABUSE
+ReportAbuse
 ReportAbuseDeadCodeHit
 ReportAbuseV2
 ReportAbuseV3
@@ -28878,7 +28884,6 @@ RowVisibilityChanged
 RPC_E_CHANGED_MODE
 RPCServers
 RRakRecvToAppPop
-RRos3NOIorSuxSYJki4wxSPEgzdJa8PvWN
 RRReceiptFail
 RRReceiptTotal
 RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
@@ -31304,6 +31309,7 @@ Spielermodus
 Spieloptionen
 Spielzugriffsberechtigungen
 SpikeCount
+SpiKEgF5Or6ywAddwbSC
 SpinBoxChanged
 SplineEditor
 SplineEditorAdapter
@@ -31357,6 +31363,7 @@ SSAOBlurYFS
 SSAOCompositFS
 SSAOCompositVS
 SSAODepthDownFS
+SsaoHSGG70vRj8EjEQ2JT4DltBbLO9UY
 SSAOMipLevels
 SSDeserialized
 SSL_add_dir_cert_subjects_to_stack
@@ -35439,7 +35446,6 @@ Studio.App.TemplatesPage.AllTemplates
 Studio.App.Theme.InvalidGetThemeApi
 Studio.App.ToastNotificationService.NotAvailable
 Studio.App.Tooltip.GoToSource
-Studio.App.Tooltip.Variadic
 Studio.App.TwoStepVerificationPage.Enter6DigitCode
 Studio.App.TwoStepVerificationPage.NeedHelpContact
 Studio.App.TwoStepVerificationPage.RobloxSupport
@@ -36587,6 +36593,7 @@ SVWATAUAVH
 SVWATAUAWH
 SVWATAVAWH
 SVWAUAVAWH
+Sw735oU0hBwR4wy7OWp
 SwapAttachmentsVerb
 SwapBuffers
 SwapBuffersMscOML
@@ -36803,6 +36810,7 @@ TattletaleShuffleCount
 TattletaleSwearWordDetected
 TattletaleUseNewWordListFeatures
 TattletaleUseOriginalWordList
+TB4Lg4C3kJ
 TbTdTfThTjTlXn2r
 TcBuildingDuration
 TcBuildingEnd
@@ -37849,7 +37857,6 @@ TlsGetValue
 TlsSetValue
 TlsVerificationFail
 TLSVersion
-TLV4Ou8ZkQDt2K5owDZv
 Tmap_traits
 TMxQPxAA13
 TMYj0j2Lt[
@@ -39325,6 +39332,7 @@ UPromiseResult
 UPropertyPair
 UpSampleTentFS
 UPublishDiagnosticsNotification
+UQgzzJtRMNZCPDvaTQ
 UQLatin1Char
 UQMetaObject
 UQPrivateSignal
@@ -41123,6 +41131,7 @@ VNetworkSenderScheduleJob
 VNetworkSettings
 VNetworkStream
 VNewNullTool
+VnJkJ3mCUmee9ZspRrF3nX0CAwEAAQ
 VNoCollisionConstraint
 VNoCollisionConstraintTool
 VNonReplicatedCSGDictionaryService
@@ -42691,7 +42700,6 @@ XboxSaleAvatarPackageIds
 XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
-XGjqwu0pzsyA5374wrFTzPxckt
 XHW4Status_e
 XInputGetBatteryInformation
 XInputGetCapabilities
@@ -42904,7 +42912,6 @@ YAPEAVsgCGroup
 YAPEAVsgCObject
 YAPEBVFbxImplementation
 YAPEBXPEBVsgCObject
-YapHE5e1P3p68HGy0ObAoBU1nKeuYMWrAVh80jRGaCreR3Ryt
 YAXAEBVCallbackDescriptor
 YAXAEBVerror_code
 YAXP6APEAX_K
@@ -42927,8 +42934,8 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YPFrgNDdhsP4DQwVMCAwEAAQ
 YResolution
+YTAHq5QRCXhTZoFywkxE0mzxDG
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
