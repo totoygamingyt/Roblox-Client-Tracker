@@ -30,8 +30,8 @@ Studio.Toolbox.Subcategory.Audio,Audio, ,Audio,Audio,4000,Audio,オーディオ,
 Studio.Toolbox.AssetConfigPackagePermissions.MultipleLabelTooltip,Not all roles have the same access; expand the group for details., ,Not all roles have the same access; expand the group for details.,No todos los roles tienen el mismo acceso; expande el grupo para más detalles.,"Tous les rôles n'ont pas le même accès, élargir le groupe pour plus de détails.",Non tutti i ruoli hanno lo stesso accesso; espandere il gruppo per i dettagli.,すべての役割に同じアクセス権限があるわけではありません。詳しくはグループを展開してください。,모든 역할이 동일한 액세스 권한을 갖는 것은 아닙니다. 자세한 내용은 그룹을 확장해 확인하세요.,Nem todos os cargos têm o mesmo acesso; expanda o grupo para detalhes., , , ,各階級的權限不一樣，請展開群組獲得詳細資訊。
 Studio.Toolbox.General.CategoryMyDecals,My Images,Meine Bilder,My Images,Mis imágenes,Mes images,Le mie immagini,マイ画像,내 이미지,Minhas imagens,Мои изображения,我的图片,我的图片,我的圖像
 Studio.Toolbox.Audio.SoundEffect.Category.cameras,Cameras, ,Cameras,Cámaras,Caméras,Telecamere,カメラ,카메라,Câmeras, , , ,攝影機
-Studio.Toolbox.General.Ownership,Creator, ,Creator,Creador,Créateur,Creatore,クリエーター,크리에이터,Criador,Автор,创建者,创建者,創作者
-Studio.Toolbox.General.SearchOptionCreator,Creator,Ersteller,Creator,Creador,Créateur,Creatore,クリエーター,크리에이터,Criador,Автор,创建者,创建者,創作者
+Studio.Toolbox.General.Ownership,Creator, ,Creator,Creador,Créateur,Creatore,クリエーター,크리에이터,Criador,Автор,创作者,创作者,創作者
+Studio.Toolbox.General.SearchOptionCreator,Creator,Ersteller,Creator,Creador,Créateur,Creatore,クリエーター,크리에이터,Criador,Автор,创作者,创作者,創作者
 Studio.Toolbox.General.CategoryMyModels,My Models,Meine Modelle,My Models,Mis modelos,Mes modèles,I miei modelli,マイモデル,내 모델,Meus modelos,Мои модели,我的模型,我的模型,我的模型
 Studio.Toolbox.General.CategoryMyMeshes,My Meshes,Meine Meshes,My Meshes,Mis mallas,Mes maillages,Le mie mesh,マイメッシュ,내 메시,Minhas malhas,Мои сетки,我的网格,我的网格,我的網格
 Studio.Toolbox.Audio.Music.Genre.corporate,Corporate, ,Corporate,Empresarial,Entreprise,Corporate,コーポレート,코퍼레이트,Corporativo,Корпоративная, , ,企業
@@ -314,7 +314,7 @@ Blues,Blues,Blues,Blues,ブルース,블루스,Blues,Блюз, , ,藍調,Studio.
 Blues,Blues,Bleus,Blues,ブルース,블루스,Blues,Блюз,蓝调,蓝调,藍調,Studio.Toolbox.Audio.SoundEffect.Category.human,Human, 
 Human,Humano,Humain,Umano,人間,인간,Humano, , , ,人類,Studio.Toolbox.AssetConfigPackagePermissions.UsersCollaboratorType,Users, 
 Users,Usuarios,Utilisateurs,Utenti,ユーザー,사용자,Usuários,Пользователи,用户,用户,使用者,Studio.Toolbox.AssetConfigPackagePermissions.PackageCreator,Package Creator, 
-Package Creator,Creador del paquete,Créateur package,Creatore del pacchetto,パッケージクリエーター,패키지 생성자,Criador de pacotes,Создатель пакета,包创建者,包创建者,套件創作者,Studio.Toolbox.General.CategoryGroupAnimations,Group Animations, 
+Package Creator,Creador del paquete,Créateur package,Creatore del pacchetto,パッケージクリエーター,패키지 생성자,Criador de pacotes,Создатель пакета,包创作者,包创作者,套件創作者,Studio.Toolbox.General.CategoryGroupAnimations,Group Animations, 
 Group Animations,Animaciones del grupo,Animations de groupe,Animazioni del gruppo,グループアニメーション,그룹 애니메이션,Animações de grupo, ,群组动画,群组动画,群組動畫,Studio.Toolbox.ThumbnailStatus.Blocked,Blocked, 
 Blocked,Bloqueada,Bloqué,Bloccati,ブロック済み,차단됨,Bloqueado,Заблокировано,已屏蔽,已屏蔽,遭拒,Studio.Toolbox.AssetConfigPackagePermissions.GroupsCollaboratorType,Groups, 
 Groups,Grupos,Groupes,Gruppi,グループ,그룹,Grupos,Группы,组合,组合,組合,Studio.Toolbox.AssetConfigPackagePermissions.MyFriendsCollaborator,My Friends, 
