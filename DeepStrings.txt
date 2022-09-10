@@ -75,7 +75,6 @@ AAEE11E38B9D871882A8E559
 AAF011E38B9D871882A8E559
 AAF111E38B9D871882A8E559
 AAF511E38B9D871882A8E559
-AAudioDeviceErrorTelemetry
 AB0BF11E395B6E5DB6211F344
 AB0DC85B11
 ABAllUsers
@@ -407,6 +406,7 @@ AddTransportOffer
 AddUIToggleToRibbon
 AddUserAsync
 ADebugSSAOForce
+ADeferredVoxelUpdates
 AdGuiEnabled
 AdGuiImageMaxHeightInStudTenths
 AdGuiImageMaxWidthInStudTenths
@@ -761,7 +761,6 @@ AimdRateControl
 AinDisableReportErrorTelemetry
 AinPointsThrottleValue
 AirController
-Aj6P7yBjiXNuOxpyjZaZhEgDybgV2wGzU9Cj
 Aktivieren
 Aktivierung
 Aktivierungs
@@ -772,6 +771,7 @@ Aktualisierung
 Aktualisierungen
 Aktualisierungen.
 Aktuellste
+ALAu9SSXCqBJrcthUWKRiI9rNvut1q
 Albedo2022
 AlbedoPre2022
 AlbumArtist
@@ -1358,7 +1358,6 @@ AppUpdate]
 AppUpdateService
 AppUpdateStatus
 AppVersion
-ApsFYSBDwrCeBT
 APSToggleClientServerFTUE
 AQ_MODE_COUNT
 AQJsonArray
@@ -1411,6 +1410,8 @@ Array.length
 Array[threadIdx]
 Array[threadIdx].length
 ArrayIndex
+ArriveAtDestination
+ArriveAtSource
 ArrowCursor
 ArrowCursor.png
 ArrowCursorDecalDrag
@@ -1617,7 +1618,7 @@ AstExprVarargs
 AstStatFor
 AstStatFunction
 AstTypePack
-AStudio.App.RBXMainWindow.InsertObjectsWidgetMenu
+AStudioReportStartupInfoInfluxHundredthsPercentage
 AsusROG71OSD.dll
 AsusStrixOSD.dll
 AsusU7MKIIOSD.dll
@@ -1843,6 +1844,7 @@ AudioDevice
 AudioDeviceBuffer
 AudioDeviceBufferTimer
 AudioDeviceError
+AudioDeviceErrorTelemetry
 AudioDeviceGeneric
 AudioDeviceModule
 AudioDeviceModuleImpl
@@ -7097,6 +7099,7 @@ BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
+BCurrentDataModelType
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
@@ -7402,7 +7405,6 @@ BootcampCLI58696
 Bootstrapper
 BootstrapperLauncher
 BootstrapperUpdate
-BoptionalMessage
 BorderColor
 BorderColor3
 BorderMode
@@ -7568,6 +7570,7 @@ BrushOrigin
 BrushStyle
 BrutalLegendTest
 BruteForceAllSlow
+BthumbnailSize
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -7671,6 +7674,7 @@ BundleType
 BundleTypes
 BuoyancyAccumulator
 BuoyancyInSensorData2
+BUSGSOPGferp
 BusyStatesShifted
 Buttermilk
 Button1Down
@@ -7723,9 +7727,11 @@ BwUsedForAllTransmissionKBps
 BwUsedForAllTransmissionsKBps
 BwUsedForNewTransmissionsKBps
 BwUsedForReTransmissionKBps
+BXJHw4XJDpjwiT8kzeExCSYA
 ByCongestionControl
 ByContacts
 ByDatacenter_
+BydJq8SzRhjocAXGbF
 ByIPForDatacenterId_
 ByLocationForDatacenterId_
 ByOutBandwidthLimit
@@ -8454,6 +8460,7 @@ CIDFontName
 CIDFontType
 CIDFontVersion
 CIDMapOffset
+CiGpXhR7z5zB7
 Cilindrico
 CinderBlock
 CIOSW[^adfikosvy
@@ -10982,7 +10989,6 @@ CurrentCharFormat
 CurrentChatSession
 CurrentColor
 CurrentCursorResultLocation
-CurrentDataModelType
 CurrentDataModelTypeAboutToChange
 CurrentDataModelTypeChanged
 CurrentDate
@@ -11096,6 +11102,7 @@ CustomSoundEffect
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolTip
+CwhrzhPxH2EE2xpxW93GRuIvJhosfJ0nR7Pp4eZ0BpRlbUhCTucfsOCrEKUBtV4
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
@@ -11753,7 +11760,6 @@ DebugNavigationMaxMemoryUsageInBytes
 DebugNetworkPacketAgeHistory
 DebugNeverReplicateQueueingCrash
 DebugNoPersistedWidgetSize
-DebugNOUChangedAPIsTrackNoOpJoints
 DebugOccupancy
 DebugOutputAbuseReportScreenshot
 DebugOverrideDPIScale
@@ -12085,7 +12091,6 @@ DeferredNewRegions
 DeferredReporter
 DeferredTerrainChanges
 DeferredUpdates
-DeferredVoxelUpdates
 DefineCallout
 DefineFastFlag
 DefineFastInt
@@ -12156,7 +12161,6 @@ DeleteSync
 DeleteTextures
 DELETETOSTARTOFLINE
 DeleteVertexArrays
-DelistPpr2
 DeliverLowMemoryWarningsViaPolling
 DeliverRtcp
 DeliverRtp
@@ -12579,7 +12583,6 @@ DFbxAMatrix
 DFbxMatrix
 DFIntGameNetLocalSpaceMaxSendIndex
 DfNfXfbftf
-DGCmkIYiRSH14gH23yblFuRkma
 DGHASH_ASM
 DgNg`ghgpgxg
 DgNgXgbglgvg
@@ -13110,7 +13113,6 @@ Drehmoment
 Drehwerkzeuge
 DressSkirt
 DressSkirtAccessory
-DrHNxouwyRvU6LFnFTQ
 DriverInfo
 DropAction
 DropActions
@@ -13181,7 +13183,6 @@ DtmfSenderInterface
 DtmfSenderProxyWithInternal
 DualStreamVertexData5
 DUARAndOpenSurvey
-DuCvskyA412uzyUJ2corKzXrOzJ1W03sdnnKQ5rQR3Wb
 DueToMaxBytesInFlightCountToTotalCount
 DummyStudioCounterToCheckForEventDropDuringShutdown
 DummyStudioCounterToCheckForEventDropDuringStartup
@@ -13240,7 +13241,6 @@ DXObjectAccessNV
 DXOpenDeviceNV
 DXRegisterObjectNV
 DXSetResourceShareHandleNV
-DXU0Ziv6IN2lmR23qNcHSyTHGZqdOUvIIfXDWXMHuV13BX1S92wC
 DXUnlockObjectsNV
 DXUnregisterObjectNV
 DXVideoMemory
@@ -13448,7 +13448,6 @@ EBAPEAVTrackerStreamAnimation
 EBAPEAVWorkspace
 EbDgxvvfGb
 EBELEVE`EjEtE
-EBYFfnmo9cK
 EC_GROUP_check
 EC_GROUP_check_discriminant
 EC_GROUP_copy
@@ -13632,6 +13631,7 @@ EEEEEEEEEEEEEE
 EEEEEEEEEEEEEEEEEEEEEEE
 EEEEEEEEEEEEEEEEEEEEEEEEEE
 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEiqCKV0Mb5Hsk8cVCtadATu1hicqYv1FJJZ
 EF351327957B
 EF65B11E38470F846885BB6FB
 EFAAAF011E38B9D871882A8E559
@@ -13649,6 +13649,7 @@ Effettuare
 EFrontVector
 Egravesmall
 EHERE\EfEpEzE
+EHhmhmbvVoMe5YxW01VmIp3T1SyPCOOi03rKBeWQKtXh
 Eigenschaften
 Eigenschaftendatei
 Eigenschafteninfo
@@ -14081,7 +14082,6 @@ EnvMapUpdate
 EnvTexture
 EnvTextureInProgress
 EoOoZoaozo
-EP1kluta5IcJ9
 EphemeralCounter
 EphemeralCounterInfluxReportingEnabled
 EphemeralCounterInfluxReportingPriorityHundredthsPercent
@@ -15514,6 +15514,7 @@ FourByFour
 FpFramebuffer
 FpsDuringJoin
 FpsVariance
+FqCDelistPpr2
 Fractional
 FRAGMENT_SCRIPT
 Fragmentos
@@ -15691,6 +15692,7 @@ FRMMaxGrassDistance
 FRMMinGrassDistance
 FRMRecomputeDistanceFrameDelay
 FRMVoxelizerBudgetWhileLoading
+FromAdPortal
 FromAudioStream
 FromCacheAndCachePendingListIfExist
 FromCharacter
@@ -16941,7 +16943,6 @@ GfxClusters]
 GfxClustersFull
 GfxClustersFull]
 GfxPartInvalidationBudgetMs
-Gg0fZhco0mVpVbuQzPVb8
 GGGGGGGGGG
 GGGGGGGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGG
@@ -17266,7 +17267,6 @@ Grundeinstellungen
 Gruppenteile
 Gruppierung
 GSSolverActive
-GStudio.App.Tooltip.Variadic
 GTFiEnDdCJB
 GTInfluxDB
 GuestFriendCheckFailImmediate
@@ -17449,6 +17449,7 @@ HbaoCompositFS
 HBAODepthDownFS
 HbaoRenderCompute
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
+HBL.PXRrPfH
 Hcircumflex
 HdAvailables
 HDCacheLock
@@ -18091,6 +18092,7 @@ HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
 HybridEvent
+HyHDYc2HiRaGv06e9mVpp0gFs4iv1W29nLonnCf3u8U3Za2zJ61mhI90DttTBJ4
 HyIyPyVy]y^yey
 HzJTLTNTPTRTTTVXX2\
 HZNVNRNNTJPF9
@@ -18215,7 +18217,6 @@ IgnoreVertexColors
 IgnoreWater
 Ignorieren
 Igravesmall
-IhbMHu2OfpsOgJE0
 IID_IAMDirectSound
 IID_IAMLine21Decoder
 IID_IAMStreamConfig
@@ -19359,6 +19360,7 @@ Jdiv2RecvDuringJoin
 JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
 JHW4MembershipType
+JHWQwaItsmxkAPK
 JIIIIIIIKI
 JitterBufferDelayInterface
 JitterBufferDelayProxyWithInternal
@@ -19438,7 +19440,6 @@ JointsService
 JointStepParallelBatchSize
 JointToolHelpDialogVerb
 JointWakeAssemblies
-JOQXEgjV4d43eJcSDnLq
 JosefinSans
 JosefinSans.json
 JPEAUICoreWebView2Controller
@@ -19489,7 +19490,6 @@ Kameraempfindlichkeit
 Kamerageschwindigkeit
 Kamerazoom
 KBytesPerSec
-KDwWaRBOnT19RdgIAOiCMrsOWpwgDy
 KeepAliveTimeout
 KeepPositionOnInsert
 KERNEL32.dll
@@ -19743,6 +19743,8 @@ LeafyGrassName
 LearnMoreLinkLabel
 LeaveCriticalSection
 LeaveEvent
+LeaveFromDestination
+LeaveFromSource
 LeaveStartingCoreScriptsToPlaceLauncher
 LeaveUGCGame_
 Left_key.png
@@ -19995,7 +19997,6 @@ LmsPingExpBackoffMaxElapsedTimeSeconds
 LmsPingExponentialBackoff
 LmsRecipeEndpoint
 LmsReportEndpoint
-LNB7vXpFVZZMqXToSuMcgLCBp5NVLk4a2lG0JozeoL6ANr
 LOAD_CERT_CTRL
 Load_Package
 LoadAnimation
@@ -21528,7 +21529,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA2
+MIICCgKCAgEA53nSxdTwqrzMMOGsyzSnThh1cjTspJV8i2H7sDvfyNJdlnpYvh4e
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21595,6 +21596,7 @@ Mitglieder
 Mitteilungen
 Mitwirkender
 MixLevelsOutput
+MkBhsud2r77xLHOn0QAxh
 MkvStreamWriter
 MLineIndex
 MMDeviceEnumerator
@@ -21930,7 +21932,6 @@ MRULocalFileStoreBase
 MRURobloxApiGameStore
 MRURobloxApiGameStoreBase
 MSACM32.dll
-MsdHUiX81PdslCckA
 MsecBetweenTextureMemoryUsageArrayRefresh
 MSecsSinceEpoch
 MsgWaitForMultipleObjectsEx
@@ -22520,6 +22521,7 @@ NormalizedType
 NormalizedTypedef
 NormalSmoothing
 NoRunningNoPhysics
+NoSLbhkXfPfpJTt7qzMXjdvkxjtwsxo5
 NoSuggestions
 NoSupports
 Not_Custom
@@ -22804,7 +22806,9 @@ OCSP_SINGLERESP
 OCSPResponse
 OCSPSigning
 OCTETSTRING
+Ocz8dh6gwHcIkhxZCMyFsL90CAwEAAQ
 Odieresissmall
+OeH6nqcWTC
 OfA9HPuHfA9H`uAfA9Hpu
 OfAdmissions
 OfApproval
@@ -23347,6 +23351,7 @@ OverridH9H
 OverwriteMode
 Overwriting
 Overwriting.
+OwBUM4Hs5hM25kaqxDx0k268DKoRj5a6pMug9CW74CayLPdhMUf0CeRn6IOWgopg
 OwnPermission
 OwnProperty
 Ozs8xYCf2Q05p4gHyX
@@ -23367,7 +23372,6 @@ PA_A^A]A\_^
 PA_A^A]A\_^[
 PA_A^A]A\_^]
 PA_A^A]A\_^]H
-PA936BuZHflGZv
 PacakageCopiesHaveAutoUpdate
 PacakgeServiceReportFailedRequestsRate
 PacedSender
@@ -23783,7 +23787,6 @@ PcFactoryDefaultBitrates
 PCStudioApp
 PCStudioAppCJV
 PdL0F0RLTi
-PdlvwFW2bn
 PE_D_SRCH_LENGTH
 PE_MAX_NB_SUBFR
 PEAD1AEAPEAD
@@ -25357,7 +25360,6 @@ PluginWithInstancesAsChildren
 PluginWriteTemp
 PlusButtonPressed
 PlusInfinity.
-PnUeZW7cD9oGsBxzekL7sKXSjSkEVzs7N
 PodcastCategory
 PodcastGuid
 PodcastUrl
@@ -28883,6 +28885,7 @@ RowStretch
 RowVisibilityChanged
 RPC_E_CHANGED_MODE
 RPCServers
+RQkp4D9vNAxR0zcGkceWSEaxUt0
 RRakRecvToAppPop
 RRReceiptFail
 RRReceiptTotal
@@ -31309,7 +31312,6 @@ Spielermodus
 Spieloptionen
 Spielzugriffsberechtigungen
 SpikeCount
-SpiKEgF5Or6ywAddwbSC
 SpinBoxChanged
 SplineEditor
 SplineEditorAdapter
@@ -31363,7 +31365,6 @@ SSAOBlurYFS
 SSAOCompositFS
 SSAOCompositVS
 SSAODepthDownFS
-SsaoHSGG70vRj8EjEQ2JT4DltBbLO9UY
 SSAOMipLevels
 SSDeserialized
 SSL_add_dir_cert_subjects_to_stack
@@ -31462,6 +31463,7 @@ SslVersion
 SSSSSSSSRRRRRRRRRRRRRRRRRRR
 SSSSSSSSSS
 SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SStudio.App.Tooltip.Variadic
 ST_MEM_L_TBL
 StableTargetAdaptation
 Stack.length
@@ -31827,6 +31829,7 @@ StreamingReportPerformanceStatsPercentHundredeths
 StreamingRequestedInstanceAvg
 StreamingSafeMemWatermarkMB
 StreamingSolver
+StreamingSolverBetterNOUChangedTracking
 StreamingSolverEnable9
 StreamingSolverMissingSetReport
 StreamingSolverReportMissingSet
@@ -36221,7 +36224,6 @@ StudioReportLuauWarningDetailsInfluxPriorityHundredthsPercentage
 StudioReportOpenPlaceTimeFilter
 StudioReportPlaceInfoWithRibbonAnalytics
 StudioReportQmlCrashThrottleHundredthsPercent
-StudioReportStartupInfoInfluxHundredthsPercentage
 StudioReportStreamingEnabledChange
 StudioReportStreamingEnabledChangeHundredths
 StudioReportStudioOpenPlaceHundredthsPercentage
@@ -36593,7 +36595,6 @@ SVWATAUAVH
 SVWATAUAWH
 SVWATAVAWH
 SVWAUAVAWH
-Sw735oU0hBwR4wy7OWp
 SwapAttachmentsVerb
 SwapBuffers
 SwapBuffersMscOML
@@ -36810,7 +36811,6 @@ TattletaleShuffleCount
 TattletaleSwearWordDetected
 TattletaleUseNewWordListFeatures
 TattletaleUseOriginalWordList
-TB4Lg4C3kJ
 TbTdTfThTjTlXn2r
 TcBuildingDuration
 TcBuildingEnd
@@ -36922,7 +36922,6 @@ TeleportCount
 TeleportCustomGuiDisabledPlaces
 TeleportData
 Teleported
-TeleportedFromAdPortal
 TeleportedIn
 TeleportEmptySpawnLocation
 TeleportErrorDebugInfluxHundredthsPercentage
@@ -36971,6 +36970,7 @@ TeleportNonEmptySpawnLocation
 TeleportOptions
 TeleportOutOfRetryEventLog
 TeleportOutOfRetryStateCount
+TeleportParams
 TeleportPartyAsync
 TeleportPartyAsync_
 TeleportPartyAsyncRequestingGroupTeleport
@@ -38354,6 +38354,7 @@ TriStateBoolean
 Troubleshooting
 TrowelTexture.png
 TRUEVISION
+Trxg6AHiTWDd
 TryAcquireSRWLockExclusive
 TryEnterCriticalSection
 TryInstallPlugin
@@ -39332,7 +39333,6 @@ UPromiseResult
 UPropertyPair
 UpSampleTentFS
 UPublishDiagnosticsNotification
-UQgzzJtRMNZCPDvaTQ
 UQLatin1Char
 UQMetaObject
 UQPrivateSignal
@@ -41131,7 +41131,6 @@ VNetworkSenderScheduleJob
 VNetworkSettings
 VNetworkStream
 VNewNullTool
-VnJkJ3mCUmee9ZspRrF3nX0CAwEAAQ
 VNoCollisionConstraint
 VNoCollisionConstraintTool
 VNonReplicatedCSGDictionaryService
@@ -42550,6 +42549,7 @@ WorldToViewportPoint
 Worttreffer
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
+Wq3lUut12oB
 WrapDefomer
 WrapDeformer
 WrapDeformerContext
@@ -42707,6 +42707,7 @@ XInputGetState
 XInputSetState
 Xinvalid_argument
 Xlength_error
+Xod1P1E732
 Xout_of_range
 XP6AXAEBVQString
 XP6AXPEAVContentProvider
@@ -42817,6 +42818,7 @@ XQColorDialog
 Xregex_error
 XResolution
 Xtime_get_ticks
+Xu87tlKnKICRQW
 XUPlaySoloConfiguration
 XUPublishDiagnosticsNotification
 XUScriptUpdateInfo
@@ -42934,8 +42936,8 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
+YiOjAt1TyfYdpum6H1tP4O1k9V
 YResolution
-YTAHq5QRCXhTZoFywkxE0mzxDG
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
