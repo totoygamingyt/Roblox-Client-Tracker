@@ -19,6 +19,7 @@ local WarningDialog = require(Plugin.Src.Components.FacialAnimationRecorder.Warn
 local WarningOverlay = require(Plugin.Src.Components.FacialAnimationRecorder.WarningOverlay)
 local AnimationData = require(Plugin.Src.Util.AnimationData)
 local GetFFlagFacialAnimationRecordingInStudio = require(Plugin.LuaFlags.GetFFlagFacialAnimationRecordingInStudio)
+local GetFFlagFaceAnimatorFixFacsHFlip2 = require(Plugin.LuaFlags.GetFFlagFaceAnimatorFixFacsHFlip2)
 local GetFFlagFacialAnimationRecordingResetPoseDuringRecording = require(Plugin.LuaFlags.GetFFlagFacialAnimationRecordingResetPoseDuringRecording)
 local GetFacialAnimationRecordingAnalytics1 = require(Plugin.LuaFlags.GetFacialAnimationRecordingAnalytics1)
 local RunService = game:GetService("RunService")
@@ -277,7 +278,12 @@ function FacialAnimationRecorder:InitializeRecordingMode()
 	if not FaceAnimatorService then
 		return
 	end
-	FaceAnimatorService.FlipHeadOrientation = true
+
+	if GetFFlagFaceAnimatorFixFacsHFlip2() then
+		FaceAnimatorService.FlipHeadOrientation = false --mirrored
+	else
+		FaceAnimatorService.FlipHeadOrientation = true
+	end
 
 	-- we have to spawn this function to avoid calling a yield function on the Rodux call stack
 	task.defer(self.checkOrRequestCameraPermission)
