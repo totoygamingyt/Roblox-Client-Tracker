@@ -21,6 +21,7 @@ local LabeledElement = require(Plugin.Src.Components.MaterialBrowser.MaterialVar
 local PromptSelectorWithPreview = require(Plugin.Src.Components.PromptSelectorWithPreview)
 
 local getFFlagMaterialManagerTextureMapDiverseErrors = require(Plugin.Src.Flags.getFFlagMaterialManagerTextureMapDiverseErrors)
+local getFFlagDevFrameworkAssetManagerServiceToMock = require(Plugin.Src.Flags.getFFlagDevFrameworkAssetManagerServiceToMock)
 
 local getErrorTypes = require(Plugin.Src.Resources.Constants.getErrorTypes)
 local ErrorTypes = getErrorTypes()
@@ -77,6 +78,49 @@ function TextureMapSelector:init()
 			})
 		end):andThen(function(assetId)
 			local pbrMaterial = props.PBRMaterial:: any
+			return props.GeneralServiceController:setTextureMap(pbrMaterial, props.MapType, assetId, file.Name)
+		end):andThen(function()
+			props.Analytics:report("uploadTextureMap")
+			self.errorMessage = nil
+
+			if not self._isMounted then
+				return
+			end
+			self:setState({
+				uploading = false,
+			})
+		end):catch(function(err)
+			self.clearTextureMap()
+			if getFFlagMaterialManagerTextureMapDiverseErrors() then
+				warn("Error uploading asset, responseCode ".. tostring(err.responseCode))
+				if not err or not err.responseCode or err.responseCode == -1 then
+					self.errorMessage = ErrorTypes.FailedToUploadTooLarge
+				else
+					self.errorMessage = ErrorTypes.FailedToUploadFromFileMap
+				end
+			else
+				self.errorMessage = ErrorTypes.FailedToUploadFromFileMap
+			end
+
+			if not self._isMounted then
+				return
+			end
+			self:setState({
+				uploading = false,
+			})
+		end)
+	end
+
+	self.deprecatedUploadTextureMap = function(file: File)
+		local props: _Props = self.props
+		local assetHandler = props.ImportAssetHandler
+		
+		local _promise = assetHandler:handleAssetAsync(file, function()
+			self:setState({
+				uploading = true,
+			})
+		end):andThen(function(assetId)
+			local pbrMaterial = props.PBRMaterial:: any
 			props.GeneralServiceController:setTextureMap(pbrMaterial, props.MapType, assetId)
 			props.Analytics:report("uploadTextureMap")
 			self.errorMessage = nil
@@ -122,7 +166,11 @@ function TextureMapSelector:init()
 				file = file,
 				tempId = tempId,
 			}
-			self.uploadTextureMap(file)
+			if getFFlagDevFrameworkAssetManagerServiceToMock() then
+				self.uploadTextureMap(file)
+			else
+				self.deprecatedUploadTextureMap(file)
+			end
 		end
 
 		if not self._isMounted then
@@ -195,8 +243,7 @@ function TextureMapSelector:init()
 				return
 			end
 
-			-- AssetTypeId = 1 is Image
-			if not assetInfo or (assetInfo.AssetTypeId ~= 1) then	
+			if not assetInfo or (assetInfo.AssetTypeId ~= Enum.AssetType.Image.Value) then	
 				self.errorMessage = ErrorTypes.FailedUrl
 				self.clearTextureMap()
 				return
