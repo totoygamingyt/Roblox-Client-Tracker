@@ -866,6 +866,7 @@ DEPRECATED_InternalPermissionController
 DEPRECATED_IStudioHTTPRequest
 DEPRECATED_MachineConfig
 DEPRECATED_MeshUploadRequest
+DEPRECATED_NewFeatureAlert
 DEPRECATED_PersistentFifoComboBox
 DEPRECATED_RobloxCustomEvent
 DEPRECATED_RobloxCustomEventWithArg
@@ -1577,7 +1578,6 @@ ncnn::UnaryOp_final_avx
 ncnn::UnaryOp_x86
 ncnn::UnaryOp_x86_avx
 ncnn::UnlockedPoolAllocator
-NewFeatureAlert
 NewUserNotificationClient
 nlohmann::detail::exception
 nlohmann::detail::input_buffer_adapter

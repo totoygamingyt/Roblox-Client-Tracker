@@ -3764,6 +3764,7 @@ AVDEPRECATED_InternalPermissionController
 AVDEPRECATED_IStudioHTTPRequest
 AVDEPRECATED_MachineConfig
 AVDEPRECATED_MeshUploadRequest
+AVDEPRECATED_NewFeatureAlert
 AVDEPRECATED_PersistentFifoComboBox
 AVDEPRECATED_RobloxCustomEvent
 AVDEPRECATED_RobloxCustomEventWithArg
@@ -4924,7 +4925,6 @@ AVNetworkSettings
 AVNetworkStateEstimateObserver
 AVNetworkStatsCommand
 AVNetworkStream
-AVNewFeatureAlert
 AVNewInstanceItem
 AVNewNullTool
 AVNewUserNotificationClient
@@ -7566,7 +7566,6 @@ BrowserTrackerLayerVariablesResponse
 BrowserWindow
 BrowserWindowClosed
 BrowserWindowWillNavigate
-BrudTpJuDI0jkMJE7igIza9B628Wsn0WeBqvNfMA6CyQUMVBDh78t2ZauXMyS2h
 BrushOrigin
 BrushStyle
 BrutalLegendTest
@@ -11445,6 +11444,7 @@ DebugAllowLocalRccKicks
 DebugAllowMultiRotationInterpolation
 DebugAllowOutdatedHSRDataInStudio
 DebugAlwaysRespectViewportShortcuts
+DebugAlwaysShowTeachingCallouts
 DebugAnalyticsForceLotteryWin
 DebugAnalyticsSendUserId
 DebugAndEditAdorns
@@ -12218,6 +12218,7 @@ DEPRECATED_IStudioHTTPRequest
 DEPRECATED_kCheckModerationStatusName
 DEPRECATED_MachineConfig
 DEPRECATED_MeshUploadRequest
+DEPRECATED_NewFeatureAlert
 DEPRECATED_onAddWatch
 DEPRECATED_onAfterUpdateContentFromSource
 DEPRECATED_onAuthenticationChanged
@@ -12276,6 +12277,7 @@ DeprecatedObjectsShown
 DeprecatedStringSizeLimit
 DeprecatedSystemNotifier
 DeprecateLocalPlayerCreatedSignal
+DeprecateNewFeatureAlerts
 DeprecateScriptChangedSignal
 DeprecatingCSGv1
 DepthBufferSize
@@ -12580,6 +12582,7 @@ DF41709311E28987EB530EBA4742
 DF42709311E28987EB530EBA4742
 DFbxAMatrix
 DFbxMatrix
+DfdbFRi6pG
 DFIntGameNetLocalSpaceMaxSendIndex
 DfNfXfbftf
 DGHASH_ASM
@@ -12823,6 +12826,7 @@ Discord_large.png
 DiscreteCollisionDetectorInterface
 DISFFC_RESET
 DISFFC_SETACTUATORSON
+DismissGam
 DismissGameNotPublicDialog
 DismissGameNotPublishedDialog
 DismissNewFeatureDialog
@@ -13166,7 +13170,9 @@ DSO_up_ref
 DSPBufferSize
 Dst.Thread
 Dst.YBegin
+DStudio.App.Tooltip.Variadic
 DSVideoCaptureEngine
+Dt4WKad0CAwEAAQ
 DTLS_FAILURE
 DTLS_RECORD_LAYER_new
 DTLS_TRANSPORT_CLOSED.
@@ -14526,6 +14532,7 @@ EyesLookDown
 EyesLookLeft
 EyesLookRight
 EyesLookUp
+Ez3bijktMETf1t0O
 F_ObjectHasComponents
 F`F`F`F`F`F`F`F
 F`F`F`F`F`F`F`F`F
@@ -15965,7 +15972,6 @@ GAThrottlingEventThresholdHundredthCat3
 GazeSelectionEnabled
 GCDistance
 GCHappened
-GcIQqjJx2ZY7JbW5oNkHK7NjkEoDzszL9fxC6ArrVKkHJ
 Gcircumflex
 GCMinimumDeletionRateForNonZeroClientInstanceQuota
 GCReducesQuotaCriticalPercent
@@ -17052,8 +17058,8 @@ GoToScriptLocation
 GoToSourceCodeTB
 GotoTargetsRequest
 GoToVersionFailed
-Gpde4joR2o3zGNo4w9QHh99jyRej40x0
 GpuVariance
+GR8z14RCIC
 GrabCursor.png
 GrabRotateCursor
 GrabRotateCursor.png
@@ -17680,7 +17686,6 @@ HoverTokenLogIndex
 HoverTokenLogIndexNext
 HoverTokenNext
 HoverWindowShadow
-HOzzxgW4Yf7c9Vzh4TPKamHhV
 HPEAUlua_State
 HPEAUMegaReplicationData
 HPEAVPrimitive
@@ -17711,6 +17716,7 @@ HSRVersionAnalyticsHundredthPercent
 HSRVisualization
 HTMLContentInitialization
 HtmlEscaped
+HTMLEscapeDocumentation
 Http_Failed
 HTTP429CdnFailure
 HTTP429Failure
@@ -19116,6 +19122,7 @@ IsDefaultLoadingGuiRemoved
 IsDescendantOf
 IsDifferentFromFileSystem
 IsDisabled
+IsE68qVF0FM4qyIfNH39RHMiY
 IsEnabledFrameLockI3D
 IsEnabledGenlockI3D
 IsEnabledi
@@ -19364,7 +19371,6 @@ JitterBufferDelayProxyWithInternal
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
-JkYKLdsGqrESXqqEPoZeHiNn
 JobTimerDuringInitialExperience
 Jogabilidade
 JoinAttemptId
@@ -19480,6 +19486,7 @@ JW4InfoType
 JW4TextChatMessageStatus
 JW4TextFilterContext
 JW4ThumbnailType
+JYLT4bzSnWXfAlzn
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -19488,7 +19495,6 @@ Kameraempfindlichkeit
 Kamerageschwindigkeit
 Kamerazoom
 KBytesPerSec
-KCXXpgZa8Ni
 KeepAliveTimeout
 KeepPositionOnInsert
 KERNEL32.dll
@@ -19562,11 +19568,13 @@ KickClientOnCoreGuiRenderOverflow
 KiDszBCYB0gyp03Pc
 KillPtClicked
 Kinematics
+KiuGTs32vNzW0Nzmso1l15rwIYVe7eFH0FH1VA3vamApr68iUMIW
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
 Klebeoberfl
 Kleinschreibung
+KmkHA9g75maOasRr7ey
 KnownPrefixIndex
 KnownPublishRequest
 KodchiangUPC
@@ -19942,7 +19950,6 @@ LinkedSources
 LinkedToken
 LinkEnabledLabel
 LinkEnabledPlainTextEdit
-LinkFromConte
 LinkFromContextMenu
 LinkingProtocol
 LinkingProtocolCore
@@ -21500,7 +21507,6 @@ MFCreateMediaType
 MFCreateMemoryBuffer
 MFCreateSample
 MFPlat.DLL
-Mgo1xLJMG2rXbudRMsuLtHOBAJlgNGvAKpj2GGd0B6UGhj4AT8Awi7U69vh3HIQU
 MHapV7R8MxA953
 Michroma.json
 MICROPHONE_ACCESS
@@ -21530,7 +21536,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAu
+MIICCgKCAgEA2dlWmlGR4E7HFr4A
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21598,6 +21604,7 @@ Mitteilungen
 Mitwirkender
 MixLevelsOutput
 MkvStreamWriter
+MKVubM4WH5uIB
 MLineIndex
 MMDeviceEnumerator
 MMMMMMMMMMMMMMMM^^^^^^^^^^^^^^^^^^^^
@@ -21924,7 +21931,6 @@ MQModelIndex
 MQStandardItem
 MQTableWidgetItem
 MQTreeWidgetItem
-MQXveDTGRspXux4Tc
 MrdInCachePendingList
 MRSMessageSize
 MRSTopicNameLength
@@ -21939,6 +21945,7 @@ MsgWaitForMultipleObjectsEx
 MSTerrainDetailsDeterminism
 MsToScreen
 MSVCP140.dll
+Mt1RQcWy7erjMWlhwv5
 MTU_Country_
 MTU_Platform_
 Mtx_current_owns
@@ -22121,7 +22128,6 @@ NavMeshTiles
 Nb5Z3kLJHN6
 NBNDNFNHNJNLNNNPNRNTNV
 NBNDNFNHNJNLNNNPNRNTNVNXNZN\N^N`NbNdNfNhNjNlNnNpNrNtNvNxNzP
-NBNyvzSDPVK9mxyw1qgQM1Mckt
 NCONF_dump_bio
 NCONF_dump_fp
 NCONF_get_number_e
@@ -22339,7 +22345,6 @@ NewDraftAdded
 NewEconomyBalanceUrl
 NewEconomyDeveloperProductUrl
 NewEyebrowEyelashAccessoryTypes
-NewFeatureAlert
 NewFeatureAlert.qml
 NewFeatureAlert_
 NewFeatureAlerts
@@ -22438,6 +22443,7 @@ NinjaMask.mesh
 NLSF_mu_Q20
 NLSFInterpCoef_Q2
 NMMMMW4Priority
+NMUFciNIfBLNJZS1Q0ffrHd
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
@@ -22600,7 +22606,6 @@ NPEBVConnection
 NPEBVIceCandidateInterface
 NPEBVIStatus
 NPEBVLocalizationTable
-NpFWrF4uyr0PrnnO
 NSNNNNNNTNh0ii
 NSNNNNNNTNPVR
 NSNNNNNNTNPVV
@@ -22612,7 +22617,6 @@ NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
 Ntildesmall
-NuIHJWnZvTQjYKe6swHIavkAYFDs9QbFbzOiuc2wxFozM8XWhQoYPQPAVOaafxsL
 NullAudioPoller
 NullDeviceGuid
 NullNodeSettingsError
@@ -23327,6 +23331,7 @@ OutThresholdMax
 OutThresholdMax.
 OutTouches
 OutUnprepareHeader
+OUYwKeHPuR7ln8ICNwY0dEC
 OverAction
 OverActionV2
 OverallHitRate
@@ -24849,6 +24854,7 @@ PickerScriptButton
 PickFileWithPrompt
 PIDataUnsigned
 PIDualSignedTBE
+PIEBlGA0t2kz4KgSNIs9q0wwsnR3Hn
 PiggybackIceCheckAcknowledgement
 PIN_CATEGORY_ANALOGVIDEOIN
 PIN_CATEGORY_CAPTURE
@@ -26035,6 +26041,7 @@ PushResampler
 PVAdornment
 PVInstance
 PVK_header
+PWHAFUdS9MaJuXlFsLi2DURdOI8NT9A
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
@@ -26817,7 +26824,6 @@ QValidator
 QVariantAnimation
 QVBoxLayout
 QVersionNumber
-QvHSe1rw6dKBFyvjRlaEoJIJGQsLxUxblNlgmLwUOTh45GH5DfSJoLw3oD4LGu8
 QWheelEvent
 QWidgetAction
 QWidgetPluginGui
@@ -28660,6 +28666,7 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
+RLnIU2GSakNq
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -30105,6 +30112,7 @@ ServerStreamingPerfStats
 ServerTime
 ServerToClientMessageReplicateSignal
 ServerToClientUnderOver13FilteredResponseSignal
+ServerToggleButton
 ServerUnequipAccoutrement
 ServerUseInstanceBeingRemoved
 ServerVariantMessageOut
@@ -35448,7 +35456,6 @@ Studio.App.TemplatesPage.AllTemplates
 Studio.App.Theme.InvalidGetThemeApi
 Studio.App.ToastNotificationService.NotAvailable
 Studio.App.Tooltip.GoToSource
-Studio.App.Tooltip.Variadic
 Studio.App.TwoStepVerificationPage.Enter6DigitCode
 Studio.App.TwoStepVerificationPage.NeedHelpContact
 Studio.App.TwoStepVerificationPage.RobloxSupport
@@ -36679,7 +36686,6 @@ SystemTimeToFileTime
 SystemTotalMemory
 SystemUtil
 SystemUtil]
-SYXOxCzyDsPME8fd1hiyAtTPlPrc8eH
 T_gridOff_old.png
 T_gridToOne_old.png
 T_gridToOneFifth_old.png
@@ -38472,7 +38478,6 @@ UActionsQuickOpenProviderSharedState
 Uacutesmall
 Uambiguous_result
 UAncestryDeferredThreadState
-UaNk7oqRpOy4xvMeI1iZH2APxLoz2tugMRQxrtFr81b4
 UAssetLoadingData
 UAssignment
 UAsyncAtlasContext
@@ -40997,6 +41002,7 @@ VLazyTable
 VLDLComponent
 VLegacyCharacterAppearance
 Vlength_error
+VLhK0zHCS5w22oWxR1w5gvuv
 VLightstepReporter
 VLinearVelocity
 VLineForce
@@ -41961,7 +41967,6 @@ VXmlElement
 VYieldFunctions
 VYieldFunctionState
 VzAz\66DwHH
-VZJC4qcvuP1
 VzZ\\N^zbpfPj2l
 W_Key_dn.png
 WaistAccessory
@@ -42054,7 +42059,7 @@ WaterWaveSize
 WaterWaveSpeed
 WaypointIdx
 WaypointSpacing
-WbWU2OxQzerudvk6P0
+WB2NgXPJvHvTrUTkxFNmm
 WCharArray
 Wcircumflex
 WDU_Mbstatet
@@ -42482,6 +42487,7 @@ WithSHA384
 WithSHA512
 WithUserCredentials
 WithUserCredentialsSecurityQuestionsRedemption
+WkDiUKtlfXdMtr07T6E6V6hsTwipNFoxuLh6v
 WMCreateProfileManager
 WMCreateSyncReader
 WmfAudioDecoder
@@ -42546,7 +42552,6 @@ WorldToViewportPoint
 Worttreffer
 WP1Lk7UmX3No0NAVVrlNv8vM1TKYodC60fXpXkwOnxGMHelMkfu58xsxIB9tXB4U
 WPACKET_start_sub_packet_len__
-WPKb0nfRapTAsmjk
 WrapDefomer
 WrapDeformer
 WrapDeformerContext
@@ -42680,6 +42685,7 @@ XAEBVTeleportSucceededInfo
 XAEBVTurnAuthInfo
 XAEBVValue
 XAEBVVariant
+XaKFDcYBren3y6PXyC1wMs2qM2HSTi4g9S
 XAlignment
 Xbad_alloc
 Xbad_function_call
@@ -42813,6 +42819,7 @@ XPEBVIStatus
 XQColorDialog
 Xregex_error
 XResolution
+XrLMO2oZq3STKyzGiO9xXgmI85fiPZuZ3O
 Xtime_get_ticks
 XUPlaySoloConfiguration
 XUPublishDiagnosticsNotification
@@ -42881,6 +42888,7 @@ XW4WebSocketEventType
 XwhvcEikuIaqb7nHhEJ
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
 XXXXXXXXXXXXXXXXXXXXXXXXX
+XyqGISNJQLKT1LPcB3p
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
 XZP8GuiObject
@@ -42960,6 +42968,7 @@ ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVPluginMouse
 ZPu4fE9Z`u
+ZQInq7JqOfzVTpAWjHWausU0VyC2HjF
 ZRZZZbZt[.[
 Zusammenfassung
 ZVLocalTouchedSignal
