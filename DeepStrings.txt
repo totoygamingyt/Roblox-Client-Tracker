@@ -890,6 +890,7 @@ AlreadySeen
 AlrExperimentSettings
 AlrLimitedBackoff
 AlrProbing
+AlsbmHDolfIJ7OiuJ41jGVSGC3YYk3WhnEfMrspaP7SgHukx
 AlternateMeshHash
 AlternateName
 AlternateText
@@ -7099,6 +7100,7 @@ BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
 BCurrentDataModelType
+BcW0WgpE2fr15LnS44QzF93IaEl0Egv9Qldh8WBON6Pwfe28
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
@@ -7452,6 +7454,7 @@ BPu_fD9B`uXfD9BpuQ
 BQByteArray
 BQPersistentModelIndex
 BQTextFormat
+BqyVahjlEpnIs
 BreakAccoutrementCycles
 BreakGroup
 BreakJoints
@@ -7742,6 +7745,7 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 ByVersionForPlatform_
+BzUycc3ZUlRzPbbTmT3yq2tew
 C_specific_handler
 CA_NPEAVQObject
 CA2168118C14FDE5E01E7934
@@ -11101,6 +11105,7 @@ CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
 CWinTraits
+CWqhrHKLdEAtl2nv5EWo6Ab4eXstbYykwOmZGw
 CxxFrameHandler4
 CxxThrowException
 Cybertrust
@@ -11699,7 +11704,9 @@ DebugHumanoidNoStateMachine
 DebugHumanoidRendering
 DebugIgnoreCOFMSanitizationAssert
 DebugIgnoreVolumeIsZeroAssert
+DebugIosUseSoftwareAutoGainControl
 DebugIosUseSoftwareEchoCancellation
+DebugIosUseSoftwareNoiseSuppression
 DebugIsTeamCreateJoinForcedFailureEnabled
 DebugLanguageServiceRcConfigLookupForceEnable
 DebugLaunchTimeByCountryPlaceSpecific
@@ -12492,6 +12499,7 @@ DevEnableMouseLockOption
 DevForumAnnouncementsUrlSuffix
 DevForumRootUrl
 DevForumUrlSuffix
+DevFrameworkAssetManagerServiceToMock
 DevFrameworkFixErrorTextColors
 DevFrameworkFixSortArrowHeight
 DevFrameworkGrid
@@ -12949,6 +12957,7 @@ DOFFullscreenNearFieldCoCFS
 DOFResolveFarFS
 DOFResolveNearFS
 DoInsertDtmf
+DOJD0o0toly3oy
 Dokumenten
 DomainPolicy
 DominantAxis
@@ -13226,7 +13235,7 @@ DVCSRequestData
 DVCSResponseData
 DVFVHVJ2LQ
 DVPAES_ASM
-DWKCuGNISRMW4e94adbG2tp7FaQaNMs8bsKmBr6uOlkR1btUsMxFwLp4ZLEZy2G
+DWiJok4OvHbINAArFcsgOqzNOQzkEjrQI
 DwmSetWindowAttribute
 DX25519_ASM
 DXCloseDeviceNV
@@ -13239,7 +13248,6 @@ DXSetResourceShareHandleNV
 DXUnlockObjectsNV
 DXUnregisterObjectNV
 DXVideoMemory
-DyCkpWTuoX6TrGnpOf99
 DynamicallyMoveSoundStorageLocationOnMemoryNotification
 DynamicFastVariableReloaderPreserveStaticFilters
 DynamicFastVariableReloaderTest1
@@ -15277,6 +15285,7 @@ FlatPucker
 FlattenTree
 FlatTool.png
 FlatTool_dn.png
+FldI739rsLbH
 FlexfecConfig
 FlexfecReceiveStream
 FlexfecReceiveStreamImpl
@@ -15760,7 +15769,6 @@ FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
 FXComposition
-FXH3UgwUS7F9rAZwwKG8Tp8t61MwfFXTeTWDvBB162kNCvKH4jMq1c3BXateWADq
 FXHcFLH9FX
 GainControl
 GainController2
@@ -18211,6 +18219,7 @@ IgnoreVertexColors
 IgnoreWater
 Ignorieren
 Igravesmall
+Ih3eXH2UBoYEXxKvc2K4kCAwEAAQ
 IID_IAMDirectSound
 IID_IAMLine21Decoder
 IID_IAMStreamConfig
@@ -19338,6 +19347,7 @@ J_Key_dn.png
 J_NW4CurrencyType
 JacketAccessory
 JasmineUPC
+JathiSKrIM3WJQgovkRHNE8PEixzthqJ
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
@@ -19455,6 +19465,7 @@ JSONOverflowDepth
 JUAssetData
 Jugabilidad
 JUGroupRolesRequestRecord
+Jujhbgwb2s2N1UjLm99
 JumpAnimation
 JumpController
 JumpHeight
@@ -19483,6 +19494,7 @@ Kameraempfindlichkeit
 Kamerageschwindigkeit
 Kamerazoom
 KBytesPerSec
+KCGhUigw0zI5CQPHPtK
 KeepAliveTimeout
 KeepPositionOnInsert
 KERNEL32.dll
@@ -19974,7 +19986,6 @@ ListWidgetScrollingPastBottom
 LiveCoding
 Livellamento
 LivingRoom
-LJ5tgSSzh5ti7cXZcuMX0ASkvk
 LLEo6Soxvx2
 LLLLLLLLLLLL
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
@@ -21522,7 +21533,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA0JRJhkMW3jRkiuNtVODpdxpiAQxXwdhStvk
+MIICCgKCAgEAtWK1gIARRhw7BR0ejJLb0Ck50l2J5Ii9Bk2C
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -22006,7 +22017,6 @@ MVTerrainHeightMapBlendMin
 MVTerrainHeightMapBlendScale
 MVTerrainRotationParam
 MW4MaterialType
-MxTPdzgzHRQDMcdhsIZeODMz6B81krZgV3SpLSJczm
 MyModelsAction
 MyUniverses
 MyWatchTreeWidget
@@ -22602,7 +22612,6 @@ NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
 Ntildesmall
-NTW6vSl9H3AuL
 NullAudioPoller
 NullDeviceGuid
 NullNodeSettingsError
@@ -22855,7 +22864,6 @@ OgreWidgetForGameState
 OgreWidgetShowEvent
 Ohungarumlaut
 OiCCPPhotoshop
-OKqpUetVWORnyhZINlmfQmnqXA27Nu0wHjDygHHGCrg5
 OldActiveElement
 OldBinaryStringLength
 OldDOFDownSampleAndComputeFarCoCHorizontal4xFS
@@ -23343,6 +23351,7 @@ OverridH9H
 OverwriteMode
 Overwriting
 Overwriting.
+OwlfVCJiAFp0Mu
 OwnPermission
 OwnProperty
 Ozs8xYCf2Q05p4gHyX
@@ -26026,7 +26035,6 @@ PushResampler
 PVAdornment
 PVInstance
 PVK_header
-PvviHn849TjX7NXnqa0qKh3sAdwVKbcskBdy3W4CPj
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
@@ -26049,7 +26057,6 @@ QApplication
 QArrayData
 QAssociativeIterableImpl
 QAWNcgRdAzOKj8pi5wAlnsdoumgAtB1J7d
-QaYlQPTrBxMn
 QBasicTimer
 QBoxLayout
 QButtonGroup
@@ -27635,7 +27642,6 @@ RemoveCharacter
 RemoveClicked
 RemoveCollisionGroup
 RemoveCustomStatus
-Removed.Success
 RemoveDefaultLoadingGuiSignal
 RemoveDefaultLoadingScreen
 RemoveDeprecatedBool2
@@ -28653,6 +28659,7 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
+RkcGf0toaHxL5e5TuyzaEvcpuAVgy7VmVFo6awC1OGMlod6lf
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -30983,6 +30990,7 @@ SizeToFourAction
 SizeToSixteenAction
 SizeToTwoAction
 SizingMode
+SjYJErjtQ1aq8QekeZnU4eiZDfTHkqlz4tqav0WQODgs0GkLkBXk
 Skalierung
 SkateboardController
 SkateboardPlatform
@@ -36418,7 +36426,6 @@ StyleGuideModifier
 StyleOption
 StyleSheet
 StyleVersion
-SU0xH8BAui6kBxjpvo
 SUATAUAVAW
 SUATAUAVAWA
 SUATAUAVAWE
@@ -36648,7 +36655,6 @@ SyncUpdate
 SYNTAX_ERROR
 SyntaxCategories
 SyntaxHighlighting
-SYq90i2feLocn8bMA
 Syserror_map
 SysPopupRibbonButton
 SystemAddress
@@ -36707,6 +36713,7 @@ TabStopDistance
 TabToolTip
 TabWidgets
 TagRemoved
+TAhKd5GNlqC
 TaintingModule
 TaintingModuleDirectory
 TakeDamage
@@ -37851,7 +37858,6 @@ TlsGetValue
 TlsSetValue
 TlsVerificationFail
 TLSVersion
-TM9FCSiLgTjZApFk56toBYDLP5G1Qu4Kshlkf
 Tmap_traits
 TMxQPxAA13
 TMYj0j2Lt[
@@ -38188,7 +38194,6 @@ ToVideoStream
 TownAndCity
 ToWorldSpace
 TPoseAdjusterDefaultVersion
-TQfVFnW3svrYOXUuq6HU5WUi8jzdkECAwEAAQ
 Tracciamento
 TraceMessage
 TracerService
@@ -38428,7 +38433,6 @@ TwoStepVerificationOther
 TwoStepVerificationParse
 TxBwStatLog
 TxBwStatLog]
-TXOAaKqoGpUkkq77uEcrMOLd0TmT7bKElzefAMgIcKGN89YH44
 TxQueueSize
 TxtArray.length
 TxtArray[j]
@@ -39324,6 +39328,7 @@ UPromiseResult
 UPropertyPair
 UpSampleTentFS
 UPublishDiagnosticsNotification
+Uq2762FjQERgGq
 UQLatin1Char
 UQMetaObject
 UQPrivateSignal
@@ -39638,6 +39643,7 @@ USimpleTag
 UsingAdaptiveTimestepping
 UsingDataModelCloudMode
 UsingMeshPart
+UsJftodmafrNU4nAeh8tD6fQOG8wYmXvEJqQBk4S7EQz
 USkinningTransferContext
 Uslot_base
 USoundServiceStats
@@ -42690,6 +42696,7 @@ XboxSaleAvatarPackageIds
 XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
+XGUBtqDC7VfaxWQHkvM
 XHW4Status_e
 XInputGetBatteryInformation
 XInputGetCapabilities
@@ -42874,7 +42881,6 @@ XW4WebSocketEventType
 XwhvcEikuIaqb7nHhEJ
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
 XXXXXXXXXXXXXXXXXXXXXXXXX
-XXyXzF0R7WIeJ35fm1qDjzAhGUiNkq
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
 XZP8GuiObject
