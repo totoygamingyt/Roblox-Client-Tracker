@@ -21,9 +21,13 @@ local ContextualMenu = UIBlox.App.Menu.ContextualMenu
 local MenuDirection = UIBlox.App.Menu.MenuDirection
 
 local InGameMenu = script.Parent.Parent.Parent
-local IBConstants = require(InGameMenu.InspectAndBuyConstants)
 local withLocalization = require(InGameMenu.Localization.withLocalization)
 local getPurchaseInfo = require(InGameMenu.Selectors.getPurchaseInfo)
+local PromptPurchase = require(InGameMenu.Thunks.PromptPurchase)
+local SetTryOnItemInfo = require(InGameMenu.Actions.InspectAndBuy.SetTryOnItemInfo)
+local SetFavoriteForItem = require(InGameMenu.Thunks.SetFavoriteForItem)
+local Constants = require(InGameMenu.Resources.Constants)
+local IBConstants = require(InGameMenu.InspectAndBuyConstants)
 
 local BUTTON_WIDTH = 184
 local BOTTOM_BAR_GRADIENT_SIZE = 20
@@ -32,6 +36,7 @@ local ICON_BUTTON_SIZE = 22
 
 local ROBUX_ICON = Images["icons/common/robux"]
 local TRYON_ICON_OFF = Images["icons/menu/tryOnOff"]
+local TRYON_ICON_ON = Images["icons/menu/tryOnOn"]
 local MORE_ICON = Images["icons/common/more"]
 local OWNED_ICON = Images["icons/menu/avatar_on"]
 local FAVORITE_OFF_ICON = Images["icons/actions/favoriteOff"]
@@ -47,6 +52,8 @@ AssetDetailBottomBar.validateProps = t.strictInterface({
 	purchaseInfo = t.optional(t.table),
 	screenSize = t.Vector2,
 	selectedItem = t.table,
+	tryingOn = t.boolean,
+	currentPage = t.string,
 })
 
 function AssetDetailBottomBar:init()
@@ -65,6 +72,40 @@ function AssetDetailBottomBar:init()
 			contextualMenuOpened = true
 		})
 	end
+
+	self.favoriteButtonActivated = function()
+		local itemId = if self.props.bundleInfo then self.props.bundleInfo.bundleId else self.props.selectedItem.assetId
+		local itemType = if self.props.bundleInfo then Enum.AvatarItemType.Bundle else Enum.AvatarItemType.Asset
+		local shouldFavorite = not self:isItemFavorited()
+
+		self.props.setFavoriteForItem(itemId, itemType, shouldFavorite)
+	end
+
+	self.buyButtonActivated = function()
+		if self.props.bundleInfo then
+			self.props.promptPurchase(self.props.bundleInfo.bundleId, Enum.AvatarItemType.Bundle)
+		else
+			self.props.promptPurchase(self.props.selectedItem.assetId, Enum.AvatarItemType.Asset)
+		end
+	end
+
+	self.tryOnButtonActivated = function()
+		if self.props.tryingOn then
+			self.props.setTryOnItemInfo(false)
+		else
+			self.props.setTryOnItemInfo(true)
+		end
+	end
+end
+
+function AssetDetailBottomBar:isItemFavorited()
+	if self.props.bundleInfo then
+		return self.props.bundleInfo.isFavorited or false
+	elseif self.props.selectedItem then
+		return self.props.selectedItem.isFavorited or false
+	end
+
+	return false
 end
 
 function AssetDetailBottomBar:renderWithProviders(stylePalette, localized, getSelectionCursor)
@@ -93,22 +134,13 @@ function AssetDetailBottomBar:renderWithProviders(stylePalette, localized, getSe
 		text = "Offsale" --TODO: Localize
 	end
 
-	local favoriteIcon = FAVORITE_OFF_ICON
-	if self.props.bundleInfo then
-		if self.props.bundleInfo.isFavorited then
-			favoriteIcon = FAVORITE_ON_ICON
-		end
-	elseif self.props.selectedItem then
-		if self.props.selectedItem.isFavorited then
-			favoriteIcon = FAVORITE_ON_ICON
-		end
-	end
+	local favoriteIcon = self:isItemFavorited() and FAVORITE_ON_ICON or FAVORITE_OFF_ICON
 
 	local contextualMenuButtons = {
 		{
 			icon = favoriteIcon,
 			text = "Favorite", --TODO: Localize
-			onActivated = self.closeMenu,
+			onActivated = self.favoriteButtonActivated,
 		},
 		{
 			icon = REPORT_ICON,
@@ -144,9 +176,7 @@ function AssetDetailBottomBar:renderWithProviders(stylePalette, localized, getSe
 						size = UDim2.fromOffset(BUTTON_WIDTH, IBConstants.BUTTON_HEIGHT),
 						text = text,
 						icon = icon,
-						onActivated = function()
-							--TODO: AVBURST-8605 Functionality
-						end,
+						onActivated = self.buyButtonActivated,
 						isDisabled = owned or isLoading,
 					},
 				},
@@ -165,12 +195,10 @@ function AssetDetailBottomBar:renderWithProviders(stylePalette, localized, getSe
 						props = {
 							size = UDim2.fromOffset(ICON_BUTTON_SIZE, ICON_BUTTON_SIZE),
 							layoutOrder = 2,
-							icon = TRYON_ICON_OFF,
+							icon = self.props.tryingOn and TRYON_ICON_ON or TRYON_ICON_OFF,
 							iconColor3 = theme.SystemPrimaryDefault.Color,
 							iconTransparency = theme.SystemPrimaryDefault.Transparency,
-							onActivated = function()
-								--TODO: AVBURST-8605 Functionality
-							end,
+							onActivated = self.tryOnButtonActivated,
 						},
 					},
 				}
@@ -190,6 +218,15 @@ function AssetDetailBottomBar:renderWithProviders(stylePalette, localized, getSe
 	})
 end
 
+function AssetDetailBottomBar:didUpdate(prevProps)
+	-- When leaving the page, reset trying on status back to false
+	if self.props.currentPage ~= prevProps.currentPage and prevProps.currentPage == Constants.InspectAndBuyAssetDetailsPageKey then
+		if self.props.tryingOn then
+			self.props.setTryOnItemInfo(false)
+		end
+	end
+end
+
 function AssetDetailBottomBar:render()
 	return withStyle(function(stylePalette)
 		return withLocalization({
@@ -206,5 +243,19 @@ return RoactRodux.connect(function(state, props)
 		purchaseInfo = getPurchaseInfo(state),
 		screenSize = state.screenSize,
 		selectedItem = state.inspectAndBuy.SelectedItem,
+		tryingOn = state.inspectAndBuy.TryingOn,
+		currentPage = state.menuPage,
 	}
-end, nil)(AssetDetailBottomBar)
+end, function(dispatch)
+	return {
+		promptPurchase = function(itemId, itemType)
+			dispatch(PromptPurchase(itemId, itemType))
+		end,
+		setTryOnItemInfo = function(tryingOn)
+			dispatch(SetTryOnItemInfo(tryingOn))
+		end,
+		setFavoriteForItem = function(itemId, itemType, shouldFavorite)
+			dispatch(SetFavoriteForItem(itemId, itemType, shouldFavorite))
+		end,
+	}
+end)(AssetDetailBottomBar)

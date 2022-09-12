@@ -11,6 +11,7 @@ return function()
 	local SetBundlesAssetIsPartOf = require(InGameMenu.Actions.InspectAndBuy.SetBundlesAssetIsPartOf)
 	local SetBundles = require(InGameMenu.Actions.InspectAndBuy.SetBundles)
 	local SelectItem = require(InGameMenu.Actions.InspectAndBuy.SelectItem)
+	local SetTryOnItemInfo = require(InGameMenu.Actions.InspectAndBuy.SetTryOnItemInfo)
 	local UpdateStoreId = require(InGameMenu.Actions.InspectAndBuy.UpdateStoreId)
 	local inspectAndBuy = require(script.Parent.inspectAndBuy)
 
@@ -44,6 +45,7 @@ return function()
 		local userId = state.UserId
 		local displayName = state.DisplayName
 		local storeId = state.StoreId
+		local tryingOn = state.TryingOn
 
 		expect(assets).toEqual({})
 		expect(bundles).toEqual({})
@@ -51,6 +53,7 @@ return function()
 		expect(userId).toEqual(0)
 		expect(displayName).toEqual("")
 		expect(storeId).toEqual("0")
+		expect(tryingOn).toEqual(false)
 	end)
 
 	describe("SetInspectedUserInfo", function()
@@ -169,6 +172,13 @@ return function()
 			}
 			local newState = inspectAndBuy(state, SelectItem(selectItem2))
 			expect(newState.SelectedItem.assetId).toEqual("2")
+		end)
+	end)
+
+	describe("SelectItem", function()
+		it("should set when trying on an item", function()
+			local state = inspectAndBuy(nil, SetTryOnItemInfo(true))
+			expect(state.TryingOn).toEqual(true)
 		end)
 	end)
 

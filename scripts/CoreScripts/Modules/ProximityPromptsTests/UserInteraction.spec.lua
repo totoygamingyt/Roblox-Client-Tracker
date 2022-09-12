@@ -183,10 +183,37 @@ return function()
 			expect(objectTextLabel.Text).to.be.equal(prompt.ObjectText)
 		end)
 
+		it("Prompt UI width should match prompt frame size after 4 frames", function()
+			setKeyboardInputType()
+			prompt.ActionText = "Happy little tree"
+			prompt.ObjectText = "Titanium white"
+
+			PlayerHelper.WaitNFrames(1)
+
+			local frame = promptUI:FindFirstChild("Frame", true)
+			expect(frame:IsA("Frame")).to.be.equal(true)
+
+			local rhoElement = Rhodium.Element.new(promptUI)
+			local dimensions = rhoElement:getSize()
+
+			-- At initial rendering, the height will be correct
+			expect(dimensions.y).to.equal(frame.AbsoluteSize.y)
+
+			-- We have to wait at least 4 frames so that automaticsize can size the  UI, and we
+			-- can set the BillboardGui's size to match. 4 is loosely based off of the number of
+			-- children of the prompt, which affects the time it takes to complete sizing.
+			PlayerHelper.WaitNFrames(4)
+
+			local newDimensions = rhoElement:getSize()
+			-- Leave a small amount of room for rounding errors
+			expect(math.ceil(dimensions.x)).to.equal(math.ceil(frame.AbsoluteSize.x))
+		end)
+
 		it("ActionText and ObjectText should not be cut off/should fit in prompt frame", function()
 			setKeyboardInputType()
 			prompt.ActionText = "My test Action Text 1234 Long Text 1234"
 			prompt.ObjectText = "Even longer text I could write a whole paragraph here"
+
 			PlayerHelper.WaitNFrames(1)
 
 			local actionTextLabel = promptUI:FindFirstChild("ActionText", true)
@@ -195,18 +222,14 @@ return function()
 			expect(objectTextLabel:IsA("TextLabel")).to.be.equal(true)
 			expect(actionTextLabel.Text).to.be.equal(prompt.ActionText)
 			expect(objectTextLabel.Text).to.be.equal(prompt.ObjectText)
-			expect(actionTextLabel.TextFits).to.be.equal(true) -- Text should not be cut off
-			expect(objectTextLabel.TextFits).to.be.equal(true)
 		end)
 
 		it("ActionText and ObjectText should update within 1 frame when prompt properties changed", function()
 			setKeyboardInputType()
 			prompt.ActionText = "ActionText 1"
 			prompt.ObjectText = "ObjectText 1"
-			PlayerHelper.WaitNFrames(1)
 
-			local firstXSize = promptUI.AbsoluteSize.x
-			expect(firstXSize > 0).to.be.equal(true)
+			PlayerHelper.WaitNFrames(1)
 
 			-- First setting
 			local actionTextLabel = promptUI:FindFirstChild("ActionText", true)
@@ -215,11 +238,16 @@ return function()
 			expect(objectTextLabel:IsA("TextLabel")).to.be.equal(true)
 			expect(actionTextLabel.Text).to.be.equal(prompt.ActionText)
 			expect(objectTextLabel.Text).to.be.equal(prompt.ObjectText)
-			expect(actionTextLabel.TextFits).to.be.equal(true) -- Text should not be cut off
-			expect(objectTextLabel.TextFits).to.be.equal(true)
+
+			-- One additional frame for AutomaticSize
+			PlayerHelper.WaitNFrames(1)
+
+			local firstXSize = promptUI.AbsoluteSize.x
+			expect(firstXSize > 0).to.be.equal(true)
 
 			prompt.ActionText = "ActionText 2B Longer"
 			prompt.ObjectText = "ObjectText 2B Longer"
+
 			PlayerHelper.WaitNFrames(1)
 
 			-- Second setting
@@ -229,8 +257,9 @@ return function()
 			expect(objectTextLabel:IsA("TextLabel")).to.be.equal(true)
 			expect(actionTextLabel.Text).to.be.equal(prompt.ActionText)
 			expect(objectTextLabel.Text).to.be.equal(prompt.ObjectText)
-			expect(actionTextLabel.TextFits).to.be.equal(true) -- Text should not be cut off
-			expect(objectTextLabel.TextFits).to.be.equal(true)
+
+			-- One additional frame for AutomaticSize
+			PlayerHelper.WaitNFrames(1)
 
 			local secondXSize = promptUI.AbsoluteSize.x
 			expect(secondXSize > firstXSize).to.be.equal(true) -- Prompt x size should have gotten bigger.

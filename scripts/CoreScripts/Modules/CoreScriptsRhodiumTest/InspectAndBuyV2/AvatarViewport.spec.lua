@@ -1,5 +1,6 @@
 return function()
 	local CorePackages = game:GetService("CorePackages")
+	local Players = game:GetService("Players")
 	local Modules = game:GetService("CoreGui").RobloxGui.Modules
 
 	local Rhodium = require(CorePackages.Rhodium)
@@ -8,35 +9,20 @@ return function()
 	local withServices = require(Modules.CoreScriptsRhodiumTest.Helpers.withServices)
 	local withInGameMenuV3Providers = require(Modules.CoreScriptsRhodiumTest.Helpers.withInGameMenuV3Providers)
 	local Reducer = require(Modules.InGameMenuV3.reducer)
-	local AssetDetailThumbnail = require(Modules.InGameMenuV3.Components.InspectAndBuyPage.AssetDetailThumbnail)
+	local AvatarViewport = require(Modules.InGameMenuV3.Components.InspectAndBuyPage.AvatarViewport)
 
 	local FFlagInspectAndBuyV2Enabled = require(Modules.InGameMenuV3.Flags.FFlagInspectAndBuyV2Enabled)
 
+	local humanoidDescription = Instance.new("HumanoidDescription")
+	local mockCharacter = Players:CreateHumanoidModelFromDescription(humanoidDescription, Enum.HumanoidRigType.R15)
 	local props = {
-		selectedItem = {
-			assetId = "123",
-			numFavorites = 20,
-			creatorName = "Brandon",
-			description = "testDesc",
-			name = "testName"
-		}
+		model = mockCharacter,
+		humanoidDescription = humanoidDescription
 	}
-
-	local initStateVisible = {
-		inspectAndBuy = {
-			TryingOn = false
-		}
-	}
-
-	local initStateNotVisible = {
-		inspectAndBuy = {
-			TryingOn = true
-		}
-	}
-	local wrappedComponent = withInGameMenuV3Providers(AssetDetailThumbnail, props)
+	local wrappedComponent = withInGameMenuV3Providers(AvatarViewport, props)
 
 	if FFlagInspectAndBuyV2Enabled then
-		describe("AssetDetailThumbnail", function()
+		describe("AvatarViewport", function()
 			it("should mount", function()
 				withServices(function(path)
 					path = XPath.new(path)
@@ -46,24 +32,17 @@ return function()
 				wrappedComponent, Reducer, {}, nil)
 			end)
 
-			it("should be visible when not trying on the item", function()
+			it("should include the WorldModel", function()
 				withServices(function(path)
 					path = XPath.new(path)
 					local baseWidget = Element.new(path)
 					expect(baseWidget:waitForRbxInstance(1)).to.be.ok()
-					expect(baseWidget:getAttribute("Visible")).to.equal(true)
-				end,
-				wrappedComponent, Reducer, initStateVisible, nil)
-			end)
 
-			it("should not be visible when trying on the item", function()
-				withServices(function(path)
-					path = XPath.new(path)
-					local baseWidget = Element.new(path)
-					expect(baseWidget:waitForRbxInstance(1)).to.be.ok()
-					expect(baseWidget:getAttribute("Visible")).to.equal(false)
+					local worldModelPath = path:cat(XPath.new("WorldModel"))
+					local worldModel = Element.new(worldModelPath)
+					expect(worldModel:waitForRbxInstance(1)).to.be.ok()
 				end,
-				wrappedComponent, Reducer, initStateNotVisible, nil)
+				wrappedComponent, Reducer, {}, nil)
 			end)
 		end)
 	end

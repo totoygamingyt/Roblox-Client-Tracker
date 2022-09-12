@@ -1,6 +1,8 @@
 --[[
-	Given an item and it's type (Asset or Bundle),
-	Determine if a user has the item favorited or not
+	Given an item and its type (Asset or Bundle) along
+	with whether it should be favorited or unfavorited,
+	use AvatarEditorService to set that favorite status and
+	increment or decrement the item's favorite count
 ]]
 
 local CorePackages = game:GetService("CorePackages")
@@ -15,21 +17,24 @@ local SetAssets = require(InGameMenu.Actions.InspectAndBuy.SetAssets)
 local SetBundles = require(InGameMenu.Actions.InspectAndBuy.SetBundles)
 local createInspectAndBuyKeyMapper = require(InGameMenu.Utility.createInspectAndBuyKeyMapper)
 
-local keyMapper = createInspectAndBuyKeyMapper("getFavoriteForItem")
-local function GetFavoriteForItem(itemId, itemType)
+local keyMapper = createInspectAndBuyKeyMapper("setFavoriteForItem")
+
+local function SetFavoriteForItem(itemId, itemType, shouldFavorite)
 	return InspectAndBuyThunk.new(script.Name, function(store, services)
 		local network = services[Network]
 
 		local key = keyMapper(store:getState().inspectAndBuy.StoreId, itemType, itemId)
 
 		return PerformFetch.Single(key, function(fetchSingleStore)
-			return network.getItemFavorite(itemId, itemType):andThen(
-				function(results)
+			return network.setItemFavorite(itemId, itemType, shouldFavorite):andThen(
+				function()
 					if itemType == Enum.AvatarItemType.Asset then
-						local asset = AssetInfo.fromGetItemFavorite(itemId, results)
+						local currentFavoriteCount = store:getState().inspectAndBuy.Assets[itemId].numFavorites
+						local asset = AssetInfo.fromSetItemFavorite(itemId, shouldFavorite, currentFavoriteCount)
 						store:dispatch(SetAssets({asset}))
 					elseif itemType == Enum.AvatarItemType.Bundle then
-						local bundle = BundleInfo.fromGetItemFavorite(itemId, results)
+						local currentFavoriteCount = store:getState().inspectAndBuy.Bundles[itemId].numFavorites
+						local bundle = BundleInfo.fromSetItemFavorite(itemId, shouldFavorite, currentFavoriteCount)
 						store:dispatch(SetBundles({bundle}))
 					end
 				end)
@@ -39,4 +44,4 @@ local function GetFavoriteForItem(itemId, itemType)
 	end)
 end
 
-return GetFavoriteForItem
+return SetFavoriteForItem

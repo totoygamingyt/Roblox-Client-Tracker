@@ -18,6 +18,7 @@ local SetBundlesAssetIsPartOf = require(InGameMenu.Actions.InspectAndBuy.SetBund
 local SelectItem = require(InGameMenu.Actions.InspectAndBuy.SelectItem)
 local SetInspectedUserInfo = require(InGameMenu.Actions.InspectAndBuy.SetInspectedUserInfo)
 local UpdateStoreId = require(InGameMenu.Actions.InspectAndBuy.UpdateStoreId)
+local SetTryOnItemInfo = require(InGameMenu.Actions.InspectAndBuy.SetTryOnItemInfo)
 
 local storeIdCounter = 0
 
@@ -28,6 +29,7 @@ local defaultState = {
 	UserId = 0,
 	DisplayName = "",
 	StoreId = tostring(storeIdCounter),
+	TryingOn = false,
 }
 
 type State = {
@@ -112,6 +114,12 @@ return Rodux.createReducer(defaultState, {
 		storeIdCounter = storeIdCounter + 1
 		return Cryo.Dictionary.join(state, {
 			StoreId = tostring(storeIdCounter)
+		})
+	end,
+
+	[SetTryOnItemInfo.name] = function(state, action)
+		return Cryo.Dictionary.join(state, {
+			TryingOn = action.tryingOn
 		})
 	end,
 })

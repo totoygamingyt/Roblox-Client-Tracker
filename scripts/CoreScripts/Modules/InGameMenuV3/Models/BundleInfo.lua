@@ -62,7 +62,7 @@ function BundleInfo.fromGetAssetBundles(bundleInfo): BundleInfo
 	newBundle.creatorName = bundleInfo.creator.name
 	newBundle.productId = tostring(bundleInfo.product.id)
 	newBundle.assetIds = {}
-	newBundle.price = bundleInfo.product.price
+	newBundle.price = bundleInfo.product.priceInRobux
 	newBundle.isForSale = bundleInfo.product.isForSale
 
 	local owned = true
@@ -94,6 +94,15 @@ function BundleInfo.fromGetItemFavorite(bundleId, isFavorited)
 	local newBundle = BundleInfo.new()
 	newBundle.bundleId = tostring(bundleId)
 	newBundle.isFavorited = isFavorited
+	return newBundle
+end
+
+function BundleInfo.fromSetItemFavorite(bundleId, setFavorited, numFavorites: number)
+	local newBundle = BundleInfo.new()
+	newBundle.bundleId = tostring(bundleId)
+	newBundle.isFavorited = setFavorited
+	newBundle.numFavorites = setFavorited and numFavorites + 1 or numFavorites - 1
+
 	return newBundle
 end
 

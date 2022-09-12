@@ -5,6 +5,7 @@
 	type. It will also allow for trying on and purchasing through the
 	bottom bar
 ]]
+local Players = game:GetService("Players")
 local CorePackages = game:GetService("CorePackages")
 
 local Roact = require(CorePackages.Roact)
@@ -21,11 +22,13 @@ local withLocalization = require(InGameMenu.Localization.withLocalization)
 local Page = require(InGameMenu.Components.Page)
 local ItemInfoList = require(InGameMenu.Components.InspectAndBuyPage.ItemInfoList)
 local AssetDetailThumbnail = require(InGameMenu.Components.InspectAndBuyPage.AssetDetailThumbnail)
+local TryOnViewport = require(InGameMenu.Components.InspectAndBuyPage.TryOnViewport)
 local AssetDetailFavorite = require(InGameMenu.Components.InspectAndBuyPage.AssetDetailFavorite)
 local AssetDetailBottomBar = require(InGameMenu.Components.InspectAndBuyPage.AssetDetailBottomBar)
 
 local Constants = require(InGameMenu.Resources.Constants)
 local GetFavoriteForItem = require(InGameMenu.Thunks.GetFavoriteForItem)
+local GetCharacterModelFromUserId = require(InGameMenu.Thunks.GetCharacterModelFromUserId)
 
 local TITLE_TEXT_SIZE = 24
 local TEXT_FRAME_HEIGHT = 40
@@ -74,6 +77,21 @@ end
 
 function AssetDetailsPage:init()
 	self.scrollingFrameRef = Roact.createRef()
+	self.localPlayerModel = nil
+
+	self:setState({
+		scrollingEnabled = true
+	})
+
+	self.setScrollingEnabled = function(enabled)
+		local scrollingEnabled = self.state.scrollingEnabled
+
+		if scrollingEnabled ~= enabled then
+			self:setState({
+				scrollingEnabled = enabled
+			})
+		end
+	end
 end
 
 function AssetDetailsPage:renderWithProviders(style, localized)
@@ -103,6 +121,7 @@ function AssetDetailsPage:renderWithProviders(style, localized)
 			ScrollBarImageTransparency = 1,
 			CanvasSize = UDim2.fromScale(1, 1),
 			ScrollingDirection = Enum.ScrollingDirection.Y,
+			ScrollingEnabled = self.state.scrollingEnabled,
 			[Roact.Ref] = self.scrollingFrameRef,
 		}, {
 			UIListLayout = Roact.createElement("UIListLayout", {
@@ -136,6 +155,11 @@ function AssetDetailsPage:renderWithProviders(style, localized)
 				LayoutOrder = 2,
 				bundleInfo = bundleInfo,
 				selectedItem = self.props.selectedItem,
+			}),
+			TryOnViewport = self.localPlayerModel and Roact.createElement(TryOnViewport, {
+				LayoutOrder = 2,
+				localPlayerModel = self.localPlayerModel,
+				setScrollingEnabled = self.setScrollingEnabled,
 			}),
 			DetailsDescription = Roact.createElement(ExpandableTextArea, {
 				LayoutOrder = 3,
@@ -178,6 +202,13 @@ function AssetDetailsPage:render()
 	end)
 end
 
+function AssetDetailsPage:didMount()
+	local localUserId = (Players.LocalPlayer :: Player).UserId
+	self.props.getCharacterModelFromUserId(localUserId, true, function(localPlayerModel)
+		self.localPlayerModel = localPlayerModel
+	end)
+end
+
 function AssetDetailsPage:didUpdate(prevProps)
 	-- When navigating away from the AssetDetailsPage, reset the scrolling frame
 	-- CanvasPosition. This way, if a user had scrolled down on the page when inspecting
@@ -208,6 +239,9 @@ local function mapDispatchToProps(dispatch)
 	return {
 		fetchItemFavorite = function(itemId, itemType)
 			dispatch(GetFavoriteForItem(itemId, itemType))
+		end,
+		getCharacterModelFromUserId = function(userId, isLocalPlayer, callback)
+			dispatch(GetCharacterModelFromUserId(userId, isLocalPlayer, callback))
 		end,
 	}
 end

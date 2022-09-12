@@ -1,5 +1,6 @@
 return function()
 	local CorePackages = game:GetService("CorePackages")
+	local Players = game:GetService("Players")
 	local Modules = game:GetService("CoreGui").RobloxGui.Modules
 
 	local Rhodium = require(CorePackages.Rhodium)
@@ -8,35 +9,30 @@ return function()
 	local withServices = require(Modules.CoreScriptsRhodiumTest.Helpers.withServices)
 	local withInGameMenuV3Providers = require(Modules.CoreScriptsRhodiumTest.Helpers.withInGameMenuV3Providers)
 	local Reducer = require(Modules.InGameMenuV3.reducer)
-	local AssetDetailThumbnail = require(Modules.InGameMenuV3.Components.InspectAndBuyPage.AssetDetailThumbnail)
+	local TryOnViewport = require(Modules.InGameMenuV3.Components.InspectAndBuyPage.TryOnViewport)
 
 	local FFlagInspectAndBuyV2Enabled = require(Modules.InGameMenuV3.Flags.FFlagInspectAndBuyV2Enabled)
 
+	local mockCharacter = Players:CreateHumanoidModelFromDescription(Instance.new("HumanoidDescription"), Enum.HumanoidRigType.R15)
 	local props = {
-		selectedItem = {
-			assetId = "123",
-			numFavorites = 20,
-			creatorName = "Brandon",
-			description = "testDesc",
-			name = "testName"
-		}
+		localPlayerModel = mockCharacter
 	}
 
 	local initStateVisible = {
 		inspectAndBuy = {
-			TryingOn = false
+			TryingOn = true
 		}
 	}
 
 	local initStateNotVisible = {
 		inspectAndBuy = {
-			TryingOn = true
+			TryingOn = false
 		}
 	}
-	local wrappedComponent = withInGameMenuV3Providers(AssetDetailThumbnail, props)
+	local wrappedComponent = withInGameMenuV3Providers(TryOnViewport, props)
 
 	if FFlagInspectAndBuyV2Enabled then
-		describe("AssetDetailThumbnail", function()
+		describe("TryOnViewport", function()
 			it("should mount", function()
 				withServices(function(path)
 					path = XPath.new(path)
@@ -46,7 +42,7 @@ return function()
 				wrappedComponent, Reducer, {}, nil)
 			end)
 
-			it("should be visible when not trying on the item", function()
+			it("should be visible when trying on the item", function()
 				withServices(function(path)
 					path = XPath.new(path)
 					local baseWidget = Element.new(path)
@@ -56,7 +52,7 @@ return function()
 				wrappedComponent, Reducer, initStateVisible, nil)
 			end)
 
-			it("should not be visible when trying on the item", function()
+			it("should not be visible when not trying on the item", function()
 				withServices(function(path)
 					path = XPath.new(path)
 					local baseWidget = Element.new(path)
