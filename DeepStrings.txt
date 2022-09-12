@@ -890,7 +890,6 @@ AlreadySeen
 AlrExperimentSettings
 AlrLimitedBackoff
 AlrProbing
-AlsbmHDolfIJ7OiuJ41jGVSGC3YYk3WhnEfMrspaP7SgHukx
 AlternateMeshHash
 AlternateName
 AlternateText
@@ -6904,6 +6903,7 @@ AXW4UserCFrame
 AXW4UserInputType
 AXW4VoiceChatState
 AXW4VRTouchpad
+AyIYA2wWmKZCPXnNTCxWtjA8gys7zV7Zl5nTT2VlgIS4ssCAwEAAQ
 B^F.HR4nL.4U
 BA447F42A91111E2B410EF351327957B
 BA886F11E18561866242201959
@@ -7100,7 +7100,6 @@ BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
 BCurrentDataModelType
-BcW0WgpE2fr15LnS44QzF93IaEl0Egv9Qldh8WBON6Pwfe28
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
@@ -7454,7 +7453,6 @@ BPu_fD9B`uXfD9BpuQ
 BQByteArray
 BQPersistentModelIndex
 BQTextFormat
-BqyVahjlEpnIs
 BreakAccoutrementCycles
 BreakGroup
 BreakJoints
@@ -7745,7 +7743,6 @@ BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
 ByVersionForPlatform_
-BzUycc3ZUlRzPbbTmT3yq2tew
 C_specific_handler
 CA_NPEAVQObject
 CA2168118C14FDE5E01E7934
@@ -8146,6 +8143,7 @@ CDAC09CD62068118083FFBB091BBC13
 CDB707B206811871F972B2A9311C9
 CDDDDDDDDD
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+CDlXIiArNVKcCnaFaoM3qSP8hkbekHvvG7Ol
 CDNProbefff
 Cdotaccent
 CE583B11E29A3DBD856014A660
@@ -11105,7 +11103,6 @@ CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
 CWinTraits
-CWqhrHKLdEAtl2nv5EWo6Ab4eXstbYykwOmZGw
 CxxFrameHandler4
 CxxThrowException
 Cybertrust
@@ -11136,6 +11133,7 @@ Cylindrical
 CylindricalConstraint
 CylindricalConstraintAction
 Cylindrique
+CZ2MNWrYD1rV8os8CWn3VIQpiIqKZxlqcDuZ6yteeg
 D_Key_dn.png
 D`v\F^r\D`
 DA88D6583A11E29A3DBD856014A660
@@ -12957,7 +12955,6 @@ DOFFullscreenNearFieldCoCFS
 DOFResolveFarFS
 DOFResolveNearFS
 DoInsertDtmf
-DOJD0o0toly3oy
 Dokumenten
 DomainPolicy
 DominantAxis
@@ -13184,6 +13181,7 @@ DtmfProvider
 DtmfSender
 DtmfSenderInterface
 DtmfSenderProxyWithInternal
+DTVPzMkGxOnvQNbt56
 DualStreamVertexData5
 DUARAndOpenSurvey
 DueToMaxBytesInFlightCountToTotalCount
@@ -13235,7 +13233,6 @@ DVCSRequestData
 DVCSResponseData
 DVFVHVJ2LQ
 DVPAES_ASM
-DWiJok4OvHbINAArFcsgOqzNOQzkEjrQI
 DwmSetWindowAttribute
 DX25519_ASM
 DXCloseDeviceNV
@@ -13722,6 +13719,7 @@ EmbeddedWebView2MessageHandler
 EmbeddedWebView2Navigation
 EmbeddedWebView2ScriptError
 EmbeddedWebViewScriptError
+EmCda5OJCqSZ9SzVkMXsWrKfPqXgBdoSAzzpxeie3tGIA6PEGXJxJRSdfZ2bn6s9
 EmissionDirection
 EmissiveMap
 EmitGoToScriptLocationFromTreeView
@@ -15264,6 +15262,7 @@ FixVehicleSeat
 FixWriteCombinedMemoryReadWrite2
 FixYieldingThreadExpirationTime
 FJFTF^FhFrF
+FKfUOOFTo7sJAPEZ0amtaOY
 FKKKKKKKKKKKKKKKKKKKK
 FlagCaptured
 FlagCreated
@@ -15285,7 +15284,6 @@ FlatPucker
 FlattenTree
 FlatTool.png
 FlatTool_dn.png
-FldI739rsLbH
 FlexfecConfig
 FlexfecReceiveStream
 FlexfecReceiveStreamImpl
@@ -17521,6 +17519,7 @@ Herramientas
 Herunterfahren
 HeuristicMask
 Hexadecimal
+HFz9zbZmxpNYZQVotZOd3DkrmFDjv1rwbY3x8xu
 HHAEBVQModelIndex
 HHHHHAEBVQString
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
@@ -17631,6 +17630,7 @@ HLNlRtVlZt^lbtfljtnprxvtzx
 HlsAdaptionLogic
 HlsIgnoreDeprecatedRbxTags
 HMACGostR3411
+HnnGCS4Rd1foB1GhgHLu1FHhJ5xDm6VwIMWgmSvMYFOCSYwb
 HoldDuration
 Holzbretter
 HomeDataModel
@@ -17694,6 +17694,7 @@ HPEAVVideoStream
 HPEAXHPEANNH
 HPEBVQMimeData
 HQEAPEAVQGraphicsItem
+HR1SzB9fZWtnhZD
 HSRAssetId
 HSRClusterImprovement
 HSRClusterSymmetryDistancePercent
@@ -18219,7 +18220,6 @@ IgnoreVertexColors
 IgnoreWater
 Ignorieren
 Igravesmall
-Ih3eXH2UBoYEXxKvc2K4kCAwEAAQ
 IID_IAMDirectSound
 IID_IAMLine21Decoder
 IID_IAMStreamConfig
@@ -19347,7 +19347,6 @@ J_Key_dn.png
 J_NW4CurrencyType
 JacketAccessory
 JasmineUPC
-JathiSKrIM3WJQgovkRHNE8PEixzthqJ
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
@@ -19443,6 +19442,7 @@ JointsService
 JointStepParallelBatchSize
 JointToolHelpDialogVerb
 JointWakeAssemblies
+Jop80uTWaJnex6RgIap6
 JosefinSans
 JosefinSans.json
 JPEAUICoreWebView2Controller
@@ -19465,7 +19465,6 @@ JSONOverflowDepth
 JUAssetData
 Jugabilidad
 JUGroupRolesRequestRecord
-Jujhbgwb2s2N1UjLm99
 JumpAnimation
 JumpController
 JumpHeight
@@ -19494,7 +19493,6 @@ Kameraempfindlichkeit
 Kamerageschwindigkeit
 Kamerazoom
 KBytesPerSec
-KCGhUigw0zI5CQPHPtK
 KeepAliveTimeout
 KeepPositionOnInsert
 KERNEL32.dll
@@ -20575,6 +20573,7 @@ LuauFixNamedFunctionParse
 LuauFixNameMaps
 LuauFixNormalizationOfCyclicUnions
 LuauForceExportSurfacesToBeNormal
+LuauFunctionArgMismatchDetails
 LuauGcGoal
 LuauGcGoalCore
 LuauGcStepMul
@@ -20657,6 +20656,7 @@ LuobuWhitelistedField
 LvNZJjLvNZJjLvNZJjLvNZJ
 LvNZJjLvNZJjLvNZJjLvNZJ4H
 LVvuOx39]O
+LY0XsEqAYSYDouHumx80l
 M_NVWeakObjectRef
 MacGamepadUseGCController
 MachineAddress
@@ -21533,7 +21533,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAtWK1gIARRhw7BR0ejJLb0Ck50l2J5Ii9Bk2C
+MIICCgKCAgEAtFlyX4uJti
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -22693,6 +22693,7 @@ NW4ActionType
 NW4HintingPreference
 NW4PenStyle
 NW4UserInputType
+NzNbHvq2Y0Mv
 Oacutesmall
 OAEPEncryptionSET
 OAuth2Config.json
@@ -22862,6 +22863,7 @@ OGRE_VIEW_UPDATE
 OgreWidget
 OgreWidgetForGameState
 OgreWidgetShowEvent
+Oh74n62KR25Uq6WNZEf3YpzPAUg
 Ohungarumlaut
 OiCCPPhotoshop
 OldActiveElement
@@ -23351,7 +23353,6 @@ OverridH9H
 OverwriteMode
 Overwriting
 Overwriting.
-OwlfVCJiAFp0Mu
 OwnPermission
 OwnProperty
 Ozs8xYCf2Q05p4gHyX
@@ -26504,6 +26505,7 @@ QEBAXPEAVQPainter
 QEBAXPEBDZZ
 QEBVQStyleOptionGraphicsItem
 QElapsedTimer
+QeLYQJoyvGYVW7qytcdk
 QEntityIconInternal
 QEntityIconLoaded
 QEntityType
@@ -26598,6 +26600,7 @@ QPropertyAnimation
 QProxyStyle
 QPushButton
 QPushButton[default
+QQ8eKbozWFJZTmUkYwJfE71f6Yi3PWu9xCYSIffdx1bsKXJQtilhZy
 QQmlContext
 QQmlEngine
 QQmlImageProviderBase
@@ -28659,7 +28662,6 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
-RkcGf0toaHxL5e5TuyzaEvcpuAVgy7VmVFo6awC1OGMlod6lf
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -29997,6 +29999,7 @@ Server_SamplePlayer_PhysicsTouches_AppPacketBytesSentPerSec
 SERVER_TRAFFIC_SECRET_0
 ServerAccessCode
 ServerAction
+ServerAggre
 ServerAggregateBytesSentPerSec
 ServerAggregateBytesSentPerSecPerPlayer
 ServerAndPlayersAction
@@ -30990,7 +30993,6 @@ SizeToFourAction
 SizeToSixteenAction
 SizeToTwoAction
 SizingMode
-SjYJErjtQ1aq8QekeZnU4eiZDfTHkqlz4tqav0WQODgs0GkLkBXk
 Skalierung
 SkateboardController
 SkateboardPlatform
@@ -31061,6 +31063,7 @@ SmallFirstProbePacket
 SmartcardLogin
 SMIME_read_ASN1
 SMIME_text
+SmKAbve8jBuFNbgwRPeZHSsKFu
 SmokeAction
 Smooth.png
 SmoothAngle
@@ -36713,7 +36716,6 @@ TabStopDistance
 TabToolTip
 TabWidgets
 TagRemoved
-TAhKd5GNlqC
 TaintingModule
 TaintingModuleDirectory
 TakeDamage
@@ -39328,7 +39330,6 @@ UPromiseResult
 UPropertyPair
 UpSampleTentFS
 UPublishDiagnosticsNotification
-Uq2762FjQERgGq
 UQLatin1Char
 UQMetaObject
 UQPrivateSignal
@@ -39643,7 +39644,6 @@ USimpleTag
 UsingAdaptiveTimestepping
 UsingDataModelCloudMode
 UsingMeshPart
-UsJftodmafrNU4nAeh8tD6fQOG8wYmXvEJqQBk4S7EQz
 USkinningTransferContext
 Uslot_base
 USoundServiceStats
@@ -42694,9 +42694,9 @@ XBoxOneMemoryLimitPercentageEstimateOther
 XboxPresencePolling
 XboxSaleAvatarPackageIds
 XboxUseNewValidUsernameCheck2
+XBWf2dVBuvH1J9yMbG
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
-XGUBtqDC7VfaxWQHkvM
 XHW4Status_e
 XInputGetBatteryInformation
 XInputGetCapabilities
@@ -42924,6 +42924,7 @@ YAXVexception_ptr
 YAXW4error_type
 YAXW4RegistrationType
 Ycircumflex
+YcrAaXA5FdZWXsXWrpzb
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
@@ -42963,6 +42964,7 @@ ZPu4fE9Z`u
 ZRZZZbZt[.[
 Zusammenfassung
 ZVLocalTouchedSignal
+ZVonatOSa3nAW
 ZVspecial_equipped_signal
 ZVTouchedSignal
 Zwischenablage
