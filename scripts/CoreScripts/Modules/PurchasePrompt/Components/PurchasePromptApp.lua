@@ -1,5 +1,6 @@
 local Root = script.Parent.Parent
 
+local CoreGui = game:GetService("CoreGui")
 local LocalizationService = game:GetService("LocalizationService")
 local CorePackages = game:GetService("CorePackages")
 local PurchasePromptDeps = require(CorePackages.PurchasePromptDeps)
@@ -31,6 +32,12 @@ local RobuxUpsellContainer = require(script.Parent.RobuxUpsell.RobuxUpsellContai
 local DarkTheme = require(CorePackages.AppTempCommon.LuaApp.Style.Themes.DarkTheme)
 local Gotham = require(CorePackages.AppTempCommon.LuaApp.Style.Fonts.Gotham)
 
+local InGameMenu = script.Parent.Parent.Parent.InGameMenuV3
+local InGameMenuConstants = require(InGameMenu.Resources.Constants)
+local Modules = CoreGui.RobloxGui.Modules
+local GetFFlagEnableInGameMenuV3 = require(Modules.InGameMenuV3.Flags.GetFFlagEnableInGameMenuV3)
+local isNewInGameMenuEnabled = require(Modules.isNewInGameMenuEnabled)
+
 local PurchasePromptApp = Roact.Component:extend("PurchasePromptApp")
 
 function PurchasePromptApp:init()
@@ -56,6 +63,7 @@ function PurchasePromptApp:init()
 	}
 end
 
+local shouldIncludeDisplayOrder = GetFFlagEnableInGameMenuV3() and isNewInGameMenuEnabled()
 function PurchasePromptApp:render()
 	return provideRobloxLocale(function()
 		return Roact.createElement(RoactRodux.StoreProvider, {
@@ -76,6 +84,7 @@ function PurchasePromptApp:render()
 						PurchasePrompt = Roact.createElement("ScreenGui", {
 							AutoLocalize = false,
 							IgnoreGuiInset = true,
+							DisplayOrder = shouldIncludeDisplayOrder and InGameMenuConstants.DisplayOrder.RobloxGui or nil,
 						}, {
 							PremiumPromptUI = Roact.createElement(PremiumPrompt),
 							LocaleProvider = Roact.createElement(LocaleProvider, {
