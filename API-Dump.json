@@ -1159,6 +1159,29 @@
                         "Category": "Enum",
                         "Name": "AdPortalType"
                     }
+                },
+                {
+                    "Category": "State",
+                    "MemberType": "Property",
+                    "Name": "PortalVersion",
+                    "Security": {
+                        "Read": "RobloxScriptSecurity",
+                        "Write": "RobloxScriptSecurity"
+                    },
+                    "Serialization": {
+                        "CanLoad": false,
+                        "CanSave": true
+                    },
+                    "Tags": [
+                        "Hidden",
+                        "ReadOnly",
+                        "NotReplicated"
+                    ],
+                    "ThreadSafety": "ReadSafe",
+                    "ValueType": {
+                        "Category": "Primitive",
+                        "Name": "int64"
+                    }
                 }
             ],
             "MemoryCategory": "Instances",
