@@ -47,10 +47,14 @@ game:DefineFastFlag("ToolboxFixPackageDragging", false)
 game:DefineFastFlag("AssetConfigLayeredClothingBoxCollisions", false)
 
 game:DefineFastFlag("ToolboxAddUnverifiedIcon", false)
+
 game:DefineFastFlag("ToolboxAddUnverifiedIconFollowUp", false)
 
 game:DefineFastFlag("ToolboxAssetConfigurationVerifiedPrice", false)
 
+game:DefineFastFlag("ToolboxFixSubtypeArray", false)
+
 game:DefineFastFlag("ToolboxFixAssetConfigWarningIconColor", false)
+
 
 return nil

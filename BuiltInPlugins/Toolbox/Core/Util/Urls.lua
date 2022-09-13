@@ -614,14 +614,14 @@ if FFlagToolboxEnableAssetConfigPhoneVerification or FFlagToolboxAssetConfigurat
 	function Urls.constructPublishingRequirementsUrl(
 		assetId: number,
 		assetType: Enum.AssetType?,
-		assetSubType: AssetSubTypes.AssetSubType?,
+		assetSubTypes,  -- TODO: When using FFlagToolboxFixSubtypeArray then use assetSubType: {AssetSubType.AssetSubType}?
 		marketplaceType: string?
 	)
 		return PUBLISHING_REQUIREMENTS_URL
 			.. Url.makeQueryString({
 				assetId = assetId,
 				assetType = if assetType then assetType.Name else nil,
-				assetSubTypes = assetSubType, -- TODO: make this an array of subtypes: https://jira.rbx.com/browse/STM-2186
+				assetSubTypes = assetSubTypes,
 				marketplaceType = marketplaceType,
 			})
 	end

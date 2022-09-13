@@ -908,11 +908,11 @@ end
 if FFlagToolboxEnableAssetConfigPhoneVerification or FFlagToolboxAssetConfigurationVerifiedPrice then
 	function NetworkInterface:getPublishingRequirements(
 		assetId: number,
-		assetType: Enum.AssetType?,
-		assetSubType: AssetSubTypes.AssetSubType?
+		assetType: Enum.AssetType?, 
+		assetSubTypes -- TODO: When using FFlagToolboxFixSubtypeArray then use assetSubType: {AssetSubType.AssetSubType}?
 	)
 		local marketplaceType = "Creator"
-		local targetUrl = Urls.constructPublishingRequirementsUrl(assetId, assetType, assetSubType, marketplaceType)
+		local targetUrl = Urls.constructPublishingRequirementsUrl(assetId, assetType, assetSubTypes, marketplaceType)
 		printUrl("getPublishingRequirements", "GET", targetUrl)
 		return self._networkImp:httpGetJson(targetUrl)
 	end
