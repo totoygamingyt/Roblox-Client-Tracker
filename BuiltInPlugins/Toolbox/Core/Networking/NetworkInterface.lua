@@ -102,25 +102,25 @@ function NetworkInterface:getAssets(pageInfo)
 	end)
 end
 
-function NetworkInterface:getToolboxItems(
-	args: {
-		categoryName: string,
-		sectionName: string?,
-		sortType: string?,
-		keyword: string?,
-		queryParams: HomeTypes.SubcategoryQueryParams?,
-		cursor: string?,
-		limit: number?,
-		ownerId: number?,
-		creatorType: string?,
-		creatorTargetId: number?,
-		minDuration: number?,
-		maxDuration: number?,
-		includeOnlyVerifiedCreators: boolean?,
-		tags: { string }?,
-		searchSource: string?,
-	}
-)
+function NetworkInterface:getToolboxItems(args: {
+	categoryName: string,
+	sectionName: string?,
+	sortType: string?,
+	keyword: string?,
+	queryParams: HomeTypes.SubcategoryQueryParams?,
+	cursor: string?,
+	limit: number?,
+	ownerId: number?,
+	creatorType: string?,
+	creatorTargetId: number?,
+	minDuration: number?,
+	maxDuration: number?,
+	artist: string?,
+	album: string?,
+	includeOnlyVerifiedCreators: boolean?,
+	tags: { string }?,
+	searchSource: string?,
+})
 	local categoryName = args.categoryName
 
 	local useCreatorWhitelist = nil

@@ -51,4 +51,6 @@ game:DefineFastFlag("ToolboxAddUnverifiedIconFollowUp", false)
 
 game:DefineFastFlag("ToolboxAssetConfigurationVerifiedPrice", false)
 
+game:DefineFastFlag("ToolboxFixAssetConfigWarningIconColor", false)
+
 return nil
