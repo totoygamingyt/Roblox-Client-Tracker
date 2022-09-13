@@ -75,7 +75,6 @@ AAEE11E38B9D871882A8E559
 AAF011E38B9D871882A8E559
 AAF111E38B9D871882A8E559
 AAF511E38B9D871882A8E559
-AAudioDeviceErrorTelemetry
 AB0BF11E395B6E5DB6211F344
 AB0DC85B11
 ABAllUsers
@@ -154,7 +153,6 @@ AC01E30AF65B11E3AFC2CE47415C029D
 AC01E30BF65B11E3AFC2CE47415C029D
 AC01E30CF65B11E3AFC2CE47415C029D
 AC01E30DF65B11E3AFC2CE47415C029D
-AC0KtRrgiZtbE5RGhFtw7vZA84
 AccanthisADFStd
 AccanthisADFStd.json
 Accelerated
@@ -408,6 +406,7 @@ AddTransportOffer
 AddUIToggleToRibbon
 AddUserAsync
 ADebugSSAOForce
+ADeferredVoxelUpdates
 AdGuiEnabled
 AdGuiImageMaxHeightInStudTenths
 AdGuiImageMaxWidthInStudTenths
@@ -1618,7 +1617,7 @@ AstExprVarargs
 AstStatFor
 AstStatFunction
 AstTypePack
-AStudio.App.RBXMainWindow.InsertObjectsWidgetMenu
+AStudioReportStartupInfoInfluxHundredthsPercentage
 AsusROG71OSD.dll
 AsusStrixOSD.dll
 AsusU7MKIIOSD.dll
@@ -1844,6 +1843,7 @@ AudioDevice
 AudioDeviceBuffer
 AudioDeviceBufferTimer
 AudioDeviceError
+AudioDeviceErrorTelemetry
 AudioDeviceGeneric
 AudioDeviceModule
 AudioDeviceModuleImpl
@@ -7098,6 +7098,7 @@ BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
+BCurrentDataModelType
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
@@ -7403,7 +7404,6 @@ BootcampCLI58696
 Bootstrapper
 BootstrapperLauncher
 BootstrapperUpdate
-BoptionalMessage
 BorderColor
 BorderColor3
 BorderMode
@@ -7569,6 +7569,7 @@ BrushOrigin
 BrushStyle
 BrutalLegendTest
 BruteForceAllSlow
+BthumbnailSize
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -7672,6 +7673,7 @@ BundleType
 BundleTypes
 BuoyancyAccumulator
 BuoyancyInSensorData2
+BUSGSOPGferp
 BusyStatesShifted
 Buttermilk
 Button1Down
@@ -9794,7 +9796,6 @@ COMPLEMENTOFDEFAULT
 Completada
 Completato
 CompleteAuthToken
-CompletedMs
 CompletedTutorials
 Completeness
 CompletenessFinalization
@@ -10396,7 +10397,6 @@ CountWidth
 COutlineSelection
 Covariance
 CoverageRef
-CpD8VHgeeR
 CpuArchitecture
 CpuKernelTime
 CPULogicalCore
@@ -10984,7 +10984,6 @@ CurrentCharFormat
 CurrentChatSession
 CurrentColor
 CurrentCursorResultLocation
-CurrentDataModelType
 CurrentDataModelTypeAboutToChange
 CurrentDataModelTypeChanged
 CurrentDate
@@ -12088,7 +12087,6 @@ DeferredNewRegions
 DeferredReporter
 DeferredTerrainChanges
 DeferredUpdates
-DeferredVoxelUpdates
 DefineCallout
 DefineFastFlag
 DefineFastInt
@@ -12159,7 +12157,6 @@ DeleteSync
 DeleteTextures
 DELETETOSTARTOFLINE
 DeleteVertexArrays
-DelistPpr2
 DeliverLowMemoryWarningsViaPolling
 DeliverRtcp
 DeliverRtp
@@ -12740,6 +12737,7 @@ DisableGenlockI3D
 DisableHSRForDynamicHead
 DisableInvalidateOnUnbind
 DisableLegacyChannelSelection
+DisableLegacyCodecFallback
 DisableLegacyUIComponentAnalytics
 DisableLod
 DisableMerge
@@ -13649,7 +13647,6 @@ EffectorTranslationConstraint
 Effettuare
 EFrontVector
 Egravesmall
-EhbcSny6h7QG8IFGAjsh7LPojKpt
 EHERE\EfEpEzE
 Eigenschaften
 Eigenschaftendatei
@@ -14897,7 +14894,6 @@ FFlagStudioQtSVGIcons
 FFlagStudioRemoveShareWithRobloxFriends
 FFlagStudioToastNotificationsInLua
 FFoRLVHHHHoTJVF
-FHBzC6QyJ05fqlhpOZSI
 FHFRF\FfFpFzF
 FieldChanged
 FieldMessageLabel
@@ -15516,6 +15512,7 @@ FourByFour
 FpFramebuffer
 FpsDuringJoin
 FpsVariance
+FqCDelistPpr2
 Fractional
 FRAGMENT_SCRIPT
 Fragmentos
@@ -15768,6 +15765,7 @@ FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FXHcFLH9FX
+FXm72fEsOPSXvFNwuAVuyudnudAUhv7kYre
 GainControl
 GainController2
 GainMakeup
@@ -15866,6 +15864,7 @@ GameNetPVHeaderTranslationZeroCutoffExponent
 GameNetStreamingFixStreamOutPrefetchClient
 GameNetStreamingFixStreamOutPrefetchServer
 GameNotFound
+GameNotPublicDialog
 GamepadCameraSensitivity
 GamepadConnected
 GamepadCursorEnabled
@@ -17055,7 +17054,6 @@ GoToScriptLocation
 GoToSourceCodeTB
 GotoTargetsRequest
 GoToVersionFailed
-GpDOKBGb5oqTtNzDWoRdmFC4Pz2ko0Lri9A8J
 GpuVariance
 GrabCursor.png
 GrabRotateCursor
@@ -17268,6 +17266,7 @@ GroupUnderModel
 Grundeinstellungen
 Gruppenteile
 Gruppierung
+GRZ37JJ6LxOP
 GSSolverActive
 GTFiEnDdCJB
 GTInfluxDB
@@ -17309,10 +17308,8 @@ GunCursor.png
 GunWaitCursor.png
 GvEphfEUiHHoD6hYFI4xWGpAnIHcklKQCxrf46kAhDGeZnqIgeGszlGdWafunGE8
 GVKUTS[BXIWH\KbHi
-GwnyzEFFrCjbh6XxORfAnF2
 GXGfGkGpGuG
 GyroscopeEnabled
-Gz3o3gIa0mBJooRgUJs5kROY59lmOmNv
 H[_^A\A]A^A_]
 H_Key_dn.png
 H_NAEBVQString
@@ -17449,11 +17446,11 @@ HaveRemotePrAnswer
 HaveToBeSure
 HB_OPTIONS
 HB_SHAPER_LIST
-Hb2NLgqz1blEIWNTHNsCAwEAAQ
 HbaoCompositFS
 HBAODepthDownFS
 HbaoRenderCompute
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
+HcIG5RTexyQP0Gcbm8lNsngTpY4eARs6It
 Hcircumflex
 HdAvailables
 HDCacheLock
@@ -17628,6 +17625,7 @@ HL_GPU_DEVICE
 HL_NUM_THREADS
 HL_NUMTHREADS
 HL_TRACE_FILE
+HLmcRS3MgCuqFoatCL
 HLNlRtVlZt^lbtfljtnprxvtzx
 HlsAdaptionLogic
 HlsFixSlowNetworkCrash
@@ -17695,6 +17693,7 @@ HPEAVQWidget
 HPEAVVideoStream
 HPEAXHPEANNH
 HPEBVQMimeData
+Hq3alq4xKfr9FkHxQDbBcuqlH3XUJ0DDN9OK1XxtqlgSOien0Njd
 HQEAPEAVQGraphicsItem
 HSRAssetId
 HSRClusterImprovement
@@ -17718,6 +17717,7 @@ HSRVisualization
 HTMLContentInitialization
 HtmlEscaped
 HTMLEscapeDocumentation
+HTSGxPvzb4Ul0KZLrFA0SCevOthvl0Y1gf165sbb
 Http_Failed
 HTTP429CdnFailure
 HTTP429Failure
@@ -19198,7 +19198,6 @@ IsReceiveAgeShown
 IsRegion3Empty
 IsRegion3EmptyWithIgnoreList
 IsRenderbuffer
-IsRHh1bSjzpO6VgeI2Y
 IsRobloxPlace
 IsScriptAssetUploadEnabled
 IsScriptStackTracingEnabled
@@ -19350,6 +19349,7 @@ J_Key_dn.png
 J_NW4CurrencyType
 JacketAccessory
 JasmineUPC
+JAT7n8j0QU2
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
@@ -19712,6 +19712,7 @@ LayoutNode
 LayoutOrder
 LBCbits_inst
 LBCenc_inst
+LBiDaP0MGgTaU
 LC_MESSAGES
 LcA4LcI0HcI
 LcC4HcS0HcK
@@ -21534,7 +21535,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAt
+MIICCgKCAgEAsmCHExe9kQDV7SmqDYAFdJ
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21633,7 +21634,6 @@ MockTapGestureGenerator
 ModAccessKey
 ModalClose
 ModalController
-ModalController.CheckOutMyGame
 ModalDialog
 ModalEnabled
 ModalInfoWindow
@@ -21939,6 +21939,7 @@ MRURobloxApiGameStoreBase
 MSACM32.dll
 MsecBetweenTextureMemoryUsageArrayRefresh
 MSecsSinceEpoch
+MsFp68UWTslBbeE31kMnNjY5KmG3HlCADLw2yKrp7gP7YlgW
 MsgWaitForMultipleObjectsEx
 MSTerrainDetailsDeterminism
 MsToScreen
@@ -22440,7 +22441,6 @@ NinjaMask.mesh
 NLSF_mu_Q20
 NLSFInterpCoef_Q2
 NMMMMW4Priority
-NMT4UWRf9nCVm5ErfxlG5btDkdXMpZo5z2UMv0F8So5220qemlPDbar4
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
@@ -23353,9 +23353,9 @@ OverridH9H
 OverwriteMode
 Overwriting
 Overwriting.
-OviDQ20B3NASS0bqtI6ze1LMHCo
 OwnPermission
 OwnProperty
+Ozet6wc1BsdZxeJftTaY97t4HsL
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^[]
 PA^A]A\_^][
@@ -24894,6 +24894,7 @@ PixelStorei
 PixelXDimension
 PixelYDimension
 PixmapRect
+PjothDYrZLwIcmzF45E0WOHbqNpaN
 PKCS12_AUTHSAFES
 PKCS12_BAGS
 PKCS12_create
@@ -26580,7 +26581,6 @@ Qml2Imports
 QModelIndex
 QMouseEvent
 QMoveEvent
-QMqGB6p5ukcS2jbikmuV
 QMutexLocker
 QNetworkAddressEntry
 QNetworkInterface
@@ -28890,6 +28890,7 @@ RowVisibilityChanged
 RPC_E_CHANGED_MODE
 RPCServers
 RRakRecvToAppPop
+RrdRe08pbc6tNH
 RRReceiptFail
 RRReceiptTotal
 RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
@@ -30705,7 +30706,6 @@ ShowVideoAd
 ShowWeldsVerb
 ShowWindow
 ShowYouTubeAgeAlert
-ShqG3r0XTf3CL8jZtyzyRSym8eBdGE9b6bd60bZ6hK5DUssXs9yag9ikuJx
 ShrinkFactor
 ShrinkHiddenCage
 ShrinkHiddenCageLaplacianScale
@@ -36230,7 +36230,6 @@ StudioReportLuauWarningDetailsInfluxPriorityHundredthsPercentage
 StudioReportOpenPlaceTimeFilter
 StudioReportPlaceInfoWithRibbonAnalytics
 StudioReportQmlCrashThrottleHundredthsPercent
-StudioReportStartupInfoInfluxHundredthsPercentage
 StudioReportStreamingEnabledChange
 StudioReportStreamingEnabledChangeHundredths
 StudioReportStudioOpenPlaceHundredthsPercentage
@@ -36243,7 +36242,6 @@ StudioReportWebView2ScriptErrorHundredthPercent
 StudioRequested
 StudioRequireUserInactiveOnShutdown
 StudioResendDisconnectNotificationInterval
-StudioResetTraceIdOnRetryInternalLogin
 StudioResourceId
 StudioRetryWebView2CreationOnInvalidState
 StudioRibbonAnalytics
@@ -36596,6 +36594,7 @@ SUWATAVAWH
 SUWAUAVAWH
 SVATAUAVAWH
 SVGLuaIcons
+SVRi3MWTxfxqsXDmMYeh
 SVWATAUAVAW
 SVWATAUAVAWH
 SVWATAUAVH
@@ -38199,7 +38198,6 @@ ToVideoStream
 TownAndCity
 ToWorldSpace
 TPoseAdjusterDefaultVersion
-TqODroNq0K4qhBRfkXkUE1efZNTmWus5qLM
 Tracciamento
 TraceMessage
 TracerService
@@ -38429,7 +38427,6 @@ TwistLimitsEnabled
 TwistLowerAngle
 TwistUpperAngle
 TwitterShareUrl
-TwMCtXUII1bNWXflGOaltQR9MdOF8P2f
 TwoAttachment
 TwoStepLogin
 TwoStepVerification
@@ -39774,6 +39771,7 @@ UWorkspaceApplyEditRequest
 UWorkspaceApplyEditResponse
 UWorkspaceDidChangeConfigurationNotification
 UXImprovementAddSearchBar
+Uy79ZckCAwEAAQ
 VAccessory
 VAccountInfoRequest
 VAccoutrement
@@ -41755,7 +41753,6 @@ VSurfaceLight
 VSurfaceSelection
 VSVertexBufferMaxCount
 VSwimController
-VsyM7lj2JvNIiMKNUDsfqijUj2MNS94HUJnEAyoRR0tS
 VSystemAddress
 VTargetsParser
 VTaskQueue
@@ -42583,6 +42580,7 @@ WriteToFileFailure
 WriteToScriptFileFailure
 WriteVoxels
 WroteToFile
+WRUr2K8QFzdbVX6Fp3oW3nJaDHM0FsjSSBuO
 WS2_32.dll
 WSACloseEvent
 WSACreateEvent
@@ -42595,10 +42593,10 @@ WSAstartup
 WSAStartup
 WSAWaitForMultipleEvents
 WsClientIdleSleepMs
+WSQaiwAvtKHlsXh
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
-Wyi2W1CcmxkahABnf4F1ZbfvcS5FIu8poypLtpEjPByz93542mGQFH1z0nXm
 X[]_^A\A]A^A_
 X_JW4AssetType
 X_NW4StudioGameStateType
@@ -42817,6 +42815,7 @@ XPEBVGImage
 XPEBVInstance
 XPEBVIStatus
 XQColorDialog
+Xr4svp7JM5VWxlZADMfjOMiVgoTOKaQXYkTJUOuH7i
 Xregex_error
 XResolution
 Xtime_get_ticks
@@ -42953,6 +42952,7 @@ Zeichenfolgefarbe
 Zeilennummer
 Zekton.json
 ZeroTargetSpeedStartTimeCountToTotalCount
+Zfg2IK9tqZ
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
@@ -42962,6 +42962,7 @@ ZoomActive
 ZoomOutDistance
 ZoomToExtents
 ZoomToHighlight
+ZouQlALlkdGBS
 ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVPluginMouse
@@ -42974,6 +42975,7 @@ ZVTouchedSignal
 Zwischenablage
 Zwischenspeicher
 Zwischenspeichergr
+ZWuOZOdOiOS87gkOKFJhLN
 ZXPEAURVIOContext
 Zylinderteil
 Zylindrisch
