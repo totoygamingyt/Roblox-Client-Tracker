@@ -11856,10 +11856,6 @@ std::_Func_base<void,struct RBX::AssetImport::Warnings::NoRefMeshForCageWarningW
 std::_Func_base<void,struct RBX::AssetImport::Warnings::NoRefMeshForCageWarningWithSuggestion_v1 * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Warnings::OuterCageBloatingWarning * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Warnings::OuterCageFarExtendedFromMeshWarning * __ptr64>
-std::_Func_base<void,struct RBX::AssetImport::Warnings::UGCExceedTextureSizeWarning * __ptr64>
-std::_Func_base<void,struct RBX::AssetImport::Warnings::UGCExceedUVSpaceWarning * __ptr64>
-std::_Func_base<void,struct RBX::AssetImport::Warnings::UGCMaxMeshTrianglesWarning * __ptr64>
-std::_Func_base<void,struct RBX::AssetImport::Warnings::UGCMeshVertColorsWarning * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Warnings::UnsupportedPreviewTextureType * __ptr64>
 std::_Func_base<void,struct RBX::BulkAudioLoader * __ptr64>
 std::_Func_base<void,struct RBX::Collision::ChunkClumpCollectionPair * __ptr64>
@@ -12955,10 +12951,6 @@ std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::NoRefMeshForCageWarningW
 std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::NoRefMeshForCageWarningWithSuggestion>
 std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::OuterCageBloatingWarning>
 std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::OuterCageFarExtendedFromMeshWarning>
-std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::UGCExceedTextureSizeWarning>
-std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::UGCExceedUVSpaceWarning>
-std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::UGCMaxMeshTrianglesWarning>
-std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::UGCMeshVertColorsWarning>
 std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::UnsupportedPreviewTextureType>
 std::_Ref_count_obj2<struct RBX::AsyncHttpQueue::Request>
 std::_Ref_count_obj2<struct RBX::BaseThreadPool::ThreadData>

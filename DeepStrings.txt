@@ -723,6 +723,7 @@ AfterRequestConnection
 AfterRequested
 AfterSeconds
 AfterWorldsteps
+AFZzNRmWSrFug
 AgainstLatestPackageAction
 AgcClippingLevelExperiment
 AgcMinMicLevelExperstate_
@@ -1843,7 +1844,6 @@ AudioDevice
 AudioDeviceBuffer
 AudioDeviceBufferTimer
 AudioDeviceError
-AudioDeviceErrorTelemetry
 AudioDeviceGeneric
 AudioDeviceModule
 AudioDeviceModuleImpl
@@ -2391,10 +2391,6 @@ AUTriangleFilter
 AUtss_cleanup_function
 AUTypeVarOnceVisitor
 AUTypeVarVisitor
-AUUGCExceedTextureSizeWarning
-AUUGCExceedUVSpaceWarning
-AUUGCMaxMeshTrianglesWarning
-AUUGCMeshVertColorsWarning
 AUUncaughtExceptionError
 AUUnconflictedMergeChunk
 AUUndefinedLocalVisitor
@@ -6903,6 +6899,7 @@ AXW4UserCFrame
 AXW4UserInputType
 AXW4VoiceChatState
 AXW4VRTouchpad
+AZRrQhrI9eCGjam9MP7Oys8MFt9XH
 B^F.HR4nL.4U
 BA447F42A91111E2B410EF351327957B
 BA886F11E18561866242201959
@@ -7266,6 +7263,8 @@ BjDjFjHjJjLjNjPjRjTjVjXjZj\j^j`jbJd
 BjDjFjHjJjLjNjPjRjTjVjXjZj\j^j`jbjdjfjhjjjljnjpjrjtjvjxjzj
 BjDjFjHjJjLjNjPjRjTjVjXjZj\j^j`jbjdRf
 BjDjFjHVJ6
+Bk3ew7YfMcaocKQyXjQgWPjNVcIuKy9D8dSXyzdqZJ
+BkaOg8oEezla4mrjrJBPUIDuCc6y5e
 Bkg_round.png
 Bkg_square.png
 BL17qL9koPpyChCHbWVgSXbfxynzBupojeOEiuqDuGX0BFl
@@ -7783,7 +7782,6 @@ CageDeformer
 CagedHSRV17.rbxm
 CageHasMaterialWarning
 CageManifold
-CageMeshDistanceSDCoeff
 CageMeshId
 CageMeshImporter
 CageMeshIntersectedPreview
@@ -10397,7 +10395,6 @@ CountWidth
 COutlineSelection
 Covariance
 CoverageRef
-CPE10usxQh
 CpuArchitecture
 CpuKernelTime
 CPULogicalCore
@@ -11066,7 +11063,6 @@ CustomAnimationField
 CustomAnimations
 CustomAnimationTypeAllow
 CustomAudioDeviceModule
-CustomAudioDeviceModuleErrorTelemetry
 CustomAudioMixer
 CustomAudioProcessing
 CustomBillboards
@@ -11102,7 +11098,6 @@ CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
 CWinTraits
-Cx2TY7Rq7kNR3d50eXrzo0
 CxxFrameHandler4
 CxxThrowException
 Cybertrust
@@ -11401,7 +11396,6 @@ DB33D3AAF011E38B9D871882A8E559
 DB33D6AAF011E38B9D871882A8E559
 DB33D7AAF011E38B9D871882A8E559
 DBD856014A660
-DbkD05qcqLFugjvt87cuPZHWBn3WjItk1ECdpo4e9R8lTxY
 DD11E2898E9FB8E4A9E79B
 DD4669DB402E11E3A29DA4266180AE0C
 DD4669DC402E11E3A29DA4266180AE0C
@@ -12419,7 +12413,6 @@ DetachCalloutsByDefinitionId
 DetachCalloutsByDefinitionIdRequested
 DetachedPlay
 DetachedPlaybacks
-DetachedPlaybacksUseEffects2
 DetachObject
 DetachShader
 Detail.dds
@@ -12512,6 +12505,7 @@ DevFrameworkMigrateTooltip
 DevFrameworkMigrateTreeView
 DevFrameworkRemoveFitFrame3
 DevFrameworkReplaceExpandaleWidgetWithExpandablePane2
+DevFrameworkSelectableTextLabel
 DevFrameworkToggleAllowEyeIcon
 DevFrameworkToggleAllowOtherIcons
 DevFrameworkToggleDisabledAndSelectedStyle
@@ -12817,7 +12811,6 @@ DisconnectRobloxMaintenance
 DisconnectSecurityKeyMismatch
 DisconnectSendPacketError
 DisconnectTimeout
-DisconnectVoiceOnPlayerDeparented
 DisconnectWrongVersion
 Disconnessione
 Disconnessione...
@@ -12892,12 +12885,12 @@ DistributionPoints
 DistributorType
 DistToShowBufferCountSqr
 DJOTX\_cfiloruwz
+DkCageMeshDistanceSDCoeff
 DKECCAK1600_ASM
 DkrigidSubset
 DlcVersion
 DListenerAttributes
 DMConnection
-DMeshLODDetails
 DMinMaxDistance
 DmJobTotal
 DnsResolve
@@ -13135,7 +13128,6 @@ DropperTool_dn.png
 DropShadow
 Drosselungsanpassungszeit
 Drosselungsprozentsatz
-Drz4kGbXr0oLNOL
 DS4Windows.exe
 DSA_do_sign
 DSA_do_verify
@@ -13541,7 +13533,6 @@ ECPKParameters_print_fp
 ECPrivateKey
 ECPublicKey
 Ecrypto\bn\bn_prime.c
-EcWbOaCPgcSlQ3B2XkgJTKc0NZ49GKANmRkIPXgILcUEM0OVYuZ8qRFVh17pSZ
 ED23AAF011E38B9D871882A8E559
 ED24AAF011E38B9D871882A8E559
 ED27AAF011E38B9D871882A8E559
@@ -14014,7 +14005,6 @@ Enregistrer
 Enregistreur
 EnrichmentAttempt
 EnrichmentHttpResponse
-EnSH0WrhD8mQOaGQQm0cPLFChZecXyh1jaBtmoOkbgPQCaFH
 EnterCriticalSection
 EnterEvent
 Enterprises
@@ -14156,6 +14146,7 @@ ErrOutOfRetries
 Erscheinungsbild
 Erstelldatum
 Erweiterte
+ErYABOGeLRLSj8
 Escritorio
 ESDescriptor
 ESDHwith3DES
@@ -14818,6 +14809,7 @@ FCDAAED11E38B9D871882A8E559
 FCEntityTransformMerge2
 FCIgnoreClumps
 FcStallingDuration
+FcuW8DTlhnJ89HnRkSK
 FD_ACCEPT_BIT
 FD_CLOSE_BIT
 FD_CONNECT_BIT
@@ -17028,6 +17020,7 @@ GlobalWindRendering
 GLSL.std.450
 GlyphProvider
 GlyphRenderer
+GMdJEgDI4whclWTcvGBnzsuMbOhri
 GoDaddy.com
 GoodbyeChoiceActive
 GoodbyeChoiceActiveProperty
@@ -18222,6 +18215,7 @@ IgnoreVertexColors
 IgnoreWater
 Ignorieren
 Igravesmall
+IhoU76DmIgOg7Hq
 IID_IAMDirectSound
 IID_IAMLine21Decoder
 IID_IAMStreamConfig
@@ -19296,7 +19290,6 @@ IteratorFlag
 Iterazione
 ITRedirect
 ITriedReplicatingNonReplicatableAndAllIGotWasThisLousyCrashDump2
-IUbmouyfh1Td5eCi0AXP
 IUniverseController
 IUpdateUIManager
 IUserContextFetcher
@@ -19364,6 +19357,7 @@ JdiV2Processed
 JdiV2ProcessedPerFrame
 Jdiv2RecvDuringJoin
 JDJNJXJbJlJvJ
+JGoTgISSHW1G8e43iv
 JHJRJ\JfJpJxJ
 JHW4MembershipType
 JIIIIIIIKI
@@ -19372,7 +19366,7 @@ JitterBufferDelayProxyWithInternal
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
-JkrSOPsQVXjp9dAo5d
+JMeshLODDetails
 JobTimerDuringInitialExperience
 Jogabilidade
 JoinAttemptId
@@ -19488,7 +19482,6 @@ JW4InfoType
 JW4TextChatMessageStatus
 JW4TextFilterContext
 JW4ThumbnailType
-JYRQcsnvg2Er2zZcgPVT9d7I6pVneN160yxLBJHabL6L5e
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -19603,6 +19596,7 @@ KPEBDPEBDH
 Kugelverbindung
 Kundendienst.
 Kundensupport.
+KYk84PX75geRDY7cxPQANoi5
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 L^N6LfN6LlN6LdN6Ly
 LA_SHAPE_MAX
@@ -20416,6 +20410,7 @@ LowQMaterialDetiledNewFS_
 LowQMaterialFS_
 LowQMaterialWangFallbackFS
 LowQMaterialWangFS
+LqDdPuhaATfmdQwkRSHPRPgjEWdMUQTLk2
 LRakRecvToAppPop
 LSCReplacer
 LSCReplacerLog
@@ -21536,7 +21531,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAsFGnILEDTgnfZmlwG35ZHaAJzs
+MIICCgKCAgEAu27rR5p5rLtubbJsCNc00OIpdgez
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21746,6 +21741,7 @@ Modulskript
 MoFreeMediaType
 MoInitMediaType
 Molteplici
+MON9nHG3Jk
 MonitorFromWindow
 Monochrome
 MonotonicClockDifferentialDriftCompensationHundredthsPercentage
@@ -22866,7 +22862,6 @@ OgreWidgetForGameState
 OgreWidgetShowEvent
 Ohungarumlaut
 OiCCPPhotoshop
-OkwfLnQ1oIxJw5DRrVjeO8TCgWqwpj
 OldActiveElement
 OldBinaryStringLength
 OldDOFDownSampleAndComputeFarCoCHorizontal4xFS
@@ -23355,6 +23350,7 @@ Overwriting
 Overwriting.
 OwnPermission
 OwnProperty
+OyPVYSujJLrGbq5jeO
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^[]
 PA^A]A\_^][
@@ -24893,6 +24889,7 @@ PixelStorei
 PixelXDimension
 PixelYDimension
 PixmapRect
+PJumY4S7L6QDBMaS1QCEzFG8c5
 PKCS12_AUTHSAFES
 PKCS12_BAGS
 PKCS12_create
@@ -25285,6 +25282,7 @@ PlaySoloSession
 PlaySoloStartTotalTime
 PLC_PITCH_LAG_MAX
 PLC_PITCH_LAG_MIN
+PlQ9PyvY0Md0VDaqmxBBSpkS08V1zfRoumaOKRY9
 PlRlTlVlXlZl\T^
 Plugin.rbxm
 PluginAction
@@ -26038,6 +26036,7 @@ PVAdornment
 PVInstance
 PVK_header
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
+PY3FmQuUGB
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
 QAbstractButton
@@ -26819,7 +26818,7 @@ QValidator
 QVariantAnimation
 QVBoxLayout
 QVersionNumber
-QVHVuqPF4cmzySHVv6pVn7m2oPZrUWl5llB5Vb1vovSTLpdTAJ3E00BJu
+QvqdP4Lz4YamQ
 QWheelEvent
 QWidgetAction
 QWidgetPluginGui
@@ -27707,7 +27706,6 @@ Remplacement
 Remplacements
 Remplacer...
 RenameAlias
-RenameColli
 RenameCollisionGroup
 RenameModel
 RenameModelAsync
@@ -29141,7 +29139,6 @@ Sandboxing
 SandboxLocalCache
 SandboxLocalCacheInitialized
 SandstoneName
-SanJBqE0azGftsr2bS2U
 SANW4EMode
 SAP_delta_time
 SAPEAUNode
@@ -29223,7 +29220,6 @@ SAXPEAVQStyle
 SAXPEAVQWidget
 SAXPEBDP6AXAEAVQDataStream
 SAXW4ApplicationAttribute
-Sc58o0CAwEAAQ
 Scale_Green.png
 ScaleButton.png
 ScaleButton_dn.png
@@ -31015,7 +31011,6 @@ SkipReadDiskCacheRedirects
 SkipReadDiskCacheRedirectsHundrethsPercentage
 SkipSingePartAssemblyUpdate
 SkipToFrontEndOfLines
-SkQhf8CiDtvioBSe1jkdqWCcGjwyyIVNvAGDCScMgEnW7
 Skriptaktionen
 Skriptanalyse
 Skriptausf
@@ -31063,7 +31058,6 @@ SlowDnsInfluxHundrethsPercentage
 SlowDnsPlatformRequestThresholdMs
 SlowHttpRequest
 SlowHttpRequest]
-Sm1LZgirPWBZbOUqGJOOaFaoENn
 SM2_Ciphertext
 SMALL_CAP_SIZE
 SmallFirstProbePacket
@@ -31163,7 +31157,6 @@ Software\Roblox\RobloxStudio\OpenStudioProcesses\
 SoftwareChannels
 SoftwareFormat
 SoftwareFormat.
-SOHr1K4qedErAz2gP
 Solicitando
 SolidFloorMassMultTenth
 SolidFloorPercentForceApplication
@@ -31209,7 +31202,6 @@ SoundCheckResult
 SoundCheckResult]
 SoundDefault
 SoundEffect
-SoundEffectLifetimeFix
 Soundgroup
 SoundGroup
 SoundIdPropertyItem
@@ -31475,6 +31467,7 @@ SSSSSSSSRRRRRRRRRRRRRRRRRRR
 SSSSSSSSSS
 SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 ST_MEM_L_TBL
+St3zBorJp3pYEPng0Ok33DJ8shJsmOdaWlYIg5d13F
 StableTargetAdaptation
 Stack.length
 Stack.push
@@ -36506,6 +36499,7 @@ SuggestedName
 SuggestedRefresh
 SUITEB128C2
 SUITEB128ONLY
+Sul7giHlYWXgeqSIwcb
 SummarySff
 SummaryStats
 SummaryStatsAction
@@ -36603,6 +36597,7 @@ SVWATAUAVH
 SVWATAUAWH
 SVWATAVAWH
 SVWAUAVAWH
+SVWrECAwEAAQ
 SwapAttachmentsVerb
 SwapBuffers
 SwapBuffersMscOML
@@ -37478,7 +37473,6 @@ Thumbstick1
 Thumbstick2
 TI.pid.toString
 TI.tid.toString
-Tib3AtYeY5W2MHKkDawdOByxSvoHnjUnurFbORigQBDPD
 TickCountPreciseOverride
 TickCountSampleMethod
 TicketAuthenticationFailed
@@ -39728,10 +39722,6 @@ UTouchStateManager
 UTrackedAllocator
 UTrackEntry
 UTypeError
-UUGCExceedTextureSizeWarning
-UUGCExceedUVSpaceWarning
-UUGCMaxMeshTrianglesWarning
-UUGCMeshVertColorsWarning
 UUID_UdriTagTables
 UUID_WMDRMTagTables
 UUncaughtExceptionError
@@ -39774,6 +39764,7 @@ UWorkspaceApplyEditRequest
 UWorkspaceApplyEditResponse
 UWorkspaceDidChangeConfigurationNotification
 UXImprovementAddSearchBar
+UYyf1DO8sHqzqmElc
 VAccessory
 VAccountInfoRequest
 VAccoutrement
@@ -42688,6 +42679,7 @@ XAlignment
 Xbad_alloc
 Xbad_function_call
 XbbXXbbXGSSGGSS
+Xbm5F6uyldx20rtdg4cVJ83n
 XboxAppBridgeRewrite5
 XboxAvatarPaneRefreshInterval
 XboxEnableABTests
@@ -42701,7 +42693,6 @@ XboxSaleAvatarPackageIds
 XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
-XhoKYZsLBPJt
 XHW4Status_e
 XInputGetBatteryInformation
 XInputGetCapabilities
@@ -42772,10 +42763,6 @@ XPEAUProcessor
 XPEAURoughnessBadFileFormatError
 XPEAURVFormatContext
 XPEAURVIOContext
-XPEAUUGCExceedTextureSizeWarning
-XPEAUUGCExceedUVSpaceWarning
-XPEAUUGCMaxMeshTrianglesWarning
-XPEAUUGCMeshVertColorsWarning
 XPEAUUncaughtExceptionError
 XPEAUUnsupportedPreviewTextureType
 XPEAVAdorn
@@ -42966,6 +42953,7 @@ ZP6AX1PEAX
 ZPEAVPluginMouse
 ZPu4fE9Z`u
 ZRZZZbZt[.[
+Zsfo0onqqwnePKwJu2M
 Zusammenfassung
 ZVLocalTouchedSignal
 ZVspecial_equipped_signal
