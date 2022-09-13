@@ -149,6 +149,7 @@ AbuseReportScreenshotPercentage
 AbuseReportV2Percentage
 AbuseReportV3
 ABWENoTWCC
+AbyIOjEtzb8PNINdCTacwAVsvr86E
 AC01E30AF65B11E3AFC2CE47415C029D
 AC01E30BF65B11E3AFC2CE47415C029D
 AC01E30CF65B11E3AFC2CE47415C029D
@@ -406,6 +407,7 @@ AddTransportOffer
 AddUIToggleToRibbon
 AddUserAsync
 ADebugSSAOForce
+ADeferredVoxelUpdates
 AdGuiEnabled
 AdGuiImageMaxHeightInStudTenths
 AdGuiImageMaxWidthInStudTenths
@@ -749,6 +751,7 @@ AggregateInfo.TotalFrames
 AggrFrames
 Agravesmall
 Agreements
+AGRLZisnjwuQ8Qn0CAwEAAQ
 Aguardando
 Aguarde...
 AHHVWeakObjectRef
@@ -760,6 +763,7 @@ AimdRateControl
 AinDisableReportErrorTelemetry
 AinPointsThrottleValue
 AirController
+AJqWZvQS47feQxHZuZXt
 Aktivieren
 Aktivierung
 Aktivierungs
@@ -1236,6 +1240,7 @@ Anweisungen
 Anzeigedauer
 Anzeigemodus
 AoBlurUpsampleCS
+AonBgtKEbnsyzhRTjzb0g0dw3fufjOz8FQgGi9DNf4v4CV4Fit
 AP4_AtomFactory
 AP4_Dec3Atom
 AP4_HvccAtom
@@ -1616,7 +1621,7 @@ AstExprVarargs
 AstStatFor
 AstStatFunction
 AstTypePack
-AStudio.App.RBXMainWindow.InsertObjectsWidgetMenu
+AStudioReportStartupInfoInfluxHundredthsPercentage
 AsusROG71OSD.dll
 AsusStrixOSD.dll
 AsusU7MKIIOSD.dll
@@ -7092,6 +7097,7 @@ BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
+BCurrentDataModelType
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
@@ -7167,6 +7173,7 @@ BFE701C11E3B075CBAD925AA50F
 BFF90CBF11EB9CD4979655F24EDD
 BFFA0CBF11EB9CD4979655F24EDD
 BFJMPSVX[]_acegiklnpqstvwyz
+Bgq9b0cpptZ7c0Fp67hL2okrGTY7YvPL1d54XBcru92YXhzZ7dFLjGHhBZVZu
 BgRefreshes
 BgUpdateRedirectsDisable
 BgUpdateRedirectsHttpErrInfluxHundredthsPercentage
@@ -7397,7 +7404,6 @@ BootcampCLI58696
 Bootstrapper
 BootstrapperLauncher
 BootstrapperUpdate
-BoptionalMessage
 BorderColor
 BorderColor3
 BorderMode
@@ -7563,6 +7569,7 @@ BrushOrigin
 BrushStyle
 BrutalLegendTest
 BruteForceAllSlow
+BthumbnailSize
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -7666,6 +7673,7 @@ BundleType
 BundleTypes
 BuoyancyAccumulator
 BuoyancyInSensorData2
+BUSGSOPGferp
 BusyStatesShifted
 Buttermilk
 Button1Down
@@ -8458,6 +8466,7 @@ CircleCutoutLargeNoBorder.png
 CircularList
 Circumflexsmall
 CityBackground.png
+CKKauOreXeuYG1L0PFiuQ4Mh5l
 ClampColor
 ClampTargetIndentLevel
 ClassCategory
@@ -10975,7 +10984,6 @@ CurrentCharFormat
 CurrentChatSession
 CurrentColor
 CurrentCursorResultLocation
-CurrentDataModelType
 CurrentDataModelTypeAboutToChange
 CurrentDataModelTypeChanged
 CurrentDate
@@ -11088,11 +11096,11 @@ CustomSoundEffect
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolTip
-CVoG0x9wUqaToiX8VwpPm0vInYg
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
 CWinTraits
+CxPO3tM5VzZulOh5uJQJPwgfxRTtHU4xuuNk3rRkYbX4Z9nhOpSixXBpT7ERIsc
 CxxFrameHandler4
 CxxThrowException
 Cybertrust
@@ -12080,7 +12088,6 @@ DeferredNewRegions
 DeferredReporter
 DeferredTerrainChanges
 DeferredUpdates
-DeferredVoxelUpdates
 DefineCallout
 DefineFastFlag
 DefineFastInt
@@ -12151,7 +12158,6 @@ DeleteSync
 DeleteTextures
 DELETETOSTARTOFLINE
 DeleteVertexArrays
-DelistPpr2
 DeliverLowMemoryWarningsViaPolling
 DeliverRtcp
 DeliverRtp
@@ -13653,7 +13659,6 @@ Einzelspiel
 Einzelspielermodus
 EJJJJJJJJJJJJJJJJJJJJ
 EJTU\^bcfguw
-EKwsHCSjfAdSN2kG
 Elaborazione...
 ElapsedSeconds
 ElapsedTime
@@ -15506,6 +15511,7 @@ FourByFour
 FpFramebuffer
 FpsDuringJoin
 FpsVariance
+FqCDelistPpr2
 Fractional
 FRAGMENT_SCRIPT
 Fragmentos
@@ -17257,6 +17263,7 @@ GroupUnderModel
 Grundeinstellungen
 Gruppenteile
 Gruppierung
+GSS6txdx1Q
 GSSolverActive
 GTFiEnDdCJB
 GTInfluxDB
@@ -17321,6 +17328,7 @@ HA_A^A]A\_]
 HA_A^A]A\_^[]
 HA_A^A]A\_^[]H
 HA_A^A]A\_^][
+HaAs667c731ElY2VpagtXGgFLNf4xptuFvJACR
 HACDConcavityMillionth
 HACDMaximumQuickhullReprocessAttempts
 HACDNormalizationDistanceMillionth
@@ -17440,6 +17448,7 @@ HbaoCompositFS
 HBAODepthDownFS
 HbaoRenderCompute
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
+HBL.PXRrPfH
 Hcircumflex
 HdAvailables
 HDCacheLock
@@ -17986,6 +17995,7 @@ HttpTraceLight]
 HttpTrackResponseProcessTime
 HttpTrackSyncWriteCachePhase
 HttpUseMinGzip
+HTw90CqnHz0z6LuBsxzHKXujzpI9oJi1WV
 HuaTianKaiTi
 HuaTianSongTi
 HubConnection
@@ -19286,7 +19296,6 @@ IUniverseController
 IUpdateUIManager
 IUserContextFetcher
 IUserDataStoreServiceBase
-IUvvptwrhiTk2fLUogOEI3d0o3V
 IViewportState
 IVRApplications_007
 IVRChaperone_004
@@ -19339,7 +19348,6 @@ JasmineUPC
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
-JBTOjLUPXazcOM6U32i4trJghTXN76QEJkrxeRSIWSVRBsNhXdUCU8AqnUZS
 Jcircumflex
 JdiDeserializerConfigPerDC
 JdiDeserializerConfigUserIdPer100
@@ -19561,7 +19569,6 @@ KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
 Klebeoberfl
 Kleinschreibung
-KlXIR6RPS5c28dTh8Zm
 KnownPrefixIndex
 KnownPublishRequest
 KodchiangUPC
@@ -19591,7 +19598,6 @@ Kugelverbindung
 Kundendienst.
 Kundensupport.
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
-KZorV3PcvUjfDM6IYhk9gQhsUlCWzJmJ0L
 L^N6LfN6LlN6LdN6Ly
 LA_SHAPE_MAX
 LABEL_LITERAL
@@ -21228,6 +21234,7 @@ Meditative
 Medium.otf
 MEDIUM_PRIORITY
 MedKit.png
+MEgAA9zr2HVIVb7ynlqtt
 Megacluster
 MegaCluster
 MegaClusterInit
@@ -21524,7 +21531,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAm0PS9
+MIICCgKCAgEA4LbRtmDHgzbrefexnoRCGdb8E8x21
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -22602,6 +22609,7 @@ NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
 Ntildesmall
+NuH1qSYnjfKsDcFInzkc
 NullAudioPoller
 NullDeviceGuid
 NullNodeSettingsError
@@ -23009,7 +23017,6 @@ OnUnhandledScriptErrorsAction
 OnUnknownAddress
 OnUserLayerLoadingStatusChanged
 OnWritableState
-OOmZkfg1ADnCsAEFJTkLJca9R
 OOOOOOOOOOOOOOOOOOOOOO
 OOOOOOOOOOOOOOOOOOOOOOOO
 OOOOOOOOOwwwwwwwwwwwwwwwwvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
@@ -26026,9 +26033,9 @@ PushResampler
 PVAdornment
 PVInstance
 PVK_header
+PWu3PmuSubAOjQDwJi3QUWU6NnDcGx1SGPD0Myv928YuEyK5KYXLyPPmeWG
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
-PywHhNpEIbPjR
 QAbstractAnimation
 QAbstractButton
 QAbstractItemDelegate
@@ -26537,7 +26544,6 @@ QItemDelegate
 QItemSelection
 QItemSelectionModel
 QItemSelectionRange
-QJDaIooWJtnd
 QJsonArray
 QJsonDocument
 QJsonObject
@@ -26816,8 +26822,6 @@ QWidgetPluginGui
 QWidgetWindow
 QWindowsEGLContext
 QWindowsEGLStaticContext
-QyJX1wblojLVFdUOXYyvC24lrGzwwSgod7qLV2cw4G0M7HsARa8CAwEAAQ
-QzkrCoWSiVfQRHlRF1dMPJSkiw2er5EmNLkZ2Z1DUQc
 RaceConditionInExplorer
 RaceDetected
 RadialBlurFS
@@ -28654,7 +28658,6 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
-Rn3hQMro6xsQ3s7fWjiMjm9yMUkKFH2AOZtWL1Jmsjy6VTJ
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -29082,7 +29085,6 @@ RxIgnoredBytes
 RxIgnoredPackets
 RxQueueSize
 RxRlReport
-RYMo9R8Q9lG3LO
 S_Key_dn.png
 SA_KPEAPEBVfacet
 SA_NAEBVConnection
@@ -29258,6 +29260,7 @@ ScopedRefMessageData
 ScopedToken
 Scorciatoia
 Scottsdale1
+SCPfTrcGpuCGaWy2njYxodS
 ScraperJob
 ScreenGuiAction
 ScreenOrientation
@@ -29673,7 +29676,6 @@ SDL_WINDOWS_FORCE_SEMAPHORE_KERNEL
 SDL_XINPUT_ENABLED
 SDL_XINPUT_USE_OLD_JOYSTICK_MAPPING
 SDLXInputDev
-SdmVaiWV2v4Tc
 SDP_SYNTAX_ERROR
 SdpParseError
 SdpSemantics
@@ -35975,6 +35977,7 @@ StudioFileWatcherDelayMs
 StudioFillTool
 StudioFixDuplicateBusyOnRecursiveBreak
 StudioFixExportVertexLimit
+StudioFixGalleryButtonStickySelectColor
 StudioFixGalleryLayoutUpdate
 StudioFixMacPlayModeMouseLag
 StudioFixShortEvents
@@ -36221,7 +36224,6 @@ StudioReportLuauWarningDetailsInfluxPriorityHundredthsPercentage
 StudioReportOpenPlaceTimeFilter
 StudioReportPlaceInfoWithRibbonAnalytics
 StudioReportQmlCrashThrottleHundredthsPercent
-StudioReportStartupInfoInfluxHundredthsPercentage
 StudioReportStreamingEnabledChange
 StudioReportStreamingEnabledChangeHundredths
 StudioReportStudioOpenPlaceHundredthsPercentage
@@ -40926,7 +40928,6 @@ VITreeDiff
 VIUserPluginsModel
 VIxpChangedListener
 VIXPService
-VjI8QNJwjtDXfvG3iU8jAu64jyKZS4Qe8rTOcUt9
 VJitterBufferDelay
 VJitterBufferDelayInterface
 VJointInstance
@@ -42799,6 +42800,7 @@ XPEBVIStatus
 XQColorDialog
 Xregex_error
 XResolution
+XReYIb43BedHvw
 Xtime_get_ticks
 XUPlaySoloConfiguration
 XUPublishDiagnosticsNotification
@@ -42880,7 +42882,6 @@ YA_NPEBDAEBVQByteArray
 YA_NPEBVAstStat
 YA_NPEBVQStringList
 YA_NPEBVsgCScene
-Ya49VGXKG3mrZEIwuHM4paNJ6onLd5OCL1eb
 YAAEAVQDataStream
 Yacutesmall
 YAHAEBVQByteArray
@@ -42918,8 +42919,7 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YjwndsGj7AmktgnREk8RQiBwMl
-Yooi29QARhzLXrzcFLw
+Yn24hQ6I2D
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
@@ -42928,6 +42928,8 @@ Z_KPEBDPEBDH
 ZAEAPEAV34
 ZAEAPEBV34
 ZAEBQEAV34
+ZagPIiRT2DL7K7JbBC87g9K2j27Rc75t5b
+ZAhbDbTpjNo7tVg
 Zahlenfarbe
 Zb\b^Lbbp6tPxb
 Zcaronsmall
@@ -42939,6 +42941,7 @@ ZeroTargetSpeedStartTimeCountToTotalCount
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
+ZmAApMM19BzrXjFOJ8
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
