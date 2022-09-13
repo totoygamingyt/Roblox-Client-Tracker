@@ -3236,6 +3236,7 @@ FFlagFixLODDataSerialization
 FFlagFixMacStudioCommandKeyCode
 FFlagFixMainWindowSetStyle
 FFlagFixMisplacedHipMotionR15
+FFlagFixModelLodShaderWithMP
 FFlagFixNextUnitVectorFlagging
 FFlagFixPreferredSoundDeviceVR
 FFlagFixRecursiveGamepadInit

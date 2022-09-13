@@ -5155,7 +5155,7 @@ RBX::Reflection::BoundFuncDesc<class RBX::LogService,void __cdecl(class std::str
 RBX::Reflection::BoundFuncDesc<class RBX::LogService,void __cdecl(void),0>
 RBX::Reflection::BoundFuncDesc<class RBX::LSP::LSPService,class std::shared_ptr<class RBX::LSP::ScriptDocument> __cdecl(class std::shared_ptr<class RBX::LuaSourceContainer>),1>
 RBX::Reflection::BoundFuncDesc<class RBX::LSP::LSPService,class std::shared_ptr<class std::vector<class std::shared_ptr<class RBX::LSP::ScriptDocument>,class std::allocator<class std::shared_ptr<class RBX::LSP::ScriptDocument> > > const > __cdecl(void)const __ptr64,0>
-RBX::Reflection::BoundFuncDesc<class RBX::LSP::LSPService,void __cdecl(enum RBX::LSP::Method::Type,class RBX::Lua::WeakObjectRef),2>
+RBX::Reflection::BoundFuncDesc<class RBX::LSP::LSPService,void __cdecl(class RBX::Lua::WeakObjectRef),1>
 RBX::Reflection::BoundFuncDesc<class RBX::LSP::ScriptDocument,bool __cdecl(void)const __ptr64,0>
 RBX::Reflection::BoundFuncDesc<class RBX::LSP::ScriptDocument,class std::shared_ptr<class RBX::LuaSourceContainer> __cdecl(void)const __ptr64,0>
 RBX::Reflection::BoundFuncDesc<class RBX::LSP::ScriptDocument,class std::shared_ptr<struct RBX::Reflection::Tuple const > __cdecl(void)const __ptr64,0>
@@ -6145,8 +6145,11 @@ RBX::Reflection::EnumDesc<enum RBX::LightingTechnology>
 RBX::Reflection::EnumDesc<enum RBX::LoadCharacterLayeredClothing>
 RBX::Reflection::EnumDesc<enum RBX::LoadDynamicHeads>
 RBX::Reflection::EnumDesc<enum RBX::LocalizationService::Language>
+RBX::Reflection::EnumDesc<enum RBX::LSP::CompletionItemKind>
+RBX::Reflection::EnumDesc<enum RBX::LSP::CompletionItemTag>
+RBX::Reflection::EnumDesc<enum RBX::LSP::CompletionTriggerKind>
 RBX::Reflection::EnumDesc<enum RBX::LSP::FormattingOptions::AutoIndent>
-RBX::Reflection::EnumDesc<enum RBX::LSP::Method::Type>
+RBX::Reflection::EnumDesc<enum RBX::LSP::MarkupKind>
 RBX::Reflection::EnumDesc<enum RBX::MarketplaceService::CurrencyType>
 RBX::Reflection::EnumDesc<enum RBX::MarketplaceService::InfoType>
 RBX::Reflection::EnumDesc<enum RBX::MarketplaceService::ProductLocationRestriction>
@@ -10998,8 +11001,8 @@ rtc::RefCountedObject<class webrtc::`anonymous namespace'::CreateSessionDescript
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::IdWithDirection>
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::TypedId>
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::TypedIntId>
-rtc::RefCountedObject<class webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0xf2314088::NotAdvertised<struct webrtc::AudioDecoderL16> > >
-rtc::RefCountedObject<class webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0xd804b3be::NotAdvertised<struct webrtc::AudioEncoderL16> > >
+rtc::RefCountedObject<class webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0xb67e1b5a::NotAdvertised<struct webrtc::AudioDecoderL16> > >
+rtc::RefCountedObject<class webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x9c4be86c::NotAdvertised<struct webrtc::AudioEncoderL16> > >
 rtc::RefCountedObject<class webrtc::AudioDeviceModuleImpl>
 rtc::RefCountedObject<class webrtc::AudioMixerImpl>
 rtc::RefCountedObject<class webrtc::AudioProcessingImpl>
@@ -14364,8 +14367,8 @@ webrtc::AcknowledgedBitrateEstimatorInterface
 webrtc::AdaptiveModeLevelEstimatorAgc
 webrtc::Agc
 webrtc::AsyncResolverFactory
-webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0xf2314088::NotAdvertised<struct webrtc::AudioDecoderL16> >
-webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0xd804b3be::NotAdvertised<struct webrtc::AudioEncoderL16> >
+webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0xb67e1b5a::NotAdvertised<struct webrtc::AudioDecoderL16> >
+webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x9c4be86c::NotAdvertised<struct webrtc::AudioEncoderL16> >
 webrtc::AudioBuffer
 webrtc::AudioCodingModule
 webrtc::AudioConverter

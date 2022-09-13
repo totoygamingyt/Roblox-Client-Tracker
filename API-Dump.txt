@@ -3553,7 +3553,7 @@ Class ScriptEditorService : Instance [NotCreatable] [Service] [NotReplicated]
 	Function ScriptDocument ScriptEditorService:FindScriptDocument(LuaSourceContainer script) {PluginSecurity}
 	Function Objects ScriptEditorService:GetScriptDocuments() {PluginSecurity}
 	Function Tuple ScriptEditorService:OpenScriptDocumentAsync(LuaSourceContainer script) {PluginSecurity} [Yields]
-	Function void ScriptEditorService:RegisterLSPCallback(Enum.LSPMethodType methodToOverride, Function callbackFunction) {RobloxScriptSecurity}
+	Function void ScriptEditorService:RegisterAutocompleteCallback(Function callbackFunction) {PluginSecurity}
 	Event ScriptEditorService.TextDocumentDidChange(ScriptDocument document, Variant changesArray) {PluginSecurity}
 	Event ScriptEditorService.TextDocumentDidClose(ScriptDocument oldDocument) {PluginSecurity}
 	Event ScriptEditorService.TextDocumentDidOpen(ScriptDocument newDocument) {PluginSecurity}
@@ -5148,6 +5148,46 @@ Enum CollisionFidelity
 Enum CommandPermission
 	EnumItem CommandPermission.Plugin : 0
 	EnumItem CommandPermission.LocalUser : 1
+Enum CompletionItemKind
+	EnumItem CompletionItemKind.Text : 1
+	EnumItem CompletionItemKind.Method : 2
+	EnumItem CompletionItemKind.Function : 3
+	EnumItem CompletionItemKind.Constructor : 4
+	EnumItem CompletionItemKind.Field : 5
+	EnumItem CompletionItemKind.Variable : 6
+	EnumItem CompletionItemKind.Class : 7
+	EnumItem CompletionItemKind.Interface : 8
+	EnumItem CompletionItemKind.Module : 9
+	EnumItem CompletionItemKind.Property : 10
+	EnumItem CompletionItemKind.Unit : 11
+	EnumItem CompletionItemKind.Value : 12
+	EnumItem CompletionItemKind.Enum : 13
+	EnumItem CompletionItemKind.Keyword : 14
+	EnumItem CompletionItemKind.Snippet : 15
+	EnumItem CompletionItemKind.Color : 16
+	EnumItem CompletionItemKind.File : 17
+	EnumItem CompletionItemKind.Reference : 18
+	EnumItem CompletionItemKind.Folder : 19
+	EnumItem CompletionItemKind.EnumMember : 20
+	EnumItem CompletionItemKind.Constant : 21
+	EnumItem CompletionItemKind.Struct : 22
+	EnumItem CompletionItemKind.Event : 23
+	EnumItem CompletionItemKind.Operator : 24
+	EnumItem CompletionItemKind.TypeParameter : 25
+Enum CompletionItemTag
+	EnumItem CompletionItemTag.Deprecated : 1
+	EnumItem CompletionItemTag.IncorrectIndexType : 2
+	EnumItem CompletionItemTag.PluginPermissions : 3
+	EnumItem CompletionItemTag.CommandLinePermissions : 4
+	EnumItem CompletionItemTag.RobloxPermissions : 5
+	EnumItem CompletionItemTag.AddParens : 6
+	EnumItem CompletionItemTag.PutCursorInParens : 7
+	EnumItem CompletionItemTag.TypeCorrect : 8
+	EnumItem CompletionItemTag.ClientServerBoundaryViolation : 9
+Enum CompletionTriggerKind
+	EnumItem CompletionTriggerKind.Invoked : 1
+	EnumItem CompletionTriggerKind.TriggerCharacter : 2
+	EnumItem CompletionTriggerKind.TriggerForIncompleteCompletions : 3
 Enum ComputerCameraMovementMode
 	EnumItem ComputerCameraMovementMode.Default : 0
 	EnumItem ComputerCameraMovementMode.Classic : 1
@@ -5962,34 +6002,6 @@ Enum KeyInterpolationMode
 Enum KeywordFilterType
 	EnumItem KeywordFilterType.Include : 0
 	EnumItem KeywordFilterType.Exclude : 1
-Enum LSPMethodType
-	EnumItem LSPMethodType.Initialize : 1
-	EnumItem LSPMethodType.Initialized : 2
-	EnumItem LSPMethodType.CancelRequest : 3
-	EnumItem LSPMethodType.TextDocument_didOpen : 4
-	EnumItem LSPMethodType.TextDocument_didChange : 5
-	EnumItem LSPMethodType.TextDocument_didClose : 6
-	EnumItem LSPMethodType.TextDocument_foldingRange : 7
-	EnumItem LSPMethodType.TextDocument_onTypeFormatting : 8
-	EnumItem LSPMethodType.TextDocument_formatting : 9
-	EnumItem LSPMethodType.TextDocument_rangeFormatting : 10
-	EnumItem LSPMethodType.TextDocument_hover : 11
-	EnumItem LSPMethodType.TextDocument_signatureHelp : 12
-	EnumItem LSPMethodType.Workspace_DidChangeConfiguration : 13
-	EnumItem LSPMethodType.ShutdownRequest : 14
-	EnumItem LSPMethodType.Completion : 15
-	EnumItem LSPMethodType.Declaration : 16
-	EnumItem LSPMethodType.DocumentSymbols : 17
-	EnumItem LSPMethodType.TextDocument_publishDiagnostics : 22
-	EnumItem LSPMethodType.Window_showMessage : 23
-	EnumItem LSPMethodType.Window_showMessageRequest : 24
-	EnumItem LSPMethodType.Roblox_registerSyntaxCategories : 25
-	EnumItem LSPMethodType.Roblox_signalQuiescence : 26
-	EnumItem LSPMethodType.Roblox_syntaxHighlight : 27
-	EnumItem LSPMethodType.Roblox_suggestExtraSelections : 28
-	EnumItem LSPMethodType.Roblox_findExecutablePosition : 29
-	EnumItem LSPMethodType.Roblox_findColor3 : 30
-	EnumItem LSPMethodType.Roblox_patchSnippetData : 31
 Enum Language
 	EnumItem Language.Default : 0
 Enum LeftRight
@@ -6028,6 +6040,9 @@ Enum LoadDynamicHeads
 	EnumItem LoadDynamicHeads.Default : 0
 	EnumItem LoadDynamicHeads.Disabled : 1
 	EnumItem LoadDynamicHeads.Enabled : 2
+Enum MarkupKind
+	EnumItem MarkupKind.PlainText : 0
+	EnumItem MarkupKind.Markdown : 1
 Enum Material
 	EnumItem Material.Plastic : 256
 	EnumItem Material.SmoothPlastic : 272
