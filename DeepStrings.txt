@@ -10397,6 +10397,7 @@ CountWidth
 COutlineSelection
 Covariance
 CoverageRef
+CPE10usxQh
 CpuArchitecture
 CpuKernelTime
 CPULogicalCore
@@ -11101,6 +11102,7 @@ CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
 CWinTraits
+Cx2TY7Rq7kNR3d50eXrzo0
 CxxFrameHandler4
 CxxThrowException
 Cybertrust
@@ -11399,6 +11401,7 @@ DB33D3AAF011E38B9D871882A8E559
 DB33D6AAF011E38B9D871882A8E559
 DB33D7AAF011E38B9D871882A8E559
 DBD856014A660
+DbkD05qcqLFugjvt87cuPZHWBn3WjItk1ECdpo4e9R8lTxY
 DD11E2898E9FB8E4A9E79B
 DD4669DB402E11E3A29DA4266180AE0C
 DD4669DC402E11E3A29DA4266180AE0C
@@ -11902,6 +11905,7 @@ DebugStudioLogDebuggerSessionsOnTimer
 DebugStudioLogSessionsOnTimer
 DebugStudioMeshSplitProcessInterval
 DebugStudioMockTranslation
+DebugStudioOverrideAccessTokenRenewalInterval
 DebugStudioPackage
 DebugStudioPlayerConnectToServerIPAddress
 DebugStudioReloadOnPluginChanges
@@ -13131,6 +13135,7 @@ DropperTool_dn.png
 DropShadow
 Drosselungsanpassungszeit
 Drosselungsprozentsatz
+Drz4kGbXr0oLNOL
 DS4Windows.exe
 DSA_do_sign
 DSA_do_verify
@@ -13536,6 +13541,7 @@ ECPKParameters_print_fp
 ECPrivateKey
 ECPublicKey
 Ecrypto\bn\bn_prime.c
+EcWbOaCPgcSlQ3B2XkgJTKc0NZ49GKANmRkIPXgILcUEM0OVYuZ8qRFVh17pSZ
 ED23AAF011E38B9D871882A8E559
 ED24AAF011E38B9D871882A8E559
 ED27AAF011E38B9D871882A8E559
@@ -14008,6 +14014,7 @@ Enregistrer
 Enregistreur
 EnrichmentAttempt
 EnrichmentHttpResponse
+EnSH0WrhD8mQOaGQQm0cPLFChZecXyh1jaBtmoOkbgPQCaFH
 EnterCriticalSection
 EnterEvent
 Enterprises
@@ -15765,7 +15772,6 @@ FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FXHcFLH9FX
-FXm72fEsOPSXvFNwuAVuyudnudAUhv7kYre
 GainControl
 GainController2
 GainMakeup
@@ -15864,7 +15870,6 @@ GameNetPVHeaderTranslationZeroCutoffExponent
 GameNetStreamingFixStreamOutPrefetchClient
 GameNetStreamingFixStreamOutPrefetchServer
 GameNotFound
-GameNotPublicDialog
 GamepadCameraSensitivity
 GamepadConnected
 GamepadCursorEnabled
@@ -17266,7 +17271,6 @@ GroupUnderModel
 Grundeinstellungen
 Gruppenteile
 Gruppierung
-GRZ37JJ6LxOP
 GSSolverActive
 GTFiEnDdCJB
 GTInfluxDB
@@ -17450,7 +17454,6 @@ HbaoCompositFS
 HBAODepthDownFS
 HbaoRenderCompute
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
-HcIG5RTexyQP0Gcbm8lNsngTpY4eARs6It
 Hcircumflex
 HdAvailables
 HDCacheLock
@@ -17625,7 +17628,6 @@ HL_GPU_DEVICE
 HL_NUM_THREADS
 HL_NUMTHREADS
 HL_TRACE_FILE
-HLmcRS3MgCuqFoatCL
 HLNlRtVlZt^lbtfljtnprxvtzx
 HlsAdaptionLogic
 HlsFixSlowNetworkCrash
@@ -17693,7 +17695,6 @@ HPEAVQWidget
 HPEAVVideoStream
 HPEAXHPEANNH
 HPEBVQMimeData
-Hq3alq4xKfr9FkHxQDbBcuqlH3XUJ0DDN9OK1XxtqlgSOien0Njd
 HQEAPEAVQGraphicsItem
 HSRAssetId
 HSRClusterImprovement
@@ -17717,7 +17718,6 @@ HSRVisualization
 HTMLContentInitialization
 HtmlEscaped
 HTMLEscapeDocumentation
-HTSGxPvzb4Ul0KZLrFA0SCevOthvl0Y1gf165sbb
 Http_Failed
 HTTP429CdnFailure
 HTTP429Failure
@@ -19296,6 +19296,7 @@ IteratorFlag
 Iterazione
 ITRedirect
 ITriedReplicatingNonReplicatableAndAllIGotWasThisLousyCrashDump2
+IUbmouyfh1Td5eCi0AXP
 IUniverseController
 IUpdateUIManager
 IUserContextFetcher
@@ -19349,7 +19350,6 @@ J_Key_dn.png
 J_NW4CurrencyType
 JacketAccessory
 JasmineUPC
-JAT7n8j0QU2
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
@@ -19372,6 +19372,7 @@ JitterBufferDelayProxyWithInternal
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
+JkrSOPsQVXjp9dAo5d
 JobTimerDuringInitialExperience
 Jogabilidade
 JoinAttemptId
@@ -19487,6 +19488,7 @@ JW4InfoType
 JW4TextChatMessageStatus
 JW4TextFilterContext
 JW4ThumbnailType
+JYRQcsnvg2Er2zZcgPVT9d7I6pVneN160yxLBJHabL6L5e
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -19712,7 +19714,6 @@ LayoutNode
 LayoutOrder
 LBCbits_inst
 LBCenc_inst
-LBiDaP0MGgTaU
 LC_MESSAGES
 LcA4LcI0HcI
 LcC4HcS0HcK
@@ -21535,7 +21536,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAsmCHExe9kQDV7SmqDYAFdJ
+MIICCgKCAgEAsFGnILEDTgnfZmlwG35ZHaAJzs
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21939,7 +21940,6 @@ MRURobloxApiGameStoreBase
 MSACM32.dll
 MsecBetweenTextureMemoryUsageArrayRefresh
 MSecsSinceEpoch
-MsFp68UWTslBbeE31kMnNjY5KmG3HlCADLw2yKrp7gP7YlgW
 MsgWaitForMultipleObjectsEx
 MSTerrainDetailsDeterminism
 MsToScreen
@@ -22866,6 +22866,7 @@ OgreWidgetForGameState
 OgreWidgetShowEvent
 Ohungarumlaut
 OiCCPPhotoshop
+OkwfLnQ1oIxJw5DRrVjeO8TCgWqwpj
 OldActiveElement
 OldBinaryStringLength
 OldDOFDownSampleAndComputeFarCoCHorizontal4xFS
@@ -22959,7 +22960,6 @@ OnlyHighlightFullLineForErrors
 OnlyLoginItems
 OnlyNetworkHumanoidStatePropertyReplication
 OnlyQueueThreadsWithAcceptableReentrancyDepth
-OnlyRemoveSoundParseErrorsThatAreReported
 OnlyStartPageItems
 OnMousePart
 OnNetworkRouteChanged
@@ -23355,7 +23355,6 @@ Overwriting
 Overwriting.
 OwnPermission
 OwnProperty
-Ozet6wc1BsdZxeJftTaY97t4HsL
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^[]
 PA^A]A\_^][
@@ -24894,7 +24893,6 @@ PixelStorei
 PixelXDimension
 PixelYDimension
 PixmapRect
-PjothDYrZLwIcmzF45E0WOHbqNpaN
 PKCS12_AUTHSAFES
 PKCS12_BAGS
 PKCS12_create
@@ -26821,6 +26819,7 @@ QValidator
 QVariantAnimation
 QVBoxLayout
 QVersionNumber
+QVHVuqPF4cmzySHVv6pVn7m2oPZrUWl5llB5Vb1vovSTLpdTAJ3E00BJu
 QWheelEvent
 QWidgetAction
 QWidgetPluginGui
@@ -27708,6 +27707,7 @@ Remplacement
 Remplacements
 Remplacer...
 RenameAlias
+RenameColli
 RenameCollisionGroup
 RenameModel
 RenameModelAsync
@@ -28890,7 +28890,6 @@ RowVisibilityChanged
 RPC_E_CHANGED_MODE
 RPCServers
 RRakRecvToAppPop
-RrdRe08pbc6tNH
 RRReceiptFail
 RRReceiptTotal
 RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
@@ -29142,6 +29141,7 @@ Sandboxing
 SandboxLocalCache
 SandboxLocalCacheInitialized
 SandstoneName
+SanJBqE0azGftsr2bS2U
 SANW4EMode
 SAP_delta_time
 SAPEAUNode
@@ -29223,6 +29223,7 @@ SAXPEAVQStyle
 SAXPEAVQWidget
 SAXPEBDP6AXAEAVQDataStream
 SAXW4ApplicationAttribute
+Sc58o0CAwEAAQ
 Scale_Green.png
 ScaleButton.png
 ScaleButton_dn.png
@@ -31014,6 +31015,7 @@ SkipReadDiskCacheRedirects
 SkipReadDiskCacheRedirectsHundrethsPercentage
 SkipSingePartAssemblyUpdate
 SkipToFrontEndOfLines
+SkQhf8CiDtvioBSe1jkdqWCcGjwyyIVNvAGDCScMgEnW7
 Skriptaktionen
 Skriptanalyse
 Skriptausf
@@ -31061,6 +31063,7 @@ SlowDnsInfluxHundrethsPercentage
 SlowDnsPlatformRequestThresholdMs
 SlowHttpRequest
 SlowHttpRequest]
+Sm1LZgirPWBZbOUqGJOOaFaoENn
 SM2_Ciphertext
 SMALL_CAP_SIZE
 SmallFirstProbePacket
@@ -31160,6 +31163,7 @@ Software\Roblox\RobloxStudio\OpenStudioProcesses\
 SoftwareChannels
 SoftwareFormat
 SoftwareFormat.
+SOHr1K4qedErAz2gP
 Solicitando
 SolidFloorMassMultTenth
 SolidFloorPercentForceApplication
@@ -35385,6 +35389,7 @@ Studio.App.StudioPackageManager.PackageUnlinkConfirmation
 Studio.App.StudioPackageManager.PackageUnlinkManyConfirmation1
 Studio.App.StudioPackageManager.PackageUnlinkOneConfirmation
 Studio.App.StudioPackageManager.PackageUnlinkRevertButton
+Studio.App.StudioPackageManager.ReadOnlyScriptDocMessage
 Studio.App.StudioPluginHost.BadFileFormat
 Studio.App.StudioPluginHost.CantAddNewPlugin
 Studio.App.StudioPluginHost.CantDownload
@@ -35965,7 +35970,6 @@ StudioEnableUnifiedLogin2
 StudioEnableUnifiedLogin2HundredthPercent
 StudioEnableUserContext2
 StudioEnableVideoImportM0
-StudioEnableWebView2RegularRunningAdmin2
 StudioEnforceMinimumSizeOnQtitanPluginPanels
 StudioError
 StudioErrorReporterFilterJunkCallstacks
@@ -36141,7 +36145,6 @@ StudioOpenPlace.Start
 StudioOpenPlace_
 StudioOpenPlaceFailureThrottleHundrethsPercent
 StudioOutOfDate
-StudioOverrideAccessTokenRenewalIntervalForTesting
 StudioPackageConvert
 StudioPackageConvert_Failure
 StudioPackageHashPrecisionLog10Thousandths
@@ -36594,7 +36597,6 @@ SUWATAVAWH
 SUWAUAVAWH
 SVATAUAVAWH
 SVGLuaIcons
-SVRi3MWTxfxqsXDmMYeh
 SVWATAUAVAW
 SVWATAUAVAWH
 SVWATAUAVH
@@ -37476,6 +37478,7 @@ Thumbstick1
 Thumbstick2
 TI.pid.toString
 TI.tid.toString
+Tib3AtYeY5W2MHKkDawdOByxSvoHnjUnurFbORigQBDPD
 TickCountPreciseOverride
 TickCountSampleMethod
 TicketAuthenticationFailed
@@ -39771,7 +39774,6 @@ UWorkspaceApplyEditRequest
 UWorkspaceApplyEditResponse
 UWorkspaceDidChangeConfigurationNotification
 UXImprovementAddSearchBar
-Uy79ZckCAwEAAQ
 VAccessory
 VAccountInfoRequest
 VAccoutrement
@@ -42580,7 +42582,6 @@ WriteToFileFailure
 WriteToScriptFileFailure
 WriteVoxels
 WroteToFile
-WRUr2K8QFzdbVX6Fp3oW3nJaDHM0FsjSSBuO
 WS2_32.dll
 WSACloseEvent
 WSACreateEvent
@@ -42593,7 +42594,6 @@ WSAstartup
 WSAStartup
 WSAWaitForMultipleEvents
 WsClientIdleSleepMs
-WSQaiwAvtKHlsXh
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
@@ -42701,6 +42701,7 @@ XboxSaleAvatarPackageIds
 XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
+XhoKYZsLBPJt
 XHW4Status_e
 XInputGetBatteryInformation
 XInputGetCapabilities
@@ -42815,7 +42816,6 @@ XPEBVGImage
 XPEBVInstance
 XPEBVIStatus
 XQColorDialog
-Xr4svp7JM5VWxlZADMfjOMiVgoTOKaQXYkTJUOuH7i
 Xregex_error
 XResolution
 Xtime_get_ticks
@@ -42952,7 +42952,6 @@ Zeichenfolgefarbe
 Zeilennummer
 Zekton.json
 ZeroTargetSpeedStartTimeCountToTotalCount
-Zfg2IK9tqZ
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
@@ -42962,7 +42961,6 @@ ZoomActive
 ZoomOutDistance
 ZoomToExtents
 ZoomToHighlight
-ZouQlALlkdGBS
 ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVPluginMouse
@@ -42975,7 +42973,6 @@ ZVTouchedSignal
 Zwischenablage
 Zwischenspeicher
 Zwischenspeichergr
-ZWuOZOdOiOS87gkOKFJhLN
 ZXPEAURVIOContext
 Zylinderteil
 Zylindrisch
