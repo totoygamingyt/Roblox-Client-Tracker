@@ -947,6 +947,7 @@ AnalysticsSettings.xml
 AnalyticalElasticSpringFrequencyTenths
 Analytics_HumanoidRigAndModelTypes
 Analytics_HumanoidRigUpdated
+AnalyticsAvatarFaceChatFailurePoints
 AnalyticsCDNProbeInfluxPermyriad
 AnalyticsCDNProbePerHostChancePercent
 AnalyticsDefaultHeadLoaded
@@ -2836,6 +2837,9 @@ AvatarFacechatPipelineLodTelemetry
 AvatarFacechatPipelineLodTelemetryThrottleHundrethsPercent
 AvatarFacechatPipelinePerformanceTelemetry
 AvatarFacechatPipelinePerformanceTelemetryThrottleHundrethsPercent
+AvatarFaceChatSDKFailedCreateContextThrottleHundrethsPercent
+AvatarFaceChatSDKFailedSetLodThrottleHundrethsPercent
+AvatarFaceChatSDKFailedThrottleHundrethsPercent
 AvatarFetchParser
 AvatarFetchResponse
 AvatarFetchResponse_failure
@@ -7393,6 +7397,7 @@ BootcampCLI57567
 BootcampCLI58289
 BootcampCLI58426
 BootcampCLI58696
+BootcampCLI58761
 Bootstrapper
 BootstrapperLauncher
 BootstrapperUpdate
@@ -7622,6 +7627,7 @@ BuiltinSnippet
 BuiltInStandalone
 BuiltInStandalonePluginLoadTime
 BuiltInStandalonePlugins
+BUjJ0OMWzUE4Ta1lwvEZXc6iRqLku9hoy
 BulkAudioImportUse
 BulkAudioLoader
 BulkImport
@@ -8312,6 +8318,7 @@ ChararacterRegionId
 CharFormat
 Chargement
 Chargement...
+Charmander
 CharReader
 CHARSET_COLLECTIONS
 CHARSET_ENCODING
@@ -9578,6 +9585,7 @@ CollarFaces
 CollarPlanes
 CollectAnalyticsForSystemMenu
 CollectDeprecatedGAAndEventStreamCalls
+CollectFiBUsageMetrics
 CollectFixedBranchAncestorMissing
 Collectibles
 CollectIncremental
@@ -11042,7 +11050,6 @@ CursorDisplayPositionInString
 CursorEvictionCycleMs
 CursorIcon
 CursorMaxRetries
-CursorMode
 CursorPosition
 CursorPositionChanged
 CursorPositionDidChange
@@ -11092,7 +11099,6 @@ CustomSoundEffect
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolTip
-CveeTkoaonR6gAT7Vv3AdzEmsqcWwx9uZ
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
@@ -11395,6 +11401,7 @@ DB33D3AAF011E38B9D871882A8E559
 DB33D6AAF011E38B9D871882A8E559
 DB33D7AAF011E38B9D871882A8E559
 DBD856014A660
+DcKqtMlxP6GRpGk8USYNHBHK
 DD11E2898E9FB8E4A9E79B
 DD4669DB402E11E3A29DA4266180AE0C
 DD4669DC402E11E3A29DA4266180AE0C
@@ -12099,7 +12106,6 @@ DefWindowProcW
 DegradedCall
 DegradedSendQueue
 Deklaration
-DEKpQ7XEfXs9cEhzrOC6ne7tLrgdp6s05s4emBc43He8L06L7d59SNYSY607
 DelayBasedBwe
 DelayBeforeFirstPostStatsSeconds
 DelayBeforeSwapNV
@@ -13036,6 +13042,7 @@ DPERF_EndEvent
 DPERF_GetStatus
 DPOLY1305_ASM
 Dqlqlqlqlql
+DqucOPxiUexFAXzmLz1IMwgkSE
 DraftAdded
 DraftCommitted
 DraftOutdated
@@ -13974,6 +13981,7 @@ EndTransformFeedback
 EnemyOcclusion
 EnforceAdditionalLimits
 Engagement
+ENgIB3yPlw0r6
 Engine.Network
 ENGINE_add
 ENGINE_by_id
@@ -14179,6 +14187,7 @@ EstQueuedMemSize
 EstQueuedMemSizeBytes
 Estrangelo
 EThrottleType
+Eu97eQsDTMkGR8fwHMclD6Hggwz3typE7CS4McPz8RNlMalDw3h9RUGMbfgX4fl
 EucrosiaUPC
 EulerAngles
 EulerAnglesXYZ
@@ -14585,6 +14594,9 @@ FaceChatLodPrevAudioEnabled
 FaceChatLodPrevVideoEnabled
 FaceChatReportGenerationTime
 FaceChatReportNumber
+FaceChatSDKFailedCreateContext
+FaceChatSDKFailedSessionInit
+FaceChatSDKFailedSetLod
 FaceChatTotalPipelineLag_ms
 FaceChatVideoEnabled
 FaceChatVideoRate_fps
@@ -14803,6 +14815,7 @@ FcBuildingEnd
 FcBuildingInvalidation
 FcBuildingPrepare
 FcBuildingStart
+FCcA2bK8N6DlgpyMBrd2b7NYZQnq0joSj1uc0J
 FCCAAED11E38B9D871882A8E559
 FCCBB6FB0BF11E395B6E5DB6211F344
 FCCBB70B0BF11E395B6E5DB6211F344
@@ -14872,7 +14885,6 @@ FFFFFFFFFFFFFFFFFFFFFFFF
 FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 FFFIIIIIIIIIIIIIIII
 FFFPFZFdFnFxF
-FFhZc837i4FTx81iTSW8wNWyk6FzVbC
 FFlagAddNewlineAboveOrBelow
 FFlagAutocompleteAPI
 FFlagDebugLanguageServiceRcConfigLookupForceEnable
@@ -15358,7 +15370,6 @@ FMOD_SPEAKERMODE_SURROUND
 FmodAudioDevice
 FmodAudioSinkOutput
 FmodAudioSinkOutputs
-FmodCalculateDeviceLatency
 FMODChannel_
 FMODChannelIfPlaying
 FmodErrors
@@ -15964,6 +15975,7 @@ GAThrottlingEventThresholdHundredthCat1
 GAThrottlingEventThresholdHundredthCat2
 GAThrottlingEventThresholdHundredthCat3
 GazeSelectionEnabled
+GbBCt1eUvHd5gwjBJ3LNfGB59R
 GCDistance
 GCHappened
 Gcircumflex
@@ -18096,7 +18108,6 @@ HzJTLTNTPTRTTTVXX2\
 HZNVNRNNTJPF9
 Iacutesmall
 IAMCameraControl
-IaqPwlZp2QZKiMQGdwcdftdUQG9IxNewpg6
 IAudioCaptureClient
 IAudioClient
 IAudioClock
@@ -18203,7 +18214,6 @@ IfLastDocInLastAppInstance
 IfLineOfSightClear
 IfPurchased
 IGameIconsStore
-IgcVTvXUyRZXqX
 IGeneralProcessor
 IgnoreCustomEventReceiverSource
 IgnoreCustomEventReceiverSourceReportPermyriad
@@ -19370,7 +19380,6 @@ JKLMNOPQRSTU
 JMeshLODDetails
 JobTimerDuringInitialExperience
 Jogabilidade
-Joi5ITD71RrnP
 JoinAttemptId
 JoinBlobInvalidateCountThresholdPercent
 JoinBlobInvalidateThresholdPercent
@@ -19492,6 +19501,7 @@ Kameraempfindlichkeit
 Kamerageschwindigkeit
 Kamerazoom
 KBytesPerSec
+KbZGHcQOOdbb
 KeepAliveTimeout
 KeepPositionOnInsert
 KERNEL32.dll
@@ -19595,6 +19605,7 @@ Kopplungsbeschr
 Korrodiertes
 KPEAVICHull
 KPEBDPEBDH
+KpKDcKcL6kocu
 Kugelverbindung
 Kundendienst.
 Kundensupport.
@@ -19849,7 +19860,6 @@ LevelOfDetail
 LevelOfDetailSetting
 LevelQuality
 LfA9r0uEfA9r
-LGcv4Mw4Ls1UOWCqEhKwiOgr
 LhF`F`F`F`F`
 Liberation
 LibjingleSession
@@ -20391,12 +20401,14 @@ LOOKUP_meth_new
 LOOKUP_new
 LookupDtlsTransportByMid
 LookVector
+LoomTrackerStatus
 LossBasedControl
 LossBasedStableRate
 LossPercent
 LostConnection
 LostReliableConnection
 LostUniverse
+LoU7SMi1BtfxdrsCdBbRfRBCEDs9CdNqOB0hJM6q2Mjtt3yM
 LOW_PRIORITY
 LowerAngle
 LowerBound
@@ -20416,7 +20428,6 @@ LRakRecvToAppPop
 LSCReplacer
 LSCReplacerLog
 LSCReplacerReportPercentage
-LsDxET1t4H1zsOh48olhhtK
 Lslashsmall
 LSPAutocompleteMenu
 LSPFileSyncService
@@ -20652,6 +20663,7 @@ LuobuStudioWebViewTracingHundredthsPercent
 LuobuWhitelisted
 LuobuWhitelistedAllow
 LuobuWhitelistedField
+LviMGGnHskklthG
 LvNZJjLvNZJjLvNZJjLvNZJ
 LvNZJjLvNZJjLvNZJjLvNZJ4H
 LVvuOx39]O
@@ -21532,7 +21544,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA0tZHiwJZyeNWiMK472y5BNPYIqJDwAjhSs7GuFbMzL
+MIICCgKCAgEAt6cliIZpcpbO0AZYTrZgxtZbIKjoGn2q3fnF
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21926,7 +21938,6 @@ MQModelIndex
 MQStandardItem
 MQTableWidgetItem
 MQTreeWidgetItem
-MR2eawHHDz4lpMCAwEAAQ
 MrdInCachePendingList
 MRSMessageSize
 MRSTopicNameLength
@@ -21934,7 +21945,6 @@ MRULocalFileStore
 MRULocalFileStoreBase
 MRURobloxApiGameStore
 MRURobloxApiGameStoreBase
-MRZK9TRBCiZYBuhejHsDGLGVlIBu
 MSACM32.dll
 MsecBetweenTextureMemoryUsageArrayRefresh
 MSecsSinceEpoch
@@ -22780,6 +22790,7 @@ OccupancyDebugFS
 Occurances
 Ocircumflex
 Ocircumflexsmall
+OCpfWFK5VtHseYcemSuGsLtEVVUUAjX39qeGBz3zm5vGLXrTh
 OCSP_basic_add1_status
 OCSP_basic_sign
 OCSP_basic_sign_ctx
@@ -25961,7 +25972,6 @@ Psychadelic
 Psychedelic
 PtdL9w`t^L9whtXH
 PTransportChannel
-PtV5PJQwsEbLFZBrlvmpe3sj1vFqupnSNOjPQgE
 Pu7fA9r`u0fA9rpu
 Pubblicato
 Pubblicazione
@@ -26039,7 +26049,6 @@ PVInstance
 PVK_header
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
-Pz9vOp976TwiVP8FRwDOfxT9Dj3c646B
 QAbstractAnimation
 QAbstractButton
 QAbstractItemDelegate
@@ -27336,6 +27345,7 @@ RecursivelyAcquired
 RecursivelyReleased
 RecursiveParser
 RecvFromLoop
+RecvFromLoopMemoryReleaseFix
 Redefinition
 Redimensiona
 Redimensionar
@@ -29078,7 +29088,6 @@ RVMEDIA_TYPE_UNKNOWN
 RVMEDIA_TYPE_VIDEO
 RvMp4Format
 RvScaleFixResize2
-RvtH4GZ1FSjtfbol0ww0I9e1YBzPpeBC4n0c1Ma4yovDBc6SDS0isGgVMrx
 RvWebmFormat
 RxIgnoredBytes
 RxIgnoredPackets
@@ -30510,7 +30519,6 @@ SetWindowPos
 SetWindowsHookExA
 SetWindowsHookExW
 SetWindowTextW
-SfHaAWtlpdfWZSYTt8P44eMQkDPvePdZn9vlVkCIDIpeUg2yUz1Q27qmn2I
 Sfoglia...
 ShaderLoad
 ShaderLoad_TotalTime
@@ -31725,6 +31733,7 @@ StopRoundingGlyphRect
 StopRtcEventLog
 StopSaveOnInvokeMethod
 StopScriptProfiling
+StopSendingLightingTechnologyToGA
 StopSortingOnTopOfBlurQueue
 StopSpecialCasing3DScreenGuis
 StopSupportingUnsupportedVariants
@@ -36286,6 +36295,7 @@ StudioSessionLengthSummary
 StudioSessionRemoved
 StudioSessionStarted
 StudioSessionUpdated
+StudioSetGlobalDragDistance
 StudioSettings
 StudioShowAnnouncementWidget
 StudioShowExternalLoginTimeout
@@ -36687,6 +36697,7 @@ TabBarTabShape
 TabCloseButton
 TabCloseRequested
 TabDoubleClicked
+TabDragTolerance
 TabElementId
 TabEqualsFourSpaces
 Table.json
@@ -36954,6 +36965,7 @@ Teleporting
 TeleportInitFailed
 TeleportInitFailedEvent
 TeleportInitFailedInternal
+TeleportInitFailedStudio
 TeleportInProgress
 TeleportInvocation
 TeleportInvocationEventIngest
@@ -37953,6 +37965,7 @@ ToolboxAssetConfigDisabledAudioSharingLearnMoreLink
 ToolboxAssetConfigEnabledAudioSharingLearnMoreLink
 ToolboxAssetConfigurationMinPriceFloor2
 ToolboxAssetPreviewProtectAgainstNilAssetData
+ToolboxAudioSearchOptions
 ToolboxAutocompleteDropdownSize
 ToolboxEnableAnnouncementsDialog
 ToolboxEnableAudioGrantDialog
@@ -38177,6 +38190,7 @@ ToVersionNum
 ToVideoStream
 TownAndCity
 ToWorldSpace
+TpAnTLZrz5cpKyGQOa4VRScCJnRzcW
 TPoseAdjusterDefaultVersion
 Tracciamento
 TraceMessage
@@ -39381,14 +39395,12 @@ UScriptVmState
 Use2022Materials
 Use2022MaterialsXml
 UseActualSizeToCalculateListMinSize2
-UseAESEncryption
 UseAppBridgeAfterFlagInit
 UseAutogeneratedDiscoveryResponseModel
 UseBaseHeavyVP8TL3RateAllocation
 UseBottomBar
 UseCandidate
 UseCandidatesInSessionDescription
-UseChaCha20Encryption
 UseClientSessionTrackingAPI
 UseConstantBufferViews
 UseConstantBufferViewsVulkan
@@ -40864,7 +40876,6 @@ VirtualCursorOptInOutActive
 VirtualCursorPlatform_
 VirtualCursorReportEnabledFromAPI2
 VirtualCursorReportManuallyEnabled2
-VirtualCursorReportMode
 VirtualCursorReportModeCounter
 VirtualCursorReportPlatform
 VirtualCursorReportUserCount2
@@ -40904,7 +40915,6 @@ Visualisierung
 Visualizaci
 Visualizar
 Visualization
-VisualizeAllPropertyChanges
 VisualizePhysicsRelatedPropertyChanges
 Visualizza
 Visualizzazione
@@ -41122,7 +41132,7 @@ VNumberRange
 VNumberSequence
 VNumberSequenceKeypoint
 VNumHandler
-Vo4uNCDP3KPfREdpZyfLhy6WQKaw
+Vo1Mh2PPw5xMMfd75eWWOU
 VObjectValue
 VOcclusionHandler
 VogpHgQ70F57MdFiBApyJwNSBk
@@ -41242,6 +41252,7 @@ VoiceChatSessionSubFailedTooManyRetries
 VoiceChatSessionSubFailure
 VoiceChatSessionTokenRequestFailure
 VoiceChatSignalRNotConnected
+VoiceChatSignalRThreadSafety
 VoiceChatStartTimer2PostJoinMs
 VoiceChatStartTimer2RcvdSignalRPublishingCompletedMs
 VoiceChatState
@@ -41944,6 +41955,7 @@ VWrapLayeredDeformerImpl
 VWrapTarget
 VWSUATAUAVAW
 VWXYZ[\]^_`a
+VxcYXqBxgYFCuqSW
 VXmlElement
 VYieldFunctions
 VYieldFunctionState
@@ -42042,7 +42054,9 @@ WaypointIdx
 WaypointSpacing
 WCharArray
 Wcircumflex
+WcKxrUUsOC76oTJctE
 WDU_Mbstatet
+We4iJ820gcTnOOZT4UsJ5iPBRLz07q2qIcD
 WeakFunctionRef
 WeakObjectRef
 WeakReference
@@ -42858,7 +42872,6 @@ XW4WebSocketEventType
 XwhvcEikuIaqb7nHhEJ
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
 XXXXXXXXXXXXXXXXXXXXXXXXX
-XzoCj6J0cHCtxiN1lxeLIRlvprlcGFul9OUatS27gdtobNkwWf3NyVW0o
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
 XZP8GuiObject
@@ -42902,6 +42915,7 @@ YAXVexception_ptr
 YAXW4error_type
 YAXW4RegistrationType
 Ycircumflex
+YdfEHQWJedLYbop3g
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
@@ -42909,11 +42923,12 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YloQGjGODrcy7ufHL
 YResolution
+YVpOAjf9uhsNogYt0Dmz
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
+YZLAFuOgtBxZHsyHECAwEAAQ
 Z_KPEBDPEBDH
 ZAEAPEAV34
 ZAEAPEBV34
