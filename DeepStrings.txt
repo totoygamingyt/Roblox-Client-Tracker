@@ -6896,7 +6896,6 @@ AXW4UserCFrame
 AXW4UserInputType
 AXW4VoiceChatState
 AXW4VRTouchpad
-AYyDGQ4qOF4bDXKklBv6hmgHVDPgNq8h3s2Gd9Xd
 B^F.HR4nL.4U
 BA447F42A91111E2B410EF351327957B
 BA886F11E18561866242201959
@@ -7174,6 +7173,7 @@ BgUpdateRedirectsRejectInfluxHundredthsPercentage
 BHBpBJXcdFg
 BHHHHHHHHHHHHHHHHHHHHHHHHHH
 BhHlLjJTiIfdnczsxX
+BHTYUvIiWnk
 Bibliotheksausweises
 Bidirectional
 BIIIIIIIIIIIIIIIIIIIIIIIIII
@@ -8435,6 +8435,7 @@ ChillStream
 ChinaJointVenture
 ChinRaiser
 ChinRaiserUpperLip
+Chld9c8imKWZSHgmIUnkbLg65rkPlVTF
 Choisissez
 ChooseModelThenImportCB
 ChoosePixelFormat
@@ -8458,7 +8459,7 @@ CircleCutoutLargeNoBorder.png
 CircularList
 Circumflexsmall
 CityBackground.png
-Cjfqj0CQRkTXsCs8CcaUwRkS0EV07wS0uuTV39
+CKStudio.App.Tooltip.Variadic
 ClampColor
 ClampTargetIndentLevel
 ClassCategory
@@ -11125,7 +11126,6 @@ Cylindrical
 CylindricalConstraint
 CylindricalConstraintAction
 Cylindrique
-CYvCfQhvPin
 D_Key_dn.png
 D`v\F^r\D`
 DA88D6583A11E29A3DBD856014A660
@@ -14513,6 +14513,7 @@ ExtraSelections
 ExtraSelectionStore
 ExtrudedPartInstance
 EXtSoftware
+EyCGZdMaQtQQSl1Z0G7
 EyeAccessory
 EyebrowAccessory
 EyebrowqvirtualMouthEdges
@@ -15709,7 +15710,6 @@ FrustumOrdered
 FrustumQuery
 FrustumRenderQueue
 FtHpJpLpNpPbR
-FtleE4uN1OUjRZZX
 Fulfillment
 Fulfillments
 FullABTracker
@@ -16942,6 +16942,7 @@ GImageTGARemoveTagCheck
 GImpactCollisionAlgorithm
 GImpactCompound
 GImpactCompoundShape
+Gin9w9ISYZAHYQ5W5X
 Giocabilit
 GivenByTargetSpeedKBps
 GizmoRaycast
@@ -17503,6 +17504,7 @@ Herramientas
 Herunterfahren
 HeuristicMask
 Hexadecimal
+HGElDZLTImvvef1bJBGB99SkY0D4eBmbAXHtDy1fPcT7exsYK4KJH9NMjwO80C
 HHAEBVQModelIndex
 HHHHHAEBVQString
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
@@ -19329,7 +19331,6 @@ JasmineUPC
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
-JCd5zlQmCSGsldZa6u
 Jcircumflex
 JdiDeserializerConfigPerDC
 JdiDeserializerConfigUserIdPer100
@@ -19575,9 +19576,11 @@ Kopplungsbeschr
 Korrodiertes
 KPEAVICHull
 KPEBDPEBDH
+KPFiB8RbkGpIunwNK4viCy
 Kugelverbindung
 Kundendienst.
 Kundensupport.
+KUxUyFn76flj
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 L^N6LfN6LlN6LdN6Ly
 LA_SHAPE_MAX
@@ -19591,7 +19594,6 @@ LabelLayout
 LabelledData
 LadderRaycast
 Ladereihenfolge
-LALqG9W3MHdCnzxDYFfDnKUHZQJlOPoH5ottxIEW
 LandedBalanceD
 LandedBalanceP
 LandscapeLeft
@@ -19818,7 +19820,6 @@ LegColorId
 Leistungsdiagnose
 LengthToWrite
 LengthWhenFlushed
-LEqleaU21T2MLIdq5PLYAwldKo2ainh
 LessThan10
 LetterOrNumber
 LevelChanged
@@ -19964,6 +19965,7 @@ ListWidgetScrollingPastBottom
 LiveCoding
 Livellamento
 LivingRoom
+LkckP2JX07FId5
 LLEo6Soxvx2
 LLLLLLLLLLLL
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
@@ -20636,6 +20638,7 @@ LuobuStudioWebViewTracingHundredthsPercent
 LuobuWhitelisted
 LuobuWhitelistedAllow
 LuobuWhitelistedField
+LVjKBlMlxmAbBRjJTGW8ZMwXqE1OND0cZw4uebjSFz22PLRBLO
 LvNZJjLvNZJjLvNZJjLvNZJ
 LvNZJjLvNZJjLvNZJjLvNZJ4H
 LVvuOx39]O
@@ -21318,7 +21321,6 @@ MenuSelectedText
 MenuTitleChanged
 MenuToMenuInternal
 MenuTrigger
-MER573mZZMeWPhtGfwsCAwEAAQ
 MERCHANTABILITY
 MergeDisable
 MergeLineNumberTextEdit
@@ -21519,7 +21521,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA3Qp6W3xPDxZ45hnO1WD6CgewyEiSYYWta1PJg47XUiWyTbhMkba3
+MIICCgKCAgEA13JH4iBVTDvat9B609S9iwPqe6RPrftinH5eNkpJQcKvFvb13RLQ
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21588,6 +21590,7 @@ Mitwirkender
 MixLevelsOutput
 MkvStreamWriter
 MLineIndex
+MlWiIyaafd5iM
 MMDeviceEnumerator
 MMMMMMMMMMMMMMMM^^^^^^^^^^^^^^^^^^^^
 MMW4IkDragCollisionsMode
@@ -22873,6 +22876,7 @@ OleInitialize
 OleLockRunning
 OleUninitialize
 OMeshContentProviderForceCacheSize
+OMGF0aMinpcdbSBWzu2I89MdJz69JAyKzYwhaIBtlG5iq50QF34R5UR3d9d
 OnAddTrack
 OnAllocateError
 OnAllScriptErrorsAction
@@ -23145,7 +23149,6 @@ OPUS_BANDWIDTH_WIDEBAND
 OpusCustomMode
 OpusPlcUsePrevDecodedSamples
 OpusSoftwareCodec
-Or4i7hBb0sH6JgpYH6RByBBndki
 OrCharacter
 Ordenamento
 OrderArray
@@ -24702,6 +24705,7 @@ Personnaliser...
 PerThreadTimer
 PerThreadTimerTotal
 Pesquisar...
+PGDzyrAAm1e6YLtJ
 PGSAlign2AxesCorrectionDamping
 PGSAlign2AxesPStageFrictionConstant
 PGSAlign2AxesVStageFrictionConstant
@@ -26025,7 +26029,6 @@ PushResampler
 PVAdornment
 PVInstance
 PVK_header
-PWcy8iNVuw61A8bLwPDUn3tlDqWn8vuulC2aSWk5kLSA1VGHk
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
@@ -29079,6 +29082,8 @@ RxIgnoredBytes
 RxIgnoredPackets
 RxQueueSize
 RxRlReport
+RYmyOFSPRbOUX9pnizvEQW8iuFIM
+RyNLcY3c45H0MU0ClEttFLWcoXj4art91sTt0TTDlqonkFtWnJVYCD8CAwEAAQ
 S_Key_dn.png
 SA_KPEAPEBVfacet
 SA_NAEBVConnection
@@ -30505,6 +30510,7 @@ SetWindowPos
 SetWindowsHookExA
 SetWindowsHookExW
 SetWindowTextW
+SfikW3GOfEaU35ysc4jnby7mk
 Sfoglia...
 ShaderLoad
 ShaderLoad_TotalTime
@@ -35439,7 +35445,6 @@ Studio.App.TemplatesPage.AllTemplates
 Studio.App.Theme.InvalidGetThemeApi
 Studio.App.ToastNotificationService.NotAvailable
 Studio.App.Tooltip.GoToSource
-Studio.App.Tooltip.Variadic
 Studio.App.TwoStepVerificationPage.Enter6DigitCode
 Studio.App.TwoStepVerificationPage.NeedHelpContact
 Studio.App.TwoStepVerificationPage.RobloxSupport
@@ -37465,7 +37470,6 @@ ThumbnaiRenderImportantPerformUpdatesOnly
 Thumbstick
 Thumbstick1
 Thumbstick2
-THZLUq5xMx8fjCVODU1aotp8oLa0mjBuAFyj
 TI.pid.toString
 TI.tid.toString
 TickCountPreciseOverride
@@ -38520,7 +38524,6 @@ UBreakpointData
 UBulkAudioLoader
 UBulkImporterJob
 Ubuntu.json
-Uc0jHUFeUFIbZ04SoGA0B4bGfr3Jw
 UCachedBitstream
 UCachedLuaWebServiceInfo
 UCachedRawLuaWebServiceInfo
@@ -38660,6 +38663,7 @@ UEngineFamilyInfo
 UEngineFont
 UEphemeralCounter
 UErrorResult
+UetGbKwsB5JrVNOgXVHHfuSOs7YOXeNKuWllnVHmgS1Fb6TF
 UEvaluateResponseBody
 UEventInstance
 UEventSlot
@@ -42695,6 +42699,7 @@ XboxSaleAvatarPackageIds
 XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
+XGv8lAya9t
 XHW4Status_e
 XInputGetBatteryInformation
 XInputGetCapabilities
@@ -42808,7 +42813,6 @@ XPEBDPEBDV
 XPEBVGImage
 XPEBVInstance
 XPEBVIStatus
-XpElrUHNMT192ImdCOkA8wqEA3brPnwzREe6MVqxkR1KZgH1pXSSFz04vIsm
 XQColorDialog
 Xregex_error
 XResolution
@@ -42930,8 +42934,7 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YL5XnJO9AcyK0BKzjDcuisdG0G8WdJkU7nZ148Tjq462s08s2
-YOVpYdBYTKod8Y6XjpxaoULcv4FtcMaIsAPMjQupRtaeJPxFWuvhA0K2pn
+YQEZdigiRE8omuB
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
