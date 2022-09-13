@@ -65,7 +65,7 @@ dependencies = [
     "TagUtils TagUtils 0.1.0 url+https://github.com/roblox/luau-tag-utils",
     "Thumbnailing Thumbnailing 2b3e64e5 git+https://github.com/roblox/thumbnailing#main",
     "UIBlox UIBlox e214055f git+https://github.com/roblox/uiblox#master",
-    "UrlBuilder roblox/url-builder 2190b3e5 git+https://github.com/roblox/url-builder#master",
+    "UrlBuilder roblox/url-builder bc1f8629 git+https://github.com/roblox/url-builder#master",
     "VerifiedBadges VerifiedBadges 0.7.7 url+https://github.com/roblox/lua-verified-badges",
     "VirtualizedList VirtualizedListProxy 915d43f2 git+https://github.com/roblox/virtualized-list-upgrade#0.4.0",
     "VirtualizedListUpgradeFlag VirtualizedListUpgradeFlag 915d43f2 git+https://github.com/roblox/virtualized-list-upgrade#0.4.0",
@@ -785,7 +785,7 @@ dependencies = [
     "RoactRodux <patched> RoactRodux 0.5.1 url+https://github.com/roblox/roact-rodux",
     "Rodux <patched> roblox/rodux 2ea111e5 git+https://github.com/roblox/rodux#v3.0.0",
     "UIBlox UIBlox e214055f git+https://github.com/roblox/uiblox#master",
-    "UrlBuilder roblox/url-builder 2190b3e5 git+https://github.com/roblox/url-builder#master",
+    "UrlBuilder roblox/url-builder bc1f8629 git+https://github.com/roblox/url-builder#master",
     "enumerate enumerate 1.1.0 url+https://github.com/roblox/enumerate",
     "t roblox/t 1.2.5 url+https://github.com/roblox/t",
 ]
@@ -1694,7 +1694,7 @@ source = "url+https://github.com/roblox/t"
 [[package]]
 name = "roblox/url-builder"
 version = "1.0.10"
-commit = "2190b3e5e95dbc556d5be69a79b0b8be4317799e"
+commit = "bc1f86293d2894efb0eab1b26cc53fcc897f064d"
 source = "git+https://github.com/roblox/url-builder#master"
 dependencies = [
     "Cryo Cryo 1.0.1 url+https://github.com/roblox/cryo",

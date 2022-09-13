@@ -112,7 +112,6 @@ Abgebrochen
 Abgemeldet
 Abgeschlossen
 ABGRToI420
-ABhUKAtliwWYOJQ
 ABNewStudioUsers
 ABNewUsers
 AbnormalTerminate
@@ -1617,7 +1616,6 @@ AstExprVarargs
 AstStatFor
 AstStatFunction
 AstTypePack
-AStudio.App.RBXMainWindow.InsertObjectsWidgetMenu
 AsusROG71OSD.dll
 AsusStrixOSD.dll
 AsusU7MKIIOSD.dll
@@ -7087,7 +7085,6 @@ BC3A91111E2B410EF351327957B
 BC4A91111E2B410EF351327957B
 BC753F42475
 BCBSBUB[BaBsB
-BCEchJPZn8Is9V0XGMYPXwEeiu7EHO5fv
 BCFB47F7B1F11E4A86BBBBE005A3BAD
 BCFB4807B1F11E4A86BBBBE005A3BAD
 BCFB4817B1F11E4A86BBBBE005A3BAD
@@ -7287,7 +7284,6 @@ BlendEquationSeparatei
 BlendFunci
 BlendFuncSeparate
 BlendFuncSeparatei
-BLiCcjqimc
 BlitContextFramebufferAMD
 BlitFramebuffer
 BlobBreakdownTruncated
@@ -7400,7 +7396,6 @@ BootcampCLI58696
 Bootstrapper
 BootstrapperLauncher
 BootstrapperUpdate
-BoptionalMessage
 BorderColor
 BorderColor3
 BorderMode
@@ -7566,6 +7561,7 @@ BrushOrigin
 BrushStyle
 BrutalLegendTest
 BruteForceAllSlow
+BsaveSuccessful
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -7702,7 +7698,6 @@ BVD`F`H6Jm
 BvhParallelMidPhase
 BVQItemSelection
 BVQJsonValue
-BVqreoI1YV
 BVRegion3int16
 BVSystemAddress
 BVTextureId
@@ -8207,7 +8202,6 @@ CFF056DD11E2898E9FB8E4A9E79B
 CFF156DD11E2898E9FB8E4A9E79B
 CFF456DD11E2898E9FB8E4A9E79B
 CFF556DD11E2898E9FB8E4A9E79B
-CffLGd26sNK
 CFrame.new
 CFrameOnly
 CFramePose
@@ -11098,6 +11092,7 @@ CustomSoundEffect
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolTip
+CveeTkoaonR6gAT7Vv3AdzEmsqcWwx9uZ
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
@@ -12104,6 +12099,7 @@ DefWindowProcW
 DegradedCall
 DegradedSendQueue
 Deklaration
+DEKpQ7XEfXs9cEhzrOC6ne7tLrgdp6s05s4emBc43He8L06L7d59SNYSY607
 DelayBasedBwe
 DelayBeforeFirstPostStatsSeconds
 DelayBeforeSwapNV
@@ -12575,7 +12571,6 @@ DevTouchCameraMove
 DevTouchCameraMovementMode
 DevTouchMovement
 DevTouchMovementMode
-DeZt7x9b2z6RJeimIT9lt1VvoybZEhrGfz0wIROKGcdLeLivEUyI0QkCAwEAAQ
 DF1C9888D11E18561866242201959
 DF1CA888D11E18561866242201959
 DF3E709311E28987EB530EBA4742
@@ -12898,6 +12893,7 @@ DkrigidSubset
 DlcVersion
 DListenerAttributes
 DMConnection
+DMConvertToCEvent
 DMinMaxDistance
 DmJobTotal
 DnsResolve
@@ -13451,7 +13447,6 @@ EBAPEAVTrackerStreamAnimation
 EBAPEAVWorkspace
 EbDgxvvfGb
 EBELEVE`EjEtE
-EBk3FOK8VlrdIoNfMtWl38oAm6lNBlaxYvks7nezoFoDM8PnP
 EC_GROUP_check
 EC_GROUP_check_discriminant
 EC_GROUP_copy
@@ -13649,6 +13644,7 @@ EffectiveRetryCount
 EffectorRotationConstraint
 EffectorTranslationConstraint
 Effettuare
+EFixLayeredCLothingExporter
 EFrontVector
 Egravesmall
 EHERE\EfEpEzE
@@ -14876,6 +14872,7 @@ FFFFFFFFFFFFFFFFFFFFFFFF
 FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 FFFIIIIIIIIIIIIIIII
 FFFPFZFdFnFxF
+FFhZc837i4FTx81iTSW8wNWyk6FzVbC
 FFlagAddNewlineAboveOrBelow
 FFlagAutocompleteAPI
 FFlagDebugLanguageServiceRcConfigLookupForceEnable
@@ -15216,7 +15213,6 @@ FixInterpolationMovementCallbacks
 FixJapaneseLineBreak
 FixJointHierarchyCrash
 FixLadderSearchDepth
-FixLayeredCLothingExporter
 FixLCCompressOnDifferentClothesOrder2
 FixLCRagdoll
 FixLoadTimeReporting
@@ -17630,7 +17626,6 @@ HlsAdaptionLogic
 HlsFixSlowNetworkCrash
 HlsIgnoreDeprecatedRbxTags
 HMACGostR3411
-HMh3f1MTkhsQu
 HoldDuration
 Holzbretter
 HomeDataModel
@@ -18095,13 +18090,13 @@ HW4TransformationMode
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
-HxurtdCEzCN4iACk
 HybridEvent
 HyIyPyVy]y^yey
 HzJTLTNTPTRTTTVXX2\
 HZNVNRNNTJPF9
 Iacutesmall
 IAMCameraControl
+IaqPwlZp2QZKiMQGdwcdftdUQG9IxNewpg6
 IAudioCaptureClient
 IAudioClient
 IAudioClock
@@ -18208,6 +18203,7 @@ IfLastDocInLastAppInstance
 IfLineOfSightClear
 IfPurchased
 IGameIconsStore
+IgcVTvXUyRZXqX
 IGeneralProcessor
 IgnoreCustomEventReceiverSource
 IgnoreCustomEventReceiverSourceReportPermyriad
@@ -18583,6 +18579,7 @@ InGameChat
 InGameChatHandler.ashx
 InGameGlobalGuiInset
 InGameMenu
+InGameMenuState
 InGetDevCapsW
 InGetNumDevs
 Ingrandisce
@@ -18990,7 +18987,6 @@ InvalidAssetMap
 Invalidate
 InvalidateBufferData
 InvalidateBufferSubData
-InvalidateContactsOnGeometryChanged
 Invalidated
 InvalidatedClusters
 InvalidatedEvent
@@ -19374,6 +19370,7 @@ JKLMNOPQRSTU
 JMeshLODDetails
 JobTimerDuringInitialExperience
 Jogabilidade
+Joi5ITD71RrnP
 JoinAttemptId
 JoinBlobInvalidateCountThresholdPercent
 JoinBlobInvalidateThresholdPercent
@@ -19852,6 +19849,7 @@ LevelOfDetail
 LevelOfDetailSetting
 LevelQuality
 LfA9r0uEfA9r
+LGcv4Mw4Ls1UOWCqEhKwiOgr
 LhF`F`F`F`F`
 Liberation
 LibjingleSession
@@ -20418,6 +20416,7 @@ LRakRecvToAppPop
 LSCReplacer
 LSCReplacerLog
 LSCReplacerReportPercentage
+LsDxET1t4H1zsOh48olhhtK
 Lslashsmall
 LSPAutocompleteMenu
 LSPFileSyncService
@@ -21533,7 +21532,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEArFDex8I
+MIICCgKCAgEA0tZHiwJZyeNWiMK472y5BNPYIqJDwAjhSs7GuFbMzL
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21927,6 +21926,7 @@ MQModelIndex
 MQStandardItem
 MQTableWidgetItem
 MQTreeWidgetItem
+MR2eawHHDz4lpMCAwEAAQ
 MrdInCachePendingList
 MRSMessageSize
 MRSTopicNameLength
@@ -21934,6 +21934,7 @@ MRULocalFileStore
 MRULocalFileStoreBase
 MRURobloxApiGameStore
 MRURobloxApiGameStoreBase
+MRZK9TRBCiZYBuhejHsDGLGVlIBu
 MSACM32.dll
 MsecBetweenTextureMemoryUsageArrayRefresh
 MSecsSinceEpoch
@@ -23220,7 +23221,6 @@ OSSL_STORE_SEARCH_by_issuer_serial
 OSSL_STORE_SEARCH_by_key_fingerprint
 OSSL_STORE_SEARCH_by_name
 Oswald.json
-OtFGfnEWTTynUJOV
 OtherBlues
 OtherDisconnect
 OtherError
@@ -23503,7 +23503,6 @@ PageModelChanged
 PageModelsInitialized
 PageRecentFile
 PageTabController
-PAHK7wfIDmKeBEm6F6NWA
 PaintballGunTex128.png
 PaintballIcon.png
 PaintButton.png
@@ -25455,7 +25454,6 @@ PopupResizeGripper
 PopupSystemButton
 PopupWidget
 POPWitness
-PoqAonZezYR2HB
 PORT_CANNOT_BE_ZERO
 PortalInvalidReason
 PortAllocator
@@ -25963,6 +25961,7 @@ Psychadelic
 Psychedelic
 PtdL9w`t^L9whtXH
 PTransportChannel
+PtV5PJQwsEbLFZBrlvmpe3sj1vFqupnSNOjPQgE
 Pu7fA9r`u0fA9rpu
 Pubblicato
 Pubblicazione
@@ -26040,6 +26039,7 @@ PVInstance
 PVK_header
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
+Pz9vOp976TwiVP8FRwDOfxT9Dj3c646B
 QAbstractAnimation
 QAbstractButton
 QAbstractItemDelegate
@@ -28922,7 +28922,6 @@ RSA_verify_ASN1_OCTET_STRING
 RSA_verify_PKCS1_PSS_mgf1
 RSAPrivateKey
 RSAPublicKey
-RsXenpDkhtiFjvrqF
 RTCCertificate_
 RTCCertificateGenerationTask
 RTCCertificateGenerator
@@ -29079,6 +29078,7 @@ RVMEDIA_TYPE_UNKNOWN
 RVMEDIA_TYPE_VIDEO
 RvMp4Format
 RvScaleFixResize2
+RvtH4GZ1FSjtfbol0ww0I9e1YBzPpeBC4n0c1Ma4yovDBc6SDS0isGgVMrx
 RvWebmFormat
 RxIgnoredBytes
 RxIgnoredPackets
@@ -29673,7 +29673,6 @@ SDL_WINDOWS_FORCE_MUTEX_CRITICAL_SECTIONS
 SDL_WINDOWS_FORCE_SEMAPHORE_KERNEL
 SDL_XINPUT_ENABLED
 SDL_XINPUT_USE_OLD_JOYSTICK_MAPPING
-SDlAch1E2LhrC9wx8LzpfgRFYq1m9aMFM6HX
 SDLXInputDev
 SDP_SYNTAX_ERROR
 SdpParseError
@@ -30511,6 +30510,7 @@ SetWindowPos
 SetWindowsHookExA
 SetWindowsHookExW
 SetWindowTextW
+SfHaAWtlpdfWZSYTt8P44eMQkDPvePdZn9vlVkCIDIpeUg2yUz1Q27qmn2I
 Sfoglia...
 ShaderLoad
 ShaderLoad_TotalTime
@@ -35921,8 +35921,7 @@ StudioDebugLog
 StudioDebugLog]
 StudioDefaultNewTemplatePlaceId
 StudioDefaultStreamingTemplatePlaceId
-StudioDeprecateTicketFromWebLaunch
-StudioDeprecateTicketInAuthConfig
+StudioDeprecateTicketFromWebLaunch2
 StudioDevforumUrl
 StudioDevFrameworkPackage
 StudioDeviceEmulator
@@ -36621,7 +36620,6 @@ SwitchToThread
 SwitchWindow
 Sword128.png
 SwordTexture.png
-Sx405GJus0B9ZqdAr80E4tdS
 SXNET_add_id_asc
 SXNET_add_id_INTEGER
 SXNET_add_id_ulong
@@ -39734,7 +39732,6 @@ UVATAUAVAWH
 UVersionHistoryItem
 UVideoCodec
 UViewportUpdateNotification
-UVQCTt2nGBfIzF
 UVWATAUAVAW
 UVWATAUAVAWE
 UVWATAUAVAWH
@@ -40907,6 +40904,7 @@ Visualisierung
 Visualizaci
 Visualizar
 Visualization
+VisualizeAllPropertyChanges
 VisualizePhysicsRelatedPropertyChanges
 Visualizza
 Visualizzazione
@@ -40969,7 +40967,6 @@ VK_NULL_HANDLE
 VK_SUBOPTIMAL_KHR
 VK_SUCCESS
 VK_TIMEOUT
-VkBCi5EXGJmqfiLiblEtKOvP2xAICYMNzAhIr9yAuLcV8E6vo7vTs
 VKeyboardService
 VKeyframeMarker
 VKeyframeSequence
@@ -41125,6 +41122,7 @@ VNumberRange
 VNumberSequence
 VNumberSequenceKeypoint
 VNumHandler
+Vo4uNCDP3KPfREdpZyfLhy6WQKaw
 VObjectValue
 VOcclusionHandler
 VogpHgQ70F57MdFiBApyJwNSBk
@@ -42251,7 +42249,6 @@ WeldConstraintTool
 WeldCursor
 WeldsAction
 Weltkoordinaten
-WfVTO4zYz5q7uqiBa
 WGL_3DFX_multisample
 WGL_3DL_stereo_control
 WGL_AMD_gpu_association
@@ -42475,7 +42472,6 @@ WmfAudioEncoder
 WmfVideoDecoder
 WmfVideoEncoder
 Wmvcore.dll
-WNEhM5zPHq
 WoodPlanks
 WoodPlanksName
 WoodPlanM9
@@ -42666,7 +42662,6 @@ XAEBVTurnAuthInfo
 XAEBVValue
 XAEBVVariant
 XAlignment
-XaNfFZYeyQMdf
 Xbad_alloc
 Xbad_function_call
 XbbXXbbXGSSGGSS
@@ -42795,7 +42790,6 @@ XPEBVIStatus
 XQColorDialog
 Xregex_error
 XResolution
-XSvn9a7KRfrKJqAO9yD7Z5oqrxc7dsahIqv6xU
 Xtime_get_ticks
 XUPlaySoloConfiguration
 XUPublishDiagnosticsNotification
@@ -42862,9 +42856,9 @@ XW4Status_e
 XW4TweenStatus
 XW4WebSocketEventType
 XwhvcEikuIaqb7nHhEJ
-XxNWfX9WdFrhxyIRiB
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
 XXXXXXXXXXXXXXXXXXXXXXXXX
+XzoCj6J0cHCtxiN1lxeLIRlvprlcGFul9OUatS27gdtobNkwWf3NyVW0o
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
 XZP8GuiObject
@@ -42907,7 +42901,6 @@ YAXPEBVQObject
 YAXVexception_ptr
 YAXW4error_type
 YAXW4RegistrationType
-YB77FRDA47ewT9qxcZj9vdXxDPB6yyFWpGTl7yL54qY738StA8
 Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
@@ -42916,6 +42909,7 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
+YloQGjGODrcy7ufHL
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
