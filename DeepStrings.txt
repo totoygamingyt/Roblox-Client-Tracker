@@ -752,6 +752,7 @@ Agreements
 Aguardando
 Aguarde...
 AHHVWeakObjectRef
+AhtwBoEAiUll9
 AHVWeakObjectRef
 AHW4DataStoreRequestType
 AHW4DebuggerExceptionBreakMode
@@ -1362,6 +1363,7 @@ AQ_MODE_COUNT
 AQJsonArray
 AQJsonDocument
 AQJsonObject
+AQYVV0iT7K
 Arbeitsbereich
 Arbeitszyklusplaner
 ArcadeStick
@@ -1554,7 +1556,7 @@ AssetImportReportSimplification
 AssetImportService
 AssetImportSession
 AssetImportSessionCleanup
-AssetImportUnsupportedPreviewWarning
+AssetImportUnsupportedPreviewWarning2
 AssetImportUseRateLimiter
 AssetInfoRequestStepSize
 AssetLatestSavedVersion
@@ -8986,7 +8988,6 @@ ClientJoinFail
 ClientJoinProcessPositiveSamplesThousandths
 ClientJoinProfiler
 ClientJoinProfilerSubmetrics
-ClientJoinReportGroupControl
 ClientJoinRxConfigPerDC
 ClientJoinRxConfigUserIdPer100
 ClientJoinRxStats
@@ -10678,7 +10679,6 @@ CredWriteW
 Creepster.json
 CRenderSettings
 CRenderSettingsItem
-CRHrSTrkMKqwmo
 CRL_add0_revoked
 CRL_DIST_POINTS
 CRL_METHOD_new
@@ -11099,7 +11099,6 @@ CustomSoundEffect
 CustomStatusAdded
 CustomStatusRemoved
 CustomToolTip
-CVtJSKC8hgdy4C398aGvcsFbqiVZWDYoH2q2tJWLq6
 CWindowImpl
 CWindowImplBaseT
 CWindowImplRoot
@@ -12892,6 +12891,7 @@ DistributionPoint
 DistributionPoints
 DistributorType
 DistToShowBufferCountSqr
+Djk99yHi3V2vwMOZHkp6mlBXxudUn2pYQFeBrRPjjxfuyXKnKwx
 DJOTX\_cfiloruwz
 DkCageMeshDistanceSDCoeff
 DKECCAK1600_ASM
@@ -13842,7 +13842,6 @@ EnableGetProductInfoUpdatedReponseAnalyticsV2
 EnableGImageDetectsExif
 EnableGuiAccess
 EnableGuiDevEnv
-EnableGuiTextContentProperty
 EnableHardwareTelemetry
 EnableHttpRbxApiServiceWhiteListAccountInformation
 EnableHttpRbxApiServiceWhiteListAccountSettings
@@ -13871,7 +13870,6 @@ EnableModerationShutdown
 EnableMouseLockOption
 EnableNetworkAuditLogsForRakNet
 EnableNewAnimationRuntimeProperty
-EnableNewChatApi
 EnableOnTypeAutocomplete
 EnableParallelFrustumQueries2
 EnablePerfAudioCollection
@@ -14086,6 +14084,7 @@ EnviroSpeed
 EnvMapUpdate
 EnvTexture
 EnvTextureInProgress
+Eo8XOIO4Rnpj8UDvZPpB2w6H0
 EoOoZoaozo
 EphemeralCounter
 EphemeralCounterInfluxReportingEnabled
@@ -14156,6 +14155,7 @@ ErrOutOfRetries
 Erscheinungsbild
 Erstelldatum
 Erweiterte
+Esc4fFxNSHBRtR
 Escritorio
 ESDescriptor
 ESDHwith3DES
@@ -14904,6 +14904,7 @@ FFlagStudioQtSVGIcons
 FFlagStudioRemoveShareWithRobloxFriends
 FFlagStudioToastNotificationsInLua
 FFoRLVHHHHoTJVF
+FGoPVHFsfJASMglMk81hD1SEb
 FHFRF\FfFpFzF
 FieldChanged
 FieldMessageLabel
@@ -15180,7 +15181,6 @@ FixClientServerScreenOrientation2
 FixClimbUpMoveToFalseReached
 FixCountOfUnreadNotificationError
 FixCrashInFontUI
-FixCursorPositionWithinLastCluster
 FixCurveAnimationEmptyJointAsIdentity
 FixCurveCrash
 FixCutAndUndoAfterSavingCSGUnionToNewFile
@@ -15243,6 +15243,7 @@ FixReplicatedFirstMetrics
 FixReportingPathfindingCostsInUse
 FixRichTextFontNotUpdatingOnMadeVisible
 FixRichTextLinebreakIndentation2
+FixRigNotRebuilding
 FixScalingValueRename
 FixScreenGuiRenderIn3DClipping
 FixScreenScaleAlwaysBeingOne
@@ -15767,11 +15768,13 @@ FutureIsBrightPhase2GL3
 FutureIsBrightPhase2GLES3
 FutureIsBrightPhase3Vulkan
 FuzzyWeightModel
+FW6EF1CZBN1XV8RZ
 FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FXHcFLH9FX
+FxLF3hLojR8J
 GainControl
 GainController2
 GainMakeup
@@ -16948,7 +16951,6 @@ GfxClusters]
 GfxClustersFull
 GfxClustersFull]
 GfxPartInvalidationBudgetMs
-GFyr8PKCtxRjT9LZL1MQFuJs7k6JUCjNyMHsJZIuK3pxL3h
 GGGGGGGGGG
 GGGGGGGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGG
@@ -19365,7 +19367,6 @@ JdiV2Processed
 JdiV2ProcessedPerFrame
 Jdiv2RecvDuringJoin
 JDJNJXJbJlJvJ
-JGYMlfuOuCCDoo0RZR1rixgLOIo46SX
 JHJRJ\JfJpJxJ
 JHW4MembershipType
 JIIIIIIIKI
@@ -19375,7 +19376,6 @@ JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
 JMeshLODDetails
-JnOZvFV3eRXraLNmUGMl8QW1XVWsst5H
 JobTimerDuringInitialExperience
 Jogabilidade
 JoinAttemptId
@@ -19498,6 +19498,7 @@ Kalam.json
 Kameraempfindlichkeit
 Kamerageschwindigkeit
 Kamerazoom
+KBdOjfCpTC78
 KBytesPerSec
 KeepAliveTimeout
 KeepPositionOnInsert
@@ -19677,6 +19678,7 @@ LatestChannel
 LatestPlacePersistenceLocation
 LatestVersion
 LatestVersionNumber
+LATitvlbfTD4AkCAwEAAQ
 Latticello
 LAUNCH_CONVERSATION
 LAUNCH_GAME
@@ -21538,7 +21540,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAuQ6S4ZDwOqyQh33nI7Ul4NwnnTiAmmxnmcBOZlRNxgxraHMK40vy
+MIICCgKCAgEA6iT26GNa
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21605,6 +21607,7 @@ Mitglieder
 Mitteilungen
 Mitwirkender
 MixLevelsOutput
+Miypg31glMiEik9
 MkvStreamWriter
 MLineIndex
 MMDeviceEnumerator
@@ -21946,6 +21949,7 @@ MsgWaitForMultipleObjectsEx
 MSTerrainDetailsDeterminism
 MsToScreen
 MSVCP140.dll
+MTIxOA4IWHUSVeYwHCN6wqU
 MTU_Country_
 MTU_Platform_
 Mtx_current_owns
@@ -22605,7 +22609,7 @@ NPEBVConnection
 NPEBVIceCandidateInterface
 NPEBVIStatus
 NPEBVLocalizationTable
-NrGutnvaDa1QgDl2ukkTtuwlTohfl6Q76O3qzsxvR
+NpOHrOKZf55FLAdlk5jhtrFS
 NSNNNNNNTNh0ii
 NSNNNNNNTNPVR
 NSNNNNNNTNPVV
@@ -22867,7 +22871,6 @@ OGRE_VIEW_UPDATE
 OgreWidget
 OgreWidgetForGameState
 OgreWidgetShowEvent
-OhsdsS4VWC0ok0NRm0P27hI2
 Ohungarumlaut
 OiCCPPhotoshop
 OldActiveElement
@@ -23205,7 +23208,6 @@ Ortsdateien
 Oscillator
 Oslashsmall
 OsPlatform
-OsScCAwEAAQ
 Osservazione
 OSSL_STORE_expect
 OSSL_STORE_find
@@ -26559,6 +26561,7 @@ QJsonObject
 QJsonValue
 QJsonValueRef
 QKeySequence
+Ql5R2fZDvnL0Fz9LsdI77tVSLreyq9
 QLabel[iconLabel
 QLabel[iconLabelText
 QLabel[invalidFieldMessageLabel
@@ -28523,6 +28526,7 @@ RevocationUrl
 RevokeFriendship
 RevokeTokenRequest
 Revolution
+RF1cA66cfMCeXQuJ3eOkXFqEgLPu4fDHHx0jWgWcBWoDfKnLXcpzrzpbtplJUNH
 RFormatTrace]
 RGBA_Buffers
 RGBOL565RGBP5551RGBO
@@ -28662,11 +28666,11 @@ RigidConstraint
 RigidConstraintAction
 RigidityEnabled
 RigImporter
-RIl8IJe9yTvdGHfr5ceTF1
 Rimuovendo
 Ripristina
 Ripristinato
 Ripristino
+RIQB9NY6zBSRaEY9Q5H4RWGfTDAts6U0v
 Risoluzione
 Rj0isQcnqX
 ROBLOSECURITY
@@ -29098,6 +29102,7 @@ SA_NAEBVQUrl
 SA_NPEAVQObject
 SA_NPEAVQTranslator
 SA_NPEBUAbstractConverterFunction
+SaAFbN1RIEZq4v3OkM3P24fs8AsmSJuyH
 SafeMoveBaseIncrementMillis
 SafeMoveGrowthFactorMillis
 SafeMoveMaxIncrementMillis
@@ -30974,7 +30979,6 @@ SIO_KEEPALIVE_VALS
 SISQSZSsSuS
 SiteMessageBanner
 SixteenCharValue
-SiYzk7V8BAJwY
 Size100x100
 Size150x150
 Size180x180
@@ -31034,7 +31038,6 @@ Sky.SkyboxUp
 SkylightRGBA
 SkyLinearFS
 SkyVertex2
-SLb1sZkRJ105mX18aULJBAbGHJXkQceUfYSS6nT1TTDpSZQmPlIcY
 SleepConditionVariableCS
 SleepConditionVariableSRW
 SleepStage
@@ -31365,6 +31368,7 @@ SRTP_AEAD_AES_128_GCM
 SRTP_AEAD_AES_256_GCM
 SRTP_AES128_CM_SHA1_32
 SRTP_AES128_CM_SHA1_80
+SRxIjq4hwThmb6UqR1VODxSE9cH0slTgbfQAgipFIIiVJGHtKUl5bKkR4cygbvD
 SS2OSD.dll
 SSAOBlurXFS
 SSAOBlurYFS
@@ -31689,7 +31693,6 @@ StencilMark
 StencilMask
 StencilMaskSeparate
 StencilOpSeparate
-StencilSupport
 StepAnimations
 StepCharacterController
 StepContacts
@@ -31733,7 +31736,6 @@ StopRtcEventLog
 StopSaveOnInvokeMethod
 StopScriptProfiling
 StopSendingLightingTechnologyToGA
-StopSortingOnTopOfBlurQueue
 StopSpecialCasing3DScreenGuis
 StopSupportingUnsupportedVariants
 StopTextScraper
@@ -36591,9 +36593,9 @@ SUWATAUAVH
 SUWATAUAWH
 SUWATAVAWH
 SUWAUAVAWH
-SV7KlT3xdM
 SVATAUAVAWH
 SVGLuaIcons
+SVinmVrHgdC2TA
 SVWATAUAVAW
 SVWATAUAVAWH
 SVWATAUAVH
@@ -36684,6 +36686,7 @@ SystemTimeToFileTime
 SystemTotalMemory
 SystemUtil
 SystemUtil]
+SyyDnWI16xAkURcAUs6oPAcr87n91gahI
 T_gridOff_old.png
 T_gridToOne_old.png
 T_gridToOneFifth_old.png
@@ -36812,7 +36815,6 @@ TattletaleReportToRCCCooldownSeconds
 TattletaleReportUnfilteredJobFrequencySeconds
 TattletaleReportUnfilteredJobMaxReportsPerTick
 TattletaleReportWordCount
-TattletaleScanRichTextContent
 TattletaleShuffleCount
 TattletaleSwearWordDetected
 TattletaleUseNewWordListFeatures
@@ -38250,7 +38252,6 @@ TrackScriptEditorLocking
 TrackScriptEditorLocking]
 TrackServerPhysicsPerfSessionNMinutes
 TrackState
-TrackStencilBufferSupport
 TrackTeamCreateSaveMD5HashOutput
 TrackTeamCreateSaveMD5HashOutput]
 TrackUnsupportedVariantUse
@@ -38736,7 +38737,6 @@ UI_new_method
 UI_process
 UI_set_result
 UI_set_result_ex
-Ui91bJVAegGPyTP5aWMefKZaFIjhAVX
 UIAspectRatioConstraint
 UIAxWinAmbientDispatchEx
 UIComponent
@@ -39718,7 +39718,6 @@ UTokenInternal
 UTokenInternalData
 UTokenResult
 UTouchStateManager
-UtpJBG4pzMXA
 UTrackedAllocator
 UTrackEntry
 UTypeError
@@ -41036,7 +41035,6 @@ VLuaSourceContainer
 VLuaStatsItem
 VLuauScriptAnalyzerService
 VLuaWebService
-VlY6EWt2Hjn2tSf9MneNwHsforn2stUHhQjxnJJHjlBd6cUYMKEDnVV4gmlYMpO
 VManageCollaboratorsAction
 VManualGlue
 VManualSurfaceJointInstance
@@ -42866,6 +42864,7 @@ XW4ScreenOrientation
 XW4Status_e
 XW4TweenStatus
 XW4WebSocketEventType
+XW5iu3lMl4aDhjqdg5MEZziJXLsb2tIAK8Z
 XwhvcEikuIaqb7nHhEJ
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
 XXXXXXXXXXXXXXXXXXXXXXXXX
@@ -42920,7 +42919,6 @@ YieldEvent
 YieldFuncDesc
 YieldFunction
 YResolution
-Yu4kYNmLFLpXZuPDphuA8MGs9vLXfmwbUQAlBKiCz0rlt32l2UOjAd
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
