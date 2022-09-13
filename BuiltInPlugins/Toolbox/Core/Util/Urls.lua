@@ -23,7 +23,6 @@ local FIntCanManageLuaRolloutPercentage = game:DefineFastInt("CanManageLuaRollou
 local FFlagInfiniteScrollerForVersions2 = game:getFastFlag("InfiniteScrollerForVersions2")
 local FFlagToolboxUseQueryForCategories2 = game:GetFastFlag("ToolboxUseQueryForCategories2")
 local FFlagToolboxUseGetVote = game:GetFastFlag("ToolboxUseGetVote")
-local FFlagStudioPluginsUseBedev2Endpoint = game:GetFastFlag("StudioPluginsUseBedev2Endpoint")
 local FFlagToolboxSwitchVerifiedEndpoint = require(Plugin.Core.Util.getFFlagToolboxSwitchVerifiedEndpoint)
 local FFlagToolboxAssetConfigurationVerifiedPrice = game:GetFastFlag("ToolboxAssetConfigurationVerifiedPrice")
 
@@ -48,7 +47,6 @@ local INSERT_ASSET = Url.BASE_URL .. "IDE/Toolbox/InsertAsset?"
 local GET_MANAGEABLE_GROUPS = Url.DEVELOP_URL .. "v1/user/groups/canmanage"
 
 local GET_PLUGIN_INFO = Url.APIS_URL .. "studio-plugin-api/v1/plugins?"
-local DEPRECATED_GET_PLUGIN_INFO = Url.DEVELOP_URL .. "v1/plugins?"
 
 local ASSET_ID_STRING = "rbxassetid://%d"
 local ASSET_ID_PATH = "asset/?"
@@ -329,15 +327,9 @@ function Urls.constructInsertAssetUrl(assetId)
 end
 
 function Urls.constructGetPluginInfoUrl(assetId)
-	if FFlagStudioPluginsUseBedev2Endpoint then
-		return GET_PLUGIN_INFO .. Url.makeQueryString({
-			pluginIds = assetId,
-		})
-	else
-		return DEPRECATED_GET_PLUGIN_INFO .. Url.makeQueryString({
-			pluginIds = assetId,
-		})
-	end
+	return GET_PLUGIN_INFO .. Url.makeQueryString({
+		pluginIds = assetId,
+	})
 end
 
 function Urls.constructGetManageableGroupsUrl()
