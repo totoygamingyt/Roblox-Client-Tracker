@@ -1,7 +1,7 @@
 --[[
 	Bottom Bar of the Asset Details Page of the InspectAndBuy Menu
 	This BottomBar includes the following elements from left to right:
-	1. More Button - opens a contextual menu for options of favoriting and reporting
+	1. More Button - opens a contextual menu for options of favoriting
 	2. Try On Button - try on the item and replace thumbnail with try on region
 		Press again to remove try on and bring back original thumbnail
 	3. Action Button - purchase item, get item (if free), or button is disabled (offsale/owned)
@@ -28,25 +28,24 @@ local SetTryOnItemInfo = require(InGameMenu.Actions.InspectAndBuy.SetTryOnItemIn
 local SetFavoriteForItem = require(InGameMenu.Thunks.SetFavoriteForItem)
 local Constants = require(InGameMenu.Resources.Constants)
 local IBConstants = require(InGameMenu.InspectAndBuyConstants)
+local IBUtils = require(InGameMenu.Utility.InspectAndBuyUtils)
 
 local BUTTON_WIDTH = 184
 local BOTTOM_BAR_GRADIENT_SIZE = 20
 local CONTEXTUAL_MENU_PADDING = 12
 local ICON_BUTTON_SIZE = 22
 
-local ROBUX_ICON = Images["icons/common/robux"]
 local TRYON_ICON_OFF = Images["icons/menu/tryOnOff"]
 local TRYON_ICON_ON = Images["icons/menu/tryOnOn"]
 local MORE_ICON = Images["icons/common/more"]
-local OWNED_ICON = Images["icons/menu/avatar_on"]
 local FAVORITE_OFF_ICON = Images["icons/actions/favoriteOff"]
 local FAVORITE_ON_ICON = Images["icons/actions/favoriteOn"]
-local REPORT_ICON = Images["icons/actions/feedback"]
 
 local AssetDetailBottomBar = Roact.PureComponent:extend("AssetDetailBottomBar")
 
 AssetDetailBottomBar.validateProps = t.strictInterface({
 	bundleInfo = t.optional(t.table),
+	localPlayerModel = t.optional(t.table),
 
 	-- from mapStateToProps
 	purchaseInfo = t.optional(t.table),
@@ -108,44 +107,48 @@ function AssetDetailBottomBar:isItemFavorited()
 	return false
 end
 
+--[[
+	The try on button should be disabled when any of the following are the case:
+	1. Inspecting an LC asset while using an R6 character
+	2. Inspecting an asset that is not LC or directly accessible via HumanoidDescription names
+		(e.g. Emotes)
+	3. Inspecting an Animation type bundle
+]]
+function AssetDetailBottomBar:shouldDisableTryOn()
+	if not self.props.bundleInfo then
+		local assetType = self.props.selectedItem.assetTypeId
+		-- Do not try on LC items on an R6 model
+		local model = self.props.localPlayerModel
+		if (IBConstants.LayeredAssetTypes[assetType] ~= nil and assetType ~= tostring(Enum.AssetType.HairAccessory.Value)) and model.Humanoid.RigType == Enum.HumanoidRigType.R6 then
+			return true
+		end
+
+		if IBConstants.HumanoidDescriptionIdToName[assetType] == nil
+			and IBConstants.AssetTypeIdToAccessoryTypeEnum[assetType] == nil then
+			return true
+		end
+	elseif self.props.bundleInfo.bundleType == IBConstants.BundleTypeAsString.Animations or
+		self.props.bundleInfo.bundleType == IBConstants.BundleTypeAsString.AvatarAnimations then
+		return true
+	end
+
+	return false
+end
+
 function AssetDetailBottomBar:renderWithProviders(stylePalette, localized, getSelectionCursor)
 	local theme = stylePalette.Theme
 	local actionButtonHeight = IBConstants.BUTTON_HEIGHT + IBConstants.BOTTOM_BAR_PADDING
 	local purchaseInfo = self.props.purchaseInfo
-	local owned, robuxPrice, isLoading
-	if purchaseInfo then
-		owned = purchaseInfo.owned
-		robuxPrice = purchaseInfo.robuxPrice
-		isLoading = purchaseInfo.isLoading
-	end
-
-	local icon, text
-	if owned then
-		icon = OWNED_ICON
-		text = ""
-	elseif robuxPrice == 0 then
-		icon = nil
-		text = "Free" --TODO: Localize
-	elseif robuxPrice then
-		icon = ROBUX_ICON
-		text = string.format("%.0f", robuxPrice)
-	elseif isLoading then
-		icon = nil
-		text = "Offsale" --TODO: Localize
-	end
+	local icon, text, isBuyButtonDisabled = IBUtils.getItemLabelData(purchaseInfo, localized)
 
 	local favoriteIcon = self:isItemFavorited() and FAVORITE_ON_ICON or FAVORITE_OFF_ICON
+	local shouldDisableTryOn = self:shouldDisableTryOn()
 
 	local contextualMenuButtons = {
 		{
 			icon = favoriteIcon,
 			text = "Favorite", --TODO: Localize
 			onActivated = self.favoriteButtonActivated,
-		},
-		{
-			icon = REPORT_ICON,
-			text = "Report", --TODO: Localize
-			onActivated = self.closeMenu,
 		}
 	}
 
@@ -177,7 +180,7 @@ function AssetDetailBottomBar:renderWithProviders(stylePalette, localized, getSe
 						text = text,
 						icon = icon,
 						onActivated = self.buyButtonActivated,
-						isDisabled = owned or isLoading,
+						isDisabled = isBuyButtonDisabled,
 					},
 				},
 				icons = {
@@ -197,8 +200,9 @@ function AssetDetailBottomBar:renderWithProviders(stylePalette, localized, getSe
 							layoutOrder = 2,
 							icon = self.props.tryingOn and TRYON_ICON_ON or TRYON_ICON_OFF,
 							iconColor3 = theme.SystemPrimaryDefault.Color,
-							iconTransparency = theme.SystemPrimaryDefault.Transparency,
+							iconTransparency = shouldDisableTryOn and 0.5 or theme.SystemPrimaryDefault.Transparency,
 							onActivated = self.tryOnButtonActivated,
+							isDisabled = shouldDisableTryOn,
 						},
 					},
 				}

@@ -13,6 +13,7 @@
 local NEW_KEY = newproxy(true)
 local IMPORT_KEY = newproxy(true)
 local IMPORT_FBX_KEY = newproxy(true)
+local IMPORT_FROM_VIDEO_KEY = newproxy(true)
 
 local Plugin = script.Parent.Parent.Parent.Parent
 local Framework = require(Plugin.Packages.Framework)
@@ -47,6 +48,7 @@ local LoadAnimationData = require(Plugin.Src.Thunks.LoadAnimationData)
 
 local GetFFlagExtendPluginTheme = require(Plugin.LuaFlags.GetFFlagExtendPluginTheme)
 local GetFFlagCreateAnimationFromVideoAgeGateSizeFix = require(Plugin.LuaFlags.GetFFlagCreateAnimationFromVideoAgeGateSizeFix)
+local GetFFlagCreateAnimationFromVideoSaveWhenOverwritingDialog = require(Plugin.LuaFlags.GetFFlagCreateAnimationFromVideoSaveWhenOverwritingDialog)
 local GetFFlagKeyframeReduction = require(Plugin.LuaFlags.GetFFlagKeyframeReduction)
 local GetFFlagFixFaceRecorderFlow = require(Plugin.LuaFlags.GetFFlagFixFaceRecorderFlow)
 
@@ -201,9 +203,28 @@ function AnimationClipDropdown:init()
 		end
 	end
 
-	self.createFromVideoRequested = function()
+	self.startAnimationFromVideoFlow = function()
 		self.props.Analytics:report("onAnimationEditorImportVideoCreate")
 		self.setShowCreateAnimationFromVideoTutorial(true)
+	end
+
+	self.createFromVideoRequested = function()
+		if GetFFlagCreateAnimationFromVideoSaveWhenOverwritingDialog() then 
+			if self.props.IsDirty then
+				self.showLoadNewPrompt(IMPORT_FROM_VIDEO_KEY)
+			else
+				if GetFFlagFixFaceRecorderFlow() then
+					self.props.SetInReviewState(false)
+				end
+				self.startAnimationFromVideoFlow()
+			end
+		else
+			if GetFFlagFixFaceRecorderFlow() then
+				self.props.SetInReviewState(false)
+			end
+			self.props.Analytics:report("onAnimationEditorImportVideoCreate")
+			self.setShowCreateAnimationFromVideoTutorial(true)
+		end
 	end
 
 	self.createNew = function()
@@ -243,6 +264,8 @@ function AnimationClipDropdown:init()
 				props.ImportKeyframeSequence(plugin, props.Analytics)
 			elseif loadingName == IMPORT_FBX_KEY then
 				props.ImportFBXAnimationUserMayChooseModel(plugin, self, props.Analytics)
+            elseif GetFFlagCreateAnimationFromVideoSaveWhenOverwritingDialog() and loadingName == IMPORT_FROM_VIDEO_KEY then
+                self.startAnimationFromVideoFlow()
 			else
 				props.LoadAnimation(loadingName, props.Analytics)
 			end
@@ -256,6 +279,9 @@ function AnimationClipDropdown:init()
 			elseif loadingName == IMPORT_FBX_KEY then
 				self.hideLoadNewPrompt()
 				props.ImportFBXAnimationUserMayChooseModel(plugin, self, props.Analytics)
+            elseif GetFFlagCreateAnimationFromVideoSaveWhenOverwritingDialog() and loadingName == IMPORT_FROM_VIDEO_KEY then
+                self.hideLoadNewPrompt()
+                self.startAnimationFromVideoFlow()
 			else
 				props.LoadAnimation(loadingName, props.Analytics)
 				self.hideLoadNewPrompt()

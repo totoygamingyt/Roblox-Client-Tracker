@@ -64,6 +64,7 @@ function BundleInfo.fromGetAssetBundles(bundleInfo): BundleInfo
 	newBundle.assetIds = {}
 	newBundle.price = bundleInfo.product.priceInRobux
 	newBundle.isForSale = bundleInfo.product.isForSale
+	newBundle.premiumPricing = bundleInfo.product.premiumPricing
 
 	local owned = true
 	for _, asset in pairs(bundleInfo.items) do

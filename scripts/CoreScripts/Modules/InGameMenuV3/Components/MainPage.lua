@@ -1,7 +1,5 @@
 --!nonstrict
 
-local CoreGui = game:GetService("CoreGui")
-local RobloxGui = CoreGui:WaitForChild("RobloxGui")
 local CorePackages = game:GetService("CorePackages")
 local GuiService = game:GetService("GuiService")
 local UserInputService = game:GetService("UserInputService")
@@ -49,7 +47,6 @@ local GetFFlagSideNavControllerBar = require(Flags.GetFFlagSideNavControllerBar)
 local FocusHandler = require(script.Parent.Connection.FocusHandler)
 local IGMMainPageControllerBar = require(script.Parent.IGMMainPageControllerBar)
 
-local FFlagEnableNewVrSystem = require(RobloxGui.Modules.Flags.FFlagEnableNewVrSystem)
 local GetFFlagShareInviteLinkContextMenuV3Enabled = require(InGameMenu.Flags.GetFFlagShareInviteLinkContextMenuV3Enabled)
 
 local MAIN_PAGE_WIDTH = Constants.PageWidth
@@ -110,7 +107,7 @@ function MainPage:render()
 				Selectable = false,
 			}, {
 				MainPageFocusHandler = GetFFlagUseIGMControllerBar()
-						and not (VRService.VREnabled and FFlagEnableNewVrSystem)
+						and not VRService.VREnabled
 						and self:renderMainPageFocusHandler()
 					or nil,
 				ControllerBar = Roact.createElement(IGMMainPageControllerBar, {
@@ -183,7 +180,7 @@ function MainPage.canGamepadCaptureFocus(props)
 end
 
 function MainPage:didUpdate(prevProps, prevState)
-	if VRService.VREnabled and FFlagEnableNewVrSystem then
+	if VRService.VREnabled then
 		UserInputService.OverrideMouseIconBehavior = Enum.OverrideMouseIconBehavior.ForceHide
 	end
 

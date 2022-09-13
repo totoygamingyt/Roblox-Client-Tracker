@@ -6,6 +6,8 @@
 	in the InGameMenuV3
 ]]
 local CorePackages = game:GetService("CorePackages")
+local CoreGui = game:GetService("CoreGui")
+local PolicyService = require(CoreGui.RobloxGui.Modules.Common.PolicyService)
 
 local InGameMenuDependencies = require(CorePackages.InGameMenuDependencies)
 local Roact = InGameMenuDependencies.Roact
@@ -25,6 +27,7 @@ local InspectAndBuyItemCard = require(InGameMenu.Components.InspectAndBuyPage.In
 local GetCharacterModelFromUserId = require(InGameMenu.Thunks.GetCharacterModelFromUserId)
 local GetAssetsFromHumanoidDescription = require(InGameMenu.Thunks.GetAssetsFromHumanoidDescription)
 local UpdateStoreId = require(InGameMenu.Actions.InspectAndBuy.UpdateStoreId)
+local SetIsSubjectToChinaPolicies = require(InGameMenu.Actions.InspectAndBuy.SetIsSubjectToChinaPolicies)
 
 local InspectAndBuyPage = Roact.PureComponent:extend("InspectAndBuyPage")
 
@@ -167,6 +170,10 @@ end
 
 function InspectAndBuyPage:didMount()
 	self.isMounted = true
+	task.spawn(function()
+		local subjectToChinaPolicies = PolicyService:IsSubjectToChinaPolicies()
+		self.props.setIsSubjectToChinaPolicies(subjectToChinaPolicies)
+	end)
 end
 
 function InspectAndBuyPage:willUnmount()
@@ -189,6 +196,9 @@ end, function(dispatch: (any) -> any)
 		end,
 		updateStoreId = function()
 			dispatch(UpdateStoreId())
+		end,
+		setIsSubjectToChinaPolicies = function(subjectToChinaPolicies)
+			dispatch(SetIsSubjectToChinaPolicies(subjectToChinaPolicies))
 		end,
 	}
 end)(InspectAndBuyPage)

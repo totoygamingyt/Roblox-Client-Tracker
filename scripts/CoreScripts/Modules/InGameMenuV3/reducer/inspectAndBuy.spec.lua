@@ -13,6 +13,7 @@ return function()
 	local SelectItem = require(InGameMenu.Actions.InspectAndBuy.SelectItem)
 	local SetTryOnItemInfo = require(InGameMenu.Actions.InspectAndBuy.SetTryOnItemInfo)
 	local UpdateStoreId = require(InGameMenu.Actions.InspectAndBuy.UpdateStoreId)
+	local SetIsSubjectToChinaPolicies = require(InGameMenu.Actions.InspectAndBuy.SetIsSubjectToChinaPolicies)
 	local inspectAndBuy = require(script.Parent.inspectAndBuy)
 
 	local MOCK_ASSET_1 = AssetInfo.mock()
@@ -39,21 +40,14 @@ return function()
 
 	it("should have default values.", function()
 		local state = inspectAndBuy(nil, {})
-		local assets = state.Assets
-		local bundles = state.Bundles
-		local selectedItem = state.SelectedItem
-		local userId = state.UserId
-		local displayName = state.DisplayName
-		local storeId = state.StoreId
-		local tryingOn = state.TryingOn
-
-		expect(assets).toEqual({})
-		expect(bundles).toEqual({})
-		expect(selectedItem).toEqual({})
-		expect(userId).toEqual(0)
-		expect(displayName).toEqual("")
-		expect(storeId).toEqual("0")
-		expect(tryingOn).toEqual(false)
+		expect(state.Assets).toEqual({})
+		expect(state.Bundles).toEqual({})
+		expect(state.SelectedItem).toEqual({})
+		expect(state.UserId).toEqual(0)
+		expect(state.DisplayName).toEqual("")
+		expect(state.StoreId).toEqual("0")
+		expect(state.TryingOn).toEqual(false)
+		expect(state.IsSubjectToChinaPolicies).toEqual(true)
 	end)
 
 	describe("SetInspectedUserInfo", function()
@@ -186,6 +180,13 @@ return function()
 		it("should update store id", function()
 			local state = inspectAndBuy(nil, UpdateStoreId())
 			expect(state.StoreId).toEqual("1")
+		end)
+	end)
+
+	describe("IsSubjectToChinaPolicies", function()
+		it("should update china policy", function()
+			local state = inspectAndBuy(nil, SetIsSubjectToChinaPolicies(false))
+			expect(state.IsSubjectToChinaPolicies).toEqual(false)
 		end)
 	end)
 end

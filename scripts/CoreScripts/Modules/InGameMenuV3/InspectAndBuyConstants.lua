@@ -30,6 +30,14 @@ local Constants = {
 		[tostring(Enum.AssetType.WalkAnimation.Value)] = "WalkAnimation",
 	},
 
+	BundleTypeAsString = {
+		Animations = "Animations",
+		AvatarAnimations = "AvatarAnimations",
+		BodyParts = "BodyParts",
+		Shoes = "Shoes",
+		DynamicHeads = "DynamicHeads",
+	},
+
 	AssetCategories = {
 		Animation = "Animation",
 		Body = "Body",

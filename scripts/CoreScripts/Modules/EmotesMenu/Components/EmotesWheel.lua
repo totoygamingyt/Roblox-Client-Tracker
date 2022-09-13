@@ -4,8 +4,6 @@ local CorePackages = game:GetService("CorePackages")
 local UserInputService = game:GetService("UserInputService")
 local GamepadService = game:GetService("GamepadService")
 local VRService = game:GetService("VRService")
-local CoreGui = game:GetService("CoreGui")
-local RobloxGui = CoreGui.RobloxGui
 
 local Roact = require(CorePackages.Roact)
 local RoactRodux = require(CorePackages.RoactRodux)
@@ -36,8 +34,6 @@ local KEYBINDS_PRIORITY = Enum.ContextActionPriority.High.Value
 local EngineFeatureVirtualCursor = game:GetEngineFeature("VirtualCursorEnabled")
 
 local EmotesWheel = Roact.PureComponent:extend("EmotesWheel")
-
-local FFlagEnableNewVrSystem = require(RobloxGui.Modules.Flags.FFlagEnableNewVrSystem)
 
 local function getRandomAssetId(emotesAssetIds)
     if #emotesAssetIds == 0 then
@@ -186,7 +182,7 @@ function EmotesWheel:unbindActions()
 end
 
 function EmotesWheel:addCursorOverride()
-	if VRService.VREnabled and FFlagEnableNewVrSystem then
+	if VRService.VREnabled then
 		return -- cursor is already hidden in VR
 	end
 
