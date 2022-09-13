@@ -154,6 +154,7 @@ AC01E30AF65B11E3AFC2CE47415C029D
 AC01E30BF65B11E3AFC2CE47415C029D
 AC01E30CF65B11E3AFC2CE47415C029D
 AC01E30DF65B11E3AFC2CE47415C029D
+AC0KtRrgiZtbE5RGhFtw7vZA84
 AccanthisADFStd
 AccanthisADFStd.json
 Accelerated
@@ -6910,7 +6911,6 @@ BAA91211E2B410EF351327957B
 BAAEB11E38B9D871882A8E559
 BAAED11E38B9D871882A8E559
 BAAF011E38B9D871882A8E559
-BAb8jrPwdblLeSbseK12kzqFOKMoFGJYLeu
 BACK_BUTTON_NOT_CONSUMED
 BackAccessory
 BackColorOffset
@@ -7359,7 +7359,6 @@ BN_rand_range
 BN_RECP_CTX_new
 BN_STACK_push
 BN_to_felem
-BnyZ0kVm1nbldrtdweNdeCHqEuH29KoFWOkjDlgTFfH5pHrkyMu7sSxPUcOzmx
 BodyAngularVelocity
 BodyBack_Att
 BodyBackAttachment
@@ -8127,7 +8126,6 @@ Ccedillasmall
 CCEEFFIIJJLLOOQQRRTTWWXX[[]]^^aabbddgghhkkmmnnppssuuvvyyzz
 Ccircumflex
 CCJJAAJJCCmcckkccmCCJJAAJJC
-CCmxYBrXA1XXWpra2VPoO57yYzaLEi15iuDkVqsHq
 CComCoClass
 CComContainedObject
 CComEnumImpl
@@ -10398,6 +10396,7 @@ CountWidth
 COutlineSelection
 Covariance
 CoverageRef
+CpD8VHgeeR
 CpuArchitecture
 CpuKernelTime
 CPULogicalCore
@@ -11400,7 +11399,6 @@ DB33D2AAF011E38B9D871882A8E559
 DB33D3AAF011E38B9D871882A8E559
 DB33D6AAF011E38B9D871882A8E559
 DB33D7AAF011E38B9D871882A8E559
-DBbHM3sUyYpGiEAoiH45qKSrFFkEukaSbAk21or
 DBD856014A660
 DD11E2898E9FB8E4A9E79B
 DD4669DB402E11E3A29DA4266180AE0C
@@ -13651,6 +13649,7 @@ EffectorTranslationConstraint
 Effettuare
 EFrontVector
 Egravesmall
+EhbcSny6h7QG8IFGAjsh7LPojKpt
 EHERE\EfEpEzE
 Eigenschaften
 Eigenschaftendatei
@@ -14898,6 +14897,7 @@ FFlagStudioQtSVGIcons
 FFlagStudioRemoveShareWithRobloxFriends
 FFlagStudioToastNotificationsInLua
 FFoRLVHHHHoTJVF
+FHBzC6QyJ05fqlhpOZSI
 FHFRF\FfFpFzF
 FieldChanged
 FieldMessageLabel
@@ -17055,6 +17055,7 @@ GoToScriptLocation
 GoToSourceCodeTB
 GotoTargetsRequest
 GoToVersionFailed
+GpDOKBGb5oqTtNzDWoRdmFC4Pz2ko0Lri9A8J
 GpuVariance
 GrabCursor.png
 GrabRotateCursor
@@ -17308,8 +17309,10 @@ GunCursor.png
 GunWaitCursor.png
 GvEphfEUiHHoD6hYFI4xWGpAnIHcklKQCxrf46kAhDGeZnqIgeGszlGdWafunGE8
 GVKUTS[BXIWH\KbHi
+GwnyzEFFrCjbh6XxORfAnF2
 GXGfGkGpGuG
 GyroscopeEnabled
+Gz3o3gIa0mBJooRgUJs5kROY59lmOmNv
 H[_^A\A]A^A_]
 H_Key_dn.png
 H_NAEBVQString
@@ -17446,6 +17449,7 @@ HaveRemotePrAnswer
 HaveToBeSure
 HB_OPTIONS
 HB_SHAPER_LIST
+Hb2NLgqz1blEIWNTHNsCAwEAAQ
 HbaoCompositFS
 HBAODepthDownFS
 HbaoRenderCompute
@@ -17626,6 +17630,7 @@ HL_NUMTHREADS
 HL_TRACE_FILE
 HLNlRtVlZt^lbtfljtnprxvtzx
 HlsAdaptionLogic
+HlsFixSlowNetworkCrash
 HlsIgnoreDeprecatedRbxTags
 HMACGostR3411
 HoldDuration
@@ -19076,7 +19081,6 @@ IPTypeAndDataCenter
 IPublishedGamesStore
 IPV6_V6ONLY
 IPv6Default
-IQxvt7dAfXAGP3PmMLtrPvbXE9K7aXLeQyRlIVNaGjlH0ayL
 IRestartController
 IRobloxDoc
 IRobloxDocManager
@@ -19194,6 +19198,7 @@ IsReceiveAgeShown
 IsRegion3Empty
 IsRegion3EmptyWithIgnoreList
 IsRenderbuffer
+IsRHh1bSjzpO6VgeI2Y
 IsRobloxPlace
 IsScriptAssetUploadEnabled
 IsScriptStackTracingEnabled
@@ -19597,7 +19602,6 @@ Kugelverbindung
 Kundendienst.
 Kundensupport.
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
-Kz8lKCS4QxSpNM4W8Yw5r
 L^N6LfN6LlN6LdN6Ly
 LA_SHAPE_MAX
 LABEL_LITERAL
@@ -20410,9 +20414,7 @@ LowQMaterialDetiledNewFS_
 LowQMaterialFS_
 LowQMaterialWangFallbackFS
 LowQMaterialWangFS
-LP4AFawz19V
 LRakRecvToAppPop
-Ls8j2IXOl3BnpGnxkQMk
 LSCReplacer
 LSCReplacerLog
 LSCReplacerReportPercentage
@@ -21532,7 +21534,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAqe5D1Img6bLrYXYojwPDvjbKpYlRcPmgtMMGt8
+MIICCgKCAgEAt
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21631,6 +21633,7 @@ MockTapGestureGenerator
 ModAccessKey
 ModalClose
 ModalController
+ModalController.CheckOutMyGame
 ModalDialog
 ModalEnabled
 ModalInfoWindow
@@ -22437,6 +22440,7 @@ NinjaMask.mesh
 NLSF_mu_Q20
 NLSFInterpCoef_Q2
 NMMMMW4Priority
+NMT4UWRf9nCVm5ErfxlG5btDkdXMpZo5z2UMv0F8So5220qemlPDbar4
 NNNNNNNNNNNNNNNNNNNNNN
 NNNNNNNSSSSSSSSSSSSSSSSSSSSSS
 NNW4SizeMode
@@ -22862,7 +22866,6 @@ OgreWidgetForGameState
 OgreWidgetShowEvent
 Ohungarumlaut
 OiCCPPhotoshop
-OJjiopVvswQrNjObT4rKnGUl8zORa
 OldActiveElement
 OldBinaryStringLength
 OldDOFDownSampleAndComputeFarCoCHorizontal4xFS
@@ -23196,7 +23199,6 @@ OrMakeScriptDebuggerForScriptInstance
 OrProvinceName
 Orthonormalize
 Ortsdateien
-ORxzjeBLacOYJNjQOvTu1bH
 Oscillator
 Oslashsmall
 OsPlatform
@@ -23351,6 +23353,7 @@ OverridH9H
 OverwriteMode
 Overwriting
 Overwriting.
+OviDQ20B3NASS0bqtI6ze1LMHCo
 OwnPermission
 OwnProperty
 Ozs8xYCf2Q05p4gHyX
@@ -26521,7 +26524,6 @@ QFontMetricsF
 QFormLayout
 QFrame[containerFrame
 QFrame[headerFrame
-QfsQNUmP2anh
 QFutureInterface
 QFutureInterfaceBase
 QFutureWatcher
@@ -26578,6 +26580,7 @@ Qml2Imports
 QModelIndex
 QMouseEvent
 QMoveEvent
+QMqGB6p5ukcS2jbikmuV
 QMutexLocker
 QNetworkAddressEntry
 QNetworkInterface
@@ -30702,6 +30705,7 @@ ShowVideoAd
 ShowWeldsVerb
 ShowWindow
 ShowYouTubeAgeAlert
+ShqG3r0XTf3CL8jZtyzyRSym8eBdGE9b6bd60bZ6hK5DUssXs9yag9ikuJx
 ShrinkFactor
 ShrinkHiddenCage
 ShrinkHiddenCageLaplacianScale
@@ -35981,7 +35985,6 @@ StudioFixDuplicateBusyOnRecursiveBreak
 StudioFixExportVertexLimit
 StudioFixGalleryLayoutUpdate
 StudioFixMacPlayModeMouseLag
-StudioFixPlayerNameInClientAndServerMode
 StudioFixShortEvents
 StudioFixTCCancelCrash2
 StudioFixTCConnectStringArg
@@ -36632,7 +36635,6 @@ SXNET_add_id_INTEGER
 SXNET_add_id_ulong
 SXNET_get_id_asc
 SXNET_get_id_ulong
-SxTyRrXxKdpI8nRuLBq8B
 SymbolicLinkAlreadyExist
 SymbolValue
 SymFromAddrW
@@ -37352,7 +37354,6 @@ TGenericSlotWrapper
 TGenericSlotWrapper.
 ThatCausedFocusLoss
 ThawteTimestampingCA.crl0
-ThBJJMjaRYD1kAR5enRS42KNwiStuuoLnKZqIH0YdgFq
 ThemeAtAppStart
 ThemeChange
 ThemeChanged
@@ -38198,6 +38199,7 @@ ToVideoStream
 TownAndCity
 ToWorldSpace
 TPoseAdjusterDefaultVersion
+TqODroNq0K4qhBRfkXkUE1efZNTmWus5qLM
 Tracciamento
 TraceMessage
 TracerService
@@ -38427,6 +38429,7 @@ TwistLimitsEnabled
 TwistLowerAngle
 TwistUpperAngle
 TwitterShareUrl
+TwMCtXUII1bNWXflGOaltQR9MdOF8P2f
 TwoAttachment
 TwoStepLogin
 TwoStepVerification
@@ -39760,7 +39763,6 @@ UVWATAUAWH
 UVWATAUAWI
 UVWATAVAWH
 UVWAUAVAWH
-UVwIN9WnL0ZC9n
 UWATAUAVAW
 UWATAUAVAWH
 UWayPointData
@@ -40986,7 +40988,6 @@ VK_NULL_HANDLE
 VK_SUBOPTIMAL_KHR
 VK_SUCCESS
 VK_TIMEOUT
-VK0aT6xHE7idYGfzrkpOIC7akAM
 VKeyboardService
 VKeyframeMarker
 VKeyframeSequence
@@ -41214,7 +41215,6 @@ VoiceChatMicActivityThreshold2
 VoiceChatMinPostSubscriptionsComplete2SubscriptionsCompletedMs
 VoiceChatMinPostSubscriptionsStart2RcvdSignalRSubscriptionsInitiatedMs
 VoiceChatMinRcvdSignalRSubscriptionsInitiated2PostSubscriptionsCompleteMs
-VoiceChatMinSubscriptionsStart2RcvdSi
 VoiceChatMinSubscriptionsStart2RcvdSignalRSubscriptionsCompletedMs
 VoiceChatMultistreamSubscriptionsV0
 VoiceChatMuteMicrophoneOnPause
@@ -41755,6 +41755,7 @@ VSurfaceLight
 VSurfaceSelection
 VSVertexBufferMaxCount
 VSwimController
+VsyM7lj2JvNIiMKNUDsfqijUj2MNS94HUJnEAyoRR0tS
 VSystemAddress
 VTargetsParser
 VTaskQueue
@@ -41843,7 +41844,6 @@ VTypedMemItem
 VTypedPercentItem
 VTypeHandler
 VTypesetter
-VtzxynYLYYQq5WHKNhECIH73uU7Tq7kCAwEAAQ
 VUGCValidationService
 VUIAspectRatioConstraint
 VUIComponent
@@ -42598,6 +42598,7 @@ WsClientIdleSleepMs
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
+Wyi2W1CcmxkahABnf4F1ZbfvcS5FIu8poypLtpEjPByz93542mGQFH1z0nXm
 X[]_^A\A]A^A_
 X_JW4AssetType
 X_NW4StudioGameStateType
@@ -42936,7 +42937,6 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YKdejoCRSRJAvRtcMXNKV9DBdJQZpsmTeUSfT1fJ5PpjYuAMxVZv8RMOWMflek
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
@@ -42956,7 +42956,6 @@ ZeroTargetSpeedStartTimeCountToTotalCount
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
-ZNFwnybq1pH
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
