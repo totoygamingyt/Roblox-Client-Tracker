@@ -22,10 +22,8 @@ local EngineFeatureEnableVRUpdate2 = game:GetEngineFeature("EnableVRUpdate2")
 local EngineFeatureEnableVRUpdate3 = game:GetEngineFeature("EnableVRUpdate3")
 
 local UserInputService = nil -- move up when flag is removed
-local ContextActionService = nil
 if GetFFlagIsVRAppEnabled() then
 	UserInputService = game:GetService("UserInputService")
-	ContextActionService = game:GetService("ContextActionService")
 end
 
 local LocalPlayer = Players.LocalPlayer

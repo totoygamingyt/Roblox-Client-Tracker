@@ -27,6 +27,7 @@ local ContextServices = Framework.ContextServices
 local withContext = ContextServices.withContext
 
 local Pause = require(Plugin.Src.Actions.Pause)
+local SetInReviewState = require(Plugin.Src.Actions.SetInReviewState)
 local SetIsDirty = require(Plugin.Src.Actions.SetIsDirty)
 local SetReduceKeyframesDialogMode = require(Plugin.Src.Actions.SetReduceKeyframesDialogMode)
 
@@ -47,6 +48,7 @@ local LoadAnimationData = require(Plugin.Src.Thunks.LoadAnimationData)
 local GetFFlagExtendPluginTheme = require(Plugin.LuaFlags.GetFFlagExtendPluginTheme)
 local GetFFlagCreateAnimationFromVideoAgeGateSizeFix = require(Plugin.LuaFlags.GetFFlagCreateAnimationFromVideoAgeGateSizeFix)
 local GetFFlagKeyframeReduction = require(Plugin.LuaFlags.GetFFlagKeyframeReduction)
+local GetFFlagFixFaceRecorderFlow = require(Plugin.LuaFlags.GetFFlagFixFaceRecorderFlow)
 
 local AnimationClipDropdown = Roact.PureComponent:extend("AnimationClipDropdown")
 
@@ -169,6 +171,9 @@ function AnimationClipDropdown:init()
 
 	self.continueAfterCreateAnimationFromVideoTutorial = function()
 		local props = self.props
+		if GetFFlagFixFaceRecorderFlow() then
+			props.SetInReviewState(false)
+		end
 		props.CreateFromVideoAndImportFBXAnimationUserMayChooseModel(props.plugin, self, props.Analytics)
 	end
 
@@ -177,6 +182,9 @@ function AnimationClipDropdown:init()
 			self.showLoadNewPrompt(IMPORT_KEY)
 		else
 			local plugin = self.props.Plugin
+			if GetFFlagFixFaceRecorderFlow() then
+				self.props.SetInReviewState(false)
+			end
 			self.props.ImportKeyframeSequence(plugin, self.props.Analytics)
 		end
 	end
@@ -186,19 +194,25 @@ function AnimationClipDropdown:init()
 			self.showLoadNewPrompt(IMPORT_FBX_KEY)
 		else
 			local plugin = self.props.Plugin
+			if GetFFlagFixFaceRecorderFlow() then
+				self.props.SetInReviewState(false)
+			end
 			self.props.ImportFBXAnimationUserMayChooseModel(plugin, self, self.props.Analytics)
 		end
 	end
 
 	self.createFromVideoRequested = function()
 		self.props.Analytics:report("onAnimationEditorImportVideoCreate")
-        self.setShowCreateAnimationFromVideoTutorial(true)
+		self.setShowCreateAnimationFromVideoTutorial(true)
 	end
 
 	self.createNew = function()
 		if self.props.IsDirty then
 			self.showLoadNewPrompt(NEW_KEY)
 		else
+			if GetFFlagFixFaceRecorderFlow() then
+				self.props.SetInReviewState(false)
+			end
 			self.showCreateNewPrompt()
 		end
 	end
@@ -207,6 +221,9 @@ function AnimationClipDropdown:init()
 		if self.props.IsDirty then
 			self.showLoadNewPrompt(name)
 		else
+			if GetFFlagFixFaceRecorderFlow() then
+				self.props.SetInReviewState(false)
+			end
 			self.props.LoadAnimation(name, self.props.Analytics)
 		end
 	end
@@ -217,18 +234,32 @@ function AnimationClipDropdown:init()
 		local loadingName = state.loadingName
 		local plugin = self.props.Plugin
 
-		if loadingName == NEW_KEY then
+		if GetFFlagFixFaceRecorderFlow() then
 			self.hideLoadNewPrompt()
-			self.showCreateNewPrompt()
-		elseif loadingName == IMPORT_KEY then
-			self.hideLoadNewPrompt()
-			props.ImportKeyframeSequence(plugin, props.Analytics)
-		elseif loadingName == IMPORT_FBX_KEY then
-			self.hideLoadNewPrompt()
-			props.ImportFBXAnimationUserMayChooseModel(plugin, self, props.Analytics)
+			self.props.SetInReviewState(false)
+			if loadingName == NEW_KEY then
+				self.showCreateNewPrompt()
+			elseif loadingName == IMPORT_KEY then
+				props.ImportKeyframeSequence(plugin, props.Analytics)
+			elseif loadingName == IMPORT_FBX_KEY then
+				props.ImportFBXAnimationUserMayChooseModel(plugin, self, props.Analytics)
+			else
+				props.LoadAnimation(loadingName, props.Analytics)
+			end
 		else
-			props.LoadAnimation(loadingName, props.Analytics)
-			self.hideLoadNewPrompt()
+			if loadingName == NEW_KEY then
+				self.hideLoadNewPrompt()
+				self.showCreateNewPrompt()
+			elseif loadingName == IMPORT_KEY then
+				self.hideLoadNewPrompt()
+				props.ImportKeyframeSequence(plugin, props.Analytics)
+			elseif loadingName == IMPORT_FBX_KEY then
+				self.hideLoadNewPrompt()
+				props.ImportFBXAnimationUserMayChooseModel(plugin, self, props.Analytics)
+			else
+				props.LoadAnimation(loadingName, props.Analytics)
+				self.hideLoadNewPrompt()
+			end
 		end
 	end
 end
@@ -493,6 +524,10 @@ local function mapDispatchToProps(dispatch)
 
 		ImportLoadedFBXAnimation = function(plugin, useFBXModel, analytics)
 			dispatch(ImportLoadedFBXAnimation(plugin, useFBXModel, analytics))
+		end,
+
+		SetInReviewState = function(review: boolean): ()
+			dispatch(SetInReviewState(review))
 		end,
 
 		SetIsDirty = function(isDirty)
