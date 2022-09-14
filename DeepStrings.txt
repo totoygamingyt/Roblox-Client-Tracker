@@ -372,7 +372,7 @@ AdditionalAvatarLoadTimeMetrics2
 AdditionalBlacklistHeaders
 AdditionalLuaState
 AddKeyframe
-AddLayoutSegments3
+AddLayoutSegments4
 AddMaterial
 AddMessageBusService
 AddMetricsToTextScraperHttpRequest
@@ -406,7 +406,6 @@ AddTransportOffer
 AddUIToggleToRibbon
 AddUserAsync
 ADebugSSAOForce
-ADeferredVoxelUpdates
 AdGuiEnabled
 AdGuiImageMaxHeightInStudTenths
 AdGuiImageMaxWidthInStudTenths
@@ -1617,7 +1616,6 @@ AstExprVarargs
 AstStatFor
 AstStatFunction
 AstTypePack
-AStudioCreateNativeWindowForDockSplitter
 AsusROG71OSD.dll
 AsusStrixOSD.dll
 AsusU7MKIIOSD.dll
@@ -7098,7 +7096,6 @@ BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
-BCurrentDataModelType
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
@@ -7448,7 +7445,6 @@ BoxHandleAdornment
 BoxMappedMeshLODFix_v2
 BoxSelectCommand
 BPEAUIUnknown
-BplayerFromCharacter
 BPQVYB6_F3P
 BPu_fD9B`uXfD9BpuQ
 BQByteArray
@@ -7571,6 +7567,7 @@ BrushOrigin
 BrushStyle
 BrutalLegendTest
 BruteForceAllSlow
+BsaveSuccessful
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -7674,7 +7671,6 @@ BundleType
 BundleTypes
 BuoyancyAccumulator
 BuoyancyInSensorData2
-BUSGSOPGferp
 BusyStatesShifted
 Buttermilk
 Button1Down
@@ -8458,6 +8454,7 @@ CIDFontName
 CIDFontType
 CIDFontVersion
 CIDMapOffset
+CIkBWHFb13kj
 Cilindrico
 CinderBlock
 CIOSW[^adfikosvy
@@ -10991,6 +10988,7 @@ CurrentCharFormat
 CurrentChatSession
 CurrentColor
 CurrentCursorResultLocation
+CurrentDataModelType
 CurrentDataModelTypeAboutToChange
 CurrentDataModelTypeChanged
 CurrentDate
@@ -12093,6 +12091,7 @@ DeferredNewRegions
 DeferredReporter
 DeferredTerrainChanges
 DeferredUpdates
+DeferredVoxelUpdates
 DefineCallout
 DefineFastFlag
 DefineFastInt
@@ -12163,6 +12162,7 @@ DeleteSync
 DeleteTextures
 DELETETOSTARTOFLINE
 DeleteVertexArrays
+DelistPpr2
 DeliverLowMemoryWarningsViaPolling
 DeliverRtcp
 DeliverRtp
@@ -13044,7 +13044,6 @@ DPERF_EndEvent
 DPERF_GetStatus
 DPOLY1305_ASM
 Dqlqlqlqlql
-DQvTxdDDnXWNQgIGF8JPrU9Ey0DOHU30LZxBLFp5MHdIkfIpbieI
 DraftAdded
 DraftCommitted
 DraftOutdated
@@ -13554,6 +13553,7 @@ ED6CA7E256DC11E2898E9FB8E4A9E79B
 ED6CA7E356DC11E2898E9FB8E4A9E79B
 ED6CA7E456DC11E2898E9FB8E4A9E79B
 ED6CA7E556DC11E2898E9FB8E4A9E79B
+Ed9bmbhwXjTUJxyfmb4FFIMR
 EdgeAnalyticsAllowedUniveseIds
 EdgeAnalyticsCheckUniverseIdEveryXSeconds
 EdgeAnalyticsEventsAggregator
@@ -13653,6 +13653,7 @@ EffectiveRetryCount
 EffectorRotationConstraint
 EffectorTranslationConstraint
 Effettuare
+EFixLayeredCLothingExporter
 EFrontVector
 Egravesmall
 EHERE\EfEpEzE
@@ -13667,7 +13668,6 @@ Einzelspiel
 Einzelspielermodus
 EJJJJJJJJJJJJJJJJJJJJ
 EJTU\^bcfguw
-El8QtjuHsXboiMaQsVJQnRRaoT
 Elaborazione...
 ElapsedSeconds
 ElapsedTime
@@ -13933,6 +13933,7 @@ EnableVertexAttribArray
 EnableVideoTextureDynamicResize2
 EnableVisibilityService
 EnableVoiceSources
+EnableVRBottomBarWorksBehindObjects
 EnableVRUpdate2
 EnableVRUpdate3
 EnableZeroLatencyCacheForVersionedAssets
@@ -14716,6 +14717,7 @@ FamilyBlues
 FamilyName
 FamilyOtherBlues
 FangSong_GB2312
+Fao4X1J1csmzpbxdETBWnADwzh
 Farbaktion
 FarIntensity
 FastBackoff
@@ -15219,9 +15221,9 @@ FixIAdornableCollectorCrash3
 FixInstanceQuotaTruncation
 FixInterpolationMovementCallbacks
 FixJapaneseLineBreak
+FixJoinBitSettingInStream
 FixJointHierarchyCrash
 FixLadderSearchDepth
-FixLayeredCLothingExporter
 FixLCCompressOnDifferentClothesOrder2
 FixLCRagdoll
 FixLoadTimeReporting
@@ -15521,7 +15523,6 @@ FourByFour
 FpFramebuffer
 FpsDuringJoin
 FpsVariance
-FqCDelistPpr2
 Fractional
 FRAGMENT_SCRIPT
 Fragmentos
@@ -15703,6 +15704,7 @@ FRMVoxelizerBudgetWhileLoading
 FromAdPortal
 FromAudioStream
 FromCacheAndCachePendingListIfExist
+FromCharacter
 FromContents
 FromGlobal
 FromInstance
@@ -15980,7 +15982,6 @@ GCMinimumDeletionRateForNonZeroClientInstanceQuota
 GCReducesQuotaCriticalPercent
 GCReducesQuotaPercent
 Gdotaccent
-GDZcZCnsfWHXqiOnBDFmzeRuSwtHnaflku2CUnui3bQRf6O7aNiFwlWOnUO
 GearAction
 GearGenreSetting
 GearVersionIds
@@ -16958,6 +16959,7 @@ GGGGGGGGGGGGGGGGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 GGGJJJJJJJJJJJJJJJJ
+Gi03L0mIkToqo9dgZ4rU0ydg
 Giallarancione
 Gialloverde
 GIM_ShapeRetriever
@@ -17461,7 +17463,6 @@ Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
 Hcircumflex
 HdAvailables
 HDCacheLock
-Hdl1ruy0G9alwVBbM8lgGj
 Head_OuterCage
 HeadColor3
 HeaderCheckBoxClicked
@@ -17638,6 +17639,7 @@ HlsAdaptionLogic
 HlsFixSlowNetworkCrash
 HlsIgnoreDeprecatedRbxTags
 HMACGostR3411
+Hncvjl5QFXvoU8s2sPgwK3e11Am4bRrQsK
 HoldDuration
 Holzbretter
 HomeDataModel
@@ -19371,6 +19373,7 @@ JdiV2Processed
 JdiV2ProcessedPerFrame
 Jdiv2RecvDuringJoin
 JDJNJXJbJlJvJ
+Jg0sK3cJ4N21CNjiwIv2HQCWET32OG9i0smnpAddOgKW1D
 JHJRJ\JfJpJxJ
 JHW4MembershipType
 JIIIIIIIKI
@@ -19459,7 +19462,6 @@ JPEAUICoreWebView2Controller
 JPEAUICoreWebView2CookieList
 JPEAUICoreWebView2Environment
 JPEBUSG_INDEX_TRIANGLE
-JrxF12O2aQGKPqSBy4TglV70D7CpgDxUtCib
 JSElementNotFound
 JsepTransport
 JsepTransportController
@@ -19572,6 +19574,8 @@ KeyValueStorage]
 KeywordFilterType
 KfaO3j5BbG6ijHHxFy22YNNJwxKTT
 KFKPKXK`KhK
+Kgx09c7nMbDCw3sKG52RIUtGPFYsR6nff
+KhKZONqUU371UiZnwz8j9BTaXAXo3As3yrsQJDF9DMDx92QOtDfq4IuaPnwxp
 KickByDatacenter_
 KickClientOnCoreGuiRenderOverflow
 KiDszBCYB0gyp03Pc
@@ -19582,7 +19586,6 @@ KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
 Klebeoberfl
 Kleinschreibung
-KLIiY5AKhErWehzC
 KnownPrefixIndex
 KnownPublishRequest
 KodchiangUPC
@@ -19723,6 +19726,7 @@ LayoutOrder
 LBCbits_inst
 LBCenc_inst
 LC_MESSAGES
+Lc3TDF2DFKF1SoRx7qG4gsPpnP5jcZYCFAC8Jzb
 LcA4LcI0HcI
 LcC4HcS0HcK
 LCCheckCageDimensions
@@ -21545,7 +21549,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA2K9mZSlE1DPWmONtwBltcqr6BFiKuMbnaWoYf5voB5XYwhJ6VSU1
+MIICCgKCAgEA7uvRJPqJ9gNoy2t524v01FOAJwnCIaju
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -22612,6 +22616,7 @@ NPEBVConnection
 NPEBVIceCandidateInterface
 NPEBVIStatus
 NPEBVLocalizationTable
+NpeXgL8ml0k4m0gM
 NSNNNNNNTNh0ii
 NSNNNNNNTNPVR
 NSNNNNNNTNPVV
@@ -22622,6 +22627,7 @@ NSNNNNNWNa
 NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
+Nt8gPr7NPi8UKmieKrgo8uvhtee6vGpShfStCfCcy8317jqGS
 Ntildesmall
 NullAudioPoller
 NullDeviceGuid
@@ -22704,6 +22710,7 @@ NW4ActionType
 NW4HintingPreference
 NW4PenStyle
 NW4UserInputType
+NzYeVAWlxqvLSbyvVqHeVIvMgKBr4kyGLrN41k1
 Oacutesmall
 OAEPEncryptionSET
 OAuth2Config.json
@@ -23792,6 +23799,7 @@ PCDeviceWithResolution
 PCertReqData
 PCertResTBS
 PcFactoryDefaultBitrates
+PCFVZV7W1Z2TfcJ5u78br3ztn91aUPXli2hTfjRVEtw4sAC
 PCStudioApp
 PCStudioAppCJV
 PdL0F0RLTi
@@ -26830,6 +26838,7 @@ QValidator
 QVariantAnimation
 QVBoxLayout
 QVersionNumber
+QvgzIGjdg5JJgj0CAwEAAQ
 QWheelEvent
 QWidgetAction
 QWidgetPluginGui
@@ -28673,6 +28682,7 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
+RlPdp4l9J608bIX
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -29074,7 +29084,6 @@ RV_CODEC_ID_VP8_ENCODER
 RV_CODEC_ID_VP9
 RV_CODEC_ID_VP9_ENCODER
 RvCodecStep
-RvDhcrWtIKYk6fQtzEvslmjmHJdapqOW
 RVERROR_EOF
 RvFlvFormat
 RVideoFormatTrace
@@ -29467,6 +29476,7 @@ ScriptProfilerActiveRegions
 ScriptProfilerAutoSleep
 ScriptProfilerCategories
 ScriptProfilerDumpJSON
+ScriptProfilerEnabled
 ScriptProfilerFrequency
 ScriptProfilerOptimizedStorage
 ScriptProperty
@@ -29583,7 +29593,6 @@ SCTP_STREAM_RESET_EVENT
 SCTP_STREAM_RESET_INCOMING_SSN
 SCTP_STREAM_RESET_OUTGOING_SSN
 SctpTransport
-ScV4KD8A7mKxCUD6shLqgFOHVHcjmhcFIc6ID
 SdesTransport.
 SDK_OPEN_URL
 SDL_APP_DIDENTERBACKGROUND
@@ -31361,10 +31370,10 @@ SpringConstraint
 SpringConstraintAction
 Spritesheet.png
 Sq_rbs\tMu5v
+SQTb2W9avyYM
 SquaredInterFrameDelay
 SquishCheckState
 SquishMakeCommandLineArgsWorkForLuaFlags
-SQzhlsCAwEAAQ
 Src.Thread
 Src.YBegin
 SrcPlaceId
@@ -35839,7 +35848,7 @@ StudioActiveSession.End
 StudioActiveSession.Start
 StudioAddGPUInfoWhenWebView2Failed
 StudioAddInstallInfoToCrashReporting
-StudioAddLockWhenCheckingIsTokenCached
+StudioAddLockWhenCheckingIsTokenCached2
 StudioAddRibbonBarBottomMargin
 StudioAnalytics
 StudioAnalytics]
@@ -35916,6 +35925,7 @@ StudioCookieMigrationHundredthsPercent
 StudioCookieMigrationVersion
 StudioCrash
 StudioCrashLocation
+StudioCreateNativeWindowForDockSplitter
 StudioData
 StudioDataModelType
 StudioDebugger
@@ -38193,7 +38203,6 @@ ToVideoStream
 TownAndCity
 ToWorldSpace
 TPoseAdjusterDefaultVersion
-TR5dJqZR044g
 Tracciamento
 TraceMessage
 TracerService
@@ -38407,10 +38416,8 @@ TurnTeamCreateOff
 TurnTeamCreateOn
 Tutoriales
 TutorialId
-TvDtL1UbKVVa
 TVijpW8m8aLsreZebWfEl5y9RFS7x6WZ555Z6MtZy
 TVNetworkName
-TwabK4D0wEGtYhAVwfF1wIJ1BE2
 TweenEasingDirection
 TweenEasingStyle
 TweenInfo.new
@@ -39144,7 +39151,6 @@ Unverified
 UnverifiedChatMessage
 Unwalkable]
 Unwritable
-UNzxjw8dJrrJZUbqIyR4nKYm77NpIbTqBKyySf9vGrgK8sw8lNDfV23D
 UOperatorX2_cJDxTO
 UOuterCageBloatingWarning
 UOuterCageFarExtendedFromMeshWarning
@@ -39609,6 +39615,7 @@ UserTransparencyControllerDeltaTime
 UseRuntimeConfigForFlipProfilerFrame
 UserUpdatePlayerScriptsTouchControlsEnabled
 UServerSchemaInfo
+UserVRBottomBarWorksBehindObjects
 UserVRVignetteToggle
 UsesAssetInsertionDrag
 UseSceneOriginAsPivot
@@ -39903,7 +39910,6 @@ VAuthTokenManager
 VAvatarEditorService
 VAvatarImportService
 VAvatarLoader
-Vb1F5G7TOfg
 VBackendAdsProvider
 VBackpackItem
 Vbad_alloc
@@ -41821,7 +41827,6 @@ VTotalPlayerCountJob
 VTouchedSignal
 VTouchInputService
 VTouchTransmitter
-VtpvNXjDykbIsDLrI530b8Gq2Twi6l22eYeZ0qqdV1w1e6Br999nUY
 VTracerService
 VTrackerAnimationStreamSource
 VTrackerAV2cPlugin
@@ -42490,6 +42495,7 @@ WmfAudioDecoder
 WmfAudioEncoder
 WmfVideoDecoder
 WmfVideoEncoder
+WmIUViwyadP7Pqj2av8
 Wmvcore.dll
 WoodPlanks
 WoodPlanksName
@@ -42704,7 +42710,6 @@ XInputGetState
 XInputSetState
 Xinvalid_argument
 Xlength_error
-XNZhR2P9LUdgbHO
 Xout_of_range
 XP6AXAEBVQString
 XP6AXPEAVContentProvider
@@ -42921,7 +42926,6 @@ YAXVexception_ptr
 YAXW4error_type
 YAXW4RegistrationType
 Ycircumflex
-Ycm3U2vUCtjSIF
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
@@ -42946,7 +42950,7 @@ Zeilennummer
 Zekton.json
 ZeroTargetSpeedStartTimeCountToTotalCount
 ZgnhKhWhci
-Zh0GikvAdrqtJ
+ZgZj7gEdxWo6Gsy5
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
 ZNjlXiODrHUcaGRYt
@@ -42968,6 +42972,7 @@ Zwischenablage
 Zwischenspeicher
 Zwischenspeichergr
 ZXPEAURVIOContext
+ZxUXFnCXkN87HmZVNBfHYn1QePiQjGHOSJLyVqB1ENA2zHwuKiE36duqiRt
 Zylinderteil
 Zylindrisch
 Zylindrische
