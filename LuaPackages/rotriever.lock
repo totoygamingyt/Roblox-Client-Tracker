@@ -33,6 +33,7 @@ dependencies = [
     "ExperienceChat ExperienceChat 81fd0e0e git+https://github.com/roblox/lua-experience-chat#v2.1.0",
     "ExperienceChat_New ExperienceChat 6b2288f5 git+https://github.com/roblox/lua-experience-chat#v2.2.1",
     "FitFrame RoactFitComponents 2.0.0 url+https://github.com/roblox/roact-fit-components",
+    "HttpRequest HttpRequest 1.1.1 url+https://github.com/roblox/http-request",
     "IAPExperience IAPExperience 375ba9c0 git+https://github.com/roblox/iapexperience#master",
     "InGameMenuDependencies InGameMenuDependencies 5dd650f7 git+https://github.com/roblox/in-game-menu-dependencies#master",
     "JestGlobals JestGlobals 2.4.1 url+https://github.com/roblox/jest-roblox",
@@ -42,6 +43,7 @@ dependencies = [
     "LuaSocialLibrariesDeps LuaSocialLibrariesDeps 90435908 git+https://github.com/roblox/lua-social-libraries-deps#master",
     "LuauPolyfill LuauPolyfill 0.4.2 url+https://github.com/roblox/luau-polyfill",
     "Lumberyak roblox/lumberyak e6abd03f git+https://github.com/roblox/lumberyak#master",
+    "NetworkingVirtualEvents NetworkingVirtualEvents 0.9.1 url+https://github.com/roblox/lua-app-networking",
     "Otter Otter 0.1.4 url+https://github.com/roblox/otter",
     "PolicyProvider roblox/lua-roact-policy-provider 045503a9 git+https://github.com/roblox/lua-roact-policy-provider#master",
     "PremiumUpsellDeps PremiumUpsellDeps 6aa73b7f git+https://github.com/roblox/premium-upsell-deps#master",
@@ -61,6 +63,7 @@ dependencies = [
     "RoactRodux <patched> RoactRodux 0.5.1 url+https://github.com/roblox/roact-rodux",
     "Rodux <patched> roblox/rodux 2ea111e5 git+https://github.com/roblox/rodux#v3.0.0",
     "RoduxGames RoduxGames 1b7ccfde git+https://github.com/roblox/rodux-games#master",
+    "RoduxNetworking RoduxNetworking 3.0.1 url+https://github.com/roblox/rodux-networking",
     "StringUtilities roblox/string-utilities 1.0.0 url+https://github.com/roblox/string-utilities",
     "TagUtils TagUtils 0.1.0 url+https://github.com/roblox/luau-tag-utils",
     "Thumbnailing Thumbnailing 2b3e64e5 git+https://github.com/roblox/thumbnailing#main",
@@ -717,6 +720,13 @@ name = "NetworkingUsers"
 version = "1.0.1"
 commit = "eaf4be2527777a172bc3dfb7cfdea80f1b363d44"
 source = "url+https://github.com/roblox/networking-users"
+
+[[package]]
+name = "NetworkingVirtualEvents"
+version = "0.9.1"
+commit = "df7865a7e3b914c63eb109ae1468a1c320cf3d86"
+source = "url+https://github.com/roblox/lua-app-networking"
+dependencies = ["Util Util 0.9.1 url+https://github.com/roblox/lua-app-networking"]
 
 [[package]]
 name = "Otter"
@@ -1389,6 +1399,12 @@ source = "url+https://github.com/roblox/lua-app-networking"
 name = "Util"
 version = "0.7.0"
 commit = "2e42dbf0544e1d48489617c196caaff781a06d6a"
+source = "url+https://github.com/roblox/lua-app-networking"
+
+[[package]]
+name = "Util"
+version = "0.9.1"
+commit = "df7865a7e3b914c63eb109ae1468a1c320cf3d86"
 source = "url+https://github.com/roblox/lua-app-networking"
 
 [[package]]

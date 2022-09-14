@@ -44,6 +44,9 @@ Promise = "github.com/Roblox/roblox-lua-promise@3.3.0"
 VirtualizedList = { git = "https://github.com/roblox/virtualized-list-upgrade", rev = "0.4.0", package = "VirtualizedListProxy" }
 VirtualizedListUpgradeFlag = { git = "https://github.com/roblox/virtualized-list-upgrade", rev = "0.4.0", package = "VirtualizedListUpgradeFlag" }
 LuauPolyfill = "github.com/Roblox/luau-polyfill@0.4.0"
+RoduxNetworking = "github.com/Roblox/rodux-networking@3.0.1"
+NetworkingVirtualEvents = "github.com/Roblox/lua-app-networking@0.9.1"
+HttpRequest = "github.com/Roblox/http-request@1.1.1"
 
 # The following packages were ported from AppTempCommon
 Result = { git = "https://github.com/Roblox/lua-result" }
