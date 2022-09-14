@@ -752,7 +752,6 @@ Agreements
 Aguardando
 Aguarde...
 AHHVWeakObjectRef
-AhtwBoEAiUll9
 AHVWeakObjectRef
 AHW4DataStoreRequestType
 AHW4DebuggerExceptionBreakMode
@@ -1363,7 +1362,6 @@ AQ_MODE_COUNT
 AQJsonArray
 AQJsonDocument
 AQJsonObject
-AQYVV0iT7K
 Arbeitsbereich
 Arbeitszyklusplaner
 ArcadeStick
@@ -7181,6 +7179,7 @@ BHHHHHHHHHHHHHHHHHHHHHHHHHH
 BhHlLjJTiIfdnczsxX
 Bibliotheksausweises
 Bidirectional
+BiICxsahtLN8S9Nn2WxdKHIMnuvGk5Q6eLsAnMIQ1ndtMAUG8dXv8X3MMhfw5hQX
 BIIIIIIIIIIIIIIIIIIIIIIIIII
 Bildlauffenster
 Bildschirm
@@ -7440,6 +7439,7 @@ BoundPropGetSet
 BoundToPartCount
 BoundToPlaceSessionModel
 BoundYieldFuncDesc
+BoWMnom2bl9mClI2TNQkKT1b6ZqeX4BoRfuc2ncrTcEVsE1Vsoxt0dUH7YYtKYE2
 BoxBoxCollisionAlgorithm
 BoxClicked
 BoxHandleAdornment
@@ -7508,6 +7508,7 @@ BreakUpPerfAggregate
 BRenderGrassHeightScaler
 BRenderReportOutOfMemory
 Brevesmall
+BrfKRVv46dMW9TV7gXoQ6gKTFKi3yqeiZsiBjYMp0siUktISTHph
 BrickColor
 BrickColor.
 BrickColorChanged
@@ -8466,7 +8467,6 @@ CircularList
 Circumflexsmall
 CityBackground.png
 ClampColor
-ClampTargetIndentLevel
 ClassCategory
 ClassDescriptor
 Classement
@@ -10724,6 +10724,7 @@ CryptSignHashW
 CryptStringToBinaryA
 CryptVerifySignature
 CryptVerifySignatureA
+CrZTe9qBemNK8jrCvvQFvhw6djZPSy5abW3Yf7xjgqv2ZmLht3SczLpsGg
 CSArrayCpu
 CSArrayCpu.push
 CSArrayIn.length
@@ -12891,7 +12892,6 @@ DistributionPoint
 DistributionPoints
 DistributorType
 DistToShowBufferCountSqr
-Djk99yHi3V2vwMOZHkp6mlBXxudUn2pYQFeBrRPjjxfuyXKnKwx
 DJOTX\_cfiloruwz
 DkCageMeshDistanceSDCoeff
 DKECCAK1600_ASM
@@ -12997,6 +12997,7 @@ DoubleConstrainedValue
 DoublePropertyItem
 DoubleSided
 DoubleSpinBoxWidget
+DOWIKBVDEjURc8AEoE79V73lZ25v4quk94IyEUD24l
 Down_key.png
 Down_key_dn.png
 Down_old.png
@@ -14084,7 +14085,6 @@ EnviroSpeed
 EnvMapUpdate
 EnvTexture
 EnvTextureInProgress
-Eo8XOIO4Rnpj8UDvZPpB2w6H0
 EoOoZoaozo
 EphemeralCounter
 EphemeralCounterInfluxReportingEnabled
@@ -14102,6 +14102,7 @@ EquippedEmotesAddId
 EquippedEmotesAddIdClientData
 EquippedEmotesChanged
 EquippedEmotesDataInternal
+EQVlmSkSmtOZ27lJJUOjIIm1PsbiHaW90lpVNVJHqt1uMCAwEAAQ
 EraseRootNodeModified
 ERR_LIB_SSL
 ErrDontRetry
@@ -14155,7 +14156,6 @@ ErrOutOfRetries
 Erscheinungsbild
 Erstelldatum
 Erweiterte
-Esc4fFxNSHBRtR
 Escritorio
 ESDescriptor
 ESDHwith3DES
@@ -14377,7 +14377,6 @@ ExcuseThrottledRequests
 ExecDisallowed
 Executable
 ExecutableLine
-ExecuteActionOnFocusedEditor2
 ExecuteCoreScriptWithArgs
 ExecutedAsTool
 ExecuteDynInitTests
@@ -14904,7 +14903,6 @@ FFlagStudioQtSVGIcons
 FFlagStudioRemoveShareWithRobloxFriends
 FFlagStudioToastNotificationsInLua
 FFoRLVHHHHoTJVF
-FGoPVHFsfJASMglMk81hD1SEb
 FHFRF\FfFpFzF
 FieldChanged
 FieldMessageLabel
@@ -15203,6 +15201,7 @@ FixFbxParserThrowNotBeingCaught
 FixFirstPersonMouseCursorSnapping_CenterPos
 FixFirstPersonMouseCursorSnapping_ForceCursor
 FixFloorMaterialProp3
+FixFontSetters
 FixForBulkPresenceNotifications
 FixForOutOfBoundsFrameBufferAccess
 FixGamepadCursorIdlePosition
@@ -15241,7 +15240,6 @@ FixRenderSizeForBillboardGui
 FixRepeatingKeysPreventingTyping
 FixReplicatedFirstMetrics
 FixReportingPathfindingCostsInUse
-FixRichTextFontNotUpdatingOnMadeVisible
 FixRichTextLinebreakIndentation2
 FixRigNotRebuilding
 FixScalingValueRename
@@ -15768,13 +15766,11 @@ FutureIsBrightPhase2GL3
 FutureIsBrightPhase2GLES3
 FutureIsBrightPhase3Vulkan
 FuzzyWeightModel
-FW6EF1CZBN1XV8RZ
 FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FXHcFLH9FX
-FxLF3hLojR8J
 GainControl
 GainController2
 GainMakeup
@@ -19068,6 +19064,7 @@ IPAddressFamily
 IPAddressOrRange
 IPAddressRange
 IPHLPAPI.DLL
+IPjXChUFwG58hDS6DNOW8WGqLVk7leYXixSfoQw8mu
 IPlaceSessionModel
 IPluginElementHost
 IPluginLoader
@@ -19370,6 +19367,7 @@ JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
 JHW4MembershipType
 JIIIIIIIKI
+JiRxUkDgvbvVCD7RT4lzstrjcMkpq7bxdR9CKLSzUPmOg1sUFsz1E3ndzLNBOEK5
 JitterBufferDelayInterface
 JitterBufferDelayProxyWithInternal
 JJJBBB\\\xx
@@ -19491,6 +19489,7 @@ JW4InfoType
 JW4TextChatMessageStatus
 JW4TextFilterContext
 JW4ThumbnailType
+JxjQwZgub8Ng40VFkavekwQ4Ezamm
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -19498,7 +19497,7 @@ Kalam.json
 Kameraempfindlichkeit
 Kamerageschwindigkeit
 Kamerazoom
-KBdOjfCpTC78
+KAyHzfsYHyHanzNeioBr8Zuc
 KBytesPerSec
 KeepAliveTimeout
 KeepPositionOnInsert
@@ -19678,7 +19677,6 @@ LatestChannel
 LatestPlacePersistenceLocation
 LatestVersion
 LatestVersionNumber
-LATitvlbfTD4AkCAwEAAQ
 Latticello
 LAUNCH_CONVERSATION
 LAUNCH_GAME
@@ -20947,6 +20945,7 @@ MayBeLinkedSourceModified
 MaybeStartGathering
 MaybeStartPinging
 MaybeSwitchSelectedConnection
+Mbb8bnQM88gXVUazVEiVOy6PvwfKmcbuHyv
 MbXMVSIi\H
 McF4IcV0IcF
 McF4IcV0IcN
@@ -21540,7 +21539,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA6iT26GNa
+MIICCgKCAgEAsIZzB
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21607,7 +21606,6 @@ Mitglieder
 Mitteilungen
 Mitwirkender
 MixLevelsOutput
-Miypg31glMiEik9
 MkvStreamWriter
 MLineIndex
 MMDeviceEnumerator
@@ -21949,7 +21947,6 @@ MsgWaitForMultipleObjectsEx
 MSTerrainDetailsDeterminism
 MsToScreen
 MSVCP140.dll
-MTIxOA4IWHUSVeYwHCN6wqU
 MTU_Country_
 MTU_Platform_
 Mtx_current_owns
@@ -22609,7 +22606,6 @@ NPEBVConnection
 NPEBVIceCandidateInterface
 NPEBVIStatus
 NPEBVLocalizationTable
-NpOHrOKZf55FLAdlk5jhtrFS
 NSNNNNNNTNh0ii
 NSNNNNNNTNPVR
 NSNNNNNNTNPVV
@@ -22865,6 +22861,7 @@ OfTruthFindItemFound
 OfUnsplitMessages
 OfVisibleResultsInScripts
 OfVisibleScripts
+OgCtn3UEJoAt
 Ogoneksmall
 Ogravesmall
 OGRE_VIEW_UPDATE
@@ -23100,7 +23097,6 @@ OpenScriptDocsForCurrentGameState
 OpenScriptDocumentAPI
 OpenScriptDocumentAsync
 OpenScriptFileVerb
-OpenScriptFromLocationAssert
 OpenScriptHistoryVerb
 OpenScriptVersionDocTask
 OpenSctpSocket
@@ -23566,7 +23562,7 @@ ParallelLuaEnforceScriptConnect
 ParallelLuaJoinMain
 ParallelLuaMaxCycles
 ParallelLuaNoParallelRequire
-ParallelLuaSignalOptimization
+ParallelLuaSignalOptimization2
 ParallelLuaSingleTask
 ParallelLuaStaticallyPoolVMStates
 ParallelLuaStaticallyPoolVMStatesPerCoreMax
@@ -26047,6 +26043,7 @@ PVInstance
 PVK_header
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
+Pzk5XkQZaYddxpEhOx24bKayC
 QAbstractAnimation
 QAbstractButton
 QAbstractItemDelegate
@@ -26561,7 +26558,6 @@ QJsonObject
 QJsonValue
 QJsonValueRef
 QKeySequence
-Ql5R2fZDvnL0Fz9LsdI77tVSLreyq9
 QLabel[iconLabel
 QLabel[iconLabelText
 QLabel[invalidFieldMessageLabel
@@ -26588,6 +26584,7 @@ Qml2Imports
 QModelIndex
 QMouseEvent
 QMoveEvent
+QMUkiY6cFEvmAFDbo0VZbRsCiNc5qPG4LhTzsg
 QMutexLocker
 QNetworkAddressEntry
 QNetworkInterface
@@ -28526,7 +28523,6 @@ RevocationUrl
 RevokeFriendship
 RevokeTokenRequest
 Revolution
-RF1cA66cfMCeXQuJ3eOkXFqEgLPu4fDHHx0jWgWcBWoDfKnLXcpzrzpbtplJUNH
 RFormatTrace]
 RGBA_Buffers
 RGBOL565RGBP5551RGBO
@@ -28670,7 +28666,6 @@ Rimuovendo
 Ripristina
 Ripristinato
 Ripristino
-RIQB9NY6zBSRaEY9Q5H4RWGfTDAts6U0v
 Risoluzione
 Rj0isQcnqX
 ROBLOSECURITY
@@ -29102,7 +29097,6 @@ SA_NAEBVQUrl
 SA_NPEAVQObject
 SA_NPEAVQTranslator
 SA_NPEBUAbstractConverterFunction
-SaAFbN1RIEZq4v3OkM3P24fs8AsmSJuyH
 SafeMoveBaseIncrementMillis
 SafeMoveGrowthFactorMillis
 SafeMoveMaxIncrementMillis
@@ -31368,7 +31362,6 @@ SRTP_AEAD_AES_128_GCM
 SRTP_AEAD_AES_256_GCM
 SRTP_AES128_CM_SHA1_32
 SRTP_AES128_CM_SHA1_80
-SRxIjq4hwThmb6UqR1VODxSE9cH0slTgbfQAgipFIIiVJGHtKUl5bKkR4cygbvD
 SS2OSD.dll
 SSAOBlurXFS
 SSAOBlurYFS
@@ -36595,7 +36588,6 @@ SUWATAVAWH
 SUWAUAVAWH
 SVATAUAVAWH
 SVGLuaIcons
-SVinmVrHgdC2TA
 SVWATAUAVAW
 SVWATAUAVAWH
 SVWATAUAVH
@@ -36686,7 +36678,6 @@ SystemTimeToFileTime
 SystemTotalMemory
 SystemUtil
 SystemUtil]
-SyyDnWI16xAkURcAUs6oPAcr87n91gahI
 T_gridOff_old.png
 T_gridToOne_old.png
 T_gridToOneFifth_old.png
@@ -38506,6 +38497,7 @@ UAWAVAUATVWSH
 UAWAVVWSPH
 UAWebLoginErrorHundredthsPercentage
 UAWebLoginErrorPriorityHundredthsPercentage
+Ub9z07LWT8g7ejTgXiIMZJbdNq2U6
 Ubad_adjustment
 Ubad_alloc_
 Ubad_day_of_month
@@ -41194,6 +41186,7 @@ VoiceChatMaxPostSubscriptionsComplete2SubscriptionsCompletedMs
 VoiceChatMaxPostSubscriptionsStart2RcvdSignalRSubscriptionsInitiatedMs
 VoiceChatMaxRcvdSignalRSubscriptionsInitiated2PostSubscriptionsCompleteMs
 VoiceChatMaxSubscriptionsStart2RcvdSignalRSubscriptionsCompletedMs
+VoiceChatMessagingTransportAudioInterlea
 VoiceChatMessagingTransportAudioInterleaved
 VoiceChatMessagingTransportAudioInterleavedFrameDecoder
 VoiceChatMessagingTransportAudioInterleavedFrameEncoder
@@ -42864,7 +42857,6 @@ XW4ScreenOrientation
 XW4Status_e
 XW4TweenStatus
 XW4WebSocketEventType
-XW5iu3lMl4aDhjqdg5MEZziJXLsb2tIAK8Z
 XwhvcEikuIaqb7nHhEJ
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
 XXXXXXXXXXXXXXXXXXXXXXXXX
