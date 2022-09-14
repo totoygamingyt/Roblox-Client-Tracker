@@ -6,8 +6,6 @@ game:DefineFastFlag("LimitGroupRoleSetPermissionsInGui", false)
 
 game:DefineFastFlag("ToolboxLocalizeInsertTool2", false)
 
-game:DefineFastFlag("ToolboxCreatorMarketplaceWebLinks", false)
-
 game:DefineFastFlag("ToolboxInsertMaterialsInMS", false)
 
 game:DefineFastFlag("ToolboxTrackHidden", false)
@@ -45,6 +43,8 @@ game:DefineFastFlag("ToolboxPackagesInAssetTile", false)
 game:DefineFastFlag("ToolboxFixInsertPackage", false)
 
 game:DefineFastFlag("ToolboxFixPackageDragging", false)
+
+game:DefineFastFlag("ToolboxFixPublishPackageColor", false)
 
 game:DefineFastFlag("AssetConfigLayeredClothingBoxCollisions", false)
 

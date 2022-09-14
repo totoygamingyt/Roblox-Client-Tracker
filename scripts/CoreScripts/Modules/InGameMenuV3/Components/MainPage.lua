@@ -35,6 +35,7 @@ local GamePostFavorite = require(InGameMenu.Thunks.GamePostFavorite)
 local Spacer = require(InGameMenu.Components.Spacer)
 local LeaveButton = require(InGameMenu.Components.LeaveButton)
 local PageUtils = require(InGameMenu.Components.Pages.PageUtils)
+local PageNavigationWatcher = require(InGameMenu.Components.PageNavigationWatcher)
 
 local HttpRbxApiService = game:GetService("HttpRbxApiService")
 local Network = InGameMenu.Network
@@ -74,6 +75,15 @@ function MainPage:init()
 	self.fetchGameIsFavorite = function()
 		return self.props.fetchGameIsFavorite(networkImpl)
 	end
+
+	self.onMenuNavigate = function(menuOpen, prevOpen)
+		if menuOpen and not prevOpen then
+			local scrollingFrame = self.scrollingFrameRef:getValue()
+			if scrollingFrame and scrollingFrame.CanvasPosition.Y > 0 then
+				scrollingFrame.CanvasPosition = Vector2.new(0, 0)
+			end
+		end
+	end
 end
 
 function MainPage:renderMainPageFocusHandler()
@@ -106,6 +116,10 @@ function MainPage:render()
 				AutoButtonColor = false,
 				Selectable = false,
 			}, {
+				PageNavigationWatcher = Roact.createElement(PageNavigationWatcher, {
+					desiredPage = Constants.MainPagePageKey,
+					onNavigate = self.onMenuNavigate,
+				}),
 				MainPageFocusHandler = GetFFlagUseIGMControllerBar()
 						and not VRService.VREnabled
 						and self:renderMainPageFocusHandler()
@@ -182,13 +196,6 @@ end
 function MainPage:didUpdate(prevProps, prevState)
 	if VRService.VREnabled then
 		UserInputService.OverrideMouseIconBehavior = Enum.OverrideMouseIconBehavior.ForceHide
-	end
-
-	if self.props.open and not prevProps.open then
-		local scrollingFrame = self.scrollingFrameRef:getValue()
-		if scrollingFrame and scrollingFrame.CanvasPosition.Y > 0 then
-			scrollingFrame.CanvasPosition = Vector2.new(0, 0)
-		end
 	end
 end
 
