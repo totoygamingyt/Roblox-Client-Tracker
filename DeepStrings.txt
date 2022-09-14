@@ -1255,6 +1255,7 @@ ApiRateLimit
 ApmExperimentalMultiChannelCaptureKillSwitch
 ApmExperimentalMultiChannelRenderKillSwitch
 ApolloServerUrl
+App.AutoSaveDialog.Title
 Apparition
 AppBridge]
 AppBridgePlaceLaunchExponentialBaseFraction
@@ -1424,6 +1425,7 @@ ArtificialLatencyIxpBackendMs
 ArtificialLatencyIxpCacheMs
 ArtificiallyDelayed
 ArtistIntent
+ArVskPwdPbiFpl
 Ascii_helper
 AShotOfEsspressoForEveryone
 ASIdentifierChoice
@@ -7179,7 +7181,6 @@ BHHHHHHHHHHHHHHHHHHHHHHHHHH
 BhHlLjJTiIfdnczsxX
 Bibliotheksausweises
 Bidirectional
-BiICxsahtLN8S9Nn2WxdKHIMnuvGk5Q6eLsAnMIQ1ndtMAUG8dXv8X3MMhfw5hQX
 BIIIIIIIIIIIIIIIIIIIIIIIIII
 Bildlauffenster
 Bildschirm
@@ -7439,7 +7440,6 @@ BoundPropGetSet
 BoundToPartCount
 BoundToPlaceSessionModel
 BoundYieldFuncDesc
-BoWMnom2bl9mClI2TNQkKT1b6ZqeX4BoRfuc2ncrTcEVsE1Vsoxt0dUH7YYtKYE2
 BoxBoxCollisionAlgorithm
 BoxClicked
 BoxHandleAdornment
@@ -7447,8 +7447,10 @@ BoxMappedMeshLODFix_v2
 BoxSelectCommand
 BPEAUIUnknown
 BPQVYB6_F3P
+BprUXAuaGG
 BPu_fD9B`uXfD9BpuQ
 BQByteArray
+BQOR92Wj6RkwAx
 BQPersistentModelIndex
 BQTextFormat
 BreakAccoutrementCycles
@@ -7508,7 +7510,6 @@ BreakUpPerfAggregate
 BRenderGrassHeightScaler
 BRenderReportOutOfMemory
 Brevesmall
-BrfKRVv46dMW9TV7gXoQ6gKTFKi3yqeiZsiBjYMp0siUktISTHph
 BrickColor
 BrickColor.
 BrickColorChanged
@@ -7570,6 +7571,7 @@ BrushStyle
 BrutalLegendTest
 BruteForceAllSlow
 BsaveSuccessful
+BStudio.App.Tooltip.Variadic
 BtnBackground.png
 BtPoolAllocatorInitFailure
 BtYovqVKoHMDMoDd0u9Mc5CIyRqyu0IGS99A0jeEXRj7aofQ
@@ -10724,7 +10726,6 @@ CryptSignHashW
 CryptStringToBinaryA
 CryptVerifySignature
 CryptVerifySignatureA
-CrZTe9qBemNK8jrCvvQFvhw6djZPSy5abW3Yf7xjgqv2ZmLht3SczLpsGg
 CSArrayCpu
 CSArrayCpu.push
 CSArrayIn.length
@@ -12549,6 +12550,7 @@ DeviceLost
 DEVICELOST
 DeviceLost]
 DeviceMemory
+DeviceModule]
 DeviceName
 DeviceOrientation
 DeviceOrientationChanged
@@ -12997,7 +12999,6 @@ DoubleConstrainedValue
 DoublePropertyItem
 DoubleSided
 DoubleSpinBoxWidget
-DOWIKBVDEjURc8AEoE79V73lZ25v4quk94IyEUD24l
 Down_key.png
 Down_key_dn.png
 Down_old.png
@@ -14069,6 +14070,7 @@ EnumProcesses
 EnumProcessModules
 EnumPropDescriptor
 EnumPropertyItem
+EnUxTWXYL5W
 EnvCapture
 EnvelopedData
 EnvelopedData_init_bio
@@ -14102,7 +14104,7 @@ EquippedEmotesAddId
 EquippedEmotesAddIdClientData
 EquippedEmotesChanged
 EquippedEmotesDataInternal
-EQVlmSkSmtOZ27lJJUOjIIm1PsbiHaW90lpVNVJHqt1uMCAwEAAQ
+EqWyI3jbpAGjF7DP0tR4mYz5ZAvMmgq9XOAuRr4ZXQibzdriKjGd4Vr
 EraseRootNodeModified
 ERR_LIB_SSL
 ErrDontRetry
@@ -15970,6 +15972,7 @@ GAThrottlingEventThresholdHundredthCat1
 GAThrottlingEventThresholdHundredthCat2
 GAThrottlingEventThresholdHundredthCat3
 GazeSelectionEnabled
+GBMKDhDDd65R84IGD
 GCDistance
 GCHappened
 Gcircumflex
@@ -17310,6 +17313,7 @@ GuiVisibilityChangedSignal
 GunCursor.png
 GunWaitCursor.png
 GvEphfEUiHHoD6hYFI4xWGpAnIHcklKQCxrf46kAhDGeZnqIgeGszlGdWafunGE8
+GvhNgmB4xYlYHnR3w7cCAwEAAQ
 GVKUTS[BXIWH\KbHi
 GXGfGkGpGuG
 GyroscopeEnabled
@@ -17453,6 +17457,7 @@ HbaoCompositFS
 HBAODepthDownFS
 HbaoRenderCompute
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
+HbjbVhh0pulq1iAzGHVzOtoSX
 Hcircumflex
 HdAvailables
 HDCacheLock
@@ -18093,6 +18098,7 @@ HW4MatchType
 HW4Orientation
 HW4PacketPriority
 HW4TransformationMode
+HwBzPdweBh7JCTQdpNj65
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
@@ -18309,6 +18315,8 @@ ImmersiveAdGui_HorizontalRectangle
 ImmersiveAdImpression
 ImmersiveAdImpressionEventThrottleHundrethsPercent
 ImmersiveAdPortal
+ImmersiveAdsUniverseWhitelist
+ImmersiveAdsWhitelistDisabled
 ImmHandlerFixJapaneseAndKorean2
 Implementa
 Implementaci
@@ -19064,7 +19072,6 @@ IPAddressFamily
 IPAddressOrRange
 IPAddressRange
 IPHLPAPI.DLL
-IPjXChUFwG58hDS6DNOW8WGqLVk7leYXixSfoQw8mu
 IPlaceSessionModel
 IPluginElementHost
 IPluginLoader
@@ -19367,7 +19374,6 @@ JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
 JHW4MembershipType
 JIIIIIIIKI
-JiRxUkDgvbvVCD7RT4lzstrjcMkpq7bxdR9CKLSzUPmOg1sUFsz1E3ndzLNBOEK5
 JitterBufferDelayInterface
 JitterBufferDelayProxyWithInternal
 JJJBBB\\\xx
@@ -19489,15 +19495,14 @@ JW4InfoType
 JW4TextChatMessageStatus
 JW4TextFilterContext
 JW4ThumbnailType
-JxjQwZgub8Ng40VFkavekwQ4Ezamm
 K\7IxU..UxI7\K
 K_Key_dn.png
+KADkwS6AQuoHKo5uuOaNbXAvwD2VxLEyj19rExtKMCXd5
 KaiTi_GB2312
 Kalam.json
 Kameraempfindlichkeit
 Kamerageschwindigkeit
 Kamerazoom
-KAyHzfsYHyHanzNeioBr8Zuc
 KBytesPerSec
 KeepAliveTimeout
 KeepPositionOnInsert
@@ -19605,6 +19610,7 @@ KPEBDPEBDH
 Kugelverbindung
 Kundendienst.
 Kundensupport.
+Kx18k3H9t2PaJzC3xZZASuBpARRiLW7Zv
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 L^N6LfN6LlN6LdN6Ly
 LA_SHAPE_MAX
@@ -20556,6 +20562,7 @@ LuauAutocompleteCheckTimeoutMs
 LuauAutocompleteDynamicLimits
 LuauBinaryNeedsExpectedTypesToo
 LuauBuiltInMetatableNoBadSynthetic
+LuauCallUnifyPackTails
 LuauCheckGenericHOFTypes
 LuauCheckRecursionLimit
 LuauClassTypeVarsInSubstitution
@@ -20945,7 +20952,6 @@ MayBeLinkedSourceModified
 MaybeStartGathering
 MaybeStartPinging
 MaybeSwitchSelectedConnection
-Mbb8bnQM88gXVUazVEiVOy6PvwfKmcbuHyv
 MbXMVSIi\H
 McF4IcV0IcF
 McF4IcV0IcN
@@ -21539,7 +21545,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAsIZzB
+MIICCgKCAgEAxf4pA2hP0IhmZxqZUCbTLrc3
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -22861,7 +22867,6 @@ OfTruthFindItemFound
 OfUnsplitMessages
 OfVisibleResultsInScripts
 OfVisibleScripts
-OgCtn3UEJoAt
 Ogoneksmall
 Ogravesmall
 OGRE_VIEW_UPDATE
@@ -23357,6 +23362,7 @@ Overwriting
 Overwriting.
 OwnPermission
 OwnProperty
+OZArtgn2l6kCVSQqOWIT80PwCMXID9kwqzlaWnj4RmdI
 Ozs8xYCf2Q05p4gHyX
 PA^A]A\_^[]
 PA^A]A\_^][
@@ -24627,6 +24633,8 @@ PerfAggregate
 PerfAggrSummary
 PerfDataGlobalThrottleHundredthsPercent
 PerfDataLocalStorageSyncPeriodSec
+PerfDataOnly
+PerfDataOnlyReportSummaryWhenTrue
 PerfDataSummaryModeHundredthsPercent
 PerfFilterAppVersion
 PerfFilterDevice
@@ -24716,6 +24724,7 @@ Personnaliser...
 PerThreadTimer
 PerThreadTimerTotal
 Pesquisar...
+PFS3BoHxGyNcw
 PGSAlign2AxesCorrectionDamping
 PGSAlign2AxesPStageFrictionConstant
 PGSAlign2AxesVStageFrictionConstant
@@ -25506,6 +25515,7 @@ PostSimulation
 PostThreadMessageA
 PostThreadMessageW
 PotentialShadowCasters
+PovAA4dkkwqmO9i2nNQ9irOe4akim
 POWRPROF.dll
 PpjCapacity
 PpjClientBreak
@@ -26043,7 +26053,6 @@ PVInstance
 PVK_header
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
-Pzk5XkQZaYddxpEhOx24bKayC
 QAbstractAnimation
 QAbstractButton
 QAbstractItemDelegate
@@ -26584,7 +26593,6 @@ Qml2Imports
 QModelIndex
 QMouseEvent
 QMoveEvent
-QMUkiY6cFEvmAFDbo0VZbRsCiNc5qPG4LhTzsg
 QMutexLocker
 QNetworkAddressEntry
 QNetworkInterface
@@ -29085,6 +29093,7 @@ RVMEDIA_TYPE_VIDEO
 RvMp4Format
 RvScaleFixResize2
 RvWebmFormat
+Rx8K7wtfWeoAcJM5GPHH1RI1opLFbBnnmInV3OXQm4
 RxIgnoredBytes
 RxIgnoredPackets
 RxQueueSize
@@ -29266,6 +29275,7 @@ Scorciatoia
 Scottsdale1
 ScraperJob
 ScreenGuiAction
+ScreenGuiUpdateViewportBeforeRender2d
 ScreenOrientation
 ScreenPointToRay
 ScreenProtocolCore
@@ -35451,7 +35461,6 @@ Studio.App.TemplatesPage.AllTemplates
 Studio.App.Theme.InvalidGetThemeApi
 Studio.App.ToastNotificationService.NotAvailable
 Studio.App.Tooltip.GoToSource
-Studio.App.Tooltip.Variadic
 Studio.App.TwoStepVerificationPage.Enter6DigitCode
 Studio.App.TwoStepVerificationPage.NeedHelpContact
 Studio.App.TwoStepVerificationPage.RobloxSupport
@@ -35620,6 +35629,7 @@ Studio.Common.Action.Height
 Studio.Common.Action.Help
 Studio.Common.Action.HideDetails
 Studio.Common.Action.Home
+Studio.Common.Action.Ig
 Studio.Common.Action.Ignore
 Studio.Common.Action.Insert
 Studio.Common.Action.Install
@@ -37664,6 +37674,7 @@ TitleBarProgress
 TitlebarText
 TitleBarVisible
 TJNLerU][Wr
+TKkqsjqYMjEj
 TLS_AES_128_CCM_8_SHA256
 TLS_AES_128_CCM_SHA256
 TLS_AES_128_GCM_SHA256
@@ -38497,7 +38508,6 @@ UAWAVAUATVWSH
 UAWAVVWSPH
 UAWebLoginErrorHundredthsPercentage
 UAWebLoginErrorPriorityHundredthsPercentage
-Ub9z07LWT8g7ejTgXiIMZJbdNq2U6
 Ubad_adjustment
 Ubad_alloc_
 Ubad_day_of_month
@@ -38701,6 +38711,7 @@ UGCMeshVertColorsWarning
 UGCUpdateErrors
 UGCValidationService
 UGCValidationUtil
+UgdKrHLRntEVXpTAV
 UGeneralResponse
 UGeometryBatch
 Ugravesmall
@@ -41186,7 +41197,6 @@ VoiceChatMaxPostSubscriptionsComplete2SubscriptionsCompletedMs
 VoiceChatMaxPostSubscriptionsStart2RcvdSignalRSubscriptionsInitiatedMs
 VoiceChatMaxRcvdSignalRSubscriptionsInitiated2PostSubscriptionsCompleteMs
 VoiceChatMaxSubscriptionsStart2RcvdSignalRSubscriptionsCompletedMs
-VoiceChatMessagingTransportAudioInterlea
 VoiceChatMessagingTransportAudioInterleaved
 VoiceChatMessagingTransportAudioInterleavedFrameDecoder
 VoiceChatMessagingTransportAudioInterleavedFrameEncoder
@@ -41839,6 +41849,7 @@ VUIPageLayout
 VUISizeConstraint
 VUITableLayout
 VUITextSizeConstraint
+VukwTV19KFlU
 VulkanAlwaysLogLayersAndExtensions
 Vunderflow_error
 VUnionOperation
@@ -42305,6 +42316,7 @@ WGL_NV_vertex_array_range
 WGL_NV_video_capture
 WGL_NV_video_output
 WGL_OML_sync_control
+Wh0T42A5BhR
 WhatsNewAction
 WhatsNewNumEntries
 WhatsNewWindow
@@ -42573,9 +42585,11 @@ WSAstartup
 WSAStartup
 WSAWaitForMultipleEvents
 WsClientIdleSleepMs
+WuK6X0Xq1VdyFQXwq
 WWWWWWWWWW
 WWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWW
+WWWzWfZ19Pll
 X[]_^A\A]A^A_
 X_JW4AssetType
 X_NW4StudioGameStateType
@@ -42910,6 +42924,7 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
+YK6pz8p6fJa4J
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
@@ -42920,6 +42935,7 @@ ZAEAPEBV34
 ZAEBQEAV34
 Zahlenfarbe
 Zb\b^Lbbp6tPxb
+ZbzoFAnKWUiGuiJ7Kzh4
 Zcaronsmall
 Zdotaccent
 Zeichenfolgefarbe
