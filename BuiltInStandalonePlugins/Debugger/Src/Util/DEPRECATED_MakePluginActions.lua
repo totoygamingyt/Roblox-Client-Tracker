@@ -5,16 +5,7 @@ local deepCopy = Util.deepCopy
 
 local Constants = require(script.Parent.Constants)
 
-local function makeAction(localization, id, actionData, callBackFunction)
-	return {
-		Id = id,
-		Text = localization:getText("Common", id),
-		Data = actionData,
-		OnItemClicked = callBackFunction,
-	}
-end
-
-local function makePluginAction(localization, id)
+local function makeAction(localization, id)
 	return {
 		id = id,
 		text = localization:getText("Common", id),
@@ -22,11 +13,10 @@ local function makePluginAction(localization, id)
 	}
 end
 
-
 local function getStepActions(localization)
 	local actions = {}
 	for key, value in pairs(Constants.StepActionIds) do
-		actions[value] = makePluginAction(localization, value)
+		actions[value] = makeAction(localization, value)
 	end
 
 	--[[ TODO https://jira.rbx.com/browse/RIDE-6132
@@ -49,10 +39,10 @@ local function getStepActions(localization)
 	return actions
 end
 
-local function getCallstackActions(localization, callBackFunction)
+local function getCallstackActions(localization)
 	local actions = {}
 	for key, value in pairs(Constants.CallstackActionIds) do
-		actions[value] = makeAction(localization, value, nil, callBackFunction)
+		actions[value] = makeAction(localization, value)
 	end
 
 	-- This is commented out until the Command Framework gets implemented, so that we can
@@ -63,16 +53,16 @@ local function getCallstackActions(localization, callBackFunction)
 	return actions
 end
 
-local function getWatchActions(localization, actionData, callBackFunction)
+local function getWatchActions(localization)
 	local actions = {}
 	for key, value in pairs(Constants.WatchActionIds) do
-		actions[value] = makeAction(localization, value, actionData, callBackFunction)
+		actions[value] = makeAction(localization, value)
 	end
 
 	return actions
 end
 
-local function getBreakpointActions(localization, rowEnabled, isLogpoint, actionData, callBackFunction)
+local function getBreakpointActions(localization, rowEnabled, isLogpoint)
 	local actions = {}
 	local actionTypes = Constants.BreakpointActions
 	if isLogpoint then
@@ -80,11 +70,11 @@ local function getBreakpointActions(localization, rowEnabled, isLogpoint, action
 	end
 
 	for key, value in pairs(actionTypes) do
-		actions[value] = makeAction(localization, value, actionData, callBackFunction)
+		actions[value] = makeAction(localization, value)
 	end
 
 	for key, value in pairs(Constants.CommonActions) do
-		actions[value] = makeAction(localization, value, actionData, callBackFunction)
+		actions[value] = makeAction(localization, value)
 	end
 
 	if rowEnabled then

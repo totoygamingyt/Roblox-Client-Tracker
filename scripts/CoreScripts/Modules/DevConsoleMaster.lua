@@ -45,7 +45,7 @@ local IsDeveloperConsoleEnabled = require(DevConsole.IsDeveloperConsoleEnabled)
 local PlayerPermissionsModule = require(CoreGui.RobloxGui.Modules.PlayerPermissionsModule)
 
 local FFlagEnableDevConsoleDebugVisualizations = require(CoreGui.RobloxGui.Modules.Common.Flags.GetFFlagEnableDevConsoleDebugVisualizations)
-local FFlagEnableConsoleScriptProfiler = require(CoreGui.RobloxGui.Modules.Common.Flags.FFlagEnableConsoleScriptProfiler)
+local ScriptProfilerEngineFeature = game:GetEngineFeature("ScriptProfiler")
 
 local DEV_TAB_LIST = {
 	Log = {
@@ -87,7 +87,7 @@ local DEV_TAB_LIST = {
 		tab = MicroProfiler,
 		layoutOrder = 9,
 	},
-	ScriptProfiler = if FFlagEnableConsoleScriptProfiler then {
+	ScriptProfiler = if ScriptProfilerEngineFeature then {
 		tab = ScriptProfiler,
 		layoutOrder = 11,
 	} else nil

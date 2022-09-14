@@ -346,7 +346,7 @@ function QuickActions:render()
 						voiceEnabled = voiceState.voiceEnabled,
 						respawnEnabled = self.props.respawnEnabled,
 						fullscreenEnabled = isDesktopClient,
-						screenshotEnabled = FFlagEnableInGameMenuQAScreenshot,
+						screenshotEnabled = isDesktopClient,
 						recordEnabled = self.recordEnabled,
 						frameTransparency = self.frameTransparency,
 						transparencies = self.transparencies,

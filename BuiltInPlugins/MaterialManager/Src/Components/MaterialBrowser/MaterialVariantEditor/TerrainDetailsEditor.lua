@@ -69,6 +69,8 @@ type _Style = {
 	ImageSize: UDim2,
 	LabelColumnWidth: UDim,
 	TerrainDetailLabelWidth: UDim,
+	TextureLabelSize: UDim,
+	TilingLabelSize: UDim,
 }
 
 local TerrainDetailsEditor = Roact.PureComponent:extend("TerrainDetailsEditor")
@@ -187,11 +189,13 @@ function TerrainDetailsEditor:render()
 		}
 	}, {
 		TextureSettings = Roact.createElement(TextureSettings, {
+			LabelWidth = style.TextureLabelSize,
 			LayoutOrder = layoutOrderIterator:getNextOrder(),
 			PBRMaterial = props.TerrainDetail,
 			Expandable = false,
 		}),
 		TilingSettings = Roact.createElement(TilingSettings, {
+			LabelWidth = style.TilingLabelSize,
 			LayoutOrder = layoutOrderIterator:getNextOrder(),
 			PBRMaterial = props.TerrainDetail,
 			Expandable = false,

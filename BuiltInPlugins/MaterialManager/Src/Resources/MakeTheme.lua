@@ -45,10 +45,10 @@ local function getPluginTheme()
 	local MaterialDetailsRowHeight = 30
 	local MaterialDetailsTextureHeight = 64
 	local MaterialDetaulsLabelWidth = 108
-	local ColumnWidth = if getFFlagMaterialManagerVariantCreatorOverhaul() then 160 else 270
+	local ColumnWidth = if getFFlagMaterialManagerVariantCreatorOverhaul() then 145 else 270
 	local TerrainDetailColumnWidth = 130
 	local LabelColumnWidth = if getFFlagMaterialManagerVariantCreatorOverhaul()
-		then UDim.new(0, 93)
+		then UDim.new(0, 108)
 		else UDim.new(0, 80)
 	local DialogWidth = 720
 	local DialogHeight = 480
@@ -299,6 +299,7 @@ local function getPluginTheme()
 			ImagePosition = UDim2.fromOffset(5, 5),
 			ImageSize = UDim2.fromOffset(20, 20),
 			LabelRowSize = UDim2.new(1, 0, 0, MaterialDetailsRowHeight),
+			LabelWidth = UDim.new(0, 89),
 			OverrideSize = UDim2.fromOffset(140, 20),
 			Padding = 10,
 			SectionHeaderTextSize = 18,
@@ -312,6 +313,8 @@ local function getPluginTheme()
 			TerrainDetailDialogColumnSize = UDim2.new(0, TerrainDetailColumnWidth, 0, 25),
 			TerrainDetailLabelWidth = UDim.new(0, 85),
 			ContentPadding = ContentPadding,
+			TextureLabelSize = UDim.new(0, 69),
+			TilingLabelSize = UDim.new(0, 89),
 		},
 
 		LabeledString = {
