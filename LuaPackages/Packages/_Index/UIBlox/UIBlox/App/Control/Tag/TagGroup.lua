@@ -23,7 +23,6 @@ local useStyle = require(UIBlox.Core.Style.useStyle)
 local IconButton = require(UIBlox.App.Button.IconButton)
 local InputButton = require(UIBlox.Core.InputButton.InputButton)
 local isCallable = require(UIBlox.Utility.isCallable)
-local useBinding = require(UIBlox.Utility.useBinding)
 local useInitializedValue = require(UIBlox.Utility.useInitializedValue)
 
 -- Signature for callback invoked when tag selection changes
@@ -96,8 +95,8 @@ local function TagGroup(props: Props)
 
 	local tagRefs = useRefCache()
 
-	local showLeftGradientBinding, updateShowLeftGradient = useBinding(false)
-	local showRightGradientBinding, updateShowRightGradient = useBinding(false)
+	local showLeftGradientBinding, updateShowLeftGradient = React.useBinding(false)
+	local showRightGradientBinding, updateShowRightGradient = React.useBinding(false)
 
 	local checkShowGradient = React.useCallback(function(rbx)
 		local showLeft, showRight = shouldShowGradientForScrollingFrame(rbx)
