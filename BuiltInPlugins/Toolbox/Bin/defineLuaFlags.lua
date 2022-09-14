@@ -12,6 +12,8 @@ game:DefineFastFlag("ToolboxInsertMaterialsInMS", false)
 
 game:DefineFastFlag("ToolboxTrackHidden", false)
 
+game:DefineFastFlag("UGCValidationPackage", false)
+
 game:DefineFastFlag("ToolboxUseQueryForCategories2", false)
 
 game:DefineFastFlag("ToolboxFixBreadcrumbColor", false)
