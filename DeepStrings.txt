@@ -6791,6 +6791,7 @@ AW4WrapTargetDebugMode
 AW4XAlignment
 AW4YAlignment
 AW4ZIndexBehavior
+AW5TZNta89Qr
 AwakeAssemblies
 AwardBadge
 AwardPoints
@@ -7710,6 +7711,7 @@ BVTextureId
 BW4HighlightDepthMode
 BW4ModelLevelOfDetail
 BW4TexturePackAlphaMode
+BwCu71T1wyiOi38pRy75ossVVTkC9KLMgIWfuj42FKmS49bT8Xd6imi0
 BweAimdRateControlConfig
 BweBackOffFactor
 BweCappedProbing
@@ -8208,6 +8210,7 @@ CFF056DD11E2898E9FB8E4A9E79B
 CFF156DD11E2898E9FB8E4A9E79B
 CFF456DD11E2898E9FB8E4A9E79B
 CFF556DD11E2898E9FB8E4A9E79B
+CFI4Wa3zNc
 CFrame.new
 CFrameOnly
 CFramePose
@@ -12504,6 +12507,7 @@ DevFrameworkAssetManagerServiceToMock
 DevFrameworkFixErrorTextColors
 DevFrameworkFixSortArrowHeight
 DevFrameworkGrid
+DevFrameworkInitializeState
 DevFrameworkList
 DevFrameworkMigrateDialog
 DevFrameworkMigrateStyledDialog
@@ -12683,7 +12687,6 @@ DigestAlgorithm_find_ctx
 DigestAlgorithm_init_bio
 DigestedData_do_final
 DigitalSignature
-DiHCx76FLhrpw7XdSh20T5ys4CbSAA07EJSVuE6bItElhWKy08Y3KDLB
 DilateTemporalFS
 DilleniaUPC
 Dimensionar
@@ -14190,6 +14193,7 @@ EulerAnglesXYZ
 EulerAnglesYXZ
 EulerRotation
 EulerRotationCurve
+EuTTfmSGNk
 EvaluatedKey
 EvaluateForHovers
 EvaluateGlobalTransform
@@ -15380,6 +15384,7 @@ FMODReportDeviceInfo
 FmodSoftwareChannels
 FMODSoundChannels
 FmodStealingBehavior
+FmxEtmk8BqmbXApL0C2BQfgCvduLeuiTUpswG10wASZAOhMLhS
 FocusChanged
 FocusConnection
 FocusDistance
@@ -15715,6 +15720,7 @@ FromSource
 FromString
 FromStringWithFlagType
 FromTeamCreate
+FromTrustedPlayer
 FromVideoStream
 FrontAccessory
 FrontendProcessingUsesLaunchIntent
@@ -15728,6 +15734,7 @@ FrustumOrdered
 FrustumQuery
 FrustumRenderQueue
 FtHpJpLpNpPbR
+FUCeZMLNFijYpScf5qRZ8ATNDs79DN2B0hTBjPE8gZGFs3SyGkIlvLI7cXEU
 Fulfillment
 Fulfillments
 FullABTracker
@@ -17272,7 +17279,6 @@ Grundeinstellungen
 Gruppenteile
 Gruppierung
 GSSolverActive
-GStudio.App.Tooltip.Variadic
 GTFiEnDdCJB
 GTInfluxDB
 GuestFriendCheckFailImmediate
@@ -18083,7 +18089,6 @@ HVQRegularExpression
 HVQVariant
 HVSoundService
 HVStringView
-HVvff29qi4eDRxZtzSVnpzdas8G66Cv6vFl6aefgygM0P4qZo3jaeHbWgXCTbI6J
 HVWeakObjectRef
 HW4AccessMode
 HW4AudioFrameType
@@ -19499,7 +19504,6 @@ Kalam.json
 Kameraempfindlichkeit
 Kamerageschwindigkeit
 Kamerazoom
-KBuKjHXrz3Ahrn4lRu29e7nAGgVGCuMeuZf
 KBytesPerSec
 KeepAliveTimeout
 KeepPositionOnInsert
@@ -19569,6 +19573,7 @@ KeyValueStorage]
 KeywordFilterType
 KfaO3j5BbG6ijHHxFy22YNNJwxKTT
 KFKPKXK`KhK
+KhMFLEWko1qaeUjvSIzUN7UncXUgoeoJ8DofsuVUxn2i8Oy1beU7Jx
 KickByDatacenter_
 KickClientOnCoreGuiRenderOverflow
 KiDszBCYB0gyp03Pc
@@ -21507,7 +21512,6 @@ MethodFunctor
 MethodImpl
 MethodQuery
 MetricsSets
-MeWI6BwvZUX
 MFCreateAlignedMemoryBuffer
 MFCreateMediaType
 MFCreateMemoryBuffer
@@ -21542,7 +21546,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAxvTsT50s1VX7l3Rhllu3Ovma3P4eUy49oAPBf5AlLz3c4FXjTfGS
+MIICCgKCAgEAvB8z0b5Y621h06BDOsxXzS8y89KWwa4
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21933,6 +21937,7 @@ MpsRateLimitDuration
 MQDateTime
 MQListWidgetItem
 MQModelIndex
+MqMoH8AAzXYIaZkY5fK
 MQStandardItem
 MQTableWidgetItem
 MQTreeWidgetItem
@@ -22026,9 +22031,11 @@ MVTerrainHeightMapBlendMin
 MVTerrainHeightMapBlendScale
 MVTerrainRotationParam
 MW4MaterialType
+MyiREy8egnOKWfh2gDklQ0x6EKjGuYwY4xMkh1z2
 MyModelsAction
 MyUniverses
 MyWatchTreeWidget
+MzroC4wgtLYc4FX
 Nachrichten
 Nachrichtenfenster
 NackListSizeLimitLocal
@@ -22619,6 +22626,7 @@ NSNNNNNWNa
 NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
+NStudio.App.Tooltip.Variadic
 Ntildesmall
 NullAudioPoller
 NullDeviceGuid
@@ -23228,7 +23236,6 @@ OSSL_STORE_SEARCH_by_issuer_serial
 OSSL_STORE_SEARCH_by_key_fingerprint
 OSSL_STORE_SEARCH_by_name
 Oswald.json
-Ot9HBee22SHfIk3RMyzcyTVFiKFrj
 OtherBlues
 OtherDisconnect
 OtherError
@@ -24900,6 +24907,7 @@ PixelStorei
 PixelXDimension
 PixelYDimension
 PixmapRect
+PKBfFAc9iqMoPm7RHozpR5m83gQO8TN2ZkrJMsGVk0EEu7mFogw1MGreTRhN1
 PKCS12_AUTHSAFES
 PKCS12_BAGS
 PKCS12_create
@@ -26046,6 +26054,7 @@ PutCursorInParens
 PVAdornment
 PVInstance
 PVK_header
+PWpzW7wGJXgkf
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 PyJlf7IHZQpFHohBe
 QAbstractAnimation
@@ -28529,7 +28538,6 @@ Revolution
 RFormatTrace]
 RGBA_Buffers
 RGBOL565RGBP5551RGBO
-RHfmKNqUvt11OAC1NFhEdgcB
 RhodiumHelpers
 RibbonBarGallery
 RibbonBarGalleryBetaFeature
@@ -28672,7 +28680,6 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
-RNrHJJe5DqAhX3RogBPrLB8LXzVTVLtY7TzHeDDWZencTE95lLXpO
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -29092,7 +29099,6 @@ RvScaleFixResize2
 RvWebmFormat
 RxIgnoredBytes
 RxIgnoredPackets
-RXKdumXaWbJfhAcfhqHy
 RxQueueSize
 RxRlReport
 S_Key_dn.png
@@ -31002,6 +31008,7 @@ SizeToFourAction
 SizeToSixteenAction
 SizeToTwoAction
 SizingMode
+Sj0ixe5fIBg
 Skalierung
 SkateboardController
 SkateboardPlatform
@@ -31722,7 +31729,6 @@ StereoPlayoutIsAvailable
 StereoRecording
 StereoRecordingIsAvailable
 StickyWheels
-STM9PwuuYRJFVtYfAOSK3DBn35sDbBKrKjUf
 StoneCorridor
 StopAecDump
 StopAllSounds
@@ -31930,7 +31936,6 @@ Studio.App.AddAttributeDialog.AttributeCantStartWithRBX
 Studio.App.AddAttributeDialog.AttributeName
 Studio.App.AddAttributeDialog.AttributeType
 Studio.App.AddAttributeDialog.ContainsIllegalCharacter
-Studio.App.AddEmulationDevi
 Studio.App.AddEmulationDeviceDialog.AddNewDevice
 Studio.App.AddEmulationDeviceDialog.BottomSafeZoneOffset
 Studio.App.AddEmulationDeviceDialog.DeviceForm
@@ -37426,7 +37431,6 @@ ThreadY[R.Thread]
 ThreadY[RangeSelect.Thread
 ThreadY[RangeSelect.Thread]
 ThreeBoxLoadingAnimation.gif
-ThresholdPercent
 ThrottleAdjustTime
 ThrottleDebuggerMetrics
 ThrottleDeveloperConsoleEvents
@@ -38716,7 +38720,6 @@ Ugravesmall
 UGroupRolesResult
 UGuiClusterRT
 UGuiUpdateStruct
-Uh2FDowlEfnrsE2Bu7DTz8O4NdWA4flRv8GnSS7q3Q41f0UUcQv2U34G
 UHoverRequest
 UHoverResponse
 UHttpApiRequest
@@ -38836,6 +38839,7 @@ UITransformedLitFogVSShadowedFSM
 UITransformedVS
 UIViewportFrameCollectFrames
 UIVisibilityAction
+UkUggRHKibwbijZRYEk6QGjYquaYFGfzrFnF2V7aaJIAIYMAAeoQDUbJDkKx2
 ULinkedScriptLoadData
 ULoadedImage
 ULoadedTexturePack
@@ -39347,7 +39351,6 @@ UReplicatorPeerInfo
 UResultDetail
 URetryBehavior
 URIComponent
-UriRPhdGEiWdXnrgXpUA1JOjQ1Engqk
 UrisSelected
 UrlFormattingOption
 UrlMkSetSessionOption
@@ -40585,7 +40588,6 @@ VGroundController
 VGroupDropTool
 VGroupService
 VGroupSettings
-VgSa3pIxa1m3cRpm8QjfcIgoqCuZeWUsUfVvL65eJrhuHcK7t1gMKqONiV
 VGuiBase2d
 VGuiBase3d
 VGuiButton
@@ -41550,6 +41552,7 @@ VROverrideScreenSpaceRaycasts
 VRRotationIntensity
 VRSendFakeMouseEventsThroughUIS
 VRSmoothRotationEnabled
+Vrt87TGm9k
 VRTCCertificate
 VRTCCertificateGenerationTask
 VRTCCertificateGeneratorInterface
@@ -42263,6 +42266,7 @@ WeldConstraintTool
 WeldCursor
 WeldsAction
 Weltkoordinaten
+WGI8cLxdXvIhsCRysAHGnWvV4Ziuq7StLpdOmUuJar
 WGL_3DFX_multisample
 WGL_3DL_stereo_control
 WGL_AMD_gpu_association
@@ -42919,12 +42923,10 @@ Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
-YGiPlCXHoTa9WwBmH6r6Ix1TXnbVeiTASk
 YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
-Ylso2f7d4FnagwS81H1BRWKhAxqlLFkhWg
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
@@ -42963,6 +42965,7 @@ Zwischenablage
 Zwischenspeicher
 Zwischenspeichergr
 ZXPEAURVIOContext
+Zxyuu884kozBbuHsAcWU1Nl09esXzKb1MQF
 Zylinderteil
 Zylindrisch
 Zylindrische
