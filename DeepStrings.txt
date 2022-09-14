@@ -859,7 +859,6 @@ AllowTeamChangeOnTouch
 AllowTextBoxesInSurfaceGuis
 AllowThirdPartySales
 AllowVideoPreRoll
-AllowWireframeRenderingOnRcc
 AllPackagesInternal
 AllPackets
 AllPlaceItems
@@ -12593,7 +12592,6 @@ DGHASH_ASM
 DgNg`ghgpgxg
 DgNgXgbglgvg
 DGridAction
-DgV5PSf5OYVzbPbnUZ
 DH_check_ex
 DH_check_params_ex
 DH_check_pub_key_ex
@@ -12685,6 +12683,7 @@ DigestAlgorithm_find_ctx
 DigestAlgorithm_init_bio
 DigestedData_do_final
 DigitalSignature
+DiHCx76FLhrpw7XdSh20T5ys4CbSAA07EJSVuE6bItElhWKy08Y3KDLB
 DilateTemporalFS
 DilleniaUPC
 Dimensionar
@@ -15693,7 +15692,6 @@ FriendsType
 FriendsUpdated
 FriendsV2BadAccessFix
 FriendsWith
-FRly65aW0vvpE8ak
 FRMMaxGrassDistance
 FRMMinGrassDistance
 FRMRecomputeDistanceFrameDelay
@@ -17274,6 +17272,7 @@ Grundeinstellungen
 Gruppenteile
 Gruppierung
 GSSolverActive
+GStudio.App.Tooltip.Variadic
 GTFiEnDdCJB
 GTInfluxDB
 GuestFriendCheckFailImmediate
@@ -18084,6 +18083,7 @@ HVQRegularExpression
 HVQVariant
 HVSoundService
 HVStringView
+HVvff29qi4eDRxZtzSVnpzdas8G66Cv6vFl6aefgygM0P4qZo3jaeHbWgXCTbI6J
 HVWeakObjectRef
 HW4AccessMode
 HW4AudioFrameType
@@ -18224,7 +18224,6 @@ IgnoreVertexColors
 IgnoreWater
 Ignorieren
 Igravesmall
-IHw1B2DMkbIwyNCbv2XrmslceEJFCUmPXqNlWt8nHEj3JSk
 IID_IAMDirectSound
 IID_IAMLine21Decoder
 IID_IAMStreamConfig
@@ -19359,7 +19358,6 @@ JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
 Jcircumflex
-JcOJ3GbWfWQYWRfegaJK8Zw54lHR5W8i564OS4
 JdiDeserializerConfigPerDC
 JdiDeserializerConfigUserIdPer100
 JdiProcessTimeMsDuringJoin
@@ -19494,7 +19492,6 @@ JW4InfoType
 JW4TextChatMessageStatus
 JW4TextFilterContext
 JW4ThumbnailType
-JXWa8xXXbyKS
 K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
@@ -19502,6 +19499,7 @@ Kalam.json
 Kameraempfindlichkeit
 Kamerageschwindigkeit
 Kamerazoom
+KBuKjHXrz3Ahrn4lRu29e7nAGgVGCuMeuZf
 KBytesPerSec
 KeepAliveTimeout
 KeepPositionOnInsert
@@ -19994,7 +19992,6 @@ ListWidgetScrollingPastBottom
 LiveCoding
 Livellamento
 LivingRoom
-LKlJB9jFYyKqaAr
 LLEo6Soxvx2
 LLLLLLLLLLLL
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
@@ -20951,7 +20948,6 @@ MayBeLinkedSourceModified
 MaybeStartGathering
 MaybeStartPinging
 MaybeSwitchSelectedConnection
-MB6NwFLj3dw7gAkQ3Ob222gvyHk7Z7ymPg3gVS2CBu
 MbXMVSIi\H
 McF4IcV0IcF
 McF4IcV0IcN
@@ -21511,6 +21507,7 @@ MethodFunctor
 MethodImpl
 MethodQuery
 MetricsSets
+MeWI6BwvZUX
 MFCreateAlignedMemoryBuffer
 MFCreateMediaType
 MFCreateMemoryBuffer
@@ -21545,7 +21542,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAvSgM64B3uhOtP6CV0llWjCWwoDU5xRbz2nb66TnAXEICV9aEgeea
+MIICCgKCAgEAxvTsT50s1VX7l3Rhllu3Ovma3P4eUy49oAPBf5AlLz3c4FXjTfGS
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -22706,7 +22703,6 @@ NW4PenStyle
 NW4UserInputType
 Oacutesmall
 OAEPEncryptionSET
-OAmRHVoxrC2qofeJBBPnR2rGbO5o6roCa4POJR
 OAuth2Config.json
 OAuth2ConfigFileParser
 OAuth2ConfigFileParser]
@@ -23232,6 +23228,7 @@ OSSL_STORE_SEARCH_by_issuer_serial
 OSSL_STORE_SEARCH_by_key_fingerprint
 OSSL_STORE_SEARCH_by_name
 Oswald.json
+Ot9HBee22SHfIk3RMyzcyTVFiKFrj
 OtherBlues
 OtherDisconnect
 OtherError
@@ -24852,7 +24849,6 @@ Physikablehnung
 Physikdetails
 Physikfehlern
 Physikstatistik
-PIAEFwxuNzqsf5i4GK
 Piattaforma
 PickerArgValidityWarning
 PickerFrame
@@ -26048,7 +26044,6 @@ PushPixels
 PushResampler
 PutCursorInParens
 PVAdornment
-PVf8aEgXQimAYVw84Ps1xEvd6LW82lGhKkdh67
 PVInstance
 PVK_header
 PxnhPiraCmahCilaKcpeLicyLidyLkclOgnjRruaSdnuSiiaVtsvAumaBpygEimrAilhPitrPavaJihtKusiLietMbraShkrOrmaSanaLtvaTktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
@@ -26073,7 +26068,6 @@ QApplication
 QArrayData
 QAssociativeIterableImpl
 QAWNcgRdAzOKj8pi5wAlnsdoumgAtB1J7d
-Qb8Poy4WlLIs7VLyc
 QBasicTimer
 QBoxLayout
 QButtonGroup
@@ -26573,7 +26567,6 @@ QLabel[iconLabelText
 QLabel[invalidFieldMessageLabel
 QLabel[optionsLabel
 QLayoutItem
-QlCa0sttPAjlW6SSrJSuzvxg6iDT6ryPSzfi2FTHpu5Krj
 QLinearGradient
 QLineEdit[errorInField
 QLineEdit[text
@@ -28536,6 +28529,7 @@ Revolution
 RFormatTrace]
 RGBA_Buffers
 RGBOL565RGBP5551RGBO
+RHfmKNqUvt11OAC1NFhEdgcB
 RhodiumHelpers
 RibbonBarGallery
 RibbonBarGalleryBetaFeature
@@ -28678,6 +28672,7 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
+RNrHJJe5DqAhX3RogBPrLB8LXzVTVLtY7TzHeDDWZencTE95lLXpO
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -29097,6 +29092,7 @@ RvScaleFixResize2
 RvWebmFormat
 RxIgnoredBytes
 RxIgnoredPackets
+RXKdumXaWbJfhAcfhqHy
 RxQueueSize
 RxRlReport
 S_Key_dn.png
@@ -31726,6 +31722,7 @@ StereoPlayoutIsAvailable
 StereoRecording
 StereoRecordingIsAvailable
 StickyWheels
+STM9PwuuYRJFVtYfAOSK3DBn35sDbBKrKjUf
 StoneCorridor
 StopAecDump
 StopAllSounds
@@ -31933,6 +31930,7 @@ Studio.App.AddAttributeDialog.AttributeCantStartWithRBX
 Studio.App.AddAttributeDialog.AttributeName
 Studio.App.AddAttributeDialog.AttributeType
 Studio.App.AddAttributeDialog.ContainsIllegalCharacter
+Studio.App.AddEmulationDevi
 Studio.App.AddEmulationDeviceDialog.AddNewDevice
 Studio.App.AddEmulationDeviceDialog.BottomSafeZoneOffset
 Studio.App.AddEmulationDeviceDialog.DeviceForm
@@ -35463,7 +35461,6 @@ Studio.App.TemplatesPage.AllTemplates
 Studio.App.Theme.InvalidGetThemeApi
 Studio.App.ToastNotificationService.NotAvailable
 Studio.App.Tooltip.GoToSource
-Studio.App.Tooltip.Variadic
 Studio.App.TwoStepVerificationPage.Enter6DigitCode
 Studio.App.TwoStepVerificationPage.NeedHelpContact
 Studio.App.TwoStepVerificationPage.RobloxSupport
@@ -37429,6 +37426,7 @@ ThreadY[R.Thread]
 ThreadY[RangeSelect.Thread
 ThreadY[RangeSelect.Thread]
 ThreeBoxLoadingAnimation.gif
+ThresholdPercent
 ThrottleAdjustTime
 ThrottleDebuggerMetrics
 ThrottleDeveloperConsoleEvents
@@ -38407,7 +38405,6 @@ TurnTeamCreateOff
 TurnTeamCreateOn
 Tutoriales
 TutorialId
-TvfK9rvkJrYUaHx2V
 TVijpW8m8aLsreZebWfEl5y9RFS7x6WZ555Z6MtZy
 TVNetworkName
 TweenEasingDirection
@@ -38719,6 +38716,7 @@ Ugravesmall
 UGroupRolesResult
 UGuiClusterRT
 UGuiUpdateStruct
+Uh2FDowlEfnrsE2Bu7DTz8O4NdWA4flRv8GnSS7q3Q41f0UUcQv2U34G
 UHoverRequest
 UHoverResponse
 UHttpApiRequest
@@ -38838,7 +38836,6 @@ UITransformedLitFogVSShadowedFSM
 UITransformedVS
 UIViewportFrameCollectFrames
 UIVisibilityAction
-UjbiOtyfWW99Wzz0vKZrM
 ULinkedScriptLoadData
 ULoadedImage
 ULoadedTexturePack
@@ -39350,6 +39347,7 @@ UReplicatorPeerInfo
 UResultDetail
 URetryBehavior
 URIComponent
+UriRPhdGEiWdXnrgXpUA1JOjQ1Engqk
 UrisSelected
 UrlFormattingOption
 UrlMkSetSessionOption
@@ -40587,6 +40585,7 @@ VGroundController
 VGroupDropTool
 VGroupService
 VGroupSettings
+VgSa3pIxa1m3cRpm8QjfcIgoqCuZeWUsUfVvL65eJrhuHcK7t1gMKqONiV
 VGuiBase2d
 VGuiBase3d
 VGuiButton
@@ -41270,6 +41269,7 @@ VoiceChatTokenThrottleMs
 VoiceChatUseCustomAudioDevice
 VoiceChatUseCustomAudioDeviceAndroid
 VoiceChatUseCustomAudioDeviceIos
+VoiceChatUseCustomAudioDeviceProd
 VoiceChatValidMgrSingletonUse
 VoiceChatVersionOverride
 VoiceChatVolumeThousandths
@@ -42337,7 +42337,6 @@ Whitespace
 WhoClicked
 WhoHovered
 WhoTriggered
-WicWzt10Rv6A6yWBCXsPCjqII6zfewouniEI27WdhyuqTsCAwEAAQ
 WideCharToMultiByte
 WideToNarrowScaleInHundredths
 WideView_purpleLayer.png
@@ -42681,7 +42680,6 @@ XAlignment
 Xbad_alloc
 Xbad_function_call
 XbbXXbbXGSSGGSS
-XBLn7cBruFVpXq
 XboxAppBridgeRewrite5
 XboxAvatarPaneRefreshInterval
 XboxEnableABTests
@@ -42805,7 +42803,6 @@ XPEBVGImage
 XPEBVInstance
 XPEBVIStatus
 XQColorDialog
-XQGxOL1sCg6OtMmzJNh843XRfdW5c6613BABqVMV2mVfCYSiIeAZY4sPpjwm57yI
 Xregex_error
 XResolution
 Xtime_get_ticks
@@ -42922,10 +42919,12 @@ Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
+YGiPlCXHoTa9WwBmH6r6Ix1TXnbVeiTASk
 YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
+Ylso2f7d4FnagwS81H1BRWKhAxqlLFkhWg
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
