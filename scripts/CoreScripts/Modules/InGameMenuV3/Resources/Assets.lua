@@ -15,6 +15,7 @@ return {
 		PreviewExpandIcon = UIBloxImages["icons/actions/previewExpand"],
 		PreviewShrinkIcon = UIBloxImages["icons/actions/previewShrink"],
 		ReportIcon = UIBloxImages["icons/actions/feedback"],
+		RecordIcon = UIBloxImages["icons/controls/screenrecord"],
 		ScreenshotIcon = UIBloxImages["icons/controls/screenshot"],
 		SuccessXLarge = UIBloxImages["icons/graphic/success_xlarge"],
 

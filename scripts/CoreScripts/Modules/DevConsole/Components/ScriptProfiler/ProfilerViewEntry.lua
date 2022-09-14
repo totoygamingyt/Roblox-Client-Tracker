@@ -115,7 +115,7 @@ function ProfilerViewEntry:render()
 	local layoutOrder = props.layoutOrder or 0
 	local offset = depth * DEPTH_INDENT
 	local percentageRatio = props.percentageRatio
-	local data = props.data or {}
+	local data = props.data
 	local childData = self:standardizeChildren(data)
 	local totalDuration = data.TotalDuration
 	local selfDuration = data.TotalDuration
