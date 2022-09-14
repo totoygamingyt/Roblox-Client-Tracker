@@ -2556,6 +2556,7 @@ Class NotificationService : Instance [NotCreatable] [Service]
 	Property bool NotificationService.IsLuaChatEnabled {RobloxScriptSecurity} [Hidden] [ReadOnly]
 	Property bool NotificationService.IsLuaGameDetailsEnabled {RobloxScriptSecurity} [ReadOnly]
 	Property string NotificationService.SelectedTheme {RobloxScriptSecurity} [<📁> LoadOnly] [NotReplicated]
+	Property bool NotificationService.IsConnected {RobloxScriptSecurity} [Hidden] [ReadOnly]
 	Function void NotificationService:ActionEnabled(Enum.AppShellActionType actionType) {RobloxScriptSecurity}
 	Function void NotificationService:ActionTaken(Enum.AppShellActionType actionType) {RobloxScriptSecurity}
 	Function void NotificationService:CancelAllNotification(int64 userId) {LocalUserSecurity}
