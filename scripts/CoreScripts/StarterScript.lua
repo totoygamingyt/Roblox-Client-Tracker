@@ -31,7 +31,6 @@ local PolicyService = require(CoreGuiModules:WaitForChild("Common"):WaitForChild
 -- remove this when removing FFlagConnectErrorHandlerInLoadingScript
 local FFlagConnectionScriptEnabled = settings():GetFFlag("ConnectionScriptEnabled")
 local FFlagLuaInviteModalEnabled = settings():GetFFlag("LuaInviteModalEnabledV384")
-local FFlagVirtualCursorEnabled = game:GetEngineFeature("VirtualCursorEnabled")
 local FFlagVRAvatarGestures = game:DefineFastFlag("VRAvatarGestures", false)
 
 local FFlagUseRoactGlobalConfigInCoreScripts = require(RobloxGui.Modules.Flags.FFlagUseRoactGlobalConfigInCoreScripts)
@@ -222,9 +221,7 @@ initify(CoreGuiModules.AvatarEditorPrompts)
 coroutine.wrap(safeRequire)(CoreGuiModules.AvatarEditorPrompts)
 
 -- GamepadVirtualCursor
-if FFlagVirtualCursorEnabled then
-	coroutine.wrap(safeRequire)(RobloxGui.Modules.VirtualCursor.VirtualCursorMain)
-end
+coroutine.wrap(safeRequire)(RobloxGui.Modules.VirtualCursor.VirtualCursorMain)
 
 ScriptContext:AddCoreScriptLocal("CoreScripts/VehicleHud", RobloxGui)
 

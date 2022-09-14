@@ -31,8 +31,6 @@ local PlayEmote = require(Thunks.PlayEmote)
 
 local KEYBINDS_PRIORITY = Enum.ContextActionPriority.High.Value
 
-local EngineFeatureVirtualCursor = game:GetEngineFeature("VirtualCursorEnabled")
-
 local EmotesWheel = Roact.PureComponent:extend("EmotesWheel")
 
 local function getRandomAssetId(emotesAssetIds)
@@ -156,15 +154,11 @@ function EmotesWheel:bindActions()
     ContextActionService:BindActionAtPriority(Constants.ActivateEmoteSlotAction, activateEmoteByNumber,
         --[[ createTouchButton = ]] false, KEYBINDS_PRIORITY, unpack(Constants.EmoteSlotKeys))
 
-
-    if EngineFeatureVirtualCursor then
-        local function sinkInput(actionName, inputState, inputObj)
-            return Enum.ContextActionResult.Sink
-        end
-
-        ContextActionService:BindCoreActionAtPriority(Constants.VirtualCursorSinkAction, sinkInput, false, KEYBINDS_PRIORITY, Enum.KeyCode.ButtonSelect)
+    local function sinkInput(actionName, inputState, inputObj)
+        return Enum.ContextActionResult.Sink
     end
 
+    ContextActionService:BindCoreActionAtPriority(Constants.VirtualCursorSinkAction, sinkInput, false, KEYBINDS_PRIORITY, Enum.KeyCode.ButtonSelect)
     self.actionsBound = true
 end
 
@@ -189,10 +183,7 @@ function EmotesWheel:addCursorOverride()
     if self.isUsingGamepad and not self.isCursorHidden then
         MouseIconOverrideService.push(Constants.CursorOverrideName, Enum.OverrideMouseIconBehavior.ForceHide)
 
-        if EngineFeatureVirtualCursor then
-            GamepadService.GamepadCursorEnabled = false
-        end
-
+        GamepadService.GamepadCursorEnabled = false
         self.isCursorHidden = true
     end
 end
