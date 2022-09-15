@@ -42,6 +42,8 @@ export type Props = {
 	forwardRef: any,
 }
 
+local TAG_GROUP_HEIGHT = 52
+
 local GRADIENT_SIZE = 50
 local BUTTON_PADDING = 12
 
@@ -168,7 +170,7 @@ local function TagGroup(props: Props)
 	end
 
 	return React.createElement(Focusable.Frame, {
-		Size = UDim2.fromScale(1, 1),
+		Size = UDim2.new(1, 0, 0, TAG_GROUP_HEIGHT),
 		BackgroundColor3 = theme.BackgroundDefault.Color,
 		BackgroundTransparency = theme.BackgroundDefault.Transparency,
 		BorderSizePixel = 0,
