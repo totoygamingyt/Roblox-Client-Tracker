@@ -5,7 +5,16 @@ local PackageIndex = script.Parent._Index
 
 local Package = require(PackageIndex["NetworkingVirtualEvents"]["NetworkingVirtualEvents"])
 
-export type VirtualEventSchema = Package.VirtualEventSchema
+export type EventStatus = Package.EventStatus
+export type HostType = Package.HostType
+export type EventTime = Package.EventTime
+export type EventTimeUtc = Package.EventTimeUtc
+export type Host = Package.Host
+export type VirtualEventResponse = Package.VirtualEventResponse
+export type PaginatedVirtualEventResponse = Package.PaginatedVirtualEventResponse
+export type CreateVirtualEventRequest = Package.CreateVirtualEventRequest
+export type UpdateVirtualEventRequest = Package.UpdateVirtualEventRequest
+export type DeleteVirtualEventResponse = Package.DeleteVirtualEventResponse
 
 
 return Package
