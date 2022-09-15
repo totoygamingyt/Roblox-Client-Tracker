@@ -373,7 +373,7 @@ AdditionalAvatarLoadTimeMetrics2
 AdditionalBlacklistHeaders
 AdditionalLuaState
 AddKeyframe
-AddLayoutSegments4
+AddLayoutSegments5
 AddMaterial
 AddMessageBusService
 AddMetricsToTextScraperHttpRequest
@@ -1237,6 +1237,7 @@ Anweisungen
 Anzeigedauer
 Anzeigemodus
 AoBlurUpsampleCS
+AOfUA94zLr0E8AvbTOwaQD0lANjw27NbwFi4TJcRf1oanxQd55bD
 AP4_AtomFactory
 AP4_Dec3Atom
 AP4_HvccAtom
@@ -1424,6 +1425,7 @@ ArtificialLatencyIxpBackendMs
 ArtificialLatencyIxpCacheMs
 ArtificiallyDelayed
 ArtistIntent
+ARXHorUA3P
 Ascii_helper
 AShotOfEsspressoForEveryone
 ASIdentifierChoice
@@ -7097,6 +7099,7 @@ BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
 BD67FE0E20681192B0EC12CE5A0D3C
+BDLhmsLSIpzhiLhcdmUflL9oWLfVjO9EthfpKpJ5
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
 BEA91211E2B410EF351327957B
@@ -7171,7 +7174,6 @@ BFE701C11E3B075CBAD925AA50F
 BFF90CBF11EB9CD4979655F24EDD
 BFFA0CBF11EB9CD4979655F24EDD
 BFJMPSVX[]_acegiklnpqstvwyz
-BGetPlayers
 BgRefreshes
 BgUpdateRedirectsDisable
 BgUpdateRedirectsHttpErrInfluxHundredthsPercentage
@@ -7322,9 +7324,7 @@ BlueValues
 BlurAxisXYZScratch
 BlurEffect
 BlurRadius
-BM95lqUmT6rO6BcWl2doyWr0
 BMaterialServiceImprovedSignal2
-BMc4PnrsV9qpYarVkTQY0o5E13hE8OXPtrD5Autct
 BN_BLINDING_convert_ex
 BN_BLINDING_create_param
 BN_BLINDING_invert_ex
@@ -8141,6 +8141,7 @@ CDAC09CD62068118083FFBB091BBC13
 CDB707B206811871F972B2A9311C9
 CDDDDDDDDD
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+Cdk9tq7iHRktiTyoqDYu
 CDNProbefff
 Cdotaccent
 CE583B11E29A3DBD856014A660
@@ -8967,6 +8968,7 @@ ClientDataPing
 ClientDelayCaptureInitExpStatsMs
 ClientDisconnectReason
 ClientDisconnectReasons
+ClientDisconnectReasons2
 ClientDisconnectWithCode_
 ClientExternalBrowserUserAgent
 ClientFireEventPlaceLauncherFail3
@@ -9521,6 +9523,7 @@ CMS_verify
 CMS3DESwrap
 CMSRC2wrap
 CMSUploadAccessoryMeshPartFormat2
+CMxo82pyBQGe
 Cnd_broadcast
 Cnd_destroy_in_situ
 Cnd_do_broadcast_at_thread_exit
@@ -9997,6 +10000,7 @@ ConnectionHealth
 ConnectionId
 ConnectionId.
 ConnectionLost
+ConnectionLostDisconnectReasonInfluxHundredthsPercentage
 ConnectionMTUSize
 ConnectionRefusedError
 ConnectionResult
@@ -13546,7 +13550,6 @@ ECPKParameters_print_fp
 ECPrivateKey
 ECPublicKey
 Ecrypto\bn\bn_prime.c
-EcXlX0sMXdCa5zDwFjqAH3OlFcCAwEAAQ
 ED23AAF011E38B9D871882A8E559
 ED24AAF011E38B9D871882A8E559
 ED27AAF011E38B9D871882A8E559
@@ -15387,7 +15390,6 @@ FMODReportDeviceInfo
 FmodSoftwareChannels
 FMODSoundChannels
 FmodStealingBehavior
-FO13mzDbmx8CtDT1FTr7tw9XmZ5vml008EF64mYzYKvPdChNU
 FocusChanged
 FocusConnection
 FocusDistance
@@ -15778,6 +15780,7 @@ FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FXHcFLH9FX
+FzvVcTRTQzGyMeE2QfqQWAJN
 GainControl
 GainController2
 GainMakeup
@@ -16008,7 +16011,7 @@ GenerateDataBlobsCacheable
 GenerateDataBlobsCharacterModelRoots
 GenerateDataBlobsNotCacheable
 GenerateDataBlobsParts
-GenerateDirectedSegments3
+GenerateDirectedSegments4
 GeneratedLocalizationTable
 GenerateGUID
 GenerateHSRData
@@ -16972,7 +16975,6 @@ Giocabilit
 GivenByTargetSpeedKBps
 GizmoRaycast
 GizmoScaleAction
-GKcZ1JvFetgwn4sU
 GL_ARB_copy_image
 GL_ARB_half_float_vertex
 GL_ARB_pixel_buffer_object
@@ -17279,8 +17281,6 @@ GroupUnderModel
 Grundeinstellungen
 Gruppenteile
 Gruppierung
-GS1Fhgy0yR4036dMhAyaMuJrF3AzP1vjNaP7ebzF5Zr4ZTQNMgairad3ofnVO4Ce
-GSob0yuTGoOcpwZYvyBROgH2vdP4OVjvTa8bTH0c0Re
 GSSolverActive
 Gt8\UPhZD9
 GTFiEnDdCJB
@@ -17466,6 +17466,7 @@ HBAODepthDownFS
 HbaoRenderCompute
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
 Hcircumflex
+HCJlldx1AtKPkYMtMOwRj3yMtiZFUpv2Dh
 HdAvailables
 HDCacheLock
 Head_OuterCage
@@ -17707,6 +17708,7 @@ HPEAVVideoStream
 HPEAXHPEANNH
 HPEBVQMimeData
 HQEAPEAVQGraphicsItem
+Hr2IvbKtHwyt0mndmJFwtqz
 HSRAssetId
 HSRClusterImprovement
 HSRClusterSymmetryDistancePercent
@@ -19018,7 +19020,6 @@ InvalidateSubFramebuffer
 InvalidateTexImage
 InvalidateTexSubImage
 Invalidating
-InvalidAuthorizationEndpoint
 InvalidAuthorizationEndpointUrl
 InvalidBytesPerChannel
 InvalidChannelCount
@@ -19041,13 +19042,11 @@ InvalidRefreshToken
 InvalidResponse
 InvalidRevokedPublicKeyIds
 InvalidRevokedSignatureTypes
-InvalidRevokeEndpoint
 InvalidRevokeEndpointUrl
 InvalidState
 InvalidStateParameter
 InvalidTask
 InvalidTextChannelPermissions
-InvalidTokenEndpoint
 InvalidTokenEndpointUrl
 InvalidUrl
 InvalidUserId
@@ -19265,6 +19264,7 @@ IsVisibleDM
 IsVoiceEnabledForUserIdAsync
 IsWatchingScriptLine
 IsWebLaunch
+IsZ3CJnxkE6i5ljCDIuC
 Italic.ttf
 ITALIC_ANGLE
 ItalicAngle
@@ -19479,7 +19479,6 @@ JsonFormat
 JSONObject
 JSONOverflowAbort
 JSONOverflowDepth
-JTTrWh1Jmv3CytBa
 JUAssetData
 Jugabilidad
 JUGroupRolesRequestRecord
@@ -19614,10 +19613,10 @@ Kopplungsbeschr
 Korrodiertes
 KPEAVICHull
 KPEBDPEBDH
-Ksuik2QEsZzoeHsEB1giOs
 Kugelverbindung
 Kundendienst.
 Kundensupport.
+KxcwdoGVOyOvfquo1WiT2FxO8OiVW1
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 L^N6LfN6LlN6LdN6Ly
 LA_SHAPE_MAX
@@ -20431,7 +20430,6 @@ LowQMaterialDetiledNewFS_
 LowQMaterialFS_
 LowQMaterialWangFallbackFS
 LowQMaterialWangFS
-Lq9pHfNdLfE2wpmXa9gXl1X3pcH
 LRakRecvToAppPop
 LSCReplacer
 LSCReplacerLog
@@ -20675,6 +20673,7 @@ LuobuWhitelistedField
 LvNZJjLvNZJjLvNZJjLvNZJ
 LvNZJjLvNZJjLvNZJjLvNZJ4H
 LVvuOx39]O
+LZ2Blr3k6MECqDeTsqSfS5JTREiopGzIaWNUBthR1
 M_NVWeakObjectRef
 MacGamepadUseGCController
 MachineAddress
@@ -21552,7 +21551,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAuJ3C9a85vNuaceRV6SqTSX0MeyvCpAELyuwPCzwmL2EBAAfKhsmH
+MIICCgKCAgEA
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21967,6 +21966,7 @@ Mtx_destroy_in_situ
 Mtx_init_in_situ
 Mtx_trylock
 Mtx_unlock
+MtYM8ckETWFuGmFWOq7SJn6KeKoLM7U6A0udnHeN5HFlRQLZ1XKfsQ7Q77Ehd2
 Mu\tbs_rSq
 MULE_BASELINE_OFFSET
 MULE_RELATIVE_COMPOSE
@@ -22713,7 +22713,6 @@ NW4PenStyle
 NW4UserInputType
 Oacutesmall
 OAEPEncryptionSET
-OaSKtEgsQ9fTVN50YzMPg7g
 OAuth2Config.json
 OAuth2ConfigFileParser
 OAuth2ConfigFileParser]
@@ -23798,6 +23797,7 @@ PaysageDroite
 PaysageGauche
 Pb4bTfXz4r^
 PBKDF2PARAM
+Pc7GLKO1qr8XkMkYbPWyIOv6J3spayT
 PCDeviceWithResolution
 PCertReqData
 PCertResTBS
@@ -26031,7 +26031,6 @@ PublishProtocolMethodResponse
 PublishScriptSources
 PublishSelectionToRobloxVerb
 PublishService
-PublishStart2RcvdSignalRPublishingInitiatedMs
 PublishThenTurnOnTeamCreate
 PublishToDifferentGame
 PublishToRobloxAsVerb
@@ -27677,6 +27676,7 @@ RemoveEntry
 RemoveEntryValue
 RemoveErroredTexturesOnImport
 RemoveExtraRoundScreenScale
+RemoveFinalFinalSaveOnEmptyRCC
 RemoveFromQueueAtModCheckStart
 RemoveGANetwork
 RemoveGlobalPointsField
@@ -28087,6 +28087,7 @@ ReportCloudEditJoinFailureReportPerMyriad
 ReportCloudLoalizationTableParsingPerf
 ReportCollisionDetectionTime
 ReportCommandsPerCycleIntervalMS
+ReportConnectionLostSeperately
 ReportControllerManagerPercent
 ReportControllerManagerUse
 ReportCounter
@@ -29088,6 +29089,7 @@ RV_CODEC_ID_VP9_ENCODER
 RvCodecStep
 RVERROR_EOF
 RvFlvFormat
+RvG8XkCAwEAAQ
 RVideoFormatTrace
 RVideoInternal
 RVideoMemLogging
@@ -31056,7 +31058,6 @@ Sky.SkyboxFt
 Sky.SkyboxLf
 Sky.SkyboxRt
 Sky.SkyboxUp
-SkY3k1b7huqjSD8ZLVh5SHP
 SkylightRGBA
 SkyLinearFS
 SkyVertex2
@@ -36002,6 +36003,7 @@ StudioFavorites.json
 StudioFavoritesJSON
 StudioFileWatcherDelayMs
 StudioFillTool
+StudioFixAutoHideClicks
 StudioFixDuplicateBusyOnRecursiveBreak
 StudioFixExportVertexLimit
 StudioFixGalleryButtonStickySelectColor
@@ -36223,6 +36225,7 @@ StudioQtSVGIcons
 StudioRecentActionCacheSize
 StudioReEnableNetworkProxy_Dev
 StudioRemoveCancelRequest
+StudioRemoveInvalidMetaBreakpoints
 StudioRemoveQtAnglePlatformEnvVar
 StudioRemoveRestrictedMachineValidateUtil
 StudioRemoveShareWithRobloxFriends
@@ -36615,6 +36618,7 @@ SUWATAUAVH
 SUWATAUAWH
 SUWATAVAWH
 SUWAUAVAWH
+Sv13P1kmVGe7iglbUUkZckXTXtuGML3tfdBGHLGnY
 SVATAUAVAWH
 SVGLuaIcons
 SVWATAUAVAW
@@ -36707,7 +36711,6 @@ SystemTimeToFileTime
 SystemTotalMemory
 SystemUtil
 SystemUtil]
-SZ6rKoZIOS9
 T_gridOff_old.png
 T_gridToOne_old.png
 T_gridToOneFifth_old.png
@@ -38850,7 +38853,6 @@ UIVisibilityAction
 ULinkedScriptLoadData
 ULoadedImage
 ULoadedTexturePack
-UlObCu0nLA5
 ULuaCallbacks
 UMasteringMetadata
 UMaterialIgnoredWarning
@@ -39408,7 +39410,6 @@ Use2022Materials
 Use2022MaterialsXml
 UseActualSizeToCalculateListMinSize2
 UseAppBridgeAfterFlagInit
-UseAutogeneratedDiscoveryResponseModel
 UseBaseHeavyVP8TL3RateAllocation
 UseBottomBar
 UseCandidate
@@ -41177,7 +41178,6 @@ VoiceChatFailToGetTurnAuthInfo
 VoiceChatFixJoinRetry
 VoiceChatFixWorkerThreadName
 VoiceChatFmodToWebrtcMinBufferMs
-VoiceChatGet
 VoiceChatGetUsers2SubscriptionsStartMs
 VoiceChatGracefulSubscriptionFailure
 VoiceChatHttpResultBodyEmptyTelemetry
@@ -42497,6 +42497,7 @@ WmfAudioDecoder
 WmfAudioEncoder
 WmfVideoDecoder
 WmfVideoEncoder
+Wmtu1CGZJVNUUSNCmj72TZM4MFnIYgCMC3gkwM0mO4lJR
 Wmvcore.dll
 WoodPlanks
 WoodPlanksName
@@ -42705,14 +42706,12 @@ XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XHW4Status_e
-XIkQ1yg9oMKWGeTID7j87xqQHIqMJ6qU1
 XInputGetBatteryInformation
 XInputGetCapabilities
 XInputGetState
 XInputSetState
 Xinvalid_argument
 Xlength_error
-XmhKV0uYWGSp6
 Xout_of_range
 XP6AXAEBVQString
 XP6AXPEAVContentProvider
@@ -42937,6 +42936,7 @@ YieldEvent
 YieldFuncDesc
 YieldFunction
 YResolution
+YtthJpJEoLVfcBZPr3Fm3hKDHL6KNuQMrrfCbV
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
@@ -42955,7 +42955,6 @@ ZeroTargetSpeedStartTimeCountToTotalCount
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
-ZKyQthqgAvOVboHcUJ9ZLk4A1PD4Cbm45MWyHRq
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
@@ -42967,7 +42966,6 @@ ZP6AX1PEAX
 ZPEAVPluginMouse
 ZPu4fE9Z`u
 ZRZZZbZt[.[
-ZtVxImrv8cySJPqquqIxhu3gjnWK
 Zusammenfassung
 ZVLocalTouchedSignal
 ZVspecial_equipped_signal
