@@ -1130,7 +1130,6 @@ KeySequenceEdit
 LineResultIdentifier
 LinkEnabledPlainTextEdit
 ListModelBase
-lm::AudioProxy
 lm::AudioResampler
 lm::AveragingTimeFilter<class Eigen::Matrix<float,2,1,0,2,1> >
 lm::AveragingTimeFilter<float>
@@ -1151,7 +1150,6 @@ lm::IFeaturesSmoother
 lm::IFeaturesTracker
 lm::IFullTracker
 lm::IObjectDetector
-lm::ISignalProducer
 lm::ITrackerPostProcessor
 lm::loomai::error
 lm::loomai::interface_base
@@ -1159,6 +1157,7 @@ lm::loomai::interface_implementation<class lm::RecorderSignal,class lm::loomai::
 lm::loomai::IRecorderSignal
 lm::loomai::IRecorderSignalMutable
 lm::LowPassTimeFilter<class Eigen::Matrix<double,-1,-1,0,-1,-1> >
+lm::LowPassTimeFilter<class Eigen::Matrix<double,3,1,0,3,1> >
 lm::membuf
 lm::memstream
 lm::MfccAudioProcessor
@@ -1169,6 +1168,7 @@ lm::PoseRegression
 lm::RecorderSignal
 lm::SlidingWindowMinFilter<double>
 lm::TimeFilter<class Eigen::Matrix<double,-1,-1,0,-1,-1> >
+lm::TimeFilter<class Eigen::Matrix<double,3,1,0,3,1> >
 lm::TimeFilter<class Eigen::Matrix<float,2,1,0,2,1> >
 lm::TimeFilter<double>
 lm::TimeFilter<float>
@@ -6372,7 +6372,6 @@ RBX::Reflection::EnumPropDescriptor<class RBX::DraggerService,enum RBX::DraggerM
 RBX::Reflection::EnumPropDescriptor<class RBX::EulerRotationCurve,enum RBX::EulerAngles::RotationOrder>
 RBX::Reflection::EnumPropDescriptor<class RBX::Explosion,enum RBX::Explosion::ExplosionType>
 RBX::Reflection::EnumPropDescriptor<class RBX::ExtrudedPartInstance,enum RBX::ExtrudedPartInstance::VisualTrussStyle>
-RBX::Reflection::EnumPropDescriptor<class RBX::FaceAnimatorService,enum RBX::TrackerMode>
 RBX::Reflection::EnumPropDescriptor<class RBX::FaceInstance,enum RBX::NormalId>
 RBX::Reflection::EnumPropDescriptor<class RBX::FacialAnimationStreamingService,enum RBX::FacialAnimationFlags>
 RBX::Reflection::EnumPropDescriptor<class RBX::Feature,enum RBX::Feature::InOut>
@@ -8060,7 +8059,6 @@ RBX::Reflection::PropDescriptor<class RBX::Explosion,float>::GetSetImpl<float (_
 RBX::Reflection::PropDescriptor<class RBX::ExtrudedPartInstance,enum RBX::ExtrudedPartInstance::VisualTrussStyle>::GetSetImpl<enum RBX::ExtrudedPartInstance::VisualTrussStyle (__cdecl RBX::ExtrudedPartInstance::*)(void)const __ptr64,void (__cdecl RBX::ExtrudedPartInstance::*)(enum RBX::ExtrudedPartInstance::VisualTrussStyle) __ptr64>
 RBX::Reflection::PropDescriptor<class RBX::FaceAnimatorService,bool>
 RBX::Reflection::PropDescriptor<class RBX::FaceAnimatorService,bool>::GetSetImpl<bool (__cdecl RBX::FaceAnimatorService::*)(void)const __ptr64,void (__cdecl RBX::FaceAnimatorService::*)(bool) __ptr64>
-RBX::Reflection::PropDescriptor<class RBX::FaceAnimatorService,enum RBX::TrackerMode>::GetImpl<enum RBX::TrackerMode (__cdecl RBX::FaceAnimatorService::*)(void)const __ptr64>
 RBX::Reflection::PropDescriptor<class RBX::FaceControls,float>
 RBX::Reflection::PropDescriptor<class RBX::FaceControls,float>::GetSetImpl<float (__cdecl RBX::FaceControls::*)(void)const __ptr64,void (__cdecl RBX::FaceControls::*)(float) __ptr64>
 RBX::Reflection::PropDescriptor<class RBX::FaceInstance,enum RBX::NormalId>::GetSetImpl<enum RBX::NormalId (__cdecl RBX::FaceInstance::*)(void)const __ptr64,void (__cdecl RBX::FaceInstance::*)(enum RBX::NormalId) __ptr64>
@@ -9899,7 +9897,6 @@ RBX::Reflection::TypedPropertyDescriptor<enum RBX::TexturePackAlphaMode>::GetSet
 RBX::Reflection::TypedPropertyDescriptor<enum RBX::Time::SampleMethod>::GetSet
 RBX::Reflection::TypedPropertyDescriptor<enum RBX::TrackerLodFlagMode>::GetSet
 RBX::Reflection::TypedPropertyDescriptor<enum RBX::TrackerLodValueMode>::GetSet
-RBX::Reflection::TypedPropertyDescriptor<enum RBX::TrackerMode>::GetSet
 RBX::Reflection::TypedPropertyDescriptor<enum RBX::TriStateBoolean>::GetSet
 RBX::Reflection::TypedPropertyDescriptor<enum RBX::TweenInfo::TweenEasingDirection>::GetSet
 RBX::Reflection::TypedPropertyDescriptor<enum RBX::TweenInfo::TweenEasingStyle>::GetSet
@@ -11013,8 +11010,8 @@ rtc::RefCountedObject<class webrtc::`anonymous namespace'::CreateSessionDescript
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::IdWithDirection>
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::TypedId>
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::TypedIntId>
-rtc::RefCountedObject<class webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0x413c0741::NotAdvertised<struct webrtc::AudioDecoderL16> > >
-rtc::RefCountedObject<class webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x6b09f477::NotAdvertised<struct webrtc::AudioEncoderL16> > >
+rtc::RefCountedObject<class webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0xbdb41efb::NotAdvertised<struct webrtc::AudioDecoderL16> > >
+rtc::RefCountedObject<class webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x9781edcd::NotAdvertised<struct webrtc::AudioEncoderL16> > >
 rtc::RefCountedObject<class webrtc::AudioDeviceModuleImpl>
 rtc::RefCountedObject<class webrtc::AudioMixerImpl>
 rtc::RefCountedObject<class webrtc::AudioProcessingImpl>
@@ -12434,13 +12431,13 @@ std::_Ref_count_obj2<class lm::DeepSpeechLipsRefiner>
 std::_Ref_count_obj2<class lm::FaceRecognitionByTracking>
 std::_Ref_count_obj2<class lm::GazeDetector>
 std::_Ref_count_obj2<class lm::IdentityOneEuroFeaturesSmoother>
-std::_Ref_count_obj2<class lm::ISignalProducer>
 std::_Ref_count_obj2<class lm::MtcnnNcnnFaceDetection>
 std::_Ref_count_obj2<class lm::OcclusionHandler>
 std::_Ref_count_obj2<class lm::OneEuroFeaturesSmoother>
 std::_Ref_count_obj2<class lm::PoseRegression>
 std::_Ref_count_obj2<class lm::RecorderSignal>
-std::_Ref_count_obj2<class lm::TrackerAV2cPlugin>
+std::_Ref_count_obj2<class lm::TrackerA2cPlugin>
+std::_Ref_count_obj2<class lm::TrackerV2cPlugin>
 std::_Ref_count_obj2<class LocalPlacePublishRequestMediator>
 std::_Ref_count_obj2<class LSCReplacer>
 std::_Ref_count_obj2<class Luau::DenseHashMap<class std::string,class Luau::Variant<struct Luau::BasicDocumentation,struct Luau::FunctionDocumentation,struct Luau::TableDocumentation,struct Luau::OverloadedFunctionDocumentation>,struct std::hash<class std::string >,struct std::equal_to<class std::string > > >
@@ -12907,6 +12904,7 @@ std::_Ref_count_obj2<struct HttpResponseProxy>
 std::_Ref_count_obj2<struct InstancesQuickOpenProviderSharedState>
 std::_Ref_count_obj2<struct lm::loomai::InterleavedImageViewU8>
 std::_Ref_count_obj2<struct lm::PipelineOutputs const >
+std::_Ref_count_obj2<struct lm::PipelineOutputs>
 std::_Ref_count_obj2<struct lm::StageResults>
 std::_Ref_count_obj2<struct lm::Tensor>
 std::_Ref_count_obj2<struct Luau::Module>
@@ -13079,7 +13077,6 @@ std::_Ref_count_resource<class CmdRepeat * __ptr64,struct std::default_delete<cl
 std::_Ref_count_resource<class CRenderSettingsItem * __ptr64,class RBX::Creatable<class RBX::Instance>::Deleter<class CRenderSettingsItem> >
 std::_Ref_count_resource<class dtNavMesh * __ptr64,void (__cdecl*)(class dtNavMesh * __ptr64)>
 std::_Ref_count_resource<class FMOD::System * __ptr64,struct RBX::Soundscape::FmodManagerImpl::FmodSystemRelease>
-std::_Ref_count_resource<class lm::AudioProxy * __ptr64,struct std::default_delete<class lm::AudioProxy> >
 std::_Ref_count_resource<class lm::AudioVideoStateMachine * __ptr64,struct std::default_delete<class lm::AudioVideoStateMachine> >
 std::_Ref_count_resource<class ncnn::Extractor * __ptr64,struct std::default_delete<class ncnn::Extractor> >
 std::_Ref_count_resource<class PropertiesWidget::InstanceSelectionTool * __ptr64,class RBX::Creatable<class RBX::MouseCommand>::Deleter<class PropertiesWidget::InstanceSelectionTool> >
@@ -14074,7 +14071,6 @@ std::enable_shared_from_this<class DraftsServiceHost>
 std::enable_shared_from_this<class FontSelection::FontFetcherImpl>
 std::enable_shared_from_this<class IPluginFileController>
 std::enable_shared_from_this<class IUserPluginsModel>
-std::enable_shared_from_this<class lm::ISignalProducer>
 std::enable_shared_from_this<class lm::RecorderSignal>
 std::enable_shared_from_this<class LocalPlacePublishRequestMediator>
 std::enable_shared_from_this<class LogSinkBase>
@@ -14409,8 +14405,8 @@ webrtc::AcknowledgedBitrateEstimatorInterface
 webrtc::AdaptiveModeLevelEstimatorAgc
 webrtc::Agc
 webrtc::AsyncResolverFactory
-webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0x413c0741::NotAdvertised<struct webrtc::AudioDecoderL16> >
-webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x6b09f477::NotAdvertised<struct webrtc::AudioEncoderL16> >
+webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0xbdb41efb::NotAdvertised<struct webrtc::AudioDecoderL16> >
+webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x9781edcd::NotAdvertised<struct webrtc::AudioEncoderL16> >
 webrtc::AudioBuffer
 webrtc::AudioCodingModule
 webrtc::AudioConverter

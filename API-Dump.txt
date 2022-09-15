@@ -1162,10 +1162,10 @@ Class FaceAnimatorService : Instance [NotCreatable] [Service] [NotReplicated]
 	Property bool FaceAnimatorService.AudioAnimationEnabled {RobloxScriptSecurity} [Hidden] [NotReplicated]
 	Property bool FaceAnimatorService.FlipHeadOrientation {RobloxScriptSecurity} [Hidden] [NotReplicated]
 	Property bool FaceAnimatorService.VideoAnimationEnabled {RobloxScriptSecurity} [Hidden] [NotReplicated]
-	Property Enum.TrackerMode FaceAnimatorService.TrackerMode {RobloxScriptSecurity} [Hidden] [ReadOnly]
 	Function TrackerLodController FaceAnimatorService:GetTrackerLodController() {RobloxScriptSecurity}
 	Function bool FaceAnimatorService:IsStarted() {RobloxScriptSecurity}
 	Function void FaceAnimatorService:Start() {RobloxScriptSecurity}
+	Function void FaceAnimatorService:Step() {RobloxScriptSecurity}
 	Function void FaceAnimatorService:Stop() {RobloxScriptSecurity}
 	Event FaceAnimatorService.TrackerError(Enum.TrackerError error) {RobloxScriptSecurity}
 Class FaceControls : Instance

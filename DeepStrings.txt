@@ -1177,6 +1177,7 @@ AnimationParallelMultiSubmitBatchSize
 AnimationParallelThreadMax
 AnimationPlayed
 AnimationPlayedCoreScript
+AnimationPrepare
 AnimationPriority
 AnimationRetargetOnImport
 AnimationRig
@@ -1829,6 +1830,7 @@ AudienceMember
 AudienceSpecified
 AUDiffuseBadFileFormatError
 AudioAnimationEnabled
+AudioBufferedSize
 AudioCaptures
 AudioCodec[
 Audiodateien
@@ -2966,7 +2968,6 @@ AVAudioPrivacyAssetsTable
 AVAudioPrivacyPublishDialog
 AVAudioProcessing
 AVAudioProcessingImpl
-AVAudioProxy
 AVAudioReceiveStream
 AVAudioResampler
 AVAudioResourceController
@@ -4556,7 +4557,6 @@ AVISessionManager
 AVISessionManagerTelemetryAccessor
 AVISessionProvider
 AVISessionTracker
-AVISignalProducer
 AVISnippetConnProtocol
 AVISoundServiceManager
 AVIStandalonePluginController
@@ -6783,7 +6783,6 @@ AW4TouchCameraMovementMode
 AW4TouchMovementMode
 AW4TrackerLodFlagMode
 AW4TrackerLodValueMode
-AW4TrackerMode
 AW4TriStateBoolean
 AW4TweenEasingDirection
 AW4TweenEasingStyle
@@ -7744,7 +7743,6 @@ ByDatacenter_
 ByIPForDatacenterId_
 ByLocationForDatacenterId_
 ByOutBandwidthLimit
-ByRBbPc6YI
 ByteAllowanceFromTargetSpeedInKBps
 ByteParser
 ByteReader
@@ -8111,7 +8109,6 @@ CB27CB58AAF011E38B9D871882A8E559
 CB27CB59AAF011E38B9D871882A8E559
 CB27CB5CAAF011E38B9D871882A8E559
 CB583B11E29A3DBD856014A660
-CblYLVB4afkInDww4lsUJNOj6cF
 CBUGroupRolesResult
 CBUHttpTarget
 CBUPathData
@@ -8435,7 +8432,6 @@ ChecksumAlgorithms
 CheckTeamCreateReplicatorQueue
 CheckTimeout
 CheckTouchInputEndForInertialScrolling
-CHHOT0CAwEAAQ
 ChildAdded
 ChildAddedHelper
 ChildBinaryStringLength
@@ -11421,7 +11417,6 @@ DB33D3AAF011E38B9D871882A8E559
 DB33D6AAF011E38B9D871882A8E559
 DB33D7AAF011E38B9D871882A8E559
 DBD856014A660
-DCvafWy2HlC0GvDgl
 DD11E2898E9FB8E4A9E79B
 DD4669DB402E11E3A29DA4266180AE0C
 DD4669DC402E11E3A29DA4266180AE0C
@@ -13683,7 +13678,6 @@ EffectorTranslationConstraint
 Effettuare
 EFixLayeredCLothingExporter
 EFrontVector
-EGFpHSFS16tgOML48YVQyIpmZTPnryFlA7o
 Egravesmall
 EHERE\EfEpEzE
 Eigenschaften
@@ -13723,6 +13717,7 @@ ElevatedStudioPlugin
 Eliminando
 Eliminandolo
 Elimination
+EM7zWSixtzaqHvq637lZbjg
 EmbedBuiltinPluginSignature
 EmbeddedAuthorizationDialog
 EmbeddedAuthorizationDialog]
@@ -14054,7 +14049,6 @@ EngineStabilityStats
 EngineStabilitySumPlaySessionDuration
 EngineStabilityTrackingWindow
 EngineStabilityTrackingWindowInSeconds
-EnNpwhEqC243zqQ
 EnqueueTimeIterator
 Enregistre
 Enregistrement
@@ -14134,7 +14128,6 @@ EnviroSpeed
 EnvMapUpdate
 EnvTexture
 EnvTextureInProgress
-EOmTRrLVCb4H3oXtV3pqWCEa1
 EoOoZoaozo
 EphemeralCounter
 EphemeralCounterInfluxReportingEnabled
@@ -14240,6 +14233,7 @@ EulerAnglesXYZ
 EulerAnglesYXZ
 EulerRotation
 EulerRotationCurve
+EuRP21abM4mI2USqAdf0yYtFH6H5dsLesy1TzTaLX0JKqGp6TwUPbpCF4TDa
 EvaluatedKey
 EvaluateForHovers
 EvaluateGlobalTransform
@@ -14307,6 +14301,7 @@ EventTokenStudio.addEventListener
 EventTrackerCookieFromNativeHttpLayer
 EventWithTimestamp
 EvFaceLost
+EvHasEasedToNeutral
 EVP_CIPHER_asn1_to_param
 EVP_CIPHER_CTX_copy
 EVP_CIPHER_CTX_ctrl
@@ -14392,7 +14387,9 @@ EVRConfig_ForceScaling
 EVRConfig_ForceThrottle
 EvTransitionedToAudio
 EvTransitionedToAudioVideo
+EvTransitionedToAudioVideoFaceUnclear
 EvTransitionedToVideo
+EvTransitionedToVideoFaceUnclear
 EvV2CFaceIsOccluded
 EvV2CFaceNotFound
 EvV2CHasTrackingError
@@ -14616,6 +14613,8 @@ FacebookShareUrl
 FaceCamera
 FaceCenter_Att
 FaceCenterAttachment
+FaceChatA2cInferenceLag_ms
+FaceChatA2cInferenceRate_fps
 FaceChatAudioEnabled
 FaceChatAudioEnqueueLag_ms
 FaceChatAudioRate_fps
@@ -15223,6 +15222,7 @@ FireCustomEvent
 FireInGameEconomy
 FireInGameEconomyEvent
 FireLogEvent
+FireMouseLockTypeStateChangeOnReset
 FirePlayerProgressionEvent
 FireServer
 FireWand.png
@@ -15304,6 +15304,7 @@ FixMisplacedHipMotionR15
 FixModelLodShaderWithMP
 FixNeonInThumbnailer
 FixNextUnitVectorFlagging
+FixOutsideBoundCheckCalculation
 FixPreferredSoundDeviceVR
 FixR6AccessoryScaling2
 FixR6AppearanceLoadTracking2
@@ -15784,6 +15785,7 @@ FromSelection
 FromServer
 FromSession
 FromSource
+FromStepSignal
 FromString
 FromStringWithFlagType
 FromTeamCreate
@@ -17056,7 +17058,6 @@ GL_EXTENSIONS
 GL_KHR_debug
 GL_RENDERER
 GL_VERSION
-GL0m8TdJGR1
 GlacierName
 GlassTintFS
 GLContextDetailsEvent
@@ -17134,7 +17135,6 @@ GoToScriptLocation
 GoToSourceCodeTB
 GotoTargetsRequest
 GoToVersionFailed
-GoYffMqkXzNEiWC3rvgzsAyN7uvU9NsUEG
 GpuVariance
 GrabCursor.png
 GrabRotateCursor
@@ -18169,7 +18169,6 @@ HW4MatchType
 HW4Orientation
 HW4PacketPriority
 HW4TransformationMode
-HwBB6jpsGRdoMm
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
@@ -18734,7 +18733,6 @@ InitStatusError
 InitThreadMenu
 Inizializzazione...
 InjectedCongestionController
-INkFRlznaIXR9y8trKKi3YWjTPA7Tv9wEGD
 InletCursor
 Inlets.png
 Inlinedside
@@ -19162,6 +19160,7 @@ IPublishedGamesStore
 IPV6_V6ONLY
 IPv6Default
 IRestartController
+Irk9sgYUanB8Ry44Wt7ZwiLpzhkwb9
 IRobloxDoc
 IRobloxDocManager
 IRobloxIDEDoc
@@ -19444,7 +19443,6 @@ JdiV2Processed
 JdiV2ProcessedPerFrame
 Jdiv2RecvDuringJoin
 JDJNJXJbJlJvJ
-JEUgq8alN4S
 JHJRJ\JfJpJxJ
 JHW4MembershipType
 JIIIIIIIKI
@@ -19453,6 +19451,7 @@ JitterBufferDelayProxyWithInternal
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
+JLnMVneREAJnw3UppG
 JMeshLODDetails
 JobTimerDuringInitialExperience
 Jogabilidade
@@ -19549,6 +19548,7 @@ JSONOverflowDepth
 JUAssetData
 Jugabilidad
 JUGroupRolesRequestRecord
+JUMCh6MS6jIIPWmVaqTBdurpLjmK3AkCrPrA3QRLY4uzbnLCY0gtS87NUeQ
 JumpAnimation
 JumpController
 JumpHeight
@@ -20509,7 +20509,6 @@ LSCReplacer
 LSCReplacerLog
 LSCReplacerReportPercentage
 Lslashsmall
-LSNaoo4Yo77FpJ
 LSPAutocompleteMenu
 LSPFileSyncService
 LSPService
@@ -21627,7 +21626,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAzH9vBSAS7j7eO
+MIICCgKCAgEAtvaUsg5Is9CT
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21701,7 +21700,6 @@ MMMMMMMMMMMMMMMM^^^^^^^^^^^^^^^^^^^^
 MMW4IkDragCollisionsMode
 MMW4MaterialType
 MMW4UserInputState
-MMwF5MowrfZ9Azv6
 MobileHapticsToggle
 MobileWebsite
 Mobiltelefone
@@ -22907,7 +22905,6 @@ Odieresissmall
 OfA9HPuHfA9H`uAfA9Hpu
 OfAdmissions
 OfApproval
-OFBXEsHcCa96UHRRec95ot7IWpUfqyJopwFw0
 OfBytesInSS
 OfBytesInstancesUseful
 OfBytesMeta
@@ -22960,7 +22957,6 @@ OgreWidgetForGameState
 OgreWidgetShowEvent
 Ohungarumlaut
 OiCCPPhotoshop
-OJaj7fqadvectrYCDnCXUQFZkMMTz
 OldActiveElement
 OldBinaryStringLength
 OldDOFDownSampleAndComputeFarCoCHorizontal4xFS
@@ -23455,6 +23451,7 @@ PA^A]A\_^][
 PA_A]A\_^][
 PA_A^A\_^[]
 PA_A^A\_^][
+PA_A^A\_^][H
 PA_A^A]_^[]
 PA_A^A]_^[]H
 PA_A^A]_^][
@@ -24002,7 +23999,6 @@ PEAVAtmosphere
 PEAVAttachment
 PEAVAttachmentDraggerTool
 PEAVAttachmentTool
-PEAVAudioProxy
 PEAVAudioSourceInterface
 PEAVAudioVideoStateMachine
 PEAVAuthTokenManager
@@ -25318,6 +25314,7 @@ PlayerMouse
 PlayerName
 PlayerNameCache
 PlayerNameplates
+PlayerNetworkBandwidth
 PlayerOwnsAsset
 PlayerOwnsBundle
 PlayerPolicies
@@ -25616,6 +25613,7 @@ PPLTaskHandle
 PPPPPPPPPPPPPPPPPPPPPP
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 PPPPPPPZZZZZZZZZZZZZZZZZZZZZZ
+Pr3ZOGBSstB
 Prc.length
 Prc[MouseGraphX]
 PreAnimation
@@ -26644,6 +26642,7 @@ QGuiApplication
 QHBoxLayout
 QHeaderView
 QHelpEvent
+QHHtcQoId3B8rk5WRt2VcHOazHPGTZkxud19npkLgzZGMWfgqw
 QHoverEvent
 QImageReader
 QInputDialog
@@ -26738,7 +26737,6 @@ QScrollArea
 QScrollBar
 QSemaphore
 QSequentialIterableImpl
-QserzsmSoUdkpPWNiFURzRzCECivObswjBHPXHfSYLJG
 QSG_RENDER_LOOP
 QSignalMapper
 QSizePolicy
@@ -27183,7 +27181,6 @@ RaycastPrimitives
 RaycastResult
 RaycastTerrain
 Rayonnements
-Rb4svSGsSzx5
 RbfDiagonalEps
 RbfMinDistance
 RBX_CHANGE_D3D9_PRESENTATION_INTERVAL
@@ -28460,6 +28457,7 @@ ResetPlaceFilteredVariables
 ResetPlaceFilters
 ResetPlaceFilters]
 ResetPlayerGuiOnSpawn
+ResetRotationTypeOnDataModelChange
 ResetSessionOnPlaceOpen
 ResetStream
 ResetUnsignaledRecvStream.
@@ -30656,6 +30654,7 @@ SetWindowsHookExA
 SetWindowsHookExW
 SetWindowTextW
 Sfoglia...
+SG7oEA0WJMIhdjScojzfaHYrQL900hL1ifkyOwVv31fe
 ShaderLoad
 ShaderLoad_TotalTime
 ShaderLoad_TotalTime_
@@ -31259,7 +31258,6 @@ SmoothWaterHQVS_
 SmoothWaterSuperHQFS_
 SmoothWaterVS
 SmoothWindow
-SmoxCEKUpLccDfpfcsxK7UuoZorA88gp3xtNzktjO5Fo
 SnapAttachmentsVerb
 Snippet...
 SnippetCodeEditor
@@ -37828,7 +37826,6 @@ TitleBarProgress
 TitlebarText
 TitleBarVisible
 TJNLerU][Wr
-TKFEsbxwdIBBLoxVNsG3ZWdwrXwimJIAB0fNtN2KhwbsYKbZKusva9pspyQj
 TLS_AES_128_CCM_8_SHA256
 TLS_AES_128_CCM_SHA256
 TLS_AES_128_GCM_SHA256
@@ -38348,7 +38345,6 @@ ToVideoStream
 TownAndCity
 ToWorldSpace
 TPoseAdjusterDefaultVersion
-TQSUdRtQ3EaRLjJLVLCqRL
 Tracciamento
 TraceMessage
 TracerService
@@ -38588,6 +38584,7 @@ TwoStepVerificationFailure
 TwoStepVerificationFlooded
 TwoStepVerificationOther
 TwoStepVerificationParse
+TX3iWuyTn0JBSfAVuJUJpeAmC3B2ohukqWURjgPdXDnchOepUXXUIw4jNLPz8Kl
 TxBwStatLog
 TxBwStatLog]
 TxQueueSize
@@ -38911,6 +38908,7 @@ UI_set_result
 UI_set_result_ex
 UIAspectRatioConstraint
 UIAxWinAmbientDispatchEx
+UIbDYHzOrmrMV4
 UIComponent
 UIComponents
 UIConstraint
@@ -39421,12 +39419,14 @@ UPeerConnectionDependencies
 UPendingTexturePackContent
 UPermission
 UPerReplicatorCacheState
+UPF6KlPD603uq5QgG6ULtmGSXnjht0Yf6cs
 UpForGameNotPublicDialog
 UpForGameNotPublishedDialog
 UpForNewFeatureDialog
 UpGameStateViewConfiguration
 UpgradeSDLTo16
 UpgradeTempAssetId
+UPipelineOutputs
 UPlaceInfo
 UPlaceInfoResult
 UPlaceVersionHistoryItem
@@ -40058,7 +40058,6 @@ VAudioPrivacyPermissionsManager
 VAudioPrivacyPublishDialog
 VAudioProcessingImpl
 VAudioProcessorInterface
-VAudioProxy
 VAudioResourceController
 VAudioRtpSender
 VAudioSourceInterface
@@ -40766,6 +40765,7 @@ VGuiLayerCollector
 VGuiObject
 VGuiService
 VGuiTextButton
+Vh32W6UHWyZhLq9FNgtk8NjSs8UEzSzEkx73LsxlQg5Rq3WWfhF0CAwEAAQ
 VHammerTool
 VHandleAdornment
 VHandlesBase
@@ -40781,6 +40781,7 @@ VHighlightFormats
 VHingeConstraint
 VHInitialize
 VHistoryDropdown
+VHoFGux7OW
 VHopperBin
 Vhpjplpnpp^r
 VHSRDataContentProvider
@@ -40831,12 +40832,15 @@ VideoAnalyticsFlushIntervalMilliseconds
 VideoAnimationEnabled
 VideoAssetId
 VideoAudioBufferHeadroomFactor
+VideoAudioFrameDiffMs
 Videoaufnahme
 Videoaufzeichnung
 VideoAvailable
 VideoBitrateAllocation
+VideoBufferedSize
 VideoBufferForPlaybackAfterRebufferMs
 VideoBufferForPlaybackMs
+VideoBufferLevelMs
 VideoCallback
 VideoCapture
 VideoCapture]
@@ -40865,6 +40869,7 @@ VideoCaptureServiceEnabled
 VideoCaptureServiceEnableLuaEvents2
 VideoCaptureServiceHandleSuspend
 VideoCaptureStreamNotFoundErrors
+VideoChangeLadder
 VideoChannel
 VideoDecodedVideoQueueSize
 VideoDecoder
@@ -40894,6 +40899,7 @@ VideoManager]
 VideoMaxBufferMs
 VideoMaxNumberOfVideosPlaying
 VideoMemory
+VideoMetricsReportBandwidthAndPerformanceMetrics
 VideoMetricsReportZero
 VideoMinBufferMs
 VideoNoPermission
@@ -41077,7 +41083,6 @@ VisibleBlock
 VisibleItemFound
 VisibleShadowObjectsList
 VISIBLESTRING
-VISignalProducer
 VisitedGrids
 VisitedUrl
 VisualDesign
@@ -41990,11 +41995,12 @@ VTouchedSignal
 VTouchInputService
 VTouchTransmitter
 VTracerService
+VTrackerA2cPlugin
 VTrackerAnimationStreamSource
-VTrackerAV2cPlugin
 VTrackerLodController
 VTrackerPostProcessor
 VTrackerStreamAnimation
+VTrackerV2cPlugin
 VTranslatorInstance
 VTreeWidgetDelegate
 VTremoloSoundEffect
@@ -42508,6 +42514,7 @@ Whitespace
 WhoClicked
 WhoHovered
 WhoTriggered
+WHTYnX8geIsAaZZJE7uSVGUA74BllptHXgM6lC6
 WideCharToMultiByte
 WideToNarrowScaleInHundredths
 WideView_purpleLayer.png
@@ -42867,6 +42874,7 @@ XboxSaleAvatarPackageIds
 XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
+XgGSH8Zj1UtSpPjOa4bxJlW
 XHW4Status_e
 XInputGetBatteryInformation
 XInputGetCapabilities
@@ -42989,6 +42997,7 @@ XPEBDPEBDV
 XPEBVGImage
 XPEBVInstance
 XPEBVIStatus
+Xpzw3tYKaa1GFGQebyWY9j
 XQColorDialog
 Xregex_error
 XResolution
@@ -43110,6 +43119,7 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
+Yr1peExSkT
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
@@ -43120,7 +43130,6 @@ ZAEAPEBV34
 ZAEBQEAV34
 Zahlenfarbe
 Zb\b^Lbbp6tPxb
-ZByJeRywrQw0FBYeIprmxb
 Zcaronsmall
 Zdotaccent
 Zeichenfolgefarbe
