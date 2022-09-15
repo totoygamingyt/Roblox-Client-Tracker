@@ -4,6 +4,8 @@ local CoreGui = game:GetService("CoreGui")
 local Players = game:GetService("Players")
 
 local RobloxGui = CoreGui:WaitForChild("RobloxGui")
+-- local RobloxTranslator = require(RobloxGui.Modules.RobloxTranslator)
+
 local FaceAnimatorService = game:GetService("FaceAnimatorService")
 if game:GetEngineFeature("FacialAnimationStreaming") and game:GetFastFlag("SelfieViewFeature") then
 	FaceAnimatorService.VideoAnimationEnabled = true
@@ -15,6 +17,9 @@ if not FaceAnimatorService or not FacialAnimationStreamingService then
 end
 
 local FFlagEnableSyncAudioWithVoiceChatMuteState = game:DefineFastFlag("EnableSyncAudioWithVoiceChatMuteState", false)
+
+local useEnableFlags = game:GetEngineFeature("FacialAnimationStreamingUseEnableFlags")
+local FFlagEnableFacialAnimationKickPlayerWhenServerDisabled = game:DefineFastFlag("EnableFacialAnimationKickPlayerWhenServerDisabled", false)
 
 local VoiceChatServiceManager = require(RobloxGui.Modules.VoiceChat.VoiceChatServiceManager).default
 local TrackerMenu = require(RobloxGui.Modules.Tracker.TrackerMenu)
@@ -58,6 +63,14 @@ local function playerTrace(message, player)
 		end
 	end
 	log:trace(string.format("%s {id: %s, name: %s}.", message, userId, userName))
+end
+
+local function isFacialAnimationStreamingEnabled()
+	if useEnableFlags then
+		return FacialAnimationStreamingService.EnableFlags == (Enum::any).FacialAnimationFlags.PlaceServer
+	else
+		return FacialAnimationStreamingService.Enabled
+	end
 end
 
 local function clearConnection(player, connectionType)
@@ -279,7 +292,7 @@ local function playerUpdate(player)
 	-- OR
 	-- if player is remote and joined in voice chat as well.
 	local isLocal = Players.LocalPlayer.UserId == player.UserId
-	local setupPlayer = FacialAnimationStreamingService.Enabled and playerJoinedGame[player.UserId] and (playerJoinedChat[player.UserId] or isLocal)
+	local setupPlayer = isFacialAnimationStreamingEnabled() and playerJoinedGame[player.UserId] and (playerJoinedChat[player.UserId] or isLocal)
 
 	clearAllConnections(player)
 
@@ -395,7 +408,7 @@ function InitializeVoiceChatServices()
 end
 
 function InitializeFacialAnimationStreaming()
-	if facialAnimationStreamingInited or not FacialAnimationStreamingService.Enabled then
+	if facialAnimationStreamingInited or not isFacialAnimationStreamingEnabled() then
 		return
 	end
 	facialAnimationStreamingInited = true
@@ -449,6 +462,36 @@ FacialAnimationStreamingService:GetPropertyChangedSignal("Enabled"):Connect(func
 	end
 end)
 
--- Try to initialize, but probably need to wait for server to replicate enabled property first
-InitializeFacialAnimationStreaming()
+-- New initialization flow using enable flags
+local function updateByEnableFlags()
+	log:trace("updateByEnableFlags: {}", FacialAnimationStreamingService.EnableFlags)
+	if FacialAnimationStreamingService.EnableFlags == (Enum::any).FacialAnimationFlags.PlaceServer then
+		InitializeFacialAnimationStreaming()
+	elseif FacialAnimationStreamingService.EnableFlags == (Enum::any).FacialAnimationFlags.Place then
+		-- Temporarily disable facial animation streaming if only the place (and not server) allows it
+		-- as a server throttling mechanism
+		CleanupFacialAnimationStreaming()
+		if FFlagEnableFacialAnimationKickPlayerWhenServerDisabled then
+			-- TODO: add to translation this kick message
+			local kickMsg = "This place is temporarily not available. Please try later."
+			Players.LocalPlayer:Kick(kickMsg)
+		else
+			TrackerMenu:showPrompt(TrackerPromptType.FeatureDisabled)
+		end
+	else
+		CleanupFacialAnimationStreaming()
+	end
+end
 
+-- Initialize based on server feature state
+if useEnableFlags then
+	-- Listen for server enable flag changes
+	FacialAnimationStreamingService:GetPropertyChangedSignal("EnableFlags"):Connect(function()
+		updateByEnableFlags()
+	end)
+
+	updateByEnableFlags()
+else
+	-- Try to initialize, but probably need to wait for server to replicate enabled property first
+	InitializeFacialAnimationStreaming()
+end
