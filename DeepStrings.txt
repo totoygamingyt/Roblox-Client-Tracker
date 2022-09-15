@@ -178,7 +178,6 @@ AcceptedToGameLoadTimeMs
 AcceptGameNotPublicDialog
 AcceptGameNotPublishedDialog
 AcceptMode
-AcceptNewFea
 AcceptNewFeatureDialog
 AcceptPendingUserAgreementIds
 AcceptRichText
@@ -727,6 +726,7 @@ AfterWorldsteps
 AgainstLatestPackageAction
 AgcClippingLevelExperiment
 AgcMinMicLevelExperstate_
+AGD1uuY1tnu8xdt2yMYkmPygGY3GO
 Age13OrOver
 AgeBracket
 Agencement
@@ -749,6 +749,7 @@ AggregateInfo.EmptyFrames[nHoverFrame]
 AggregateInfo.Frames
 AggregateInfo.TotalFrames
 AggrFrames
+AGoJTMDAo7PgWM8Wlr
 Agravesmall
 Agreements
 Aguardando
@@ -10411,6 +10412,7 @@ CrackedLavaName
 CrashDumpFileName
 CrashEvent
 CrashpadManagerReportPlaySessionId2
+CrashPlaySessionCount
 CrashReason
 CrashReporter
 CrashReporter_SoftHangWatcherThreadFunc
@@ -10420,6 +10422,7 @@ CrashReporterInit]
 CrashReporterNew
 CrashReportingHundredthsPercentage
 CrashSessionID
+CrashSumPlaySessionDuration
 CrashUploadArchiveAfterErrorsDelaySeconds
 CrashUploadAttachmentKiloByteLimit
 CrashUploadError
@@ -13660,7 +13663,6 @@ EFixLayeredCLothingExporter
 EFrontVector
 Egravesmall
 EHERE\EfEpEzE
-Ei0fdLJR8KT2K98GbyH
 Eigenschaften
 Eigenschaftendatei
 Eigenschafteninfo
@@ -13833,6 +13835,7 @@ EnableDynamicHeadByDefault
 EnableDynamicHeads
 EnableExtension
 EnableFindFirstDescendant2
+EnableFmodAudioDevice
 EnableFmodErrorsTelemetry
 EnableFontAsAttribute
 EnableFrameLockI3D
@@ -14013,6 +14016,19 @@ ENGINE_set_default_string
 ENGINE_set_id
 ENGINE_set_name
 ENGINE_up_ref
+EngineStability
+EngineStabilityMetrics
+EngineStabilityPlayCrashCount
+EngineStabilityPlaySessionCount
+EngineStabilityReportThrottleHundredthsPercent
+EngineStabilitySinceCrashPlaySessionCount
+EngineStabilitySinceCrashSumPlaySessionDuration
+EngineStabilitySinceFatalErrorSumPlaySessionDuration
+EngineStabilitySinceNonFatalErrorSumPlaySessionDuration
+EngineStabilityStats
+EngineStabilitySumPlaySessionDuration
+EngineStabilityTrackingWindow
+EngineStabilityTrackingWindowInSeconds
 EnqueueTimeIterator
 Enregistre
 Enregistrement
@@ -14101,6 +14117,7 @@ EphemeralStat
 EphemeralStatsInfluxReportingEnabled
 EphemeralStatsInfluxReportingPriorityHundredthsPercent
 EphemeralStatsInfluxReportingThrottleHundredthsPercent
+EqbVa17ICK2qpoHXHfh0m6m8mBN40LWz2
 EqDelayHistogramWebRTC
 EqualizerSoundEffect
 Equipamento
@@ -14161,7 +14178,6 @@ ErrorWindow
 ErrOutOfRetries
 Erscheinungsbild
 Erstelldatum
-ErtLBMfLvZl
 Erweiterte
 Escritorio
 ESDescriptor
@@ -14747,6 +14763,7 @@ FastRaycastParamsDescendantCopy
 FastVarType
 FastVarValueType
 FastVisuallyMovingCounters4
+FatalErrorSumPlaySessionDuration
 FavoritesCategory
 FB642AAED11E38B9D871882A8E559
 FB645AAED11E38B9D871882A8E559
@@ -14841,6 +14858,7 @@ FDA6E1EA211E49FA6F7D125AE5309
 FDA6F1EA211E49FA6F7D125AE5309
 FDE5E01E7934
 Fdossl_static.pdb
+FDuRj3aKp2jrWzSj9BrzUEY9yxmZ3IFvItHp7AqxJFGjasvLq40t50CAwEAAQ
 Feature.NativeAds.Label.Sponsored
 Feature_AppBridgeRewrite
 Feature_CookieProtocolEnabled
@@ -15276,9 +15294,7 @@ FixVehicleSeat
 FixWriteCombinedMemoryReadWrite2
 FixYieldingThreadExpirationTime
 FJFTF^FhFrF
-FjRPGiJOsJ
 FKKKKKKKKKKKKKKKKKKKK
-FKLZeO7TyKZIWyinRK5B4C3nAYZzbg0bBAcWiAVNM
 FlagCaptured
 FlagCreated
 FlagCursor.png
@@ -15806,6 +15822,7 @@ GameDetailsSubtitle
 GameDisconnect
 GameDuration
 GameDuration_
+GameErrorTime
 GameExplorer
 GameExplorer]
 GameExplorerDockAction
@@ -17038,6 +17055,7 @@ GlobalWindRendering
 GLSL.std.450
 GlyphProvider
 GlyphRenderer
+Go6SPj2AVp5SE3
 GoDaddy.com
 GoodbyeChoiceActive
 GoodbyeChoiceActiveProperty
@@ -17282,7 +17300,6 @@ Grundeinstellungen
 Gruppenteile
 Gruppierung
 GSSolverActive
-GStudio.App.Tooltip.Variadic
 Gt8\UPhZD9
 GTFiEnDdCJB
 GTInfluxDB
@@ -17604,7 +17621,6 @@ HintChanged
 Hintergrundfarbe
 HintForColumn
 HintForRow
-HIoob6EVkx
 HipHeightClamp
 Historique
 HistoryActivated
@@ -17731,6 +17747,7 @@ HSRVisualization
 HTMLContentInitialization
 HtmlEscaped
 HTMLEscapeDocumentation
+HTRXbuABCluQhzJ
 Http_Failed
 HTTP429CdnFailure
 HTTP429Failure
@@ -18157,6 +18174,7 @@ ICoreWebView2NavigationStartingEventHandler
 ICoreWebView2NewWindowRequestedEventHandler
 ICoreWebView2ProcessFailedEventHandler
 ICoreWebView2WebMessageReceivedEventHandler
+IcwhPB48m7oXSYFf22dx9RRUANuWTn07qvydI6sEWMwmeAHc
 Id_AlwaysOnTop
 ID_CONNECTION_LOST
 ID_CONNECTION_REQUEST_ACCEPTED
@@ -18264,7 +18282,6 @@ IID_IVPVBIConfig
 IID_IVPVBINotify
 IID_IVPVBIObject
 IInspectableGUI
-IJkHfS9Pcr0ZI49O6yMBxK0
 IKCollisionsMode
 IkControlBetaFeature
 IkControlBetaFeatureRoleSet
@@ -19313,6 +19330,7 @@ IteratorFlag
 Iterazione
 ITRedirect
 ITriedReplicatingNonReplicatableAndAllIGotWasThisLousyCrashDump2
+IUhDT3EHJ0yGowVMU4Ii1rtw1C4udt8PEaUYLahgHVe5rJpIhSgnzMK0
 IUniverseController
 IUpdateUIManager
 IUserContextFetcher
@@ -19585,7 +19603,6 @@ KickClientOnCoreGuiRenderOverflow
 KiDszBCYB0gyp03Pc
 KillPtClicked
 Kinematics
-KjDAm4MxbIL7LZYJPBKVeZDrGW77EYA6dpQH0mSpUSvgBEKIt
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
@@ -19651,12 +19668,17 @@ LargestFrameBufferDiff
 LargestInt
 LargestUInt
 LaserDistance
+LastAppSessionIdL0
+LastAppSessionIdL1
+LastAppSessionIdL2a
+LastAppSessionIdL2b
 LastCompleteJoinPhase
 LastEditTool
 LastEmulatedDeviceId
 LastEventType
 LastExportedApplication
 LastFrameMarkerReachedFix
+LastGameErrorTime
 LastGroupIndex
 LastIDEDocOpen
 LastInputTypeChanged
@@ -19666,12 +19688,14 @@ LastLocationType
 LastOnline
 LastPageIndex
 LastPlaceId
+LastPlaySessionId
 LastReported
 LastRetriedOn
 LastRunDate
 LastSecond
 LastSection
 LastSentSearchTermForTab
+LastSessionIds
 LastTabOnPageIndex
 LastUpdated
 LastUpdateTimeStamp
@@ -19745,6 +19769,7 @@ LCQualityCageNamingChecks
 LCQualityCheck
 LCQualityCheckUVMismatch
 LCQualityTelemetry
+LD9jShrH9FgjPVehmg3akOeEqcvG5
 LDeserializeToProcess
 LDLBatchTask
 LDLBuildProgramTimeReportRate
@@ -20441,7 +20466,6 @@ LSPAutocompleteMenu
 LSPFileSyncService
 LSPWarning
 LSRegExErrorHundredthsPercentage
-Lt0tT4UVeyKQjIU7lT
 LTAnalyticsDontMoveName
 LUA_ERRRUN
 LUA_ERRSYNTAX
@@ -21553,7 +21577,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA4MxSCas9Vl1XWDByNiAFu1wu9
+MIICCgKCAgEArxzxhWFxds0GDngklLrNYkOeMWK
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -22037,6 +22061,7 @@ MVTerrainHeightMapBlendMin
 MVTerrainHeightMapBlendScale
 MVTerrainRotationParam
 MW4MaterialType
+MxdsgKTsVF6hi
 MyModelsAction
 MyUniverses
 MyWatchTreeWidget
@@ -22451,7 +22476,6 @@ NFDN2644ExplicitlyConstructCrashReporterInStartup
 NfPfRpPtL.T6VJZ
 NfXf`fhfzf
 NH_NHHVStringView
-Nh91oHuLKRupU4uwE7yOKEu1
 NHVVariant
 NinjaMask.mesh
 NLSF_mu_Q20
@@ -22486,6 +22510,7 @@ NoJoinDiscoThrottleRakNet2
 NoLocalPlayer
 NonBlockingAnalyticsExit
 NonBlockingFmodSoundLoader
+NonFatalErrorSumPlaySessionDuration
 NonHumanoid
 NonHumanoidOrphaned
 NONINFRINGEMENT
@@ -22713,6 +22738,7 @@ NW4ActionType
 NW4HintingPreference
 NW4PenStyle
 NW4UserInputType
+NZK1612oYvnsDTZJ79jbVe3uqmqd52p7RglFBJdBTJ9p9h3uGY5R0WbrN
 Oacutesmall
 OAEPEncryptionSET
 OAuth2Config.json
@@ -22884,6 +22910,8 @@ OgreWidgetForGameState
 OgreWidgetShowEvent
 Ohungarumlaut
 OiCCPPhotoshop
+OJYdNRzVHRjKLsd8yUKOv8
+OKA5ONkZWXW4g
 OldActiveElement
 OldBinaryStringLength
 OldDOFDownSampleAndComputeFarCoCHorizontal4xFS
@@ -25171,6 +25199,7 @@ PlaybackSpeed
 PlaybackState
 PlayButtonClicked
 PlayClient
+PlayCrashCount
 PlayDataModel
 PlayEmoteAndGetAnimTrackById
 PlayEmoteAndGetAnimTrackByIdApiEnabled
@@ -25298,6 +25327,7 @@ PlayoutIsInitialized
 PlayoutTimestamp
 PlayServer
 PlaySession
+PlaySessionCount
 PlaySessionId
 PlaySessionID
 PlaySoloLoadingFinished
@@ -28135,6 +28165,7 @@ ReportInfluxSeries
 ReportInGameAssetSales
 ReportingInterval
 ReportInGoogleAnalytics
+ReportingTime
 ReportInternalUsageAnalyticsLottery
 ReportInterpolationPerformanceExponentialAvgFactorThousandth
 ReportInterpolationPerformanceMinSampleCount
@@ -28591,6 +28622,7 @@ Ricomincia
 Riconnetti
 Ridimensiona
 Ridimensionamento
+RIe4ZspuVuKa6oe
 RigAttachment
 RigAttachment.
 Right_key.png
@@ -28690,7 +28722,7 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
-RJJdb51Tf4tsukZpmR8OLp0oFARmnd9gikjr9HTD65wKGoYm8Tisq
+RJa817dz62HEy4kt0oUnXKvzyBSdToUNQKEfj
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -29108,12 +29140,10 @@ RVMEDIA_TYPE_VIDEO
 RvMp4Format
 RvScaleFixResize2
 RvWebmFormat
-RwcYhs33Cw5bFJu6IPgR2EFzrZ
 RxIgnoredBytes
 RxIgnoredPackets
 RxQueueSize
 RxRlReport
-RYAwaEjH2ebZnXRFIVVmHA9JCcv5rMJ6C8kE3DgFDG6kH2kLJYrS
 S_Key_dn.png
 SA_KPEAPEBVfacet
 SA_NAEBVConnection
@@ -29195,6 +29225,7 @@ SaveBuildAndReloadDebuggablePluginVerb
 SaveButtonClicked
 SaveChangesButtonPressed
 SaveConflictButton
+SaveDialog.OpenRobloxFile
 SaveDialogAlways
 SaveDialogYes
 SavedQualityLevel
@@ -30180,12 +30211,18 @@ SessionCount_
 SessionCountIntervalSeconds
 SessionCountSeconds
 SessionCountSeconds_
+SessionCountWithoutCrashes
+SessionCountWithoutFatalErrors
+SessionCountWithoutNonFatalErrors
 SessionCrypto
 SessionCrypto.
 SessionCrypto]
 SessionDataLoadedTime
 SessionDescription
 SessionDescriptionInterface
+SessionDurationWithoutCrashes
+SessionDurationWithoutFatalErrors
+SessionDurationWithoutNonFatalErrors
 SessionEndReason
 SessionEventDebugVersion
 SessionEventStringUnderscores
@@ -31107,6 +31144,7 @@ SmallFirstProbePacket
 SmartcardLogin
 SMIME_read_ASN1
 SMIME_text
+SmNsMop5EQ7bih7nUdE
 SmokeAction
 Smooth.png
 SmoothAngle
@@ -35495,6 +35533,7 @@ Studio.App.TemplatesPage.AllTemplates
 Studio.App.Theme.InvalidGetThemeApi
 Studio.App.ToastNotificationService.NotAvailable
 Studio.App.Tooltip.GoToSource
+Studio.App.Tooltip.Variadic
 Studio.App.TwoStepVerificationPage.Enter6DigitCode
 Studio.App.TwoStepVerificationPage.NeedHelpContact
 Studio.App.TwoStepVerificationPage.RobloxSupport
@@ -36545,6 +36584,7 @@ SUITEB128ONLY
 SummarySff
 SummaryStats
 SummaryStatsAction
+SumPlaySessionDuration
 SunAngularSize
 SunRaysBlur
 SunRaysCompute
@@ -36869,8 +36909,8 @@ TCSavedPlaceHashHttpError
 TCSavedPlaceHashMatch
 TCSavedPlaceHashMismatch
 TcStallingDuration
+TcTrXpC50pYuPOZF9IN5XBpx3MP1GDUjbWPdXMhN2lpUHXx0Sn0PqUG7NXJgfD
 Td8fThPj6lTnVp
-TDSsveGqufNaANWVxID7xpgKxacUZhwFeHu61iCeITLnr1Pxm
 TeachingCallouts
 TeamChatWindowAction
 TeamChildOrderExposedTelemetry
@@ -38751,6 +38791,7 @@ UHttpRequest
 UHttpResponseProxy
 UHttpTarget
 UHttpTargetHasher
+UHUfTzykmEAC
 Uhungarumlaut
 UI_construct_prompt
 UI_create_method
@@ -38917,6 +38958,7 @@ UnbindCoreAction
 UnbindFromRenderStep
 Unblocking
 Uncategorized
+UncategSystemUtil
 UncaughtExceptionError
 Uncollected
 Uncommitted
@@ -41259,7 +41301,6 @@ VoiceChatRemovedFromSession
 VoiceChatRenderMode
 VoiceChatRetryJoinAttempts
 VoiceChatRetryJoinStepMilliSeconds
-VoiceChatRollOffMaxD
 VoiceChatRollOffMaxDistance
 VoiceChatRollOffMinDistance
 VoiceChatRollOffMode
@@ -41986,6 +42027,7 @@ VWXYZ[\]^_`a
 VXmlElement
 VYieldFunctions
 VYieldFunctionState
+VYnowYGUEwmxxR
 VzAz\66DwHH
 VzZ\\N^zbpfPj2l
 W_Key_dn.png
@@ -42948,10 +42990,8 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YnKFaZ4zDnJr1Qp4NvuVhpf5oSTTqyBs6o6rAI7CU5b
 YResolution
 YwBBvY55YvBBwY5
-YYjaZLEmQfD1cLKX59Pmm6bGcjlYMPdXMJQiskgXDwFJc0F76XGMCAwEAAQ
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
 Z_KPEBDPEBDH
@@ -42981,7 +43021,6 @@ ZPEAVPluginMouse
 ZPu4fE9Z`u
 ZRZZZbZt[.[
 Zusammenfassung
-ZuYNGspYLmOUMenYgle7PJG7kJD1amWACTnlrne5QNJqC24iO97YGyJtr8dGNF
 ZVLocalTouchedSignal
 ZVspecial_equipped_signal
 ZVTouchedSignal
