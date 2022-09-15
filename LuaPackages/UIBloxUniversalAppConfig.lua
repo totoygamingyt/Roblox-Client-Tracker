@@ -36,6 +36,7 @@ local GetFFlagUIBloxEnableVirtualizedListForCarousel = require(
 )
 local GetFFlagUIBloxEnableDynamicHeadIcon = require(CorePackages.UIBloxFlags.GetFFlagUIBloxEnableDynamicHeadIcon)
 local FFlagSelectedSliderOverridesNextSelectionRightLeft = require(CorePackages.UIBloxFlags.FFlagSelectedSliderOverridesNextSelectionRightLeft)
+local GetFFlagUIBloxEnableReactTag = require(CorePackages.UIBloxFlags.GetFFlagUIBloxEnableReactTag)
 
 return {
 	selectedSliderOverridesNextSelectionRightLeft = FFlagSelectedSliderOverridesNextSelectionRightLeft,
@@ -55,6 +56,7 @@ return {
 	useNewGenericTextLabelProps = GetFFlagUIBloxUseNewGenericTextLabelProps(),
 	enableCustomMinPaddingForLinkButton = game:DefineFastFlag("UIBloxEnableCustomMinPaddingForLinkButton", false),
 	enableRadioButtonGamepadSupport = GetFFlagUIBloxEnableRadioButtonGamepadSupport(),
+	enableReactTag = GetFFlagUIBloxEnableReactTag(),
 
 	useNewVerticalScrollView = false, -- TODO: https://jira.rbx.com/browse/UIBLOX-225
 	enableActionBarLayoutFix = GetFFlagUIBloxEnableActionBarLayoutFix(),

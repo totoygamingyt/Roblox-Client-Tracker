@@ -28,6 +28,7 @@ local GetFFlagUIBloxEnableActionBarLayoutFix = require(
 local GetFFlagUIBloxDisableTooltipAnimation = require(
 	CorePackages.UIBloxFlags.GetFFlagUIBloxDisableTooltipAnimation
 )
+local GetFFlagUIBloxEnableReactTag = require(CorePackages.UIBloxFlags.GetFFlagUIBloxEnableReactTag)
 
 local EnableInGameMenuV3 = require(RobloxGui.Modules.InGameMenuV3.Flags.GetFFlagEnableInGameMenuV3)
 
@@ -44,6 +45,7 @@ return {
 		false
 	),
 	enableRadioButtonGamepadSupport = GetFFlagUIBloxEnableRadioButtonGamepadSupport(),
+	enableReactTag = GetFFlagUIBloxEnableReactTag(),
 
 	useNewVerticalScrollView = false, -- TODO: https://jira.rbx.com/browse/UIBLOX-225
 	enableRightSideGadgetView = EnableInGameMenuV3(),

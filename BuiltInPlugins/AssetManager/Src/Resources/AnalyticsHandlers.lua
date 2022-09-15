@@ -7,7 +7,6 @@ local DebugFlags = require(Plugin.Src.Util.DebugFlags)
 
 local join = Dash.join
 
-local FFlagAssetManagerDragAndDrop = game:GetFastFlag("AssetManagerDragAndDrop")
 local FFlagIncompleteDragShouldCancel = game:GetFastFlag("IncompleteDragShouldCancel")
 local FFlagAssetManagerUseEventIngest = game:GetFastFlag("AssetManagerUseEventIngest")
 
@@ -117,7 +116,7 @@ return function(rbxAnalyticsService)
 			end
 		end,
 
-		dragInsert = if FFlagAssetManagerDragAndDrop then function()
+		dragInsert = function()
 			if FFlagAssetManagerUseEventIngest then
 				sendEvent("Drag Insert")
 				reportCounter("AssetManagerDragInsert")
@@ -125,7 +124,7 @@ return function(rbxAnalyticsService)
 				rbxAnalyticsService:TrackEvent(GA_CATEGORY_ACTION, ASSET_MANAGER_CATEGORY, "Drag Insert")
 				rbxAnalyticsService:ReportCounter("AssetManagerDragInsert", 1)
 			end
-		end else nil,
+		end,
 
 		cancelDragInsert = if FFlagIncompleteDragShouldCancel then function()
 			sendEvent("CancelDragInsert")
