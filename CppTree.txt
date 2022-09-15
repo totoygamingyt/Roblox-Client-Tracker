@@ -1996,15 +1996,19 @@ RBX::AssetImport::MaterialSettings
 RBX::AssetImport::MeshSettings
 RBX::AssetImport::RootSettings
 RBX::AssetImport::StatusBase<0,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::DebugMessage>
+RBX::AssetImport::StatusBase<0,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::FacsControlName,struct RBX::AssetImport::FacsControlName2>
+RBX::AssetImport::StatusBase<0,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::FacsControlName>
 RBX::AssetImport::StatusBase<0,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::FrameAttr>
 RBX::AssetImport::StatusBase<0,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::MeshInfo>
 RBX::AssetImport::StatusBase<0,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::MeshScaleInfo>
 RBX::AssetImport::StatusBase<0,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::NodeNameSuggestion>
+RBX::AssetImport::StatusBase<0,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::SizeInfo>
 RBX::AssetImport::StatusBase<0,struct RBX::AssetImport::NodeInfo>
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::CallLocationInfo,struct RBX::AssetImport::DebugMessage>
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::FilePathInfo,struct RBX::AssetImport::DebugMessage>
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::MissingChildInfo,struct RBX::AssetImport::DebugMessage>
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::DebugMessage>
+RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::FacsControlName,struct RBX::AssetImport::FacsControlName2>
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::FacsControlName,struct RBX::AssetImport::FrameNumber1,struct RBX::AssetImport::FrameNumber2>
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::FacsControlName>
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::FilePathInfo>
@@ -2012,6 +2016,8 @@ RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::Ass
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::FrameAttr,struct RBX::AssetImport::FacsDupeName,struct RBX::AssetImport::FacsControlName>
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::FrameAttr,struct RBX::AssetImport::SizeInfo,struct RBX::AssetImport::FacsControlName>
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::FrameAttr>
+RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::FrameNumber1,struct RBX::AssetImport::FacsControlName>
+RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::JointName>
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::NodeTypeMismatch>
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo,struct RBX::AssetImport::ParentNodeName>
 RBX::AssetImport::StatusBase<1,struct RBX::AssetImport::NodeInfo>
@@ -11002,8 +11008,8 @@ rtc::RefCountedObject<class webrtc::`anonymous namespace'::CreateSessionDescript
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::IdWithDirection>
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::TypedId>
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::TypedIntId>
-rtc::RefCountedObject<class webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0xbdb41efb::NotAdvertised<struct webrtc::AudioDecoderL16> > >
-rtc::RefCountedObject<class webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x9781edcd::NotAdvertised<struct webrtc::AudioEncoderL16> > >
+rtc::RefCountedObject<class webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0x2c9a04e0::NotAdvertised<struct webrtc::AudioDecoderL16> > >
+rtc::RefCountedObject<class webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x06aff7d6::NotAdvertised<struct webrtc::AudioEncoderL16> > >
 rtc::RefCountedObject<class webrtc::AudioDeviceModuleImpl>
 rtc::RefCountedObject<class webrtc::AudioMixerImpl>
 rtc::RefCountedObject<class webrtc::AudioProcessingImpl>
@@ -11826,6 +11832,15 @@ std::_Func_base<void,struct RBX::AssetImport::Errors::FacsFrameAttrNotStringErro
 std::_Func_base<void,struct RBX::AssetImport::Errors::FacsHasFramesNoRootFaceJointError1 * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Errors::FacsInvalidCorrectiveError2 * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Errors::FacsMax3CorrectivesError3 * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Errors::FacsMissingBaseError2 * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Errors::FacsMissingKeyFrameError2 * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Errors::FacsMultipleRootFaceJoints1 * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Errors::FacsNoAnimationStackError * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Errors::FacsNoAttributesError1 * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Errors::FacsNoJointsErrors1 * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Errors::FacsNoNeutralError * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Errors::FacsNoRootFaceJoint1 * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Errors::FacsOnlyNeutralError * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Errors::FacsRootFaceJointExtraCharsError1 * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Errors::FacsRootFaceJointNotStringError * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Errors::FacsRootFaceJointNoValueError * __ptr64>
@@ -11849,6 +11864,10 @@ std::_Func_base<void,struct RBX::AssetImport::Warnings::CageUVMisMatchedWarning 
 std::_Func_base<void,struct RBX::AssetImport::Warnings::DeletedCageGeometryWarning * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Warnings::FacsEmptyAttributeWarning1 * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Warnings::FacsFrameExtraCharsWarning1 * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Warnings::FacsIncompletePosesWarning1 * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Warnings::FacsMissingSupportCorrectiveWarning2 * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Warnings::FacsMultipleAnimationStackWarning * __ptr64>
+std::_Func_base<void,struct RBX::AssetImport::Warnings::FacsNearNeutralWarning1 * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Warnings::IncorrectR15Warning * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Warnings::InnerButNoOuterCageWarning * __ptr64>
 std::_Func_base<void,struct RBX::AssetImport::Warnings::IrrelevantCageModifiedWarning * __ptr64>
@@ -12910,6 +12929,15 @@ std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsFrameAttrNotStringErro
 std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsHasFramesNoRootFaceJointError1>
 std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsInvalidCorrectiveError2>
 std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsMax3CorrectivesError3>
+std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsMissingBaseError2>
+std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsMissingKeyFrameError2>
+std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsMultipleRootFaceJoints1>
+std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsNoAnimationStackError>
+std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsNoAttributesError1>
+std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsNoJointsErrors1>
+std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsNoNeutralError>
+std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsNoRootFaceJoint1>
+std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsOnlyNeutralError>
 std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsRootFaceJointExtraCharsError1>
 std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsRootFaceJointNotStringError>
 std::_Ref_count_obj2<struct RBX::AssetImport::Errors::FacsRootFaceJointNoValueError>
@@ -12944,6 +12972,10 @@ std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::CageUVMisMatchedWarning>
 std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::DeletedCageGeometryWarning>
 std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::FacsEmptyAttributeWarning1>
 std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::FacsFrameExtraCharsWarning1>
+std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::FacsIncompletePosesWarning1>
+std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::FacsMissingSupportCorrectiveWarning2>
+std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::FacsMultipleAnimationStackWarning>
+std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::FacsNearNeutralWarning1>
 std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::IncorrectR15Warning>
 std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::InnerButNoOuterCageWarning>
 std::_Ref_count_obj2<struct RBX::AssetImport::Warnings::IrrelevantCageModifiedWarning>
@@ -14369,8 +14401,8 @@ webrtc::AcknowledgedBitrateEstimatorInterface
 webrtc::AdaptiveModeLevelEstimatorAgc
 webrtc::Agc
 webrtc::AsyncResolverFactory
-webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0xbdb41efb::NotAdvertised<struct webrtc::AudioDecoderL16> >
-webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x9781edcd::NotAdvertised<struct webrtc::AudioEncoderL16> >
+webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0x2c9a04e0::NotAdvertised<struct webrtc::AudioDecoderL16> >
+webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x06aff7d6::NotAdvertised<struct webrtc::AudioEncoderL16> >
 webrtc::AudioBuffer
 webrtc::AudioCodingModule
 webrtc::AudioConverter

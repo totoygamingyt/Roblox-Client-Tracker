@@ -726,7 +726,6 @@ AfterWorldsteps
 AgainstLatestPackageAction
 AgcClippingLevelExperiment
 AgcMinMicLevelExperstate_
-AGD1uuY1tnu8xdt2yMYkmPygGY3GO
 Age13OrOver
 AgeBracket
 Agencement
@@ -749,7 +748,6 @@ AggregateInfo.EmptyFrames[nHoverFrame]
 AggregateInfo.Frames
 AggregateInfo.TotalFrames
 AggrFrames
-AGoJTMDAo7PgWM8Wlr
 Agravesmall
 Agreements
 Aguardando
@@ -1942,6 +1940,7 @@ AUEventStream
 AUExpandFactory
 AUexternally_launched_thread
 AUFacsControlName
+AUFacsControlName2
 AUFacsCorrectiveDupeError3
 AUFacsDupeControlError3
 AUFacsDupeName
@@ -1949,8 +1948,21 @@ AUFacsEmptyAttributeWarning1
 AUFacsFrameAttrNotStringError1
 AUFacsFrameExtraCharsWarning1
 AUFacsHasFramesNoRootFaceJointError1
+AUFacsIncompletePosesWarning1
 AUFacsInvalidCorrectiveError2
 AUFacsMax3CorrectivesError3
+AUFacsMissingBaseError2
+AUFacsMissingKeyFrameError2
+AUFacsMissingSupportCorrectiveWarning2
+AUFacsMultipleAnimationStackWarning
+AUFacsMultipleRootFaceJoints1
+AUFacsNearNeutralWarning1
+AUFacsNoAnimationStackError
+AUFacsNoAttributesError1
+AUFacsNoJointsErrors1
+AUFacsNoNeutralError
+AUFacsNoRootFaceJoint1
+AUFacsOnlyNeutralError
 AUFacsRootFaceJointExtraCharsError1
 AUFacsRootFaceJointNotStringError
 AUFacsRootFaceJointNoValueError
@@ -2067,6 +2079,7 @@ AUISequentialStream
 AUIServiceProvider
 AUIUnknown
 AUIXMLHTTPRequest2Callback
+AUJointName
 AUKeyValueTypeError
 AULightGridFSM
 AULocalTriangleSphereCastCallback
@@ -7097,6 +7110,7 @@ BCFB4807B1F11E4A86BBBBE005A3BAD
 BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
+Bcl8tpHKvzzNoFObtCdMHXDLmLSXv
 BCryptGenRandom
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
@@ -8214,6 +8228,7 @@ CFrame.new
 CFrameOnly
 CFramePose
 CFrameValue
+CGMp6fnB18zo11Lu3rVfdTBDoGXJaiYj3yZL38zpqjRYIpwU4YhgpqZZtLK2oHo
 ChainCAFile
 ChainCAPath
 Chalkboard
@@ -9557,7 +9572,6 @@ CoInitialize
 CoInitializeEx
 Colaboraci
 Colisiones
-COLLAB1498StudioHttpRequestMoreThreadMarshalling
 COLLAB2010RemoveCloudEditEvent
 COLLAB2010RemoveUnusedTCTelemetry
 COLLAB2076ReportPlaceLauncherRequestErrorInfo
@@ -12516,6 +12530,7 @@ DevFrameworkMigrateContextMenu
 DevFrameworkMigrateDialog
 DevFrameworkMigrateStyledDialog
 DevFrameworkMigrateTextLabels
+DevFrameworkMigrateToggleButton
 DevFrameworkMigrateTooltip
 DevFrameworkMigrateTreeView
 DevFrameworkRemoveFitFrame3
@@ -13049,6 +13064,7 @@ DownTemplate.png
 DPERF_BeginEvent
 DPERF_EndEvent
 DPERF_GetStatus
+DPky7u0PUvH8L4a12Ayj8ItxVOZRMLB8lcqUl4ZCN1eXMwOWbHC8zlnDOIqnRy
 DPOLY1305_ASM
 Dqlqlqlqlql
 DraftAdded
@@ -13661,6 +13677,7 @@ EffectorTranslationConstraint
 Effettuare
 EFixLayeredCLothingExporter
 EFrontVector
+EgpDrxuGieKYVa0nJInhPWdGkL
 Egravesmall
 EHERE\EfEpEzE
 Eigenschaften
@@ -14117,7 +14134,6 @@ EphemeralStat
 EphemeralStatsInfluxReportingEnabled
 EphemeralStatsInfluxReportingPriorityHundredthsPercent
 EphemeralStatsInfluxReportingThrottleHundredthsPercent
-EqbVa17ICK2qpoHXHfh0m6m8mBN40LWz2
 EqDelayHistogramWebRTC
 EqualizerSoundEffect
 Equipamento
@@ -14669,6 +14685,7 @@ FacingCameraWorldUp
 FacingDirection
 FacingMessage
 FacsControlName
+FacsControlName2
 FacsCorrectiveDupeError3
 FacsDupeControlError3
 FacsDupeName
@@ -14676,9 +14693,22 @@ FacsEmptyAttributeWarning1
 FacsFrameAttrNotStringError1
 FacsFrameExtraCharsWarning1
 FacsHasFramesNoRootFaceJointError1
+FacsIncompletePosesWarning1
 FacsInvalidCorrectiveError2
 FacsLodSkipUpdate
 FacsMax3CorrectivesError3
+FacsMissingBaseError2
+FacsMissingKeyFrameError2
+FacsMissingSupportCorrectiveWarning2
+FacsMultipleAnimationStackWarning
+FacsMultipleRootFaceJoints1
+FacsNearNeutralWarning1
+FacsNoAnimationStackError
+FacsNoAttributesError1
+FacsNoJointsErrors1
+FacsNoNeutralError
+FacsNoRootFaceJoint1
+FacsOnlyNeutralError
 FACSRigCFrameProvider
 FacsRigFasterPrepare
 FacsRootFaceJointExtraCharsError1
@@ -14825,6 +14855,7 @@ FbxSystemUnit
 FbxVector2
 FbxVector4
 FbxVectorTemplate3
+FbxVectorTemplate4
 FC7F11740720681192B0FA7C02778D61
 FC822localPart
 FCA877B34569
@@ -14858,7 +14889,6 @@ FDA6E1EA211E49FA6F7D125AE5309
 FDA6F1EA211E49FA6F7D125AE5309
 FDE5E01E7934
 Fdossl_static.pdb
-FDuRj3aKp2jrWzSj9BrzUEY9yxmZ3IFvItHp7AqxJFGjasvLq40t50CAwEAAQ
 Feature.NativeAds.Label.Sponsored
 Feature_AppBridgeRewrite
 Feature_CookieProtocolEnabled
@@ -15407,6 +15437,7 @@ FMODReportDeviceInfo
 FmodSoftwareChannels
 FMODSoundChannels
 FmodStealingBehavior
+FMZIfIj1TZKo3WczyLrNnpC
 FocusChanged
 FocusConnection
 FocusDistance
@@ -17055,7 +17086,6 @@ GlobalWindRendering
 GLSL.std.450
 GlyphProvider
 GlyphRenderer
-Go6SPj2AVp5SE3
 GoDaddy.com
 GoodbyeChoiceActive
 GoodbyeChoiceActiveProperty
@@ -17087,6 +17117,7 @@ GoToScriptLocation
 GoToSourceCodeTB
 GotoTargetsRequest
 GoToVersionFailed
+Gpgub7bDi4SF7AfRlsmf5AuZNcCckhzIGBFRr5SIhPeudbWmAFcQbD
 GpuVariance
 GrabCursor.png
 GrabRotateCursor
@@ -17666,6 +17697,7 @@ HoldDuration
 Holzbretter
 HomeDataModel
 HomePageLoaded
+HoMG1kmg5vRTnP2ZWcnjmJy08CAwEAAQ
 HopperPanel.png
 Horizontal
 HorizontalAlignment
@@ -17747,7 +17779,6 @@ HSRVisualization
 HTMLContentInitialization
 HtmlEscaped
 HTMLEscapeDocumentation
-HTRXbuABCluQhzJ
 Http_Failed
 HTTP429CdnFailure
 HTTP429Failure
@@ -18174,7 +18205,6 @@ ICoreWebView2NavigationStartingEventHandler
 ICoreWebView2NewWindowRequestedEventHandler
 ICoreWebView2ProcessFailedEventHandler
 ICoreWebView2WebMessageReceivedEventHandler
-IcwhPB48m7oXSYFf22dx9RRUANuWTn07qvydI6sEWMwmeAHc
 Id_AlwaysOnTop
 ID_CONNECTION_LOST
 ID_CONNECTION_REQUEST_ACCEPTED
@@ -19330,7 +19360,6 @@ IteratorFlag
 Iterazione
 ITRedirect
 ITriedReplicatingNonReplicatableAndAllIGotWasThisLousyCrashDump2
-IUhDT3EHJ0yGowVMU4Ii1rtw1C4udt8PEaUYLahgHVe5rJpIhSgnzMK0
 IUniverseController
 IUpdateUIManager
 IUserContextFetcher
@@ -19406,6 +19435,7 @@ JitterBufferDelayProxyWithInternal
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
+JLGUaAoEzIUSn3etbMkZcoKcdPWhEkLP7
 JMeshLODDetails
 JobTimerDuringInitialExperience
 Jogabilidade
@@ -19769,7 +19799,6 @@ LCQualityCageNamingChecks
 LCQualityCheck
 LCQualityCheckUVMismatch
 LCQualityTelemetry
-LD9jShrH9FgjPVehmg3akOeEqcvG5
 LDeserializeToProcess
 LDLBatchTask
 LDLBuildProgramTimeReportRate
@@ -21577,7 +21606,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEArxzxhWFxds0GDngklLrNYkOeMWK
+MIICCgKCAgEA0jh
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -22061,7 +22090,6 @@ MVTerrainHeightMapBlendMin
 MVTerrainHeightMapBlendScale
 MVTerrainRotationParam
 MW4MaterialType
-MxdsgKTsVF6hi
 MyModelsAction
 MyUniverses
 MyWatchTreeWidget
@@ -22657,6 +22685,7 @@ NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
 Ntildesmall
+NTJCqOFpDUdKfGO5WM09wBUOU0f0IgG
 NullAudioPoller
 NullDeviceGuid
 NullNodeSettingsError
@@ -22738,7 +22767,6 @@ NW4ActionType
 NW4HintingPreference
 NW4PenStyle
 NW4UserInputType
-NZK1612oYvnsDTZJ79jbVe3uqmqd52p7RglFBJdBTJ9p9h3uGY5R0WbrN
 Oacutesmall
 OAEPEncryptionSET
 OAuth2Config.json
@@ -22910,8 +22938,6 @@ OgreWidgetForGameState
 OgreWidgetShowEvent
 Ohungarumlaut
 OiCCPPhotoshop
-OJYdNRzVHRjKLsd8yUKOv8
-OKA5ONkZWXW4g
 OldActiveElement
 OldBinaryStringLength
 OldDOFDownSampleAndComputeFarCoCHorizontal4xFS
@@ -24800,6 +24826,7 @@ PGSVStageStiffnessEasingDownToConservative
 PGSVStageStiffnessEasingUpToAggressive
 PGSVStageStiffnessWorseFitnessThreshold
 PGWYcapabilities
+Pgx18rzG5ravK37Ll6xPOYDEuKwAdPYh
 PgYlhgtIfaRB
 PGZKl8y6RXadfJMffKMAgK
 PhaseBroadPhase
@@ -26128,6 +26155,7 @@ QDataStream
 QDebuggerClient
 QDesktopServices
 QDesktopWidget
+Qdfg3PpLbLJ9ZOwUE1IKuVF1yNzffD
 QDialogButtonBox
 QDirIterator
 QDockWidget
@@ -28622,7 +28650,6 @@ Ricomincia
 Riconnetti
 Ridimensiona
 Ridimensionamento
-RIe4ZspuVuKa6oe
 RigAttachment
 RigAttachment.
 Right_key.png
@@ -28722,7 +28749,6 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
-RJa817dz62HEy4kt0oUnXKvzyBSdToUNQKEfj
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -29225,7 +29251,7 @@ SaveBuildAndReloadDebuggablePluginVerb
 SaveButtonClicked
 SaveChangesButtonPressed
 SaveConflictButton
-SaveDialog.OpenRobloxFile
+SaveDialog.FileDetected
 SaveDialogAlways
 SaveDialogYes
 SavedQualityLevel
@@ -31050,6 +31076,7 @@ Singletons
 SingletonTemplate
 SinkBindActivateEvent
 SIO_KEEPALIVE_VALS
+SipsDjl74WCVWZlM2
 SISQSZSsSuS
 SiteMessageBanner
 SixteenCharValue
@@ -31144,7 +31171,6 @@ SmallFirstProbePacket
 SmartcardLogin
 SMIME_read_ASN1
 SMIME_text
-SmNsMop5EQ7bih7nUdE
 SmokeAction
 Smooth.png
 SmoothAngle
@@ -36909,7 +36935,6 @@ TCSavedPlaceHashHttpError
 TCSavedPlaceHashMatch
 TCSavedPlaceHashMismatch
 TcStallingDuration
-TcTrXpC50pYuPOZF9IN5XBpx3MP1GDUjbWPdXMhN2lpUHXx0Sn0PqUG7NXJgfD
 Td8fThPj6lTnVp
 TeachingCallouts
 TeamChatWindowAction
@@ -38738,6 +38763,7 @@ UEventSlot
 UExperimentalNs
 UExtraSelection
 UFacsControlName
+UFacsControlName2
 UFacsCorrectiveDupeError3
 UFacsDupeControlError3
 UFacsDupeName
@@ -38745,8 +38771,21 @@ UFacsEmptyAttributeWarning1
 UFacsFrameAttrNotStringError1
 UFacsFrameExtraCharsWarning1
 UFacsHasFramesNoRootFaceJointError1
+UFacsIncompletePosesWarning1
 UFacsInvalidCorrectiveError2
 UFacsMax3CorrectivesError3
+UFacsMissingBaseError2
+UFacsMissingKeyFrameError2
+UFacsMissingSupportCorrectiveWarning2
+UFacsMultipleAnimationStackWarning
+UFacsMultipleRootFaceJoints1
+UFacsNearNeutralWarning1
+UFacsNoAnimationStackError
+UFacsNoAttributesError1
+UFacsNoJointsErrors1
+UFacsNoNeutralError
+UFacsNoRootFaceJoint1
+UFacsOnlyNeutralError
 UFacsRootFaceJointExtraCharsError1
 UFacsRootFaceJointNotStringError
 UFacsRootFaceJointNoValueError
@@ -38791,7 +38830,6 @@ UHttpRequest
 UHttpResponseProxy
 UHttpTarget
 UHttpTargetHasher
-UHUfTzykmEAC
 Uhungarumlaut
 UI_construct_prompt
 UI_create_method
@@ -38904,6 +38942,7 @@ UITransformedLitFogVSShadowedFSM
 UITransformedVS
 UIViewportFrameCollectFrames
 UIVisibilityAction
+UJointName
 ULinkedScriptLoadData
 ULoadedImage
 ULoadedTexturePack
@@ -38922,6 +38961,7 @@ UMeshSizeWarning
 UMessageAndSenderId
 UMetalnessBadFileFormatError
 UMissingChildInfo
+UMOnMLOaHR
 UMouseDownCaptureInfo
 Umrisslinien
 UmsAddAsyncCounter
@@ -39789,6 +39829,7 @@ UTokenResult
 UTouchStateManager
 UTrackedAllocator
 UTrackEntry
+UTTP68CFvwkUJi
 UTypeError
 UUID_UdriTagTables
 UUID_WMDRMTagTables
@@ -40073,6 +40114,7 @@ VChatSessionHandler
 VChatWindowConfiguration
 VChorusSoundEffect
 VChunkMeshShape
+VCkV5J7GvTu6XuG
 VClearUnusedLuaRefsJob
 VClickDetector
 VClientDataModel
@@ -42027,7 +42069,6 @@ VWXYZ[\]^_`a
 VXmlElement
 VYieldFunctions
 VYieldFunctionState
-VYnowYGUEwmxxR
 VzAz\66DwHH
 VzZ\\N^zbpfPj2l
 W_Key_dn.png
@@ -42801,8 +42842,21 @@ XPEAUFacsEmptyAttributeWarning1
 XPEAUFacsFrameAttrNotStringError1
 XPEAUFacsFrameExtraCharsWarning1
 XPEAUFacsHasFramesNoRootFaceJointError1
+XPEAUFacsIncompletePosesWarning1
 XPEAUFacsInvalidCorrectiveError2
 XPEAUFacsMax3CorrectivesError3
+XPEAUFacsMissingBaseError2
+XPEAUFacsMissingKeyFrameError2
+XPEAUFacsMissingSupportCorrectiveWarning2
+XPEAUFacsMultipleAnimationStackWarning
+XPEAUFacsMultipleRootFaceJoints1
+XPEAUFacsNearNeutralWarning1
+XPEAUFacsNoAnimationStackError
+XPEAUFacsNoAttributesError1
+XPEAUFacsNoJointsErrors1
+XPEAUFacsNoNeutralError
+XPEAUFacsNoRootFaceJoint1
+XPEAUFacsOnlyNeutralError
 XPEAUFacsRootFaceJointExtraCharsError1
 XPEAUFacsRootFaceJointNotStringError
 XPEAUFacsRootFaceJointNoValueError
@@ -42937,6 +42991,7 @@ XW4ScreenOrientation
 XW4Status_e
 XW4TweenStatus
 XW4WebSocketEventType
+XW7D89MHlamPPhf7VaFC0dpn9Enn4INvzaowsFlFR3jSrMSg9EdqOWL2TF
 XwhvcEikuIaqb7nHhEJ
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
 XXXXXXXXXXXXXXXXXXXXXXXXX
@@ -42985,6 +43040,7 @@ YAXW4RegistrationType
 Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
+YehLIz4MCpskY78V3TC2oIg9uz33F
 YffYZefYDNNDCOO
 YHcN4HcF0H
 YieldEvent
