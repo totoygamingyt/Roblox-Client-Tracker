@@ -178,6 +178,7 @@ AcceptedToGameLoadTimeMs
 AcceptGameNotPublicDialog
 AcceptGameNotPublishedDialog
 AcceptMode
+AcceptNewFea
 AcceptNewFeatureDialog
 AcceptPendingUserAgreementIds
 AcceptRichText
@@ -1237,7 +1238,6 @@ Anweisungen
 Anzeigedauer
 Anzeigemodus
 AoBlurUpsampleCS
-AOfUA94zLr0E8AvbTOwaQD0lANjw27NbwFi4TJcRf1oanxQd55bD
 AP4_AtomFactory
 AP4_Dec3Atom
 AP4_HvccAtom
@@ -1425,7 +1425,6 @@ ArtificialLatencyIxpBackendMs
 ArtificialLatencyIxpCacheMs
 ArtificiallyDelayed
 ArtistIntent
-ARXHorUA3P
 Ascii_helper
 AShotOfEsspressoForEveryone
 ASIdentifierChoice
@@ -7099,7 +7098,6 @@ BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
 BD67FE0E20681192B0EC12CE5A0D3C
-BDLhmsLSIpzhiLhcdmUflL9oWLfVjO9EthfpKpJ5
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
 BEA91211E2B410EF351327957B
@@ -8141,7 +8139,6 @@ CDAC09CD62068118083FFBB091BBC13
 CDB707B206811871F972B2A9311C9
 CDDDDDDDDD
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
-Cdk9tq7iHRktiTyoqDYu
 CDNProbefff
 Cdotaccent
 CE583B11E29A3DBD856014A660
@@ -9523,7 +9520,6 @@ CMS_verify
 CMS3DESwrap
 CMSRC2wrap
 CMSUploadAccessoryMeshPartFormat2
-CMxo82pyBQGe
 Cnd_broadcast
 Cnd_destroy_in_situ
 Cnd_do_broadcast_at_thread_exit
@@ -12954,6 +12950,7 @@ DocumentSizeChanged
 DocumentSymbol
 DocViewCodeBackground
 DoesNotExist
+DoesNotHaveReadPermissionForPackage
 DOFDownSampleAndComputeFarCoCHorizontal4xFS
 DOFDownSampleAndMaskFarFieldColorHorizontal2xFS
 DOFDownSampleAndMaskNearFieldColorHorizontal2xFS
@@ -13663,6 +13660,7 @@ EFixLayeredCLothingExporter
 EFrontVector
 Egravesmall
 EHERE\EfEpEzE
+Ei0fdLJR8KT2K98GbyH
 Eigenschaften
 Eigenschaftendatei
 Eigenschafteninfo
@@ -14163,6 +14161,7 @@ ErrorWindow
 ErrOutOfRetries
 Erscheinungsbild
 Erstelldatum
+ErtLBMfLvZl
 Erweiterte
 Escritorio
 ESDescriptor
@@ -15277,7 +15276,9 @@ FixVehicleSeat
 FixWriteCombinedMemoryReadWrite2
 FixYieldingThreadExpirationTime
 FJFTF^FhFrF
+FjRPGiJOsJ
 FKKKKKKKKKKKKKKKKKKKK
+FKLZeO7TyKZIWyinRK5B4C3nAYZzbg0bBAcWiAVNM
 FlagCaptured
 FlagCreated
 FlagCursor.png
@@ -15780,7 +15781,6 @@ FXCompositingFS
 FXCompositingLinearFS
 FXComposition
 FXHcFLH9FX
-FzvVcTRTQzGyMeE2QfqQWAJN
 GainControl
 GainController2
 GainMakeup
@@ -17282,6 +17282,7 @@ Grundeinstellungen
 Gruppenteile
 Gruppierung
 GSSolverActive
+GStudio.App.Tooltip.Variadic
 Gt8\UPhZD9
 GTFiEnDdCJB
 GTInfluxDB
@@ -17466,7 +17467,6 @@ HBAODepthDownFS
 HbaoRenderCompute
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
 Hcircumflex
-HCJlldx1AtKPkYMtMOwRj3yMtiZFUpv2Dh
 HdAvailables
 HDCacheLock
 Head_OuterCage
@@ -17604,6 +17604,7 @@ HintChanged
 Hintergrundfarbe
 HintForColumn
 HintForRow
+HIoob6EVkx
 HipHeightClamp
 Historique
 HistoryActivated
@@ -17708,7 +17709,6 @@ HPEAVVideoStream
 HPEAXHPEANNH
 HPEBVQMimeData
 HQEAPEAVQGraphicsItem
-Hr2IvbKtHwyt0mndmJFwtqz
 HSRAssetId
 HSRClusterImprovement
 HSRClusterSymmetryDistancePercent
@@ -18264,6 +18264,7 @@ IID_IVPVBIConfig
 IID_IVPVBINotify
 IID_IVPVBIObject
 IInspectableGUI
+IJkHfS9Pcr0ZI49O6yMBxK0
 IKCollisionsMode
 IkControlBetaFeature
 IkControlBetaFeatureRoleSet
@@ -18271,6 +18272,7 @@ IkControlBetaFeatureRolloutPercent
 IkControlBetaFeatureUrl
 IkControlEnabled
 IKControlType
+IkControlVersion1
 IkDragCollisionsMode
 IkDraggerAnchorMode
 IkDraggerSolveIterations
@@ -18599,6 +18601,7 @@ InGameChatHandler.ashx
 InGameGlobalGuiInset
 InGameMenu
 InGameMenuState
+InGameMenuStateStorageKey
 InGetDevCapsW
 InGetNumDevs
 Ingrandisce
@@ -19264,7 +19267,6 @@ IsVisibleDM
 IsVoiceEnabledForUserIdAsync
 IsWatchingScriptLine
 IsWebLaunch
-IsZ3CJnxkE6i5ljCDIuC
 Italic.ttf
 ITALIC_ANGLE
 ItalicAngle
@@ -19583,6 +19585,7 @@ KickClientOnCoreGuiRenderOverflow
 KiDszBCYB0gyp03Pc
 KillPtClicked
 Kinematics
+KjDAm4MxbIL7LZYJPBKVeZDrGW77EYA6dpQH0mSpUSvgBEKIt
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
@@ -19616,7 +19619,6 @@ KPEBDPEBDH
 Kugelverbindung
 Kundendienst.
 Kundensupport.
-KxcwdoGVOyOvfquo1WiT2FxO8OiVW1
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 L^N6LfN6LlN6LdN6Ly
 LA_SHAPE_MAX
@@ -20439,6 +20441,7 @@ LSPAutocompleteMenu
 LSPFileSyncService
 LSPWarning
 LSRegExErrorHundredthsPercentage
+Lt0tT4UVeyKQjIU7lT
 LTAnalyticsDontMoveName
 LUA_ERRRUN
 LUA_ERRSYNTAX
@@ -20673,7 +20676,6 @@ LuobuWhitelistedField
 LvNZJjLvNZJjLvNZJjLvNZJ
 LvNZJjLvNZJjLvNZJjLvNZJ4H
 LVvuOx39]O
-LZ2Blr3k6MECqDeTsqSfS5JTREiopGzIaWNUBthR1
 M_NVWeakObjectRef
 MacGamepadUseGCController
 MachineAddress
@@ -21551,7 +21553,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA
+MIICCgKCAgEA4MxSCas9Vl1XWDByNiAFu1wu9
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21966,7 +21968,6 @@ Mtx_destroy_in_situ
 Mtx_init_in_situ
 Mtx_trylock
 Mtx_unlock
-MtYM8ckETWFuGmFWOq7SJn6KeKoLM7U6A0udnHeN5HFlRQLZ1XKfsQ7Q77Ehd2
 Mu\tbs_rSq
 MULE_BASELINE_OFFSET
 MULE_RELATIVE_COMPOSE
@@ -22450,6 +22451,7 @@ NFDN2644ExplicitlyConstructCrashReporterInStartup
 NfPfRpPtL.T6VJZ
 NfXf`fhfzf
 NH_NHHVStringView
+Nh91oHuLKRupU4uwE7yOKEu1
 NHVVariant
 NinjaMask.mesh
 NLSF_mu_Q20
@@ -23412,6 +23414,7 @@ PackageCopiesHaveNested
 PackageCopiesNotOnLatest
 Packaged_state
 PackageDecorators
+PackageEditPopupHide
 PackageErrorCode
 PackageGuid
 PackageHash
@@ -23797,7 +23800,6 @@ PaysageDroite
 PaysageGauche
 Pb4bTfXz4r^
 PBKDF2PARAM
-Pc7GLKO1qr8XkMkYbPWyIOv6J3spayT
 PCDeviceWithResolution
 PCertReqData
 PCertResTBS
@@ -28679,6 +28681,8 @@ RigidBodyLazyUpdating
 RigidConstraint
 RigidConstraintAction
 RigidityEnabled
+RigidShoeTest
+RigidShoeTestKey
 RigImporter
 Rimuovendo
 Ripristina
@@ -28686,6 +28690,7 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
+RJJdb51Tf4tsukZpmR8OLp0oFARmnd9gikjr9HTD65wKGoYm8Tisq
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -29089,7 +29094,6 @@ RV_CODEC_ID_VP9_ENCODER
 RvCodecStep
 RVERROR_EOF
 RvFlvFormat
-RvG8XkCAwEAAQ
 RVideoFormatTrace
 RVideoInternal
 RVideoMemLogging
@@ -29104,10 +29108,12 @@ RVMEDIA_TYPE_VIDEO
 RvMp4Format
 RvScaleFixResize2
 RvWebmFormat
+RwcYhs33Cw5bFJu6IPgR2EFzrZ
 RxIgnoredBytes
 RxIgnoredPackets
 RxQueueSize
 RxRlReport
+RYAwaEjH2ebZnXRFIVVmHA9JCcv5rMJ6C8kE3DgFDG6kH2kLJYrS
 S_Key_dn.png
 SA_KPEAPEBVfacet
 SA_NAEBVConnection
@@ -30645,6 +30651,14 @@ SHMaxNumberOfBinsPowerOf2
 SHNewComputeLevelFatLayerThickness
 SHNewComputeLevelFixedScaleFactor
 SHNewComputeLevelNonFixedScaleFactor
+ShoeAnkleWeight
+ShoeHeightMax
+ShoeHeightMin
+ShoeLeg0Weight
+ShoeLeg1Weight
+ShoeToeLengthMax
+ShoeToeLengthMin
+ShoeToeShaping
 ShortcutChanged
 ShortcutContext
 ShortcutData
@@ -35481,7 +35495,6 @@ Studio.App.TemplatesPage.AllTemplates
 Studio.App.Theme.InvalidGetThemeApi
 Studio.App.ToastNotificationService.NotAvailable
 Studio.App.Tooltip.GoToSource
-Studio.App.Tooltip.Variadic
 Studio.App.TwoStepVerificationPage.Enter6DigitCode
 Studio.App.TwoStepVerificationPage.NeedHelpContact
 Studio.App.TwoStepVerificationPage.RobloxSupport
@@ -36618,7 +36631,6 @@ SUWATAUAVH
 SUWATAUAWH
 SUWATAVAWH
 SUWAUAVAWH
-Sv13P1kmVGe7iglbUUkZckXTXtuGML3tfdBGHLGnY
 SVATAUAVAWH
 SVGLuaIcons
 SVWATAUAVAW
@@ -36858,6 +36870,7 @@ TCSavedPlaceHashMatch
 TCSavedPlaceHashMismatch
 TcStallingDuration
 Td8fThPj6lTnVp
+TDSsveGqufNaANWVxID7xpgKxacUZhwFeHu61iCeITLnr1Pxm
 TeachingCallouts
 TeamChatWindowAction
 TeamChildOrderExposedTelemetry
@@ -41246,6 +41259,7 @@ VoiceChatRemovedFromSession
 VoiceChatRenderMode
 VoiceChatRetryJoinAttempts
 VoiceChatRetryJoinStepMilliSeconds
+VoiceChatRollOffMaxD
 VoiceChatRollOffMaxDistance
 VoiceChatRollOffMinDistance
 VoiceChatRollOffMode
@@ -42497,7 +42511,6 @@ WmfAudioDecoder
 WmfAudioEncoder
 WmfVideoDecoder
 WmfVideoEncoder
-Wmtu1CGZJVNUUSNCmj72TZM4MFnIYgCMC3gkwM0mO4lJR
 Wmvcore.dll
 WoodPlanks
 WoodPlanksName
@@ -42935,9 +42948,10 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
+YnKFaZ4zDnJr1Qp4NvuVhpf5oSTTqyBs6o6rAI7CU5b
 YResolution
-YtthJpJEoLVfcBZPr3Fm3hKDHL6KNuQMrrfCbV
 YwBBvY55YvBBwY5
+YYjaZLEmQfD1cLKX59Pmm6bGcjlYMPdXMJQiskgXDwFJc0F76XGMCAwEAAQ
 YYYYYYYYYYYYYYYYYYYYYYYYY
 YYYYYYYYzzzzzzzzzzzzzzzzzz
 Z_KPEBDPEBDH
@@ -42967,6 +42981,7 @@ ZPEAVPluginMouse
 ZPu4fE9Z`u
 ZRZZZbZt[.[
 Zusammenfassung
+ZuYNGspYLmOUMenYgle7PJG7kJD1amWACTnlrne5QNJqC24iO97YGyJtr8dGNF
 ZVLocalTouchedSignal
 ZVspecial_equipped_signal
 ZVTouchedSignal
