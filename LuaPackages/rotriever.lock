@@ -43,7 +43,7 @@ dependencies = [
     "LuaSocialLibrariesDeps LuaSocialLibrariesDeps ca882fd1 git+https://github.com/roblox/lua-social-libraries-deps#master",
     "LuauPolyfill LuauPolyfill 0.4.2 url+https://github.com/roblox/luau-polyfill",
     "Lumberyak roblox/lumberyak e6abd03f git+https://github.com/roblox/lumberyak#master",
-    "NetworkingVirtualEvents NetworkingVirtualEvents 0.9.1 url+https://github.com/roblox/lua-app-networking",
+    "NetworkingVirtualEvents NetworkingVirtualEvents 1.1.0 url+https://github.com/roblox/lua-app-networking",
     "Otter Otter 0.1.4 url+https://github.com/roblox/otter",
     "PolicyProvider roblox/lua-roact-policy-provider 045503a9 git+https://github.com/roblox/lua-roact-policy-provider#master",
     "PremiumUpsellDeps PremiumUpsellDeps 6aa73b7f git+https://github.com/roblox/premium-upsell-deps#master",
@@ -69,7 +69,7 @@ dependencies = [
     "Thumbnailing Thumbnailing 2b3e64e5 git+https://github.com/roblox/thumbnailing#main",
     "UIBlox UIBlox 847ee0bf git+https://github.com/roblox/uiblox#master",
     "UrlBuilder roblox/url-builder bc1f8629 git+https://github.com/roblox/url-builder#master",
-    "VerifiedBadges VerifiedBadges 0.7.7 url+https://github.com/roblox/lua-verified-badges",
+    "VerifiedBadges VerifiedBadges 0.8.1 url+https://github.com/roblox/lua-verified-badges",
     "VirtualizedList VirtualizedListProxy 915d43f2 git+https://github.com/roblox/virtualized-list-upgrade#0.4.0",
     "VirtualizedListUpgradeFlag VirtualizedListUpgradeFlag 915d43f2 git+https://github.com/roblox/virtualized-list-upgrade#0.4.0",
     "enumerate enumerate 1.1.0 url+https://github.com/roblox/enumerate",
@@ -737,10 +737,10 @@ source = "url+https://github.com/roblox/networking-users"
 
 [[package]]
 name = "NetworkingVirtualEvents"
-version = "0.9.1"
-commit = "df7865a7e3b914c63eb109ae1468a1c320cf3d86"
+version = "1.1.0"
+commit = "ded51c834815e70588a58754f2fe06cb639c0218"
 source = "url+https://github.com/roblox/lua-app-networking"
-dependencies = ["Util Util 0.9.1 url+https://github.com/roblox/lua-app-networking"]
+dependencies = ["Util Util 1.1.0 url+https://github.com/roblox/lua-app-networking"]
 
 [[package]]
 name = "Otter"
@@ -1417,8 +1417,8 @@ source = "url+https://github.com/roblox/lua-app-networking"
 
 [[package]]
 name = "Util"
-version = "0.9.1"
-commit = "df7865a7e3b914c63eb109ae1468a1c320cf3d86"
+version = "1.1.0"
+commit = "ded51c834815e70588a58754f2fe06cb639c0218"
 source = "url+https://github.com/roblox/lua-app-networking"
 
 [[package]]
@@ -1429,8 +1429,8 @@ source = "url+https://github.com/roblox/lua-app-networking"
 
 [[package]]
 name = "VerifiedBadges"
-version = "0.7.7"
-commit = "202f07a8d016f7e146a03cf3e41b695e455a8966"
+version = "0.8.1"
+commit = "7d71babc537d7fda7c4c730a217d54de20c2f164"
 source = "url+https://github.com/roblox/lua-verified-badges"
 dependencies = [
     "Cryo Cryo 1.0.1 url+https://github.com/roblox/cryo",

@@ -4203,7 +4203,6 @@ AVGradientEditorAdapter
 AVGradientEditorCanvas
 AVGrantAssetPermissionToUniverseVerb
 AVGraphicsMetrics
-AvgRcvdSignalRSubscriptionsInitiated2PostSubscriptionsCompleteMs
 AvgReadTimePerItem
 AVGridListener
 AvgRoughness
@@ -7172,6 +7171,7 @@ BFE701C11E3B075CBAD925AA50F
 BFF90CBF11EB9CD4979655F24EDD
 BFFA0CBF11EB9CD4979655F24EDD
 BFJMPSVX[]_acegiklnpqstvwyz
+BGetPlayers
 BgRefreshes
 BgUpdateRedirectsDisable
 BgUpdateRedirectsHttpErrInfluxHundredthsPercentage
@@ -7179,7 +7179,6 @@ BgUpdateRedirectsRejectInfluxHundredthsPercentage
 BHBpBJXcdFg
 BHHHHHHHHHHHHHHHHHHHHHHHHHH
 BhHlLjJTiIfdnczsxX
-BHyobCQNux6IVgJEpndYEsI
 Bibliotheksausweises
 Bidirectional
 BIIIIIIIIIIIIIIIIIIIIIIIIII
@@ -7323,7 +7322,9 @@ BlueValues
 BlurAxisXYZScratch
 BlurEffect
 BlurRadius
+BM95lqUmT6rO6BcWl2doyWr0
 BMaterialServiceImprovedSignal2
+BMc4PnrsV9qpYarVkTQY0o5E13hE8OXPtrD5Autct
 BN_BLINDING_convert_ex
 BN_BLINDING_create_param
 BN_BLINDING_invert_ex
@@ -8210,7 +8211,6 @@ CFF056DD11E2898E9FB8E4A9E79B
 CFF156DD11E2898E9FB8E4A9E79B
 CFF456DD11E2898E9FB8E4A9E79B
 CFF556DD11E2898E9FB8E4A9E79B
-CfqA6CTbhzbpRTFB4q38h5ULCG1r4rioF1rzCEyNn5ei0YJp
 CFrame.new
 CFrameOnly
 CFramePose
@@ -11133,7 +11133,6 @@ Cylindrical
 CylindricalConstraint
 CylindricalConstraintAction
 Cylindrique
-CyqGMWfrYEQ
 D_Key_dn.png
 D`v\F^r\D`
 DA88D6583A11E29A3DBD856014A660
@@ -11618,6 +11617,7 @@ Debugger.Step
 Debugger.Watch
 DebuggerAdded
 DebuggerBreakpoint
+DebuggerBreakpointsInScripts
 DebuggerClient
 DebuggerClientManager
 DebuggerClientView
@@ -13546,6 +13546,7 @@ ECPKParameters_print_fp
 ECPrivateKey
 ECPublicKey
 Ecrypto\bn\bn_prime.c
+EcXlX0sMXdCa5zDwFjqAH3OlFcCAwEAAQ
 ED23AAF011E38B9D871882A8E559
 ED24AAF011E38B9D871882A8E559
 ED27AAF011E38B9D871882A8E559
@@ -14863,7 +14864,6 @@ Fehlersuche
 FEHLERSUCHE
 Fehlgeschlagen
 Fenstermodus
-FePYSlGpjLtxXdE47VN57FQWBiD0p89k1Os7pj9Rmd19S0AsVT1XOMOd
 Ferramenta
 Ferramentas
 FetchAndLoadSettingsFromCdn
@@ -15387,6 +15387,7 @@ FMODReportDeviceInfo
 FmodSoftwareChannels
 FMODSoundChannels
 FmodStealingBehavior
+FO13mzDbmx8CtDT1FTr7tw9XmZ5vml008EF64mYzYKvPdChNU
 FocusChanged
 FocusConnection
 FocusDistance
@@ -16971,6 +16972,7 @@ Giocabilit
 GivenByTargetSpeedKBps
 GizmoRaycast
 GizmoScaleAction
+GKcZ1JvFetgwn4sU
 GL_ARB_copy_image
 GL_ARB_half_float_vertex
 GL_ARB_pixel_buffer_object
@@ -16991,7 +16993,6 @@ GL_VERSION
 GlacierName
 GlassTintFS
 GLContextDetailsEvent
-GLgbY9bsH686GdzhOX54qyuGqIQR6yMG97hNIL
 GLModuleType
 GlobalAdvancedSettings
 GlobalAdvancedSettingsItem
@@ -17278,7 +17279,10 @@ GroupUnderModel
 Grundeinstellungen
 Gruppenteile
 Gruppierung
+GS1Fhgy0yR4036dMhAyaMuJrF3AzP1vjNaP7ebzF5Zr4ZTQNMgairad3ofnVO4Ce
+GSob0yuTGoOcpwZYvyBROgH2vdP4OVjvTa8bTH0c0Re
 GSSolverActive
+Gt8\UPhZD9
 GTFiEnDdCJB
 GTInfluxDB
 GuestFriendCheckFailImmediate
@@ -17919,7 +17923,6 @@ HttpRbxApiMaxThrottledQueueSize
 HttpRbxApiRequestsPerMinutePerPlayerInServerLimit
 HttpRbxApiRequestsPerMinuteServerLimit
 HttpRbxApiService
-HttpRbxApiServiceDevelopWhitelistedOnAllBuilds
 HttpRbxApiServiceReportStatusToDiag
 HttpRbxApiSyncRetryWaitTimeMSec
 HttpReportReqBodySize
@@ -19375,7 +19378,6 @@ JdiV2Processed
 JdiV2ProcessedPerFrame
 Jdiv2RecvDuringJoin
 JDJNJXJbJlJvJ
-JG6Tn4UY7VXe2lKHnLgrJe17540voq130MNoPgbXCKkBcrDdQlX1p7nj6rWd7R
 JHJRJ\JfJpJxJ
 JHW4MembershipType
 JIIIIIIIKI
@@ -19477,6 +19479,7 @@ JsonFormat
 JSONObject
 JSONOverflowAbort
 JSONOverflowDepth
+JTTrWh1Jmv3CytBa
 JUAssetData
 Jugabilidad
 JUGroupRolesRequestRecord
@@ -19611,6 +19614,7 @@ Kopplungsbeschr
 Korrodiertes
 KPEAVICHull
 KPEBDPEBDH
+Ksuik2QEsZzoeHsEB1giOs
 Kugelverbindung
 Kundendienst.
 Kundensupport.
@@ -20427,6 +20431,7 @@ LowQMaterialDetiledNewFS_
 LowQMaterialFS_
 LowQMaterialWangFallbackFS
 LowQMaterialWangFS
+Lq9pHfNdLfE2wpmXa9gXl1X3pcH
 LRakRecvToAppPop
 LSCReplacer
 LSCReplacerLog
@@ -21547,7 +21552,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAwU0Mf7hqond4pEJeUjJC
+MIICCgKCAgEAuJ3C9a85vNuaceRV6SqTSX0MeyvCpAELyuwPCzwmL2EBAAfKhsmH
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -22266,7 +22271,6 @@ NetworkOwnershipRule
 NetworkOwnershipUnitAdded
 NetworkOwnershipUnitRemoving
 NetworkOwnerV3
-NetworkPacketSplitCountOverThreshold
 NetworkPacketsReceive
 NetworkPacketsReceive]
 NetworkPausedEnabledChanged
@@ -22709,6 +22713,7 @@ NW4PenStyle
 NW4UserInputType
 Oacutesmall
 OAEPEncryptionSET
+OaSKtEgsQ9fTVN50YzMPg7g
 OAuth2Config.json
 OAuth2ConfigFileParser
 OAuth2ConfigFileParser]
@@ -23202,6 +23207,7 @@ OriginalDocumentID
 OriginalExportedApplication
 OriginalPosition
 OriginalResponseCdn
+OriginalScriptGuid
 OriginalSize
 Originalteile
 Orizzontale
@@ -23791,7 +23797,6 @@ PaysageCapteur
 PaysageDroite
 PaysageGauche
 Pb4bTfXz4r^
-PbfokqKBOqd7NpJEBq0efVQuOrO8BQI7IkoO0aMbGjdtVTG7tjW37MCAwEAAQ
 PBKDF2PARAM
 PCDeviceWithResolution
 PCertReqData
@@ -25976,9 +25981,7 @@ Prozentsatz
 PSPECIFIED
 Psychadelic
 Psychedelic
-PT1L7JDmNfghu4QXEKn1LrVor
 PtdL9w`t^L9whtXH
-PTM8yP8ZGKnnhI
 PTransportChannel
 Pu7fA9r`u0fA9rpu
 Pubblicato
@@ -26028,11 +26031,11 @@ PublishProtocolMethodResponse
 PublishScriptSources
 PublishSelectionToRobloxVerb
 PublishService
+PublishStart2RcvdSignalRPublishingInitiatedMs
 PublishThenTurnOnTeamCreate
 PublishToDifferentGame
 PublishToRobloxAsVerb
 PublishToRobloxVerb
-PUDUmm0zBdVy
 PURCHASE_ROBUX
 PurchaseBundlePrompted
 PurchaseDate
@@ -27675,6 +27678,7 @@ RemoveEntryValue
 RemoveErroredTexturesOnImport
 RemoveExtraRoundScreenScale
 RemoveFromQueueAtModCheckStart
+RemoveGANetwork
 RemoveGlobalPointsField
 RemoveGlobalPointsTag
 RemoveIceCandidates
@@ -28681,7 +28685,6 @@ Ripristinato
 Ripristino
 Risoluzione
 Rj0isQcnqX
-Rm6JeOvrTgpOWuqwOSxTzLSYp
 ROBLOSECURITY
 Roblox.Hybrid
 Roblox.Hybrid.Bridge.emitEvent
@@ -28907,7 +28910,6 @@ RRReceiptFail
 RRReceiptTotal
 RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 RRRRRRRRzzzzzzzzzzzzzzzzzz
-Rrw2OKAwx2cBwtsLIAW1E1Osreuj
 RSA_check_key
 RSA_check_key_ex
 RSA_meth_dup
@@ -29474,6 +29476,10 @@ ScriptPrint
 ScriptProfiler
 ScriptProfilerActiveRegions
 ScriptProfilerAutoSleep
+ScriptProfilerBetaFeature
+ScriptProfilerBetaFeatureRoleSet
+ScriptProfilerBetaFeatureRolloutPercent
+ScriptProfilerBetaFeatureUrl
 ScriptProfilerCategories
 ScriptProfilerDumpJSON
 ScriptProfilerEnabled
@@ -31050,6 +31056,7 @@ Sky.SkyboxFt
 Sky.SkyboxLf
 Sky.SkyboxRt
 Sky.SkyboxUp
+SkY3k1b7huqjSD8ZLVh5SHP
 SkylightRGBA
 SkyLinearFS
 SkyVertex2
@@ -31337,7 +31344,6 @@ Spieloptionen
 Spielzugriffsberechtigungen
 SpikeCount
 SpinBoxChanged
-SPkDnjKrZEw84f9XWLrYS
 SplineEditor
 SplineEditorAdapter
 SplineEditorCanvas
@@ -32232,6 +32238,8 @@ Studio.App.BetaFeatures.ScriptEditorHoverTitle
 Studio.App.BetaFeatures.ScriptEditorLintDescription
 Studio.App.BetaFeatures.ScriptEditorLintTitle
 Studio.App.BetaFeatures.ScriptEditorTitle
+Studio.App.BetaFeatures.ScriptProfilerDescription
+Studio.App.BetaFeatures.ScriptProfilerTitle
 Studio.App.BetaFeatures.SelectFeaturesToActivate
 Studio.App.BetaFeatures.SetInstanceDefaultsWindowDescription
 Studio.App.BetaFeatures.SetInstanceDefaultsWindowTitle
@@ -36216,6 +36224,7 @@ StudioRecentActionCacheSize
 StudioReEnableNetworkProxy_Dev
 StudioRemoveCancelRequest
 StudioRemoveQtAnglePlatformEnvVar
+StudioRemoveRestrictedMachineValidateUtil
 StudioRemoveShareWithRobloxFriends
 StudioRemoveStudioSettingsGoogleAnalyticsOnStart
 StudioRemoveTcPermissionsText
@@ -36698,6 +36707,7 @@ SystemTimeToFileTime
 SystemTotalMemory
 SystemUtil
 SystemUtil]
+SZ6rKoZIOS9
 T_gridOff_old.png
 T_gridToOne_old.png
 T_gridToOneFifth_old.png
@@ -36927,7 +36937,6 @@ TelemetrySID
 TelemetryThrottleHundredthPercent
 TelephoneNumber
 TeleportAsync
-TeleportAsyncEnabled
 TeleportAsyncGroup
 TeleportAsyncReservedServerCode
 TeleportAsyncReservedServerDirect
@@ -36944,7 +36953,6 @@ Teleported
 TeleportedIn
 TeleportEmptySpawnLocation
 TeleportErrorDebugInfluxHundredthsPercentage
-TeleportErrorDebugInfluxLogs
 TeleportErrorDebugUniverseIds
 TeleportErrorDebugUserIds
 TeleportErrors
@@ -36968,9 +36976,7 @@ TeleportGameNotFound
 TeleportGui
 TeleportGuid
 TeleportHandledHttpStatusCode
-TeleportHttpStatusCodeCounter
 TeleportHttpStatusToPlaceLauncherStateMap
-TeleportHttpWebErrorCounter
 Teleportieren
 Teleporting
 TeleportInitFailed
@@ -36979,9 +36985,7 @@ TeleportInitFailedInternal
 TeleportInitFailedStudio
 TeleportInProgress
 TeleportInvocation
-TeleportInvocationEventIngest
 TeleportInvocationsInfluxHundredthsPercentage
-TeleportInvocationsLogging2
 TeleportInvoked
 TeleportIsTeleporting
 TeleportMethod
@@ -36998,7 +37002,6 @@ TeleportPartyExpirationMillisecond
 TeleportPlaceLauncherStateCount
 TeleportPlaceLauncherStateMapParseFailure
 TeleportPollinInterval
-TeleportPreviousUniverseId
 TeleportPrivateServer
 TeleportPrivateServerAccessGrantFailed
 TeleportPrivateServerAccessGrantSucceeded
@@ -37018,7 +37021,6 @@ TeleportSuccess
 TeleportSuccessEvent
 TeleportThreadImpl
 TeleportToInstance
-TeleportToInstanceGameFullFix
 TeleportToPlace
 TeleportToPlaceInstance
 TeleportToPlaceInstance_
@@ -38848,8 +38850,8 @@ UIVisibilityAction
 ULinkedScriptLoadData
 ULoadedImage
 ULoadedTexturePack
+UlObCu0nLA5
 ULuaCallbacks
-UM0kXWTv41Gg7wCKxm28NziFC
 UMasteringMetadata
 UMaterialIgnoredWarning
 UMaterialVariantCallback
@@ -41175,6 +41177,7 @@ VoiceChatFailToGetTurnAuthInfo
 VoiceChatFixJoinRetry
 VoiceChatFixWorkerThreadName
 VoiceChatFmodToWebrtcMinBufferMs
+VoiceChatGet
 VoiceChatGetUsers2SubscriptionsStartMs
 VoiceChatGracefulSubscriptionFailure
 VoiceChatHttpResultBodyEmptyTelemetry
@@ -41836,7 +41839,6 @@ VTranslatorInstance
 VTreeWidgetDelegate
 VTremoloSoundEffect
 VTriangleMeshPart
-VTSGXJIP1zC
 VTweenBase
 VTweenInfo
 VTweenService
@@ -42017,7 +42019,6 @@ WaitToBeginFrame
 WakeAllConditionVariable
 WakeByAddressSingle
 WakeConditionVariable
-WAkojCby01jo0YUDloqm8lTt0JfU1Hq7acergf
 WalkAngleError
 WalkAnimation
 WalkDirection
@@ -42704,12 +42705,14 @@ XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XHW4Status_e
+XIkQ1yg9oMKWGeTID7j87xqQHIqMJ6qU1
 XInputGetBatteryInformation
 XInputGetCapabilities
 XInputGetState
 XInputSetState
 Xinvalid_argument
 Xlength_error
+XmhKV0uYWGSp6
 Xout_of_range
 XP6AXAEBVQString
 XP6AXPEAVContentProvider
@@ -42840,7 +42843,6 @@ XVMockMarketplaceApiClient
 XVPlaceSessionPluginWidgetsView
 XVPlayerConfigurer
 XVPluginLoader
-XvPYfTBEb43y5i56xBvjlOImqzxitrVyrJLL
 XVQJsonArray
 XVRecordToggleVerb
 XVReplicator
@@ -42884,7 +42886,6 @@ XW4WebSocketEventType
 XwhvcEikuIaqb7nHhEJ
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
 XXXXXXXXXXXXXXXXXXXXXXXXX
-XYwol6W9jsZNne86jtCthsXu
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
 XZP8GuiObject
@@ -42954,6 +42955,7 @@ ZeroTargetSpeedStartTimeCountToTotalCount
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
+ZKyQthqgAvOVboHcUJ9ZLk4A1PD4Cbm45MWyHRq
 ZNjlXiODrHUcaGRYt
 ZntaLkerGlryCnmrArbeHbarAcrySaahTaveDgneBuruGrjuGayrOlmaTuleTadnKmylMhniSiahTooaLtbiTrmyMroeGgnaHihtErehCsnaCmagOrnuRrmhKgnoMariHanaKopoBinaHiiiYlatIhtoGtrsDhniZglgTonaHdhuBbgaTbmiLelaTbniLragUwahSamsOtrpCiarBiguBtpoCulaTgalGgnfTolySoepXrahKilaBxusXxnhPgahPoo
 ZoomActive
@@ -42965,6 +42967,7 @@ ZP6AX1PEAX
 ZPEAVPluginMouse
 ZPu4fE9Z`u
 ZRZZZbZt[.[
+ZtVxImrv8cySJPqquqIxhu3gjnWK
 Zusammenfassung
 ZVLocalTouchedSignal
 ZVspecial_equipped_signal
