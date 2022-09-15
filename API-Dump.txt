@@ -1239,6 +1239,7 @@ Class FacialAnimationRecordingService : Instance [NotCreatable] [Service] [NotRe
 	Function string FacialAnimationRecordingService:CheckOrRequestCameraPermission() {RobloxScriptSecurity} [Yields]
 	Function bool FacialAnimationRecordingService:IsAgeRestricted() {RobloxScriptSecurity}
 Class FacialAnimationStreamingService : Instance [NotCreatable] [Service]
+	Property Enum.FacialAnimationFlags FacialAnimationStreamingService.EnableFlags {RobloxScriptSecurity} [Hidden]
 	Property bool FacialAnimationStreamingService.Enabled {RobloxScriptSecurity} [Hidden]
 Class Feature : Instance [NotCreatable]
 	Property Enum.NormalId Feature.FaceId
@@ -5446,6 +5447,11 @@ Enum EnviromentalPhysicsThrottle
 Enum ExplosionType
 	EnumItem ExplosionType.NoCraters : 0
 	EnumItem ExplosionType.Craters : 1
+Enum FacialAnimationFlags
+	EnumItem FacialAnimationFlags.None : 0
+	EnumItem FacialAnimationFlags.Place : 1
+	EnumItem FacialAnimationFlags.Server : 2
+	EnumItem FacialAnimationFlags.PlaceServer : 3
 Enum FieldOfViewMode
 	EnumItem FieldOfViewMode.Vertical : 0
 	EnumItem FieldOfViewMode.Diagonal : 1

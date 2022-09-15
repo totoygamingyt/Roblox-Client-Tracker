@@ -23473,6 +23473,27 @@
                 {
                     "Category": "State",
                     "MemberType": "Property",
+                    "Name": "EnableFlags",
+                    "Security": {
+                        "Read": "RobloxScriptSecurity",
+                        "Write": "RobloxScriptSecurity"
+                    },
+                    "Serialization": {
+                        "CanLoad": false,
+                        "CanSave": false
+                    },
+                    "Tags": [
+                        "Hidden"
+                    ],
+                    "ThreadSafety": "ReadSafe",
+                    "ValueType": {
+                        "Category": "Enum",
+                        "Name": "FacialAnimationFlags"
+                    }
+                },
+                {
+                    "Category": "State",
+                    "MemberType": "Property",
                     "Name": "Enabled",
                     "Security": {
                         "Read": "RobloxScriptSecurity",
@@ -92881,6 +92902,27 @@
                 }
             ],
             "Name": "ExplosionType"
+        },
+        {
+            "Items": [
+                {
+                    "Name": "None",
+                    "Value": 0
+                },
+                {
+                    "Name": "Place",
+                    "Value": 1
+                },
+                {
+                    "Name": "Server",
+                    "Value": 2
+                },
+                {
+                    "Name": "PlaceServer",
+                    "Value": 3
+                }
+            ],
+            "Name": "FacialAnimationFlags"
         },
         {
             "Items": [
