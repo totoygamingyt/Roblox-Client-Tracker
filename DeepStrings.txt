@@ -7110,7 +7110,6 @@ BCFB4807B1F11E4A86BBBBE005A3BAD
 BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
-Bcl8tpHKvzzNoFObtCdMHXDLmLSXv
 BCryptGenRandom
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
@@ -7412,7 +7411,6 @@ BootcampCLI57494
 BootcampCLI57498
 BootcampCLI57567
 BootcampCLI58289
-BootcampCLI58426
 BootcampCLI58696
 BootcampCLI58761
 Bootstrapper
@@ -7711,6 +7709,7 @@ ButtonStart
 ButtonStyle
 ButtonsUpdated
 ButtonText
+BUXAcjQkOq6Y
 BuyDeveloperProduct
 BuyDeveloperProduct_AutoAccepted
 BVBinaryString
@@ -8154,6 +8153,7 @@ CDAC09CD62068118083FFBB091BBC13
 CDB707B206811871F972B2A9311C9
 CDDDDDDDDD
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+CdjtvrS0iooHA8EYYXYPp2yzaj2BVYQ14zEk
 CDNProbefff
 Cdotaccent
 CE583B11E29A3DBD856014A660
@@ -8219,6 +8219,7 @@ CertSequence
 CF44BCFD011E7A825A924D6937B0F
 CF44CCFD011E7A825A924D6937B0F
 CF583B11E29A3DBD856014A660
+Cf8OTCoC1nTOwYvMI
 CFB42AF5B120681192B0FA7C02778D61
 CFF056DD11E2898E9FB8E4A9E79B
 CFF156DD11E2898E9FB8E4A9E79B
@@ -8228,7 +8229,6 @@ CFrame.new
 CFrameOnly
 CFramePose
 CFrameValue
-CGMp6fnB18zo11Lu3rVfdTBDoGXJaiYj3yZL38zpqjRYIpwU4YhgpqZZtLK2oHo
 ChainCAFile
 ChainCAPath
 Chalkboard
@@ -10412,7 +10412,7 @@ CountShifted
 CountSkinned
 CountTimeout
 CountWidth
-COutlineSelection
+COutlineSelection1
 Covariance
 CoverageRef
 CpuArchitecture
@@ -11035,6 +11035,7 @@ CurrentNumPacketsWaitingForDeserialize
 CurrentNumPacketsWaitingForProcessing
 CurrentPage
 CurrentPageIndex
+CurrentPhysicalProperties
 CurrentPid
 CurrentPosition
 CurrentReplicatorCapacity
@@ -13064,7 +13065,6 @@ DownTemplate.png
 DPERF_BeginEvent
 DPERF_EndEvent
 DPERF_GetStatus
-DPky7u0PUvH8L4a12Ayj8ItxVOZRMLB8lcqUl4ZCN1eXMwOWbHC8zlnDOIqnRy
 DPOLY1305_ASM
 Dqlqlqlqlql
 DraftAdded
@@ -13677,7 +13677,6 @@ EffectorTranslationConstraint
 Effettuare
 EFixLayeredCLothingExporter
 EFrontVector
-EgpDrxuGieKYVa0nJInhPWdGkL
 Egravesmall
 EHERE\EfEpEzE
 Eigenschaften
@@ -14123,6 +14122,7 @@ EnvironmentSpecularScale.
 Environnement
 EnviroSpeed
 EnvMapUpdate
+EnvmWZEDL2jdRw6D90KfOhejdiEq2ZyzUHqOohOHIu800cNzLVWfHpU0Y4D2YTpa
 EnvTexture
 EnvTextureInProgress
 EoOoZoaozo
@@ -15437,7 +15437,6 @@ FMODReportDeviceInfo
 FmodSoftwareChannels
 FMODSoundChannels
 FmodStealingBehavior
-FMZIfIj1TZKo3WczyLrNnpC
 FocusChanged
 FocusConnection
 FocusDistance
@@ -17117,7 +17116,6 @@ GoToScriptLocation
 GoToSourceCodeTB
 GotoTargetsRequest
 GoToVersionFailed
-Gpgub7bDi4SF7AfRlsmf5AuZNcCckhzIGBFRr5SIhPeudbWmAFcQbD
 GpuVariance
 GrabCursor.png
 GrabRotateCursor
@@ -17331,7 +17329,6 @@ Grundeinstellungen
 Gruppenteile
 Gruppierung
 GSSolverActive
-Gt8\UPhZD9
 GTFiEnDdCJB
 GTInfluxDB
 GuestFriendCheckFailImmediate
@@ -17693,11 +17690,11 @@ HlsAdaptionLogic
 HlsFixSlowNetworkCrash
 HlsIgnoreDeprecatedRbxTags
 HMACGostR3411
+Hn3OkUfydTopFFRBr
 HoldDuration
 Holzbretter
 HomeDataModel
 HomePageLoaded
-HoMG1kmg5vRTnP2ZWcnjmJy08CAwEAAQ
 HopperPanel.png
 Horizontal
 HorizontalAlignment
@@ -18312,6 +18309,7 @@ IID_IVPVBIConfig
 IID_IVPVBINotify
 IID_IVPVBIObject
 IInspectableGUI
+IJibbeDGAqtuxVVftKfwicj6Wq6JYJeY9rnlctWo
 IKCollisionsMode
 IkControlBetaFeature
 IkControlBetaFeatureRoleSet
@@ -19432,10 +19430,10 @@ JHW4MembershipType
 JIIIIIIIKI
 JitterBufferDelayInterface
 JitterBufferDelayProxyWithInternal
+JJ7BEVB4vJeWoNsCplP
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
-JLGUaAoEzIUSn3etbMkZcoKcdPWhEkLP7
 JMeshLODDetails
 JobTimerDuringInitialExperience
 Jogabilidade
@@ -19516,6 +19514,7 @@ JPEAUICoreWebView2Controller
 JPEAUICoreWebView2CookieList
 JPEAUICoreWebView2Environment
 JPEBUSG_INDEX_TRIANGLE
+JpqyuhZbokCnKT4ZsZ4eFH1DbsxlabDDvGR
 JSElementNotFound
 JsepTransport
 JsepTransportController
@@ -19633,6 +19632,7 @@ KickClientOnCoreGuiRenderOverflow
 KiDszBCYB0gyp03Pc
 KillPtClicked
 Kinematics
+KiPV0JMabNfPQH6tZzHK
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
@@ -21606,7 +21606,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEA0jh
+MIICCgKCAgEAvnF8LT1ZkqLdKA0Ub8B83Q5xkqXuhsfaTuTET
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21680,6 +21680,7 @@ MMMMMMMMMMMMMMMM^^^^^^^^^^^^^^^^^^^^
 MMW4IkDragCollisionsMode
 MMW4MaterialType
 MMW4UserInputState
+MNiSm6VS0CAwEAAQ
 MobileHapticsToggle
 MobileWebsite
 Mobiltelefone
@@ -22090,6 +22091,7 @@ MVTerrainHeightMapBlendMin
 MVTerrainHeightMapBlendScale
 MVTerrainRotationParam
 MW4MaterialType
+MWUo5xzVVg2DHmu2t7oFVyMV
 MyModelsAction
 MyUniverses
 MyWatchTreeWidget
@@ -22503,6 +22505,7 @@ NfAddReport
 NFDN2644ExplicitlyConstructCrashReporterInStartup
 NfPfRpPtL.T6VJZ
 NfXf`fhfzf
+NG5Kdx3B8Zttdr6bDQYlI31z5JEfL5SBh4SSN3D
 NH_NHHVStringView
 NHVVariant
 NinjaMask.mesh
@@ -22685,7 +22688,6 @@ NSNNNNNWNSNN_NSNSNSNNNNSNWN`N^^N
 NSNNNNNWNWNNN^^N
 NSNNNNNWNZP[\
 Ntildesmall
-NTJCqOFpDUdKfGO5WM09wBUOU0f0IgG
 NullAudioPoller
 NullDeviceGuid
 NullNodeSettingsError
@@ -23813,6 +23815,7 @@ PathfindingOffMeshLinkCodeCleanup
 PathfindingPerf
 PathfindingService
 PathfindingStatsPerRequest
+PathIfMissing
 PathImplTiming
 PathLengthConstraint
 PathMemoryUsed
@@ -24789,6 +24792,7 @@ Personnaliser...
 PerThreadTimer
 PerThreadTimerTotal
 Pesquisar...
+PGr0wRGsvKVTDEcavmv66KInYWx
 PGSAlign2AxesCorrectionDamping
 PGSAlign2AxesPStageFrictionConstant
 PGSAlign2AxesVStageFrictionConstant
@@ -24826,7 +24830,6 @@ PGSVStageStiffnessEasingDownToConservative
 PGSVStageStiffnessEasingUpToAggressive
 PGSVStageStiffnessWorseFitnessThreshold
 PGWYcapabilities
-Pgx18rzG5ravK37Ll6xPOYDEuKwAdPYh
 PgYlhgtIfaRB
 PGZKl8y6RXadfJMffKMAgK
 PhaseBroadPhase
@@ -25874,6 +25877,7 @@ Progressive
 ProgressReporting
 ProgressUpdate
 ProjectConfigFileName
+ProjectCreateIfMissing
 ProjectFile
 ProjectFilesSupportPlaceId2
 ProjectFolder
@@ -25976,6 +25980,7 @@ PropertyStatus
 PropertyStatusStudio
 PropertyValue
 PropertyValueQColor
+PropertyWidgetPhysicalProperties
 Propiedades
 Propiedades...
 Propietario
@@ -26155,7 +26160,6 @@ QDataStream
 QDebuggerClient
 QDesktopServices
 QDesktopWidget
-Qdfg3PpLbLJ9ZOwUE1IKuVF1yNzffD
 QDialogButtonBox
 QDirIterator
 QDockWidget
@@ -26633,6 +26637,7 @@ QJsonDocument
 QJsonObject
 QJsonValue
 QJsonValueRef
+QKCwrMifk3WPaC9oOQtj9S1YjUb3636EhNvIQraTk
 QKeySequence
 QLabel[iconLabel
 QLabel[iconLabelText
@@ -26896,6 +26901,7 @@ QuotaNotEnoughMemoryDeletionTooSlowCount
 QuotaNotEnoughMemoryFirstLowCount
 QuotedDouble
 QUrlTwoFlags
+Qv0CI3anePLfitNE5
 QValidator
 QVariantAnimation
 QVBoxLayout
@@ -28900,6 +28906,7 @@ RollOffMinDistance
 RollOffMode
 RolloffScale
 RollSpeedFactor
+RolNOzElRWxXjxiykXBuL
 RoMaintenance
 RomanAntique
 RomanAntique.json
@@ -29251,7 +29258,6 @@ SaveBuildAndReloadDebuggablePluginVerb
 SaveButtonClicked
 SaveChangesButtonPressed
 SaveConflictButton
-SaveDialog.FileDetected
 SaveDialogAlways
 SaveDialogYes
 SavedQualityLevel
@@ -29924,6 +29930,11 @@ SelectionGained
 SelectionGroup
 SelectionGroupIntersection
 SelectionImageObject
+SelectionImprovements
+SelectionImprovementsBetaFeature
+SelectionImprovementsBetaFeatureRoleSet
+SelectionImprovementsBetaFeatureRolloutPercent
+SelectionImprovementsBetaFeatureUrl
 SelectionLasso
 SelectionLost
 SelectionMode
@@ -31076,7 +31087,6 @@ Singletons
 SingletonTemplate
 SinkBindActivateEvent
 SIO_KEEPALIVE_VALS
-SipsDjl74WCVWZlM2
 SISQSZSsSuS
 SiteMessageBanner
 SixteenCharValue
@@ -31359,6 +31369,7 @@ SourceUniverseId
 SourceValueChanged
 Sovrascrittura
 Sovrascrivi
+SozZvAoiSTAB9d
 SpacerItem
 SparkleColor
 SparklesAction
@@ -32320,6 +32331,8 @@ Studio.App.BetaFeatures.ScriptEditorTitle
 Studio.App.BetaFeatures.ScriptProfilerDescription
 Studio.App.BetaFeatures.ScriptProfilerTitle
 Studio.App.BetaFeatures.SelectFeaturesToActivate
+Studio.App.BetaFeatures.SelectionImprovementsDescription
+Studio.App.BetaFeatures.SelectionImprovementsTitle
 Studio.App.BetaFeatures.SetInstanceDefaultsWindowDescription
 Studio.App.BetaFeatures.SetInstanceDefaultsWindowTitle
 Studio.App.BetaFeatures.SkinnedMeshDescription
@@ -38285,6 +38298,7 @@ ToVideoStream
 TownAndCity
 ToWorldSpace
 TPoseAdjusterDefaultVersion
+TqAUcObHiPI46
 Tracciamento
 TraceMessage
 TracerService
@@ -38961,7 +38975,6 @@ UMeshSizeWarning
 UMessageAndSenderId
 UMetalnessBadFileFormatError
 UMissingChildInfo
-UMOnMLOaHR
 UMouseDownCaptureInfo
 Umrisslinien
 UmsAddAsyncCounter
@@ -39829,8 +39842,8 @@ UTokenResult
 UTouchStateManager
 UTrackedAllocator
 UTrackEntry
-UTTP68CFvwkUJi
 UTypeError
+Uu0OL6sMLT5EPNIBLDBay3g3DzDGFSVYVttQkWTAN
 UUID_UdriTagTables
 UUID_WMDRMTagTables
 UUncaughtExceptionError
@@ -39846,6 +39859,7 @@ UUUUUUUUUUUUU
 UUUUUUUUUUUUUU
 UUUUUUUUUUUUUUUUUU
 UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+Uv8MvC3OjZXHtMhg
 UVariablesResponseBody
 UVariantMessageContents
 UVATAUAVAW
@@ -40114,7 +40128,6 @@ VChatSessionHandler
 VChatWindowConfiguration
 VChorusSoundEffect
 VChunkMeshShape
-VCkV5J7GvTu6XuG
 VClearUnusedLuaRefsJob
 VClickDetector
 VClientDataModel
@@ -42991,7 +43004,6 @@ XW4ScreenOrientation
 XW4Status_e
 XW4TweenStatus
 XW4WebSocketEventType
-XW7D89MHlamPPhf7VaFC0dpn9Enn4INvzaowsFlFR3jSrMSg9EdqOWL2TF
 XwhvcEikuIaqb7nHhEJ
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
 XXXXXXXXXXXXXXXXXXXXXXXXX
@@ -43040,12 +43052,12 @@ YAXW4RegistrationType
 Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
-YehLIz4MCpskY78V3TC2oIg9uz33F
 YffYZefYDNNDCOO
 YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
+YQM4clXtg2Ah8W
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY

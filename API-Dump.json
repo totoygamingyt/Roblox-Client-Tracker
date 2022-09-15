@@ -49085,6 +49085,28 @@
                 {
                     "Category": "Part",
                     "MemberType": "Property",
+                    "Name": "CurrentPhysicalProperties",
+                    "Security": {
+                        "Read": "None",
+                        "Write": "None"
+                    },
+                    "Serialization": {
+                        "CanLoad": false,
+                        "CanSave": false
+                    },
+                    "Tags": [
+                        "ReadOnly",
+                        "NotReplicated"
+                    ],
+                    "ThreadSafety": "ReadSafe",
+                    "ValueType": {
+                        "Category": "DataType",
+                        "Name": "PhysicalProperties"
+                    }
+                },
+                {
+                    "Category": "Part",
+                    "MemberType": "Property",
                     "Name": "CustomPhysicalProperties",
                     "Security": {
                         "Read": "None",

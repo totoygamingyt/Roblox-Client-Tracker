@@ -2603,6 +2603,7 @@ Class BasePart : PVInstance [NotCreatable] [NotBrowsable]
 	Property Vector3 BasePart.Velocity [Hidden] [Deprecated]
 	Property bool BasePart.Anchored
 	Property Vector3 BasePart.CenterOfMass [ReadOnly]
+	Property PhysicalProperties BasePart.CurrentPhysicalProperties [ReadOnly]
 	Property PhysicalProperties BasePart.CustomPhysicalProperties
 	Property float BasePart.Elasticity [<📁> LoadOnly] [Hidden] [NotReplicated] [Deprecated]
 	Property float BasePart.Friction [<📁> LoadOnly] [Hidden] [NotReplicated] [Deprecated]
