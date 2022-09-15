@@ -11009,8 +11009,8 @@ rtc::RefCountedObject<class webrtc::`anonymous namespace'::CreateSessionDescript
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::IdWithDirection>
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::TypedId>
 rtc::RefCountedObject<class webrtc::`anonymous namespace'::TypedIntId>
-rtc::RefCountedObject<class webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0x413c0741::NotAdvertised<struct webrtc::AudioDecoderL16> > >
-rtc::RefCountedObject<class webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x6b09f477::NotAdvertised<struct webrtc::AudioEncoderL16> > >
+rtc::RefCountedObject<class webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0xbdb41efb::NotAdvertised<struct webrtc::AudioDecoderL16> > >
+rtc::RefCountedObject<class webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x9781edcd::NotAdvertised<struct webrtc::AudioEncoderL16> > >
 rtc::RefCountedObject<class webrtc::AudioDeviceModuleImpl>
 rtc::RefCountedObject<class webrtc::AudioMixerImpl>
 rtc::RefCountedObject<class webrtc::AudioProcessingImpl>
@@ -14402,8 +14402,8 @@ webrtc::AcknowledgedBitrateEstimatorInterface
 webrtc::AdaptiveModeLevelEstimatorAgc
 webrtc::Agc
 webrtc::AsyncResolverFactory
-webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0x413c0741::NotAdvertised<struct webrtc::AudioDecoderL16> >
-webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x6b09f477::NotAdvertised<struct webrtc::AudioEncoderL16> >
+webrtc::audio_decoder_factory_template_impl::AudioDecoderFactoryT<struct webrtc::AudioDecoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioDecoderMultiChannelOpus>,struct webrtc::AudioDecoderIsacFix,struct webrtc::AudioDecoderG722,struct webrtc::AudioDecoderIlbc,struct webrtc::AudioDecoderG711,struct webrtc::A0xbdb41efb::NotAdvertised<struct webrtc::AudioDecoderL16> >
+webrtc::audio_encoder_factory_template_impl::AudioEncoderFactoryT<struct webrtc::AudioEncoderOpus,struct webrtc::`anonymous namespace'::NotAdvertised<struct webrtc::AudioEncoderMultiChannelOpus>,struct webrtc::AudioEncoderIsacFix,struct webrtc::AudioEncoderG722,struct webrtc::AudioEncoderIlbc,struct webrtc::AudioEncoderG711,struct webrtc::A0x9781edcd::NotAdvertised<struct webrtc::AudioEncoderL16> >
 webrtc::AudioBuffer
 webrtc::AudioCodingModule
 webrtc::AudioConverter

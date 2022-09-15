@@ -1565,7 +1565,6 @@ AssetManager.rbxm
 AssetManager.rbxm_assetManagerToolbar
 AssetManager.rbxm_assetManagerToolbar_assetManagerToolButton
 AssetManagerDockAction
-AssetManagerDragAndDrop
 AssetManagerEnableModelAssets
 AssetManagerGeneralizeSignalAPI
 AssetManagerService
@@ -1616,6 +1615,7 @@ AstExprVarargs
 AstStatFor
 AstStatFunction
 AstTypePack
+AStudio.App.RBXMainWindow.InsertObjectsWidgetMenu
 AsusROG71OSD.dll
 AsusStrixOSD.dll
 AsusU7MKIIOSD.dll
@@ -5285,6 +5285,7 @@ AVQDockWidget
 AVQDomElement
 AVQDoubleSpinBox
 AVQDoubleValidator
+AVqec4nqzHXB1rJD4
 AVQException
 AVQFileDialog
 AVQFontDialog
@@ -7111,6 +7112,7 @@ BCFB4817B1F11E4A86BBBBE005A3BAD
 BCFB4827B1F11E4A86BBBBE005A3BAD
 BCIDistributionTBS
 BCryptGenRandom
+BcVQgyX89XQ5zL9urvfpjbBn2jARTmG7Aqv7Xg
 BD67FE0E20681192B0EC12CE5A0D3C
 BE20681180838E23F0DC6224
 BE42889BE20681180838E23F0DC6224
@@ -7459,6 +7461,7 @@ BoxClicked
 BoxHandleAdornment
 BoxMappedMeshLODFix_v2
 BoxSelectCommand
+BPE9Studio.App.Tooltip.Variadic
 BPEAUIUnknown
 BPQVYB6_F3P
 BPu_fD9B`uXfD9BpuQ
@@ -7709,7 +7712,7 @@ ButtonStart
 ButtonStyle
 ButtonsUpdated
 ButtonText
-BUXAcjQkOq6Y
+Buw6kJPPOfmArTZkEMM
 BuyDeveloperProduct
 BuyDeveloperProduct_AutoAccepted
 BVBinaryString
@@ -8153,7 +8156,6 @@ CDAC09CD62068118083FFBB091BBC13
 CDB707B206811871F972B2A9311C9
 CDDDDDDDDD
 CDEFGHIJSTUVWXYZcdefghijstuvwxyz
-CdjtvrS0iooHA8EYYXYPp2yzaj2BVYQ14zEk
 CDNProbefff
 Cdotaccent
 CE583B11E29A3DBD856014A660
@@ -8219,7 +8221,6 @@ CertSequence
 CF44BCFD011E7A825A924D6937B0F
 CF44CCFD011E7A825A924D6937B0F
 CF583B11E29A3DBD856014A660
-Cf8OTCoC1nTOwYvMI
 CFB42AF5B120681192B0FA7C02778D61
 CFF056DD11E2898E9FB8E4A9E79B
 CFF156DD11E2898E9FB8E4A9E79B
@@ -8427,6 +8428,7 @@ Checkpoints
 CheckpointsWithDebounce
 CheckPVCachedRotVelThresholdPercent
 CheckPVCachedVelThresholdPercent
+CheckPVDifferencesForInterpolatio
 CheckPVDifferencesForInterpolationMinRotVelThresholdRadsPerSecHundredth
 CheckPVDifferencesForInterpolationMinVelThresholdStudsPerSecHundredth
 CheckPVLinearVelocityIntegrateVsDeltaPositionThresholdPercent
@@ -10415,6 +10417,7 @@ CountWidth
 COutlineSelection1
 Covariance
 CoverageRef
+CPsljOZN1R
 CpuArchitecture
 CpuKernelTime
 CPULogicalCore
@@ -14122,7 +14125,6 @@ EnvironmentSpecularScale.
 Environnement
 EnviroSpeed
 EnvMapUpdate
-EnvmWZEDL2jdRw6D90KfOhejdiEq2ZyzUHqOohOHIu800cNzLVWfHpU0Y4D2YTpa
 EnvTexture
 EnvTextureInProgress
 EoOoZoaozo
@@ -17005,6 +17007,7 @@ GfxClusters]
 GfxClustersFull
 GfxClustersFull]
 GfxPartInvalidationBudgetMs
+GG1rClN7L6JbpM5WopAGnxZsLI2FtnbgGv
 GGGGGGGGGG
 GGGGGGGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGG
@@ -17690,7 +17693,7 @@ HlsAdaptionLogic
 HlsFixSlowNetworkCrash
 HlsIgnoreDeprecatedRbxTags
 HMACGostR3411
-Hn3OkUfydTopFFRBr
+HMxq8QC56bbquTJUghA5J9z4CSD2tWJDDo7MSJt3pxSCKLU6mvoPO4ab
 HoldDuration
 Holzbretter
 HomeDataModel
@@ -18309,7 +18312,6 @@ IID_IVPVBIConfig
 IID_IVPVBINotify
 IID_IVPVBIObject
 IInspectableGUI
-IJibbeDGAqtuxVVftKfwicj6Wq6JYJeY9rnlctWo
 IKCollisionsMode
 IkControlBetaFeature
 IkControlBetaFeatureRoleSet
@@ -19013,6 +19015,7 @@ InterpolationMinAssemblyCount
 InterpolationNumParallelTasks
 InterpolationThrottling
 InterpolationThrottlingMode
+InterpolationVisualizer
 Interpolator
 Interrompe
 Interromper
@@ -19142,6 +19145,7 @@ IPTypeAndDataCenter
 IPublishedGamesStore
 IPV6_V6ONLY
 IPv6Default
+IqGLrBwHvzAesCUkpMCAwEAAQ
 IRestartController
 IRobloxDoc
 IRobloxDocManager
@@ -19414,6 +19418,7 @@ JasmineUPC
 JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
+JBDULGdVSd3hcFfjGJNpCPlyYVqEUTVLL0kGLLYyrifz
 Jcircumflex
 JdiDeserializerConfigPerDC
 JdiDeserializerConfigUserIdPer100
@@ -19430,7 +19435,6 @@ JHW4MembershipType
 JIIIIIIIKI
 JitterBufferDelayInterface
 JitterBufferDelayProxyWithInternal
-JJ7BEVB4vJeWoNsCplP
 JJJBBB\\\xx
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 JKLMNOPQRSTU
@@ -19514,7 +19518,6 @@ JPEAUICoreWebView2Controller
 JPEAUICoreWebView2CookieList
 JPEAUICoreWebView2Environment
 JPEBUSG_INDEX_TRIANGLE
-JpqyuhZbokCnKT4ZsZ4eFH1DbsxlabDDvGR
 JSElementNotFound
 JsepTransport
 JsepTransportController
@@ -19632,7 +19635,6 @@ KickClientOnCoreGuiRenderOverflow
 KiDszBCYB0gyp03Pc
 KillPtClicked
 Kinematics
-KiPV0JMabNfPQH6tZzHK
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
@@ -20058,6 +20060,7 @@ ListWidgetScrollingPastBottom
 LiveCoding
 Livellamento
 LivingRoom
+LKofVR5cfxYY2
 LLEo6Soxvx2
 LLLLLLLLLLLL
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
@@ -20621,6 +20624,7 @@ LuaStepIntervalMsOverrideEnabled
 LuaToolVerb
 LuauAutocompleteCheckTimeoutMs
 LuauAutocompleteDynamicLimits
+LuauBetterThreadMark
 LuauBinaryNeedsExpectedTypesToo
 LuauBuiltInMetatableNoBadSynthetic
 LuauCallUnifyPackTails
@@ -21606,7 +21610,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAvnF8LT1ZkqLdKA0Ub8B83Q5xkqXuhsfaTuTET
+MIICCgKCAgEAvQHXxRJ0eRd9M0K3LOlOrcZ0NFTP
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -21680,7 +21684,6 @@ MMMMMMMMMMMMMMMM^^^^^^^^^^^^^^^^^^^^
 MMW4IkDragCollisionsMode
 MMW4MaterialType
 MMW4UserInputState
-MNiSm6VS0CAwEAAQ
 MobileHapticsToggle
 MobileWebsite
 Mobiltelefone
@@ -21988,10 +21991,12 @@ MPEAUCachedContent
 MPEAVAdorn
 MPEBUTimestepArbiterContext
 MPHARevertHeadCollision2
+MPServiceBundleUrlRolloutV2
+MPServiceBundleUrlV2
 MPServiceDevProductUrlRolloutV2
 MPServiceDevProductUrlV2
-MPServiceGamepassUrlRolloutV2
-MPServiceGamepassUrlV2
+MPServiceGamepassUrlRolloutV3
+MPServiceGamepassUrlV3
 MpsRateLimit
 MpsRateLimitCapacity
 MpsRateLimitDuration
@@ -22091,7 +22096,6 @@ MVTerrainHeightMapBlendMin
 MVTerrainHeightMapBlendScale
 MVTerrainRotationParam
 MW4MaterialType
-MWUo5xzVVg2DHmu2t7oFVyMV
 MyModelsAction
 MyUniverses
 MyWatchTreeWidget
@@ -22410,8 +22414,6 @@ NewDevConsoleMaxGraphCount
 NewDevConsoleMaxHttpCount
 NewDevConsoleMaxLogCount
 NewDraftAdded
-NewEconomyBalanceUrl
-NewEconomyDeveloperProductUrl
 NewEyebrowEyelashAccessoryTypes
 NewFeatureAlert.qml
 NewFeatureAlert_
@@ -22505,7 +22507,6 @@ NfAddReport
 NFDN2644ExplicitlyConstructCrashReporterInStartup
 NfPfRpPtL.T6VJZ
 NfXf`fhfzf
-NG5Kdx3B8Zttdr6bDQYlI31z5JEfL5SBh4SSN3D
 NH_NHHVStringView
 NHVVariant
 NinjaMask.mesh
@@ -22885,6 +22886,7 @@ OCSPResponse
 OCSPSigning
 OCTETSTRING
 Odieresissmall
+OEsRglqu1IQFQnHog3VBKiMjIPEajMSe0WsV
 OfA9HPuHfA9H`uAfA9Hpu
 OfAdmissions
 OfApproval
@@ -22899,6 +22901,7 @@ OfCompressedBytes
 OfCreation
 OfDelivery
 OfE9E0uHfE9E
+OFedaBD8lVMy60oTYORhd
 OfficeStyle
 OffMeshConnections
 OffscreenData
@@ -24792,7 +24795,6 @@ Personnaliser...
 PerThreadTimer
 PerThreadTimerTotal
 Pesquisar...
-PGr0wRGsvKVTDEcavmv66KInYWx
 PGSAlign2AxesCorrectionDamping
 PGSAlign2AxesPStageFrictionConstant
 PGSAlign2AxesVStageFrictionConstant
@@ -25585,6 +25587,7 @@ PostSimulation
 PostThreadMessageA
 PostThreadMessageW
 PotentialShadowCasters
+PoVr16rgqufTQKnneYsu8spW1Na
 POWRPROF.dll
 PpjCapacity
 PpjClientBreak
@@ -26139,8 +26142,10 @@ QAbstractTextDocumentLayout
 QActionEvent
 QActionGroup
 QActionTriggered
+QADLjq0r6Z9gTA2qmnGi86axFpG
 QAnimationGroup
 QApplication
+QArcTr737AvtM3EQieJw8s6eKhNzcpVo
 QArrayData
 QAssociativeIterableImpl
 QAWNcgRdAzOKj8pi5wAlnsdoumgAtB1J7d
@@ -26637,7 +26642,6 @@ QJsonDocument
 QJsonObject
 QJsonValue
 QJsonValueRef
-QKCwrMifk3WPaC9oOQtj9S1YjUb3636EhNvIQraTk
 QKeySequence
 QLabel[iconLabel
 QLabel[iconLabelText
@@ -26901,7 +26905,6 @@ QuotaNotEnoughMemoryDeletionTooSlowCount
 QuotaNotEnoughMemoryFirstLowCount
 QuotedDouble
 QUrlTwoFlags
-Qv0CI3anePLfitNE5
 QValidator
 QVariantAnimation
 QVBoxLayout
@@ -28906,7 +28909,6 @@ RollOffMinDistance
 RollOffMode
 RolloffScale
 RollSpeedFactor
-RolNOzElRWxXjxiykXBuL
 RoMaintenance
 RomanAntique
 RomanAntique.json
@@ -29172,6 +29174,7 @@ RVMEDIA_TYPE_UNKNOWN
 RVMEDIA_TYPE_VIDEO
 RvMp4Format
 RvScaleFixResize2
+RVSKqg77H6vwCFe6L
 RvWebmFormat
 RxIgnoredBytes
 RxIgnoredPackets
@@ -31127,7 +31130,6 @@ SkipDisconnectCleanupWhenStreamingObserverCapacityMismatch
 SkipReadDiskCacheRedirects
 SkipReadDiskCacheRedirectsHundrethsPercentage
 SkipSingePartAssemblyUpdate
-SkipToFrontEndOfLines
 Skriptaktionen
 Skriptanalyse
 Skriptausf
@@ -31369,7 +31371,6 @@ SourceUniverseId
 SourceValueChanged
 Sovrascrittura
 Sovrascrivi
-SozZvAoiSTAB9d
 SpacerItem
 SparkleColor
 SparklesAction
@@ -35572,7 +35573,6 @@ Studio.App.TemplatesPage.AllTemplates
 Studio.App.Theme.InvalidGetThemeApi
 Studio.App.ToastNotificationService.NotAvailable
 Studio.App.Tooltip.GoToSource
-Studio.App.Tooltip.Variadic
 Studio.App.TwoStepVerificationPage.Enter6DigitCode
 Studio.App.TwoStepVerificationPage.NeedHelpContact
 Studio.App.TwoStepVerificationPage.RobloxSupport
@@ -36802,6 +36802,7 @@ SystemTimeToFileTime
 SystemTotalMemory
 SystemUtil
 SystemUtil]
+SzeyUEMsbCN
 T_gridOff_old.png
 T_gridToOne_old.png
 T_gridToOneFifth_old.png
@@ -38078,6 +38079,7 @@ ToolboxEnableAnnouncementsDialog
 ToolboxEnableAudioGrantDialog
 ToolboxFixAssetsNoVoteData2
 ToolboxFixMissingCategories
+ToolboxFixSubcategoryScrolling
 ToolboxFixTryInStudio
 ToolboxGrantUniverseAudioPermissionsTimeoutInMS
 ToolboxHomeViewInitialPageSize
@@ -38298,7 +38300,6 @@ ToVideoStream
 TownAndCity
 ToWorldSpace
 TPoseAdjusterDefaultVersion
-TqAUcObHiPI46
 Tracciamento
 TraceMessage
 TracerService
@@ -38514,6 +38515,7 @@ Tutoriales
 TutorialId
 TVijpW8m8aLsreZebWfEl5y9RFS7x6WZ555Z6MtZy
 TVNetworkName
+Tw2vyR6zdz850SfeRw5K6MMEv6zNxzcCULNhYnWbtreN
 TweenEasingDirection
 TweenEasingStyle
 TweenInfo.new
@@ -39843,7 +39845,6 @@ UTouchStateManager
 UTrackedAllocator
 UTrackEntry
 UTypeError
-Uu0OL6sMLT5EPNIBLDBay3g3DzDGFSVYVttQkWTAN
 UUID_UdriTagTables
 UUID_WMDRMTagTables
 UUncaughtExceptionError
@@ -39859,7 +39860,6 @@ UUUUUUUUUUUUU
 UUUUUUUUUUUUUU
 UUUUUUUUUUUUUUUUUU
 UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
-Uv8MvC3OjZXHtMhg
 UVariablesResponseBody
 UVariantMessageContents
 UVATAUAVAW
@@ -41160,6 +41160,7 @@ VLuaSourceContainer
 VLuaStatsItem
 VLuauScriptAnalyzerService
 VLuaWebService
+VlzRHXyOEe4UsZkb1Da9176IrmwDmmUAovHtIn5
 VManageCollaboratorsAction
 VManualGlue
 VManualSurfaceJointInstance
@@ -42821,6 +42822,7 @@ XInputGetState
 XInputSetState
 Xinvalid_argument
 Xlength_error
+XobiJiTZHGM6wFdEyAQv7
 Xout_of_range
 XP6AXAEBVQString
 XP6AXPEAVContentProvider
@@ -43057,7 +43059,6 @@ YHcN4HcF0H
 YieldEvent
 YieldFuncDesc
 YieldFunction
-YQM4clXtg2Ah8W
 YResolution
 YwBBvY55YvBBwY5
 YYYYYYYYYYYYYYYYYYYYYYYYY
@@ -43088,6 +43089,7 @@ ZP6AX1PEAX
 ZPEAVPluginMouse
 ZPu4fE9Z`u
 ZRZZZbZt[.[
+Zs669qkofkldsl28tbsVIv
 Zusammenfassung
 ZVLocalTouchedSignal
 ZVspecial_equipped_signal
