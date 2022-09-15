@@ -41,8 +41,6 @@ local BackpackScript = require(RobloxGui.Modules.BackpackScript)
 local PlayerListMaster = require(RobloxGui.Modules.PlayerList.PlayerListManager)
 local StarterPlayer = game:GetService("StarterPlayer")
 
-local EngineFeatureEnableVRBottomBarWorksBehindObjects = game:GetEngineFeature("EnableVRBottomBarWorksBehindObjects")
-
 -- each individual icon can either be definied as a table entry with icon and onActivate, or as a item component
 local MainMenu =
 {
@@ -222,8 +220,6 @@ function VRBottomBar:render()
 			tilt = 0,
 			anchoring = VRConstants.AnchoringTypes.Head,
 			faceCamera = true,
-			alwaysOnTop = EngineFeatureEnableVRBottomBarWorksBehindObjects and true or nil,
-			parent = EngineFeatureEnableVRBottomBarWorksBehindObjects and GuiService.CoreGuiFolder or nil,
 		},
 	{
 		Roact.createElement(SystemBar, {
